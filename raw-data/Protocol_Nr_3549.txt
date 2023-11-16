@@ -1,0 +1,785 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3549
+        </h1>
+       </div>
+       <a href="?showjk_img=3549" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         B. M.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1909
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         merchant
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. L.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1928
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         seamstress
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. I.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1924
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         hairdresser
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         W. L.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         seamstress
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         H. V.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1922
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         underwear seamstress
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         H. K.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1925
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         hairdresser
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         W. E.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Érsekkéty
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1926
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         hairdresser
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The persons in question represented by Vera Hajdu unanimously have given us the following information: 
+
+We were put into the ghetto on May 10, 1944. After a few days we were assigned to agricultural work where we worked from 3 am to 9 pm, almost without a break. All of a sudden we had to stop working and we were quickly taken into the ghetto. The interrogations started soon. At first the wealthy were taken into the interrogation room in 15 Kossuth Street, later everybody they could think of was dragged there. Dr Miklós Hajdu, the father of the aforementioned Vera Hajdu, was also summoned and almost beaten to death during the interrogations. 
+
+On June 4 we were taken to Nyírjespuszta and lodged in the barn of the tobacco factory.  We suffered a lot from the lack of water; we had to walk six kilometres to get water, therefore washing ourselves was out of the question. The latrine was very badly arranged too. We were entrained on June 10; 60-90 people were crammed into a cattle car.  
+We arrived in Auschwitz on the 14th. After getting through the first selection we were placed into camp B3. There were 800 of us in the beginning, but later the number amounted to 1300. We were lying on the ground without blankets; the very lucky got quilts. Reveille was at 3 am; we had to get ready in seconds. Most of the time we luckily made it, since we wore only a thin dress. Then came the roll call, which lasted  if everything was going well  until 7. Due to the extreme climate of the area, the dawns of even the hottest summer days were cold: we were shivering with cold in our thin dresses; I had a companion whose dress did not even cover one thigh. Of course it was prohibited to tie a kerchief around our bold heads, therefore brain fever was quite common. After roll call we were given our cold morning coffee. Once in a while tea was given, allegedly there was bromide in it. The coffee was brought along in big cauldrons; 800 women were lined up, the room supervisor gave out the food. Six to eight pots were handed around, so five of us drank from one pot. The pots were used for different purposes during the night. We were given lunch at around 8-8:30 pm: it was inedible, bad grass soup with several pieces of broken glass in it. Later the food became somewhat better, but it could be also the case that we got used to it. In the beginning we did not get warm meals for at least three weeks. There was another roll call in the afternoon; that was the time of the biggest heat. Then we got dinner, which consisted of a quarter of a loaf of bread, a spoonful of jam or a piece of margarine. After dinner we lined up in rows of five again to go to bed. Sleeping arrangement was set according to the caste system. The so-called elite occupied the better places. There were always bloody fights for the places, the Blockälteste beat us and the prisoners were screaming.  When men came around to work, there was always a block curfew. We were assigned to perform earthwork; the only good side of it was that we could leave the block, but otherwise it was terrible. We had to do the filthiest work possible: the cleaning of the latrine. We filled up the old latrine and dug a new one. Without a break we loaded 500 buckets onto the cart and if the content spattered into our faces, we wiped it off and kept on working. It was impossible to get water; one time I was beaten up by the Blockälteste when I tried to get some water for two women from Balassagyarmat. 
+The selections started right on the second day. Later the assembling of the transports commenced; they were ordering 500-1200 women and if the number did not add up, they dragged prisoners from the other block. During the selections we had to get naked and we were lined up in front of Dr Mengele, whose momentarily mood decided our fate. Besides, there were daily lice inspections too. 
+Approximately 2000 of us were entrained on August 13. We were provided with food during the four days of travel. We arrived in Ravensbrück; there was no room for us in the block and we spent four days outdoors in the dust. We were given clean clothes after four weeks and we were accommodated in blocks where two prisoners got one bed. In general we were not doing badly, since we received the so-called improved rations, and which was the greatest happiness: each of us got her own bowl. 
+This relatively good life did not last long, since soon we were taken to Schönholz near Berlin. We were working at the aircraft department of the Argus factory in day and night shifts, 12 hours a day. The majority of the foremen were communists and they helped us in every possible ways: they provided us with sweet coffee, margarine, etc. One of the foremen (uncle Péter) sent an apple to me when I was in the hospital, and what is even more, he handed out biscuits on his birthday and two pieces of cake to each of us at Christmas. By contrast, the female overseers were terrible: they were strictly making sure that we did not talk to the foremen. We got proper factory workers garment only in December, until then we were preparing all kinds of clothing for ourselves from the rags given out to clean the machines.  Our Lagerführer came up with cruel punishments, for example putting the prisoners into icy water head first, etc. 
+Around early February the work in the factory stopped due to the lack of material, therefore after then we were assigned to fortification works.  It was a very hard job, especially since we had to walk 10 kilometres to the working place and the same distance back to the camp. We had to march almost barefoot. We worked in thin striped uniforms in the cold winter weather. Our food got frozen. Many died here, two to three dead were carried into the camp from the working place every day; many times 10-15 prisoners fainted. We could barely work by then. 
+
+Around April 16 this work ceased as well and we were preparing to leave. The food supply improved in the blocks: we got sweet bread soup, but all of us got diarrhoea from it. One Friday night we had to line up in ten minutes and we had to leave. Eight hundred of us left, those in the hospital were left behind; but later they were brought after us by car. 
+The next morning we arrived in Oranienburg. By then chaos had prevailed and most of our overseers escaped. They wanted to deport us during the night, but we hid, since we thought that the Germans would shoot us after marching 20 kilometres. We were waiting for the Russian troops there; they arrived on the 23rd.  The next morning we set out into the world. We were reassured that there would be a truck to carry us home in two or three days. On the way we had to beg the soldiers to give us bread. We spent the first night in Wandlitz, then next day we arrived in Bernau. After walking six kilometres, the Russians rounded us up in 
+Pritzel and they made us work for them. The food was quite bad here. We spent almost two months here until finally we could leave for home from Doberlug with a mixed transport. 
+Our future plans: we would like to work undisturbed.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

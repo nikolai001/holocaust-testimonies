@@ -1,0 +1,458 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3648
+        </h1>
+       </div>
+       <a href="?showjk_img=3648" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+As a start, I have to comment that all actions, processes, and negotiations that 
+regard either the times before "Vadász Street" or the emigration, e.g. the 
+letters of protection, the protected houses, etc. were initiated and thought out 
+by the Budapest office (the Palestine Office) of the Jewish Agency and by the 
+Palestine Committee. The key and the condition of the success of these 
+activities was the good rapport that existed between the Swiss Consulate (e.g. 
+the consul) and the Palestine Office. It was the Swiss Consulate, or more 
+precisely, its special department called Delegation of Foreign Interests that 
+represented the interests of both England and the US after they declared war and 
+also the case of emigration to Palestine, that is, the interests of the people 
+who wished to emigrate to Palestine. I have to add right away that as far as 
+circumstances allowed the consulate, especially consul Charles Lutz, did a great 
+work representing these interests. The friendship that evolved through the 
+permanent contact between consul Lutz and the head of the Palestine Office, 
+Miklós Krausz was of great use both concerning these initiations and their 
+successful execution. This friendship let its beneficial influence felt in all 
+activities of Vadász Street. The establishing of the Vadász Street office was in 
+particular the merit of Miklós Krausz, which he  as a Zionist and the 
+representative of Szochnut in Hungary - wanted to use for saving Zionist youth 
+and cháluc figures, that is, people who were so important for the Jewish 
+population and for Palestine.
+Around the end of May, 1944, it became obvious to all of us that the so-called 
+Kasztner-group would not leave the country soon, or if it set off its way would 
+not go through Romania and the destination would not be Palestine. We also 
+understood that this kind of action would not lead to the rescue of great masses 
+of Jews from the clutch of Germans and of the Arrow Cross. We had to find new 
+ways for rescuing Jewish people without delay. Deportations in the country were 
+already going on, and we already had testimonies regarding the dismay of 
+Auschwitz, thanks to a few Polish and Slovakian chalucs who had successfully 
+escaped. Therefore Krauszs proposal regarding the awakening of the public 
+opinion abroad as our most urgent duty was evident. He collected data concerning 
+deportations in Hungary with details of all the misery involved and attached to 
+them to the testimonies regarding Auschwitz. He sent these documents to various 
+Swiss Embassies and had them delivered to the US, to England and to the Pope. He 
+asked these governments to put pressure on the Nazi government to stop this 
+horror and to intervene in the interest of the emigration of the Jews who 
+remained still in Hungary. This was carried to abroad - thanks to consul Lutz  
+by a Swiss courier, and the results followed surprisingly fast. These data and 
+testimonies got to Roosevelt, Churchill, and the Pope as we learnt from Swiss 
+journals sent to us a few weeks later. (Some journals published our material 
+word by word, like the Neue Züricher Zeitung on the deportation from 
+Nyíregyháza.) The three governments commandingly intervened, and this reached 
+the Hungarian government June the 17th. When in the following few weeks 
+negotiations between the Swiss Embassy and the Hungarian government still did 
+not have any result this intervention was forcefully reasserted. (By the great 
+bombings of June and in particular of July.)
+The commanding ultimatum addressing the Hungarian government was mediated by the 
+Swiss government. Consul Lutz received a long dispatch in which his government 
+certified to have received our material and instructed him to personally deliver 
+the aforementioned forceful letter of intervention from the part of the great 
+political powers. Several of us were present when he asked for an urgent 
+audience from the Ministry of Foreign Affairs on the phone. And when the deputy 
+minister asked something we could not hear he forcefully answered: No, Sir, 
+exceptionally it regards not my government. I want to pass on information coming 
+from the American government.
+Consul Lutzs intervention in the Ministry of Foreign Affairs did not meet 
+considerable resistance. There were some people also there who could observe the 
+state of affairs objectively and took forthcoming events into consideration. 
+However, they emphasised that this case did not depend on the Hungarian 
+government but on the Germans.
+But it appeared that similar actions had their effects also in Berlin. A few 
+days later, a new dispatch came from Switzerland in which the Swiss government 
+instructed Lutz to get prepared for the negotiations and start preparing the 
+emigration since German Foreign Ministry in principle had given its consent. 
+Already the day after the Hungarian government invited consul Lutz for an 
+audience. Early in the morning a meeting started in the Ministry of the Interior 
+which lasted until late afternoon, where only the head of the Palestine Office, 
+Miklós Krausz was invited on behalf of the Jews. Almost all ministries together 
+and also the National Central Authority for Controlling Foreigners were 
+represented on this meeting, where the German ambassadors deputy appeared as 
+well. The infamous gendarme Lieutenant Colonel Ferenczy was also invited, 
+probably as a known expert of transports.
+
+The foreign ministers deputy officially confirmed that the German Ministry of 
+Foreign Affairs had approved the emigration of those who had a certificate. 
+Further, he announced the decision of the Hungarian government to halt 
+deportations and labour service conscriptions till the alia was not concluded 
+(till the 31st of August). Later, the number of emigrants and details of their 
+travel were discussed. 
+
+The idea of protected houses - as places where the people who intended to alia 
+could be gathered - was first raised on this meeting. 
+
+The story of "Vadász-Street" started here. We moved into the building in the 
+middle of July. Collective passport and the Schutzpass that resulted from it 
+were made here. Next to the 60-80,000 people saved by having a Schutzpass, this 
+place gave asylum to 2,600 Jews, amongst them great masses of the Zionist youth, 
+who organised and led illegal and underground actions. 
+
+To be loyal to historical truth I also need to mention that among the protected 
+people of Vadász Street there were quite a number of non-Jew leftists together 
+with their numerous relatives. An evening in December, I witnessed how three 
+women blue from the cold asked for asylum at least for a night at the gate 
+claiming to have been relatives of hunted leftists. As several people of the 
+leftist fraction confirmed their identity they were let in and it was only 
+natural that no one asked them later to leave. 
+
+We should not be surprised therefore that the terrorist attempts on the banquet 
+of the Arrow Cross in the city theatre were claimed to have originated from 
+Vadász Street. This was followed by the gendarmes raid the 4th of December at 
+daybreak, which commenced with a long series of shots in the street, and men 
+with the sickle-feather appeared on the roofs. Luckily, the main entrance to the 
+street was well barred so they could not get in. The head of the gendarmes 
+squad started a long debate and negotiation with our leaders  in particular 
+with Artúr Weisz. The commander warned us that he would got the house searched 
+by his own men unless we handed over the terrorists who attacked the City 
+Theatre and all the available weapons. Although we did not know the men they 
+wanted we did know about weapons. We started an endless number of telephone 
+calls calling the Ministry of the Interior, the Ministry of Foreign Affairs, the 
+city military headquarters and other places. Finally, we achieved that around 
+noon the gendarmes temporarily left, but we could not foresee when we would meet 
+them again. Although gendarmes did not return it became obvious that we would 
+not be spared trouble.
+ 
+A sign of this was the visit of two detectives from the so-called National 
+Committee of for Calling to Account one morning in Vadász Street. Their visit 
+regarded again forged Schutzpasses but they were also deeply interested in the 
+huge mass of people accommodated in the building. They did not hide their 
+opinion that the whole building of the Embassy was just a great hiding place, 
+and told us that they were going to give their report directly to the leading 
+brother of the nation and we could hope for great clearing actions against us 
+in the forthcoming days.   
+
+At the same time our agents frequently reported that the Arrow Cross of the 
+Garrison Albrecht was getting prepared for an action against Vadász Street. 
+The first reports were quite fantastic. According to these the project was to 
+lead us into the caves of Pálvölgy and then to kill us with grenades. Later, we 
+heard about only the killing. Hence, it was not a great surprise for our 
+leaders when a squad of the Arrow Cross entered the building shooting around 
+with their machineguns and throwing grenades the 31st of December. This break-in 
+resulted in the death of three and in 17 injuries and it was a fortune that we 
+could save the people drove out of the house to the street of being taken away 
+using our rapports to the city military headquarters and to the police 
+headquarters. This way we particularly upset the Arrow Cross squad and this led 
+to the capture of Artúr Weisz, a heroic figure and comrade, the day after.
+
+After this event, the bandits of the Arrow Cross broke in regularly. It is hard 
+to tell how we could have saved the gathered mass if we had not been liberated 
+January the 18th.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

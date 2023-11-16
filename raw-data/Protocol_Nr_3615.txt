@@ -1,0 +1,647 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3615
+        </h1>
+       </div>
+       <a href="?showjk_img=3615" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         E. E.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         teacher
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+Around the middle of June, 1944, two Slovakian boys escaped from Auschwitz. In 
+Budapest they submitted two protocols, one 24-page-long the other 16, which were 
+the first authentic descriptions of the death camps of Auschwitz and Birkenau. 
+Having transformed these minutes into a single document we translated it into 
+English, German, French and Italian. The local heads of the Somér Hacajir sent 
+them to the Pope, to the Swedish and English kings, to Roosevelt, and to Erec 
+Jiszroel partly through Istanbul, partly through Switzerland. The Hungarian 
+version of the protocol was copied and presented to the Regent, to the members 
+of the government and to some prominent members of the Hungarian political life. 
+Meanwhile, Rezső Kasztner started negotiations with the Germans. He offered to 
+get foreign Jews pay either money or war material for each Jew who was not sent 
+to death camps but were let leave for a neutral country through Germany. (This 
+meant the preparation of the first so-called alia, which resulted in the 
+privileged state of prisoners: 24,000 in Strasshof and 1,750 in Bergen-Belsen.)
+
+Miklós Krausz, who was the secretary of the Palestine Office, and got asylum 
+thanks to his contacts in the Department for Foreign Interests of the Swiss 
+Embassy of Szabadság Square, started negotiations regarding the emigration with 
+Consul Lutz, and using his political relations, also with head of police 
+Batiszfalvy.
+
+The 30th of June, 1944, the group of 1,750 people meant for Bergen-Belsen left. 
+The following day, we started to register the next transports with the guide of 
+Ottó Komoly and Rezső Kasztner in 12 Síp Street. These transports were ready by 
+the 17th of July, but, to be more precise, we did not receive the permission of 
+Eichmanns people. 17th of July, in the evening, Miklós Krausz invited us for a 
+secret council. Others who participated were Ottó Komoly, Rafi, Pill, Albert 
+Geier, Mihály Salamon, Dr. Fábián Herskovits and me. On this meeting Miklós 
+Krausz presented the following:
+The minutes we sent out at the end of June did reach their destination. As a 
+result Roosevelt sent a memorial to the Hungarian government, demanding they 
+made possible the emigration of those Jews who had a valid entry permit. This 
+demand was answered by Prime Minister Sztójay, who agreed to set up an office 
+coordinating the process of emigration as a part of the Swiss Embassy. On the 
+top of that, at the end of June Miklós Krausz managed to make Ferenczy believe 
+what was indeed happening in Auschwitz, and achieved that there would be a 
+meeting organised between Ferenczy, his assistant Lullay, Batiszfalvy, Samu 
+Stern, Károly Wilhelm and Ernő Pető in the flat of Samu Stern. At this meeting 
+they agreed that in case the Regent (as the supreme commander) instructed the 
+gendarmes of the countryside to come to Budapest, these would resist Germans 
+even if they used force to deport the Jews on the 5th of July, which was the 
+agreed date. That is what preceded the opening of the office in Vadász Street on 
+the 24th of July. Consul Lutz requested that the office lay not far from the 
+Swiss Embassy on Szabadság Square. We chose the office of the Weiss company in 
+29 Vadász Street. We made an appeal for this place in agreement with Artur Weiss 
+to the Housing Office of the government. Arthur Weiss asked us to set up the 
+office as soon as possible since the building would have been soon demanded also 
+by his business rivals, and to preserve his dignity towards these rivals he also 
+wanted to obtain a chief position there. Miklós Krausz as the head of the office 
+entrusted him to be the administrative head. The office opened the 24th of July. 
+The first days Ferenczy and Batiszfalvy came to control whether the office 
+functioned according to the intentions of the Hungarian government.
+
+The job of this office was to register everyone who applied for a permission to 
+emigrate to Palestine. Already in the first days, moreover, before the office 
+was opened, we agreed in the emigration of several thousands of Jews scheduled 
+for the first few weeks, who were to be transported in groups of 2,000 in 
+personal vehicles, with collective passports through Romania. Ferency and Krausz 
+singled out the Palatinus-houses in Pozsonyi Road designated as a gathering 
+place for the transports, from where they could collectively depart. These were 
+the seeds of what later became the protected houses.
+
+The office in Vadász Street was clearly a Zionist institution or at least it 
+started like that. We accepted the applications for passport mostly from 
+Zionists. In the beginning of August, the fist collective passport was ready. It 
+had two volumes. We immediately received the Hungarian exit permit and the 
+Romanian transit permit. They did not want to give us the German exit permit 
+though, because it was their goal to concentrate the rest of the Jews in the 
+Western part of Hungary after the first transit left. Nevertheless, the Germans 
+gave the permit in October, which was valid until the 1st of January, 1945.
+
+This was what legally happened in Vadász Street, and it was already heavily 
+criticised by the journals, for example by Déli Magyar Szó" (Southern 
+Hungarian Word), where attention was directed to our activity twice in August. 
+It was however the most important to find a neutral place for illegal activity 
+where there was no chance to be caught. The Embassy was an excellent place for 
+that, which had naturally extraterritorial rights. Evidently, we moved our 
+illegal activity already in the first days to Vadász Street. In part, this was 
+the place where we produced and distributed documents proving Christianity. More 
+importantly, this was the place where we organised illegal emigrations (tijul) 
+into Romania and Czechoslovakia. Our well organised smugglers helped the way of 
+several thousands of people from Szabadság Square to Arad, basically from house 
+to house. I have to note that neither Arthur Weisz nor Miklós Krausz assisted 
+our illegal activities, what is more, it happened also that they banned Rafi, 
+Mimis, Pill and Efra to enter the building of Vadász Street. (Of course, they 
+ignored it.)
+
+There was another important ongoing project in Vadász Street. There were several 
+Zionist comrades kept in internment camps or jails not so much because they were 
+Jews but because of forging documents still in those times when masses of people 
+crossed the borders coming from Slovakia and other lands, and these people 
+needed hiding places. These people were freed using original American letters of 
+protection (which we stole, or rather I stole on Szabadság Square).
+
+This is what preceded 15th October. That morning we listened to Hortys 
+proclamation in Vadász Street. The day after we entered the building knowing we 
+would not leave the place till the rule of the Arrow Cross lasted. The first day 
+there were only 60 of us. The Swiss Embassy, which was the authority above us, 
+declared that officers of the institute together with their families could stay 
+in the building with respect to the urgency of the work to be done. Finally, by 
+the day of the liberation the number of people living in the building raised to 
+2,750.
+
+Jewish houses came to be closed down and people were taken away. As a reaction 
+young Zionists dressed in the uniform of the Arrow Cross started their mission 
+from Vadász Street, and brought back bunches of Jews under the pretext that they 
+were arrested. We were 500 already the third day.
+
+Day by day it was more difficult to put up with the lessening space, the lack of 
+food and to cope with the problems of sanitation. Luckily, International Red 
+Cross was established in Mérleg Street in August, where the head was Ottó 
+Komoly, the administrators were our Zionist comrades, like Efra, the head of 
+finances, who helped us overcome problems of food supply till the time also the 
+office in Vadász Street set up its own financial department and kitchen, and 
+became self-sufficient.
+
+The first attack from the part of the Arrow Cross occurred on the 17th of 
+October. We managed to inform immediately Vice-Consul Steiner, who thwarted the 
+action of the Arrow Cross bandits.
+
+The 20th of October, men between the age of 14 to 60 were taken away, and women 
+were ordered to be called up for the labour service by the 23rd. The indicated 
+place was the sports grounds of the National Centre for High School Sports 
+Clubs. We phrased the text of the Schutzpass that day, we dated them to the 23rd 
+of October, copied them on 16 typewriters by day and night, and started to 
+distribute them to anyone who belonged to the Jewish religion and made an appeal 
+for them. Since there were no signatures on the Schutzpass, we right away forged 
+them. Unfortunately, even among people who found asylum in Vadász Street there 
+were some who sold these stolen Schutzpasses for money.
+
+Since the permission to emigrate was given according to 7,800 certificates the 
+government insisted that only 7,800 people could obtain Schutzpasses. This 
+amount of people received their Schutzpasses basically already the first day, 
+therefore our strategy was to declare that the 7,800 certificates regarded 7,800 
+families, which comprised at least 60,000 people. When the sad march of 
+deportees was set off on the highway to Vienna, we received neither cars nor 
+officers from the Swiss Embassy to follow them and bring them back as the 
+Swedish had done. We bought a car pooling together the money, put a plate 
+indicating diplomatic affiliation on it and our Zionist comrades went to the 
+brick factories and everywhere until the border, Hegyeshalom, from where we had 
+to bring back the people using the documents we had produced. Men were made to 
+march on foot close to Budapest, and we had success in several cases in bringing 
+them back the same way.
+
+The beginning of November they singled out the protected houses. At first, there 
+were so few houses provided for the people protected by the Swiss that not even 
+7,800 people had enough place. Later, we managed to get more houses for this 
+purpose using Ferenczys influence. Altogether we put accommodated around 35-
+40,000 people in the protected houses. Meanwhile the government kept asking for 
+the list of the 7,800, and we were working on it.
+
+Meanwhile the Housing Offices in 14 Szent István Park and 32 Pozsonyi Road were 
+set up. The former was headed by professor Waldapfel, the latter by Márton 
+Hirsch.
+
+Still in the beginning of November, when circumstances in Vadász Street became 
+almost unbearable, Dr. Rezső Mezei decided that the place was not secure enough 
+for him and his family any longer, and wanted to open another subordinate 
+office, and received the permission of the Embassy to do so. Mezei had been an 
+officer of a bank and got into Vadász Street only as a friend of Arthur Weiss. 
+His only merit was that his great loquacity saved the situation when men of the 
+Arrow Cross attacked us the 17th of October. This is why the 15th of November the 
+office in Wekerle Sándor Street opened, where the so-called elite, that is, 
+the capitalists lived in apparent security.
+
+It is part of Mezeis story that he managed to save around 500 people living 
+there. Although the office in Wekerle Sándor Street had no extraterritorial 
+status he succeeded by using money and his suspicious connections.
+
+The 23rd of November, 5o clock in the morning, gendarmes woke us up in Vadász 
+Street. Arthur Weiss, who went through obvious changes under the heavy 
+responsibilities he had, reacted in the most spirited way. I witnessed when he 
+told the head of the gendarmes, a lieutenant, the following: "Youd better clear 
+the house of the gendarmes in three minutes, otherwise unforeseeable 
+consequences would follow this atrocity, since gendarmes seriously offended the 
+rights of extraterritoriality." As a result gendarmes indeed left the house 
+without proceeding with their search for weapons.
+
+After this event the 2,500-2,700 inhabitants of the house in Vadász Street 
+enjoyed relative tranquillity if one disregards the identity checks done by 
+detectives at the gate of the house for days on, or those masses that were 
+arrested by the Arrow Cross, while waiting in front of the house to apply for a 
+Schutzpass. Cellars, attics, and stores were all full of people. As a result 
+sanitation got worse day after day, lice started to spread, therefore we needed 
+to move a part of the people into the neighbouring headquarter of the Hungarian 
+Football Association. We resolved this question by breaking through the wall 
+between the two buildings, blocking the gate of the building of the Football 
+Association opening to Vadász Street, hence, the two buildings looked as if they 
+were one, and the Arrow Cross did never learn who stayed in the building of the 
+Football Association.
+
+Until the 31st of December  although it was not possible to perform work 
+regularly any more  we provided the food supplies of the protected houses from 
+Vadász Street. We set up a hospital in Tátra Street, and we provided it medicine 
+and lint. We were waiting and waiting for the liberation. December the 31st, 
+around 2:30 pm, we heard gunfire from the direction of the courtyard. First we 
+thought this came from airplanes that had machineguns on board but we realise 
+this was untrue when we heard swears against Jews and obscene words coming from 
+the street. As it turned out, 9 young Arrow Cross men broke in through the gates 
+leading to the courtyard. Led by brother Balog they first fired a serious of 
+shots into the cellar which was used as an air-raid shelter, where there were 
+around 1,000 of us in dark. They also threw a grenade into the same cellar, and 
+another one into the courtyard where the latrines were, which were naturally 
+always surrounded by a great number of people. They broke into the house and 
+forced some 1,500 people to get out to the street. They did not find however 
+either the correctly disguised entry of the so-called Somér cellar or the entry 
+of the Mizrahi attic or the entry of the Football Association. During this time 
+Arthur Weisz, having bronchitis lay in bed in the flat of his parents, where he 
+was continuously on the phone, calling Szabadság Square, city military 
+headquarters, the headquarters of the police, and the Ministry of Foreign 
+Affairs. We called the same organisations from the so-called council hall, where 
+the Arrow Cross men entered only at the end. By this time, I already had a 
+document certifying our extraterritorial rights signed by a German commanding 
+general. In the garage of the Glass House there was a guard made up of officer 
+candidates with high school degree who took part in the resistance movement 
+because this was the place where the cars of the Romanian Department of the 
+Swiss Embassy were parked. However, I have to say that neither this guard nor 
+the police patrolling in front of the building hindered the break-in of the 
+Arrow Cross to the slightest extent. We were staying there in the street and 
+knew our way would lead directly into the Danube. Now, Arthur Weisz showed the 
+most remarkable example of courageous behaviour. Although his wife, his son, and 
+his two old parents were also in the street, he did not get frightened even for 
+a second, and while he had a gun pushed against his chest he told them to calm 
+down and forcefully that the building belonged to the Swiss Embassy, and these 
+people were officers and their relatives protected by the Swiss state, and if 
+they treated us like that Hungarian citizens would be treated the same way in 
+Switzerland.
+
+Here I have to stop for a minute to explain that regarding the protected houses 
+we made contacts with two members of the Arrow Cross called Medgyesi and Bodor, 
+furthermore with police chief Tarpataky, who made some concessions to the 
+protected houses in return for bribery. Bodor was in particular benign with us. 
+When he was informed about the atrocity of the Arrow Cross, he came to our place 
+immediately and started walking up and down in front of our lines with an 
+automatic machinegun, ensuring us that nothing bad would happen. In fact, 
+backing arrived and we could return to the house.
+
+The Arrow Cross shooting led to the death of four (Mrs Vilmos Scheiber, Jónás 
+Fenákel, Ármin Schwartz) and seriously injured many.
+
+The next after, around 1:30 pm the well known brother Balog appeared, who 
+showed us at the gate an order, which obliged 29 Vadász Street to hand over food 
+supply for 50 people for three days. Arthur Weisz called Miklós Krausz, who told 
+him to give them the desired goods. We gave them 50 loaves, 35 cans, and 7 
+bottles of wine. I was standing at the gate, Balog remained outside, and next to 
+me there was Arthur Weisz. All of a sudden Lieutenant László Fábry turned up, 
+who was the head of the so-called VÁP-team in charge of protecting Wekerle 
+Sándor Street and Vadász Street and started to talk with Arthur Weisz. I do not 
+know what it was about as I was engaged in counting the loaves and the cans. 
+What attracted my attention was Fábry telling Arthur Weisz: "Take it easy and 
+come with me Sir Weiss", to what I reacted in Hebrew telling Arthur Weisz not to 
+go. He made a gesture in an offhand manner. Fábry then put Arthur Weiss in his 
+car, while Balog left in the opposite direction. He came back in 10 minutes 
+claiming that Arthur Weiss would be back by 5 pm giving his word of honour as an 
+officer of the army. As we found out later, he gave Weiss to Balog who took him 
+to 14 Városház Street and from there presumably into the Danube. When Fábry went 
+to fetch him in Városház Street, as he claimed to have done, he was told that 
+Arthur Weiss had been already let go.
+
+This increased panic in Vadász Street day by day, which culminated after two 
+days only to fade away completely when the new anxieties of the siege took its 
+place. Further on, the Arrow Cross came to us maybe two other times to fetch 
+food, but started shouting already at the gate that no Jews would be hurt, they 
+only wanted to get food. Naturally, we showed no reluctance as we did not want 
+to get hurt.
+
+The 6th of January, in the afternoon, Jenő Fränkl sent a courier out for some 
+reason, whose identity was checked by the detective of the Arrow Cross Pálóczy, 
+once an actor, in front of the house. During the identity check the boy was 
+shouting that he just came out of the building of Vadász Street, that he was a 
+courier. In this minute the car of the Embassy stopped and officers Andor Gedeon 
+and Tibor Szemere jumped out. Comrade Szimcha Hunwald, whose pseudonym as an 
+officer of the Embassy was János Kühne stayed in the car. Gedeon entered the 
+gate, the same second Szemere noticed that the courier was running towards the 
+Embassy. There was a shot and the cry I am shot, and the boy fell in the arms 
+of Szemere. The detective of the Arrow Cross was already at the car  the driver 
+could just get out in time  and took Kühne and Szemere with himself to the 
+police headquarters, and handed them over to the Germans, who put them into the 
+cellar of the royal palace. Thanks to his language knowledge Tibor Szemere was 
+occupied as a translator and got freed when the castle was liberated after 40 
+days of jail, while Szimcha Hunwald was shot in the basement of the Ministry of 
+Interior.
+
+Naturally, this case generated panic again in Vadász Street, but there were no 
+more Arrow Cross atrocities in the house or in the street in the last twelve 
+days until the liberation. There was one exception when Iván Dénes courier was 
+shot during the service he did for the protected houses.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

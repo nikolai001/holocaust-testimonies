@@ -1,0 +1,396 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 151
+        </h1>
+       </div>
+       <a href="?showjk_img=151" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. I.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Miskolc
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1928
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Miskolc
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Miskolc
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Krakkó, Auschwitz, Leipzig
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+
+Twelve thousand Jews lived in Miskolc; they were chiefly merchants and tradesmen. In general they were very well-to-do; there were only a few poor people. My father was employed at the brickworks and we could live upon his income. After the German invasion the first measure was the compulsory wearing of the yellow star.  When I had read the order in the newspapers, I thought I would commit suicide rather than to wear the yellow star. It was terrible, like a blow in the head, to walk with a stigmatizing brand. On April 6 I put the star on and went to the street. I saw other Jews walking straight and I also saw that people were looking at me with sympathy. From that on I wore the star proudly. 
+
+A grocer called Gyula Szabó, an enthusiast Arrow Cross, talked about the Jews with utmost hatred.  I know this, since we shopped in his grocery too. The gendarmes and police executed the decrees. First we were concentrated in Arany János Street. Our building was separated from the Gestapo office only by a thin wooden fence. My firs terrible experience happened here: I was sitting in the door one afternoon, when a Gestapo man pushed somebody out to the yard. 
+
+The neighbouring, formerly Jewish-owned villa was occupied by the Germans. They furnished their torture chamber here. I heard a thump and a terrible, almost animal-like screaming; a man cried out: Help, my God, Im dieing, help, help! I peeped through the fence and saw two policemen escorting an elderly man and throwing him to middle of yard. Then came a tall man, a Hungarian, a commissary of the Gestapo. He had a rubber truncheon in his hand and pointed at another man. Now he was called in and shared the same fate: I heard him crying. They were looking for gold and money. The unfortunate cried that he did not have anything, but he was beaten to death. He was called Szántó and owned a department store.  This is how attorney at law Dr Rolländer lost his life too. It was terrible for me to listen to these screams. Many times young women were taken there too and their hands and wrists were beaten black. An old acquaintance of mine, Mrs. Rosenberg was taken there together with her husband too. She was an elderly lady and she was telling them in tears and screaming that she did not have anything, she gave them all she had. Still she was beaten and thrown to the yard. There she kept on crying and screaming. A policeman came and kicked her. Oh my God! You cannot forget these things. Many committed suicide. I could understand them, still I was very judgemental of them, since I was very optimistic.  I did not even want to believe those who said that we would be entrained and taken away. I did not even think that all the terrible experiences I went through would be possible: for example being transported in cattle cars. I had no idea about human cruelty.  
+
+From Arany János Street we were taken to the ghetto in the brick factory. There was no toilet; a deep ditch was dug and there was a board on it. There were many people here. We were ashamed to go to the toilet in front of the men, so we went only in the evening. In two to three days we got accustomed to that. It was very hot, brick dust covered everything, there was no water, we could not bathe and the gendarmes were beating us all the time without any particular reason. A gendarme came in and he chased the people out to work and meanwhile beat them. The gendarmes behaved outrageously. After four days all men were called up for labour service to Ilosva. I will never forget the afternoon when everybody was crying and saying their goodbyes. My poor mother said goodbye to my father as if she had felt that she would not see him again. All three of us were crying. I had a younger brother too, of whom I do not know anything. I hope he is alive; I want to see him very much. 
+
+After two days we were entrained. Sixty of us were crammed into one cattle car. We asked the gendarmes about the destination. Some said it was Hortobágy, others told us we would go to Germany to work. Even then we looked into the future with hope, since we thought that if we worked then we would not starve to death. One morning the people in our barrack were told to get ready with as much luggage as we can carry. Of course, everybody carried the best clothes and the food. We had to climb a mountain; I remember SS officers being there. On the way the elderly women tripped and fell; the gendarmes beat and pushed them with rifle buts, the Germans did this with sticks.  Into some of the cattle cars 85 people were crammed. One could not even sit down. Men, women and children were all together. One or two death cases occurred in almost every cattle car. We stayed in the closed cattle cars until the afternoon. We were pulled to the station only in the evening. Then the train was pulled to the shifting yard and we spent the whole night there. In the morning we got some water. We were suffering from the lack of room; even the windows were bound with wire. This is how we travelled to Kassa. The cattle cars were opened there and we were allowed to get off to go to the toilet. The gendarmes came to gather valuables, money and furs. In one of the cattle cars they found a purse with hundred-pengő banknotes that had been torn to pieces. The car was disconnected from the train and all passengers were shot to death. I was told about this by one of the relatively decent gendarmes, who disapproved what had happened. This gendarme brought some cherries to us to the brick factory too. He kept saying the Hungarians will pay dearly to treat the Jews the way they did. Then the cattle cars were closed and they were opened only in Auschwitz. 
+
+When we reached the border, everybody cried, but I was not able to do so. Something gripped my throat, but I have been unable to cry since my camp life. This is the first time that I am crying. I had a terrible feeling: it was almost physical pain, as if something was squeezing and biting my throat. We were not given water for three days. The children were crying. My poor mother! She did not even talk. We just held each others hand and I was caressing her. When we arrived in Auschwitz, I got sick and my mother desperately told me: You get sick now, when we arrived! Finally the cattle cars were opened up. We saw armed SS men and Polish men in striped uniforms. The latter helped us to get off the cars. We asked what would happen to the luggage and we were told to leave it there, since we would find them later. They were placing our luggage in one pile in the car. We had to line up. Of course, we were holding on to each other with my mother. My little brother was brutally slapped by an SS and he was put among the children of his age. I also had a friend who was holding on to me.  
+
+When we got off we saw a big camp. The barracks looked clean and tidy. Barbed wire was coiled on the big stone pillars. Back then, I did not understand those electric wires. I was told not to touch it, since it was charged with 10,000 volts of electricity.  I saw that the SS separated the children and the elderly from us with a stick. He spoke Hungarian: You this way, you that way.  Horror struck me: I do not know what came over me, but I was holding my mother very tightly! I am unable to describe it. Then my mother was separated from us. Her age did not count here, since she was only 44; if they saw two people holding on to each other, they separated them just to torture them. I saw that all family members were separated. Then my friend and I were put on one side, my mother on the other.  I took it very easily and irresponsibly: I do not know what happened to me. I did not even look back. We walked on the streets between the camps and I saw three to four bold girls in ragged clothes, dirty. Then another girl in white kerchief started to beat them with a club, so they dispersed. I thought that this must be a decent camp, since even the insane are left here. Polish girls shouted at us and told us to eat everything we have, since all food is going to be taken away. We could not eat, for we had not drunk for three days and we were very thirsty. We threw the food to them. 
+
+The first experience that crushed me was being taken to the bath and having to be naked in front of the SS men. Our hair was close-cropped and all our body hair removed.  Then we were taken to the disinfecting room, where I got some bad clothes and a pair of big Dutch clogs. It was terribly hot in Auschwitz, your throat got parched, but it was very cold during the nights. I was accommodated in the Gypsy camp, where 240 of us were crammed into a small room. There was no roof, only a few boards and the dirty floor. No water pipes, no lavatories. The camp was not finished yet. We stayed here for 6 terrible weeks. There was a dirty creek used as a toilet. We bathed ourselves in it and also drank from it, which was prohibited, but we did not get water from anywhere else. The food was terrible: it was full of sand and small pebbles. It tasted and smelled bad; it was made out of beets and turnip. Nobody could eat it. I collected all the leftover, since I decided to stay strong. I thought this whole ordeal would not take more than two to three months. I did not believe that this could be done to human beings, young children. At early dawn, around 2 or 3 am, we were lined up for roll call in rows of five. The shortest roll call took four hours. We had to stand there, one metre away from each other. It was very cold and we were allowed to stand close to each other, so that we would be unable to warm up. We suffered a lot from diarrhoea and we were not allowed to go to the toilet. 
+
+I was very much liked in the camp, since I was in a good mood all the time and I was able to console anybody except myself. Everybody thought I was happy, but I was not, since I loved freedom and it was terrible to be locked up there. I liked to walk and wander around, to stray and I liked the crowd very much. But the crowd of unfortunates depressed me there. I never thought about myself; even if I got only a piece of bread, I shared it with the others. When we were taken to Krakow and I was cleaning for the camp maintenance, I got a plate of barley gruel. I swear that I gave it to the others, I distributed it; I ate only the leftover that I scraped out of the plate.  On one occasion I got bread with cheese and ham from a Pole and I gave it the woman with a sick child. The Poles had everything; many women from the camp gave themselves to the Poles to get some food in exchange. I would not have done it for all the food in the world, not even if I had been on the verge of dieing from hunger. There were honest men among the Poles, but there were some who wanted women for a piece of bread. In Krakow I saw an SS man raping a 14-year-old little girl. It was a big scandal; I was ordered to testify too. I testified that I did not see anything, otherwise the little girl would have been beaten to death. We could move freely in the camp. I worked in the garbage work unit, which carried logs on a cart to the bakery. When we carried the logs, I picked up a bundle of firewood and took it there. As I walked out, I grabbed one or two loaves of bread from the shelf and brought them back to my fellows and I ate from their share too. I did not feel bad when I ate it, since I did not take it from anybody except for the Germans. 
+
+It is interesting how infrequently I thought about my mother in the camp. It did not hurt when I thought about her and many times I was hitting my head asking myself: how can I be so indifferent? Later we realised that so much bromide was put into our food that we became dazed and weak. We carried huge rocks weighing 30 kilograms. We had to run, of course. Later we were doing earthwork and many times we dug out coffins in the old Jewish cemetery. We also saw skeletons. 
+
+In Krakow I was entrained and the train did not move for half a day in the terrible heat. An order arrived to evacuate the whole camp, since the Russians were 30 kilometres away, so 40 Polish women were added to each cattle cars already full with us, Hungarian girls.  Beforehand many of the prisoners were shot dead. Bodies were cremated in Krakow too: the corpses were thrown into a ditch, then a few boards were laid on them and gasoline was poured onto this pile. This was the crematorium. It smelled terrible when the pile was put to fire and it burned. This ditch was located on a hill. Hundred and forty prisoners were in one cattle car. The travel that normally takes two to three hours took us two days, since we had to go around to avoid the frontline.  
+
+We arrived in Auschwitz. All 6000 women were stripped naked and lined up for the bath. I did not even care that the SS men were watching us. When they realised in the evening that it was impossible to take us all to the bath, they took 1000 women (me among them) to the barracks.  A thousand naked, young girls. I will never forget that dreadful night. It was cold, the rain was pouring and we were crouching on the bare, wet ground naked. Many got sick, since beforehand we had not had any water for three days. After an endless night finally dawn started to break. In the morning we were taken to the bath again and our hair that had been growing for two months and was one and a half centimetres long was cropped again.  I was sorrier about this hairdo of mine than my old one, since I was able to part this a little. I looked like a student boy. After the bath we were lined up in rows of five. I was in the first row and an SS came and whispered something to the German woman. Twenty of us were taken to one of the blocks. We were given bread, butter, salami and jam. We did not suspect anything, but the girls there sneaked into the block and told us that we would have to work in the gas chambers. This meant that we could not live longer than a few weeks.  Until then we would be doing fine, but then it was going to be our turn. Panic set in: everybody was crying and I was smiling. 
+
+Out of a transport 40-50 people were taken to the gas chamber. Some of them did not even know where they would be taken. They got a piece of bread and some margarine and first they were taken to the bath. Here they had to get naked, then after a couple of minutes gas poured on them and killed them. The doors were shut and it took three to four minutes for them to die. It was terrible to listen to it. I had never heard such desperate voices: Mother, my child, my God, we are dieing, help! They waited for 20 minutes, then the doors were open and Polish men with gas masks went into the gas chamber and dragged the corpses out.  They were loaded onto a truck. I saw the corpses with my own eyes: their face was blue, their eyes were popping out, their fists were clenched. I saw mothers and children clasped in a non-separable way. Afterwards we had to go in and take the victims clothes out and carry it to a storehouse where they were sorted. These were the clothes the deported arrived in. German SS guards escorted us. I worked at the gas chambers for two weeks, then I managed to escape by joining a transport passing by. We were going to camp B2. One day I glimpsed my mother in neighbouring camp C. She looked bad and unhealthy. Usually I talked to her a few words at the wire, though it was prohibited. We shouted a few words over the fence. One morning I was talking to her and I had a piece of bread I wanted to pass her. I told her: Mother, come closer, I want to give you a piece of bread. I walked to the wire and handed over the bread to her. My dress got caught in the wire, so I asked my mother to untangle it.  The guard saw us and shot my mother. She was shot in the temple. Poor her, she had beautiful eyes and she was staring at me in astonishment. As she was falling, she passed the bread to me under the wire with her last motion. She was still caring for me. I passed out immediately and regained my consciousness only in the block. I was cursing God and resisting. I was running up and down and hit my head against the wall. I was breaking everything in my reach, I was completely going insane. Later I sunk into apathy. I was just sitting on the cold ground and did not care about anything.  
+
+Later we were taken to Leipzig and we were working in a factory. We suffered a lot from hunger and the winter. The Oberscharführer treated us very badly. We worked 12 hours a day, in alternating shifts. When we got home from the night shift, the Lagerführer ordered us to line up for two to three hours without any reason. We were here until April. Then one could already feel the approach of the Americans. There was no raw material in the factory. A Dutch boy told us that if the sirens go off at 6 pm, then the Americans are here. And the sirens went off in the afternoon. The next day we were lined up for roll call at 2 pm. The sun was shining and the Oberscharführer stood on a hill and gave a speech. He told us that the Americans reached Leipzig and we would be free. Ha also said that unfortunately he had to leave and he was not able to stay with us, but he wished us the best and warned us to keep the camp clean until we would be able to leave. He also asked us to keep the companionship. Everybody was crying happy tears. The leadership of the factory came to us and thanked us for our work and help. They told us that from that day they would take over us: we would be free and would not be prisoners any more. And then a big cloud came and it covered up the Sun and it was thundering. The Oberscharführer was called to the phone and then when he got back, he told us that we had to leave the camp with the SS soldiers. Everybody was ordered to take a blanket, to get some turnip from the storage and to get ready in an hour. This sudden change of events was terrible. Meanwhile lunch arrived and panic set in. They were kicking and beating each other. In an hour we were lined up. Meanwhile the camp was bombarded and it was not before 10 pm that we were set off with the SS soldiers. We marched the whole night. Next day we arrived in Wurzen where we were driven to a large square. We were told that we would be sleeping here. An air raid hit us. Then I announced that I would not go any further and I would escape. Meanwhile we were fired at from the aircrafts and in the confusion we disappeared. The next day the transport left and we stayed there. It was very difficult to hide in prisoners clothes, which had a large red cross on the back. We went into a villa and told the owners that we were Hungarian refugees and asked them to allow us to rest in the hay. We went into the barn, but only in half an hour they brought us food. In four days the Americans arrived. I want to keep the number that was burnt into my arms in Auschwitz. I bought a Jewish badge for myself and I am wearing it proudly.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

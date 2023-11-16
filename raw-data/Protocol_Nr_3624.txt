@@ -1,0 +1,514 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3624
+        </h1>
+       </div>
+       <a href="?showjk_img=3624" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         R. E.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1900
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         clerk
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+I passed the days of the siege in Weiss Alice Hospital. The 2nd of January, 
+1945, an Arrow Cross group entered the hospital, as they said to control 
+Schutzpasses. Naturally, they did not find them acceptable, and they continued 
+with the identity check. They gathered us in a room and selected and separated 
+36 of us. There was no one older than 70 in this selected group, while there 
+were some severely sick people among them, like someone with advanced cancer. I 
+asked for permission to go up to my room for my stuff, but they let me go only 
+with an escort.
+
+As I later learnt, it was 3 am when we departed among falling bombs and shells 
+with the alleged reason to get our identity checked. They took us to the 
+building of the Arrow Cross in Pozsonyi Road. First, they led us into a 
+completely dark room, and later led us into another room, and on the pretext of 
+checking our identity the Arrow Cross committee seized all our belongings. 
+They took my coat, my gloves, turned out my pockets, took off also the two 
+blouses I had on to search it and check whether I had not hidden anything or 
+sewed something valuable in them. At the end, they even seized my handkerchief. 
+Having searched us they sent everyone into the lobby, and when we were all 
+there, they rechecked whether we did not leave anything behind, any food in the 
+searching room. Naturally, they collected what they still found there. Now, they 
+led us back into the room where we were the first time. There were already some 
+people here when our group of 36 people arrived; at the end there might have 
+been 40-42 of us altogether. Everyone tried to find some good posture. The 
+guards of the Arrow Cross made sure we did not talk to each other. We did not 
+get anything to eat, if someone asked for water, they conceded to give it.
+
+I have to note that we had lived so isolated from everything in Weiss Alice 
+Hospital that we had not heard about the already frequent cases when they shot 
+people into the Danube. I did not suspect anything like that, and believed we 
+were going to be put into the ghetto after they had robbed us. 
+
+In the morning, someone asked what would happen to us, where they would bring 
+us. They answered we were going to be taken to Buda to do some work. All day 
+long we sat there gloomy and exhausted, while during the night we had to start 
+off lined up in pairs. It was a light night with an open sky and we could 
+clearly see the fights. We were terribley cold, as we were badly dressed and had 
+no coats. We were walking along the Danube towards the Parliament. It was 
+horrible what we saw: all the way along the bank of the Danube dead bodies and 
+horses were lying around. We arrived close to the Chain Bridge, where they 
+wanted to lead us down the stairs next to the Parliament. My partner commented: 
+"Look, they want to do something evil. Since the stairs were already bombed and 
+we could not go down to the bank the Arrow Cross leader told us we would go now 
+to Buda. And so we did: we crossed the Danube on the Chain Bridge. On the other 
+bank we started to head towards Margit Bridge. We were led to the lower quay. 
+Women went ahead, and men  around eight of them  followed behind. Suddenly, 
+the leader said that men should stay behind and women should proceed. Next, we 
+heard more shots from close. The woman at my side commented again: "Look, these 
+have been shot!" I still did not want to believe they could be so evil, and said 
+it could not happen that so many people got shot and you could not hear a voice. 
+I still did not know what it meant if someone was shot in the back of the neck 
+from very close. The two leading Arrow Cross men returned to us but without the 
+men and we still carried on a little while. Suddenly, they told us we should 
+turn backwards. Now, I became convinced that the only thing they could aim at 
+was destroying us. If they had had another goal in mind we would have continued 
+our walk. I cannot say I was scared but rather I felt surprised, and I could not 
+imagine that everything would finish. The others were silent, too. They ordered 
+us to stay one by one facing the Danube. It occurred only to a fifteen-year-old 
+girl next to me, who was together with her mother and aunt, to start crying for 
+help in her high childish voice. They started to shoot them one after the other. 
+I did not know what to do; I instinctively threw myself on the floor. I do not 
+know how this idea came to my mind, now, I cannot account for it; maybe I wanted 
+to die like this. The poor woman next to me, who was brought into the hospital 
+after a suicide attempt and wanted to die by force, started now crying after the 
+first shot that she was still alive. I heard the voice of one of the Arrow Cross 
+men as he asked who was shouting, then he shot at her again. I decided not to 
+move: either they would shoot me and everything would be over in seconds or I 
+would hold out. They checked whether I was still moving and I heard them to 
+comment: This is dead already. They did not shoot me not even in a second 
+round, while they sent another bullet in my neighbour. There was moonlight, and 
+the water carried all sounds well, so I clearly heard and saw everything. I knew 
+that they would now drop the corpses into the Danube, and I decided to simulate 
+I was dead. I saw with an eye that they began to drag the bodies towards the 
+water, and I felt when an Arrow Cross man grabbed my legs and pulled me away. I 
+have to note that the bank of Danube is a steep and high wall here; there are no 
+stairs at this part. I felt being pulled towards the wall and my upper body fell 
+down and he let my legs fall, too. Once again I had luck, because the distance 
+got shorter with the length of my body, so I fell less. I felt as I started 
+falling and the Arrow Cross man let my legs go but I did not fall into water but 
+on a one and a half metres wide solid strip between the wall and water. The only 
+thing I cared about was to remain motionless. I fell on my face and did not even 
+feel when I was hit, I saw only later that I fell on soft sand. I remained still 
+in that position. Water was shallow here, and did not take away immediately the 
+corpses of my unfortunate companions. I heard as they said above me: "Water will 
+take them away." I heard this comment perfectly clearly, and studied everything 
+precisely. Voices got further and further away; they left. I cautiously raised 
+my head and looked up, when I heard a voice from behind: "Dont move, because 
+they are still here! My companion could see up on the wall. I am not sure how 
+much I may have been waiting there: a half an hour or two hours. I calculated 
+that they must have been already off, and tried to rise cautiously. I did not 
+know what happened to me, whether I was alive and could stand up. I was 
+uncertain about my situation and started to touch the parts of my body. I could 
+stand up, nothing happened to me, only my nose was a little bit bleeding. It got 
+injured when I fell on my face but it was only a minor graze. I looked around 
+and tried to orient myself. I felt like dreaming. The woman started to talk 
+again: I am the sister of the caretaker and if you remain alive and can call 
+for help, call the police or the ambulance. I knew it was in vain, as the 
+ambulance did not function in these times. I began screaming as loud as 
+possible: "Help, ambulance, police!" I heard nothing but cries from the 
+direction of the shot men and the noise of drifting ice. No one was around. I 
+desperately realised that crying for help was pointless. In front of me there 
+was the icy Danube, I was without a jacket in the cold of January, behind, there 
+was a steep wall, and there were no stairs, and corpses lay all around. Russian 
+shells were flying from Pest to Buda. I tried to help that poor agonising woman, 
+I pulled her a little bit towards the bank, she was awfully heavy, and I did not 
+know what to do with her. I tried to find out who the people were whom the 
+bandits had shot. I found another breathing woman and I pulled her out, too. I 
+started thinking, and understood that I should not stay there but ought to get 
+away as soon as possible. Far away I saw a military landing stage with a bridge 
+to the bank, and I decided to reach it at any price. I waded into water in the 
+overshoes I still had on and tried to reach the bridge. The water was deep and I 
+failed. Now, however, the instinct for survival did start working in me and I 
+wanted to remain alive at any price. I went back to the end of the sandy strip, 
+but not to the corpses but a little bit further away. I sat down on the ground 
+and waited. Soon, around 7-8 German soldiers walked down the bridge and jumped 
+into a wide military boat and started to row exactly in my direction by chance. 
+Their leader noticed me and said: "Da ist jemand". Soon they reached the shore 
+in front of me. They must have thought I had fallen off the wall, and their 
+leader even asked: "Hat Weh getan?" I promptly understood the situation and 
+responded: "Yes." They jumped out, and climbed on the wall, one standing on the 
+other. I asked whether they could also help me up. The leader responded 
+laughingly: "Denken sie nicht, dass Sie sind ein bischen schwach?" I asked 
+whether they could find an ambulance but he answered: "Nein, da sind schon die 
+Russen". However, he offered to put me in the boat and bring me to the bank, as 
+it was going to be 7 am soon when people could stay in the street. I saw that he 
+noticed I was surprised at what he had said since I had no idea that 7 am was 
+the time when already civilians could go in the street. They encouraged me that 
+I would surely find a policeman even if I would not be able to call the 
+ambulance. They lifted me in the boat, covered me with a blanket and landed at 
+the military bridge; their leader accompanied me to the bank and put a cover on 
+me. In fact, I did not feel bad but I tried to pretend I felt really bad. After 
+a few steps, it came to my mind that I should thank them for their favour and 
+also wanted to give back the blanket but their leader urged me to take it with 
+me. I started off but now I had a great problem: I did not know where to go and 
+what to do. First, I thought I would go and see a Christian friend of mine 
+living in Buda, but I did not want to make her troubles and anyway my mother 
+remained in Weiss Alice Hospital, so I decided to go back to her whatever the 
+cost. I had no idea how one could cross the bridge without getting his or her 
+identity checked. I walked on the lower quay where I did not meet anyone. 
+However, I needed to climb up when I reached the Chain Bridge. There were only 
+soldiers walking here, and no one cared about me, I was not at all a curious 
+phenomenon, they must have thought I was rushing towards an air raid shelter. I 
+found myself in front of a guard of three members on the bridge, and before they 
+could have asked anything I asked whether there was a first aid station on the 
+Pest bank of the river as I had been injured. By chance I was lucky again 
+because a soldier with a more sympathetic face responded that there were no 
+first-aid centres on the Pest bank, but he did not think I had any problem with 
+my face, it was at the most a little dirty. He suggested I should walk towards 
+Erzsébet Bridge, where there was a first-aid centre also on the Buda bank. 
+Naturally, I could do nothing else but go that way. On the way, a soldier became 
+suspicious of me and stood in my way. When I asked how I could cross Erzsébet 
+Bridge, whether it was possible now to cross it, he asked why I wanted to cross 
+the bridge and what I was doing there anyway. I said I had visited a friend of 
+mine, but he kept on interrogating me and asked where this friend lived. I said 
+in Lánchíd Street. Where is Lánchíd Street and where do you live? I said in 
+Damjanich Steet, I indicated my old flat and he continued to ask me how I would 
+get from Erzsébet Bridge to Damjanich Street. When I explained him the route his 
+suspicion disappeared and told me that bridges were still not being bombed, and 
+one could cross them. Later, I did not ask anything from anyone but ran through 
+the bridge trying to evade Arrow Cross guards. Kossuth Lajos Street looked very 
+bad.
+
+Finally, I got into Weiss Alice Hospital!
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

@@ -1,0 +1,541 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3009
+        </h1>
+       </div>
+       <a href="?showjk_img=3009" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. Á.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1926
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         radio engineer
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Engerau, Mauthausen, Günskirchen
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+My father is a textile-salesman; he supported me. Thank god, I have found everybody at home. 
+I was drafted for the labour service company in Hangony on 4 June 1944. I spent there 6 days 
+altogether. Warrant Officers vitéz József Bányai and Szilágyi were our commanders; they were 
+notorious antisemites. They organized that memorable enclosed visit when the labour servicemen 
+were surrounded by guards in arms on the Hajógyári Island and the labour servicemen could talk 
+with their relatives only for some minutes, through the wire fence. We were together with sappers 
+on the island, then we were taken to the 101/503 vehicle unit in Zách Street. We lived in quite good 
+circumstances there. We had three commanders: 2nd Lieutenant György Lukács, who did much for 
+us, Warrant Officer László Rónaszéki, who, although he was a member of the Arrow Cross, 
+behaved quite nicely and finally Warrant Officer György Kósa, who did everything for the Jews. 
+He helped women escape from the brickyard. He took us to Józsefváros railway station, and with 
+this last act, he spoiled everything he had done for us. 
+
+We were entrained on 28 November 1944 at Józsefváros railway station. 72 of us were put in a 
+cattle car. The journey was very tough; we got a loaf of bread at the beginning and a little water at 
+Hegyeshalom. No more food was given to us on the way. The Germans took us over already at the 
+railway station in Pest; they gave us food the first time in Zürndorf. We were staying there for half 
+a day and there we saw the first dead Jews. A German captain delivered a speech to us saying that 
+we would live like civilians, everybody would work at his trade and we would also earn money. It 
+was, of course, all lies. The next station the train stopped at was Parndorf airport, where those 
+going to Engerau were separated from those going to Bruck. As far as I know, 3,200 people went to 
+Engerau.
+
+We arrived in Engerau on 2nd December. 160 people were placed in a small room. There were no 
+beds, no blankets, no straw. This was the first time that we got hot food. In the first period we dug 
+trenches, later we did wood cutting and deforestation. They woke us up at 5 oclock in the morning, 
+then the breakfast followed and we went to the workplace at 6 oclock. We dug trenches close to 
+the Hungarian border till 6 oclock in the afternoon. We received lunch out there too. The food was 
+very poor. At the beginning, we got unpeeled potatoes, 500 grams of bread, 20 grams of margarine 
+and, for breakfast, 2 decilitres of black coffee. Later we only got mush soup or turnip soup and 
+simple water. The dinner was the same. Later we were moved to the open attic of the house of a 
+Hungarian civilian. Then we had already been working in the forest, we cut wood, carried heavy 
+logs, we sawed and transported the wood. When the weather turned very cold, they reduced the 
+working hours so we finished at 3 oclock. We had to go out even in the worst weather in mud, rain 
+and snow without any kind of equipment. The guards called Politische Leiters and the SA men 
+beat us and murdered crowds of us. As far as I know, they have already received their punishments. 
+Our Politische Leiter was called, so far as I remember, Baumgarten. I think he has not been arrested 
+yet.
+
+We did the same work throughout the winter. The provisions became less and less; we got 
+margarine only on every third day, then the bread rations were reduced to 300 grams. The 
+conditions got worse and worse all the time.
+
+Many people were executed and not only for attempted escapes. Absolutely innocent people were 
+also shot dead out of sheer joy, of sadism. Yet, many people managed to flee. I tried it once myself, 
+I wanted to jump on a train but no train was coming. Some fellows of mine and I were ordered 
+from company 29 of Engerau to the N.S.K.K. unit. The provisions were better there, but the 
+accommodation was terrible. Later I was sent back to Engerau through illness. That happened on 
+16th  January. I got back to company 29. On the last week, from 20th to 28th March I worked in the 
+kitchen, although I was a radio technician. There I pulled myself together. That is, I had gone 
+through a serious diarrhoea beforehand. The infirmary was very roughly equipped, there was no 
+medicine; the whole infirmary was a fleabag. If one went in there, he was not very likely to leave it 
+alive. There was a company for ill people, where the weak were taken. They received even less 
+food than we did. When we left Engerau the company of the ill was executed. About 600 ill people 
+were left alive.
+
+Disinfection and bathing was organized once a month. On one occasion, they let gas instead of hot 
+water out of the showers, just for fun. We had to run from the hot bath out to the cold. Many of us 
+got pneumonia and a lot died from it. On 28th March we were set forth on foot from Engerau. We 
+got 600 grams of bread and 50 grams of margarine for the march. This was supposed to be enough 
+for three days. We marched 32 kilometres without stopping. We had a horrible night. We marched 
+to Deutschaltenburg. The Politische Leiters and the SA men shot down those who were hardly able 
+to march and fell a little behind. There were terrible massacres, they shot down innocent people 
+too; they simply fired into the row. As far as I know, they shot down 260 people. 
+
+They put us on a barge in Deutschaltenburg. There we met those from Bruck; as regards the 
+treatment and the provisions, they did much better than us. We were put on barges. We received no 
+food. A horrible eight-day long trip followed without a bit of food. Then we arrived in Mauthausen.  
+Some of us attempted to escape at Vienna; several people managed, but some of them were nabbed 
+and they were shot down immediately. A large number of people died of hunger on the barge, it 
+was a real death trip. The SS men took us over on the barge. Those who did not hurry or could not 
+move fast enough when getting off were all pushed into the Danube. They also shot down the ill 
+people, who could not suffer the journey. 
+
+We arrived in Mauthausen on 10th April. They accommodated us in a gigantic tent. 16,000-17,000 
+Jewish prisoners were there, very many of them slept in the open air because there was no room for 
+them inside. It was so crowded in the tent that we could not even sit down. At the dawn following 
+our arrival we received an order to go to Dachau, but it was immediately cancelled because 
+meanwhile the allied forces cut the way off. 
+
+We did not have to work any more in Mauthausen. The provisions were very poor. The rations for 
+one day were 2 decilitres of black coffee, 8 decilitres of turnip soup, 20-30 grams of margarine or 
+tinned meat and 60-120 grams of bread made of sawdust. People began to die in large numbers and 
+the SS men shot down many of them too. The infirmary was terrible, it was awfully dirty, full of 
+lice and typhus fever; dead bodies were lying on the living people in terrible crowdedness. 
+Medicine and medical treatment did not exist at all.  Almost everybody died there. 
+
+We were ordered to go to Günskirchen on 16th April. 16,000 people went there in three turns. I was 
+in the first group, among 5,000 people. The ill people were left there; most of them died in the 
+infirmary for lack of food, since they were given nothing to eat. I do not know exactly how many 
+people were left in the infirmary.  
+
+We covered the 60-kilometre-long way to Günskirchen in three days. We had breaks twice, which 
+we spent in the open air. We got food only once on the way, it was some three-day-old sour, 
+fermented turnip soup. A great many people got diarrhoea and died of it. The SS men shot down a 
+large number of those, who were not able to go. As far as I know, from among the 5,000 people  
+they shot down 600 on the way just for fun; those whom they did not like, they shot dead. We ate 
+grass and rape on the way, but those who stepped out of the row were shot down too. 
+
+After three days we arrived in Günskirchen. The first night we spent in the open air, and we got wet 
+to the skin. Then we were taken to a barrack, which provided room for 300 people, but 1,800 of us 
+were placed there. There was no straw and no blankets. We could not even sit down, people were 
+hitting and killing each other for a little space. We became bestial. The provisions were terrible: 2-3 
+decilitres of turnip soup, water, and 120 grams of bread daily, sometimes some black coffee. 
+Appells were held too; sometimes we had to wake up at two oclock at night. The SS men kept 
+shooting about, only to entertain themselves with it. The whole camp had only one latrine, so a 
+large number of people suffering from diarrhoea died. People could not relieve themselves 
+outdoors, because the SS would have shot at them too. We had no water at all, such thing as 
+washing ourselves did not exist; sometimes we could have access to half a litre of water by queuing 
+up a lot, but even that was very rare. Water was a real treasure! We became infested with lice 
+completely. Those who got typhus fever were taken to the infirmary, and they were said to be 
+executed there. On the first time 200 people, later 600 people died in the infirmary every day. They 
+threw the corpses into a pit and left them there unburied.   
+
+Two days before the liberation we received charity packages from the French, one for 31 people. 
+These packages we did not get, since the Capos and the SS men stole most of them. By the time we 
+got the first news about the peace, we all looked like living skeletons. 
+
+On 3rd May the SS guards escaped. The prisoners emptied the food storehouse and started to go to 
+the main road. The ill people and myself were left there without any food. On 4th May the 
+Americans came in. They distributed us tinned meat, each weighing 850 grams. We all fell on the 
+food without thinking. Naturally, the weakened bodies could not cope with that, they got diarrhoea 
+and a large number of people died. 
+
+200 of us, ill people, stayed in the barrack for another day. The Americans gave excellent 
+provisions to us, white coffee, biscuits, rice pudding, etc.  A truck took us, weak, ill ones away 
+from Günskirchen. The Americans buried the dead. They transported us to Nörschingen, to a 
+training camp for aircraftsmen, where there was a camp. They took the ill people to hospital 
+immediately. The Americans made miracles there, they organized hospitals with splendid 
+equipment, with medicine, with doctors and nursing staff. The American doctors did all in their 
+power. Later we drew food supplies from German storehouses. German medical orderlies and male 
+nurses were there. The German doctors treated us very conscientiously and well. Then we began to 
+receive awful food, we got beans and peas all the time. A great many people died of that, as the 
+weakened bodies could not tolerate that food. They gave us only 50 grams of bread. The city 
+delivered the food for us. We starved much, because the German medical orderlies grafted 
+everything.
+
+French, Czechs, Yugoslavians and Romanians left with the first transport. Later the camp was 
+completely emptied and from that time on the food in the hospital became somewhat better. The 
+Americans gave us extra food from their own stocks, biscuits, tinned food and so on, in order to 
+improve our provisions. 
+
+From the American hospital No.1 I was transferred to No. 11. I was only 32 kilos, I was a living 
+skeleton, and it was only due to the excellent medical treatment of the Americans that I have 
+recovered. I got injections, I received 56 doses of blood plasma, 300 cubic centimetres each, worth 
+of  10,000 pengős. 
+
+I was able to move and stand up again as late as in mid July. In the beginning I was lying 
+unconscious. The poor hospital provisions were completed by the remainder of that we had got 
+from the American hospital. We often got charity packages too.
+
+I stayed in Hörsching up till 7th August. I lost my relatives there, many of them died of weakness 
+still then. Later I was taken to Wels-Lichtenegg. There they found a decree according to which all 
+the Jews had to be taken to a quarry and be blown up there two days before the liberation, but the 
+German captain did not dare to do that. In the field hospital no. 221 we were under the treatment of 
+Hungarian medical orderlies and Hungarian leventes. We received supplies from the mayor of 
+Wels. The provisions were good, they cooked in a Hungarian style. Later we were let go out to the 
+city and they also allocated clothes for us. Unfortunately, nothing was organized regarding our way 
+home and it seemed hopeless. I was still there when I first heard from my parents. I wrote a lot of 
+letters home, which I sent via the Red Cross but none of them arrived. 
+
+I was compelled to go home illegally. We started on 28th August together with 26 people of the 
+Hungarian staff of the hospital. It was precisely nine months after our being taken away. We 
+travelled on trucks to Linz. There were Czech, Romanian and Hungarian troops in Linz; they were 
+entrained at noon still on the same day. The Czechs and the Russian army took us over in Budweis. 
+It turned out that we were Hungarians and the Hungarians had already been set forth earlier. 
+
+56 of us were travelling in two carriages, together with another Hungarian group. We received 
+quite good provisions for the way from the local Red Cross. We came home through Prague and 
+Brno; we got excellent provisions everywhere. To our luck, in Pozsony we just missed the train 
+which later had an accident. 
+My plans for the future: I go to work at my trade immediately. Depending on the circumstances, I 
+either stay here or go to Palestine or to South Africa.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

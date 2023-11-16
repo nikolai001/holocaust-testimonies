@@ -1,0 +1,481 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3662
+        </h1>
+       </div>
+       <a href="?showjk_img=3662" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         D. M.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+
+In the period before the ghetto, still in the days after the Germans invasion 
+of Hungary the Jewish Council made me appear in its main office and appointed me 
+as the head of its technical department. In this period me and my staff 
+sabotaged as much as we could the Germans material demands. The current value 
+of demanded goods that we failed to provide can be estimated at a few million 
+forints. Both me and my colleagues were taken away a few times from the office 
+but eventually we went through these months with difficulties but safe. 
+October the 15th, 1944, when the Regents son was taken away and there were 
+shootings in the street people started to feel insecure and confused in the 
+offices of the Jewish Council. That day, the Council decreed that all the 
+members of its organisation should leave the main office before the end of 
+working hours. Overnight, the political situation completely changed. While a 
+few hours before, Regent Horthys announcement was read in the radio claiming 
+that Hungary was going to make a separate peace treaty and would turn against 
+German fascism, by the morning Szálasi took power. 
+In the morning, starred houses were closed and instantly armed atrocities were 
+started against Jews all around the city. I neither listened to the radio nor 
+read the journals and as I went to bed early, tired of the perturbations of the 
+day before, in the morning I went totally uninformed into the main office of the 
+council. I got to the building with some difficulties. It was completely empty 
+guarded only by the doorkeeper. The Jewish labour service company accommodated 
+in an attached building was on the alert. Its members could not get into the 
+councils building as they were guarded by armed men. On this first day well-
+armed squads of the Arrow Cross repeatedly got into the building willing to 
+occupy it, and on the pretext of searching for weapons they demanded the keys of 
+the safe. Already the first squad wanted to take me away. It was when I made 
+that famous phone call with the not long ago executed vitéz gendarme Lieutenant 
+Colonel László Ferenczy, who had been the ministerial commissioner responsible 
+for Jewish matters. I asked for his help against the Arrow Cross. He refused me 
+but I managed to mislead the invading armed men saying that my intervention on 
+the phone was successful and claimed that a squad car had been sent to the 
+councils building. As a result the armed men left frightened, and I managed to 
+mislead also others, so there were no searches in the building of the Jewish 
+Council, neither this day nor later in the Szálasi era, and none of our safes 
+was opened, in which we managed to preserve the valuables of Jewish institutions 
+and the very precious golden treasures of the Kadisa of Pest. In the next few 
+days first I put on the military armband, later some parts of a suit, and 
+finally my uniform as a captain, in which, as a self-made commander I did 
+illegal service till the day of liberation. In two-three weeks also some of my 
+eminent colleagues came into the office, and we managed to liberate members of 
+the council from their home captivity with the help of labour service military 
+guards and took them into the building of the council. Later, first of all Lajos 
+Stöckler, member of the council took over the lead. As the members of the old 
+council went missing a new administrative body was established, and Jaross, who 
+had been the Minister of the Interior of the Szálasi government (and had been 
+executed since then) selected the third Jewish Council where partly new people 
+got into leading positions. The organisation of the Council was completely 
+changed, since the members of the old staff were either forced into trench 
+digger companies or were deported and we were needed to involve new men, people 
+who somehow ended up here and seemed at least partially competent.
+The first days were the days of atrocities. Jews were shot or killed in 
+different ways on the street, on the squares, in flats, or in other places. In 
+these days authorities were completely uninformed and the chaos was so great 
+that police asked us to take measures regarding the atrocities because they 
+considered the Jewish Council as the highest authority above people wearing a 
+yellow star. Even the ambulance service needed our involvement, so much so, that 
+they set up the Voluntary Ambulance Service of Budapest in the building of the 
+Jewish Council. 
+The next ordeal for us was the instruction of the Arrow Cross forcing thousands 
+of Budapest Jews into the two largest synagogues. Many were robbed there with 
+the assistance of armed policemen. We made extreme efforts to provide some food 
+to these prisoners who were completely sealed off. There were some who died on 
+the pews, some who went mad because of the threats of the Arrow Cross. In the 
+first instance we managed to get them free ca. 6,000 prisoners, so we could help 
+their way back into their flats aided by a police escort in groups divided 
+according to streets. Later, however, it happened that during the night they 
+snatched prisoners of the synagogue and deported them. 
+As a next move the Jews of Budapest, especially the younger generations  both 
+men and women  were forced into labour service to dig trenches. At the same 
+time, and as a continuation, on the other bank of the Danube masses of people, 
+who were later deported, were now concentrated in one of the big brick 
+factories.
+In the first weeks all our efforts were spent on saving at least those people in 
+whose case we could use some pretext. We sent horse-drawn wagons to the brick 
+factory and other gathering places to take away the old, the sick, and the 
+handicapped in return for money or for other things. During these rescue actions 
+we could save a few thousands of people. 
+With these events in mind already in the first days of the Szálasi regime the 
+idea of establishing a ghetto was born. After long negotiations supported by 
+foreign embassies of Budapest finally the two parties agreed to set up a ghetto 
+in the 7th district of the city involving the streets that were the most densely 
+populated by Jews. The Arrow Cross wanted to concentrate these people in a 
+territory as small as possible, while our goal was to use the largest possible 
+space for the planned ghetto, and this confrontation caused innumerable 
+difficulties. When the negotiations were finally closed we realised that they 
+forced almost 70,000 people into a place which could house around 25-30,000. 
+First, this ghetto was sealed off by armed guards, later, using the money of the 
+Jews and Jewish workforce they had an enclosure of planks built around it. It is 
+characteristic of the times that in the original regulation they insisted that a 
+separate street was to be given to converted Jews. These converts were not 
+required to put the yellow star on but were permitted to sew only a simple 
+yellow patch on their cloth. They obliged the Jewish Council to secure their 
+complete separation from Israelite Jews. It is worth mentioning that this 
+favouritism was not used by anyone: the inhabitants of the ghetto were blended 
+without any sign of differentiation. Christian churches then demanded separate 
+rooms from the Jewish Council where they could hold masses in accordance with 
+the rules. 
+The first great problem was providing food supplies for the ghetto. We set up 
+soup-kitchens and relied on food supplies coming from outside but the results 
+were poor and far from satisfying. At the beginning, city authorities helped us 
+with food  naturally we had to pay for it. Later, the Arrow Cross did not allow 
+this practice. Several occasions when we were carrying food to the starving 
+people of the ghetto from the stores of Joint, which belonged to the 
+international Red Cross and was set up outside the ghetto, we were attacked by 
+soldiers of the Arrow Cross, and we could feel fortunate if the Jews responsible 
+for the delivery were not killed but only the food was seized.  
+Sanitation in the ghetto was another great problem as mostly old and sick people 
+lived in this enclosed area. We needed to establish emergency hospitals in the 
+apartment houses without any equipment. Seriously sick people lay in the most 
+primitively furnished rooms and it was only due to the self-sacrifice of doctors 
+that the ghetto did not suffer greater losses (...) it was as difficult as 
+providing food supplies.
+As the life in the ghetto normalized, we needed institutional solutions for our 
+problems. However, the greatest obstacle was the siege of Budapest that had 
+started in the meantime. Bombs and shells were falling on the buildings. We had 
+to extinguish fire day and night and received no support from the fire-brigades 
+of the capital. We had to free the injured people out of the ruins of buildings. 
+These were the conditions among which the ghettos administrative bodies needed 
+to operate. We established ten separate bodies which shared administrative 
+duties. We were forced to set up a police of the ghetto, and to create a funeral 
+office pressed also by the high mortality. As for funerals, we could deliver 
+dead bodies outside the ghetto supported by the Communal Funerary Firm, later, 
+however, there were no such opportunities at all, and we could not even dig 
+graves because of the cold winter. By the day of liberation a few thousand 
+unburied dead bodies were in the depot. 
+While inner organisation of the ghetto began to take shape we needed to keep 
+contact with the authorities that were above us during this hard time. We had to 
+go to headquarters and bureaus every day. Sometimes we managed to attain that 
+temporarily we were treated in a more humane way but mostly we besieged these 
+authorities only to tell them our complains. There were again and again 
+atrocities in the area of the ghetto, the Arrow Cross shot our fire brigade or 
+ambulance men, sometimes they targeted pedestrians in the streets of the ghetto 
+just for fun. When the day of liberation was approaching the chances of a pogrom 
+started to grow again. They even started it one day when fascists attacked an 
+air-raid shelter of an apartment house with machineguns, and discharged their 
+bullets on innocent people killing everyone in the shelter. It is a miracle that 
+this action did not continue. Little by little, we managed to have personal 
+contacts even with certain men of the Arrow Cross, who then informed us about 
+future actions against us. This is how we learnt that they were going to 
+liquidate the entire population of the ghetto the day before the Red Army would 
+have arrived.
+We were informed that an armed command was ready to attack the ghetto from 
+different sides at the same time and institutionally annihilate its population 
+within a few hours. This commando was made up of German panzers with flame-
+throwers, of a larger troop of the Arrow Cross and of policemen with 
+machineguns. Having this in mind we prepared the side of the planked enclosure 
+looking towards the attacking Russians so that we could easily knock it down 
+when the attack started hoping that this way we would at least open the route of 
+escape. It was a lucky coincidence that there were leading fascists who got 
+scared of the plan of a mass killing, hence we managed to counteract and got the 
+massacre delayed. This is the reason why the invading Read Army could save the 
+starving population of the ghetto from death the 18th of January, 1945.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

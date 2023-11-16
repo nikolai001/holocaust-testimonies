@@ -1,0 +1,407 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 554
+        </h1>
+       </div>
+       <a href="?showjk_img=554" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         F. K.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1918
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         locksmith, glazer
+        </span>
+        <br/>
+        <span class="jk_label">
+         Concentration
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         munkaszolgálatos
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Bor, Niederöderwitz, Buchenwald
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information: 
+
+
+I started my labour service in December 1942. At first I served in Galánta and later I was sent to Szeged, the headquarters of the 5th military district. I worked as an agricultural labourer in an estate near Orgovány, and then I was sent to Bor in June 1943.
+Even though Lieutenant Colonel András Balogh reassured us that we would be given good housing, we were assigned to a camp that looked like a dump. The prisoners of various nationalities, who were imprisoned there were ragged, dirty and teemed with lice. One or two barracks had been emptied for us and we were temporarily lodged in them. The name of the camp was Berlin, and we put it into a relatively habitable state.
+I worked as a machine fitter in a workshop and later as a stoker. I had to work 12 hours a day and it took me one extra hour to get to the workplace and another one to get back to the camp.
+We hardly had a chance to wash ourselves. There were days when we did not get water at all.
+Our food was of poor quality and very scarce, but in the beginning at least we had some clothes we sold for food.
+Six months later Lieutenant Colonel Balogh was replaced by Marányi, who introduced himself with the following words: I am not pro-Jewish; I hate them. There was a great excitement in the camp because of this statement. Later it even made a lot of people to flee the camp. The guards had behaved quite decently until then, but Marányi set them against us and they started to beat us regularly.
+I witnessed when 10 people, who attempted to flee, got caught and two of them were executed in public. The other eight prisoners were locked up in clamps and sentenced for truss-up for 120 hours. They were trussed up from 8 am to 8 pm with a one-hour break. Their feet did not even reach the ground and therefore they were unconscious for most of the time because of the pain.
+Locking people in the clamps was the most common form of punishment in the camp. They treated those people with bestial cruelty.
+In September, before the first transport was set off, Marányi had about 20 people put on cars and got them carried away. There is no question about what happened to them.
+The first wave of labour servicemen departed from Bor on September 17, 1944. It numbered 3800 prisoners and was escorted by an appropriate number of guards. It had been organised that the Germans would cover the retreat. We got 60 decagrams of bread and one can of food for provisions. We began to march at 1 am on Saturday and we marched until 6 pm on Sunday without a break. We covered about 50 kilometres. We had the short first break in Krepolin. By that time we were very hungry. One of my brothers-in-arms was shot dead by an officer along the way, but I do not know why. The Germans sent us our rations for 10 days to Krepolin, but Lieutenant Pataki did not allow the food to be distributed for the labour servicemen.
+The Serbian villagers provided us with food. The Serbian pope proclaimed during the Sunday service that a Jewish labour service company would arrive and the people should assist them. They indeed helped us and gave us a warm reception. All of them brought along all the food they had. Thanks to them, at least some of the labour servicemen who worked in Bor could survive.
+We marched to Belgrade and we were housed in the neighbouring town of Zimony, in the territory of an exhibition. We got no water or bread there. They cooked for us once a day and we were given three or four decilitres of soup. That was all we got every day. Terrible starvation began there. A few days later we went further to Újvidék.
+There we were locked up in a silk mill. There was hardly any food sent to us, because nobody bothered to inform the local authorities about our arrival and to ask them to give us something to eat. We reached the Hungarian border at Titel where we stayed for three days without any food.
+After such a journey we arrived in Chervenka where we were lodged in the brickyard. We thought that we would be there only for a day and then we would be taken further. The following morning we lined up and got ready for departure. The first surprise was that we were not allowed to set off. The guards rounded up the Jehovahs Witnesses and took them away. Then the guards and the officers left the brickyard and abandoned us. We suspected what would happen, but we could do nothing about that.
+We spent a few days there without any food or drink. All of a sudden an SS man, who had beastlike looks, appeared and took away 500 people including me. They drove us into a yard when an SS officer told us you are doomed. We had to do push-ups in every five minutes. He also forced us to climb up the wall and sing Jewish songs. Meanwhile he kept telling us you are doomed, anyway. We were sure that we were to die. Suddenly six SS men carrying machine guns came and we thought they would execute us, but it was only the changing of the guard. After that terrible night we were driven to Zombor.
+The other part of our group remained in Chervenka. The SS set up machine guns the same night and executed all of them. There was another transport that numbered about 1000; only ca. 800 of them arrived alive at Szentkirályszabadja via Baja.
+We covered about 27 kilometres before we reached Zombor. Family members of the SS men were fleeing on the same highway by cars, wagons and carts, and therefore we had to march in the ditches along the road in a huddled mass and under constant machine gun fire. Relatives of the SS, including women and boys, were amusing themselves by shooting at us and whipping us along the way. We had to march without any rest and we were not given any water. It happened that 10 people were grabbed out of the marching line, sent to the left from the road and killed immediately. One of my friends had a good leather coat. They pulled it off of him and shot him dead. If a person from our group was strong, he was killed for that reason, and if someone was weak he was killed because he lagged behind. We carried our winter coats in our rucksacks. At first we threw away the winter coat and later we did the same with the rucksack. Finally we were straining to save our mere lives.
+Marching under fire and being tortured terribly along the way, 300 of us reached Zombor. We were housed in the synagogue. People were shouting for water. Later we handed a flask out of the window and civilians gave us some water. An Oberscharführer showed up and told us to relax, because he would arrange for food to be given to us. He really did: SS men brought bread for us. We were in such a state of mind that it was impossible to distribute food normally and therefore the SS simply threw bread amongst us from the mezzanine of the synagogue. All of us got some, but as I bit into it, I felt I could not swallow it. Everybody had the same problem, so we tried hard to get some water and dip the bread in it.
+After a day or two we were housed in the slaughterhouse. The SS who was our commander there was a relatively decent man: he made efforts to get some potatoes, millet and flour for us. Due to that, we could partly regain our strength.
+We began to march to Mohács under the leadership of the same Oberscharführer. We spent a few days there and then were handed over to Hungarian soldiers. They cooked soup for us from the bones taken from the meal prepared for the SS. That was the only food we got every day.
+The Hungarians took us over and transported us to Szentkirályszabadja. That was the only part of our journey when we took a train. We thought we were not far from Budapest and we would be at home soon. We hoped only good things would come. However, we were taken further from Szentkirályszabadja to Hegyeshalom where the SS took over our group again.
+We went to Zürndorf where we were entrained and transported to Sachsenhausen. There I was taken to hospital, because I had covered 300 kilometres on foot and my feet had become oedematous and wounded. Later I was certified as fit for work, and they sent me to Buchenwald in a transport the same day. I spent there a few days and after I was sent to Niederöderwitz.
+I was assigned to a relatively good working unit. We worked in an aircraft factory and built wings. As a machine fitter I got a good assignment and they treated me quite well. Our housing was relatively fine as well.
+However, our daily food consisted of only one bowl of soup and therefore I lost a lot of weight: I weighed only 50 kilograms. I felt that my left leg had gotten totally paralysed and there was a circulation deficiency in my toes. I dreaded fatal exhaustion.
+One day we were set off for Buchenwald. The SS conducted us the wrong way and therefore it took us about 10 days to get there.
+We arrived in Buchenwald on April 10. We were lodged in a block. As soon as we entered, a German prisoner asked how many of us had been shot dead on the way. We told him nobody of us had been hurt. Then he told us that in Buchenwald the guards had selected a couple of Jews every day and set them off. He also told us what had happened to them: he said thousands of corpses of Jewish prisoners covered the road between Buchenwald and Weimar.
+On April 11 at 2 pm we were talking in the barrack. We were very desperate, as we knew the guards were only waiting for the fall of the night to take us to our death. Soon we heard the alarm, but not the usual one we had known from the camp. One of the capos told us the Americans were coming. That meant we were rescued.
+We lay down in order to be able to hear the machine guns firing. A great turmoil began, the SS were fleeing in panic and we were liberated in a few minutes.
+It happened in the very last moment, because the SS in Weimar had already been prepared to kill us.
+The following day the Americans announced the first free roll call in the camp. Twenty thousand people lined up in a perfectly calm and orderly way. Suddenly the Internationale was played and we, serious, mature and severely tried men, were crying.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

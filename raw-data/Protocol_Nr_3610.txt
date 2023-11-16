@@ -1,0 +1,493 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3610
+        </h1>
+       </div>
+       <a href="?showjk_img=3610" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         M. R.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Devecser
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1894
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         banker
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+In the beginning of 1944, I was the head organiser of a nationwide movement 
+collecting money for the people in labour service. The sum we collected amounted 
+to more than 3 million pengős (at the contemporary rate). With the permission of 
+the Ministry of Defence we bought blankets, boots, underwear, sweaters and sent 
+them to the labour servicemen. Moreover I led around 2-300 volunteers of a 
+charity established to help the families and the orphans, mainly those families 
+where the men left for labour service. We gave them money, clothes, medical 
+care, treatment in hospitals. In the centre of the organisation, in 12 Síp 
+Street, there was an Ambulatory Care Centre set up.
+As long as we could, we continued these services, even after the German invasion 
+on the 19th of March, 1944. Not much later, the Germans founded the so-called 
+Jewish Council, whose members were well-known. The city government ordered the 
+Council to hand over  by way of moving families together  500 furnished studio 
+flats for the use of non-Jews whose flats had been bombed. Following this order 
+the Council had to set up a housing office to handle the case of apartments, and 
+I was made its administrative head. People in contact with the authorities were 
+Dr. Kurzweil and Dezső Bánó and their assistants. The director of the office was 
+Miksa Trebits, later Dr. Ármin Kun, further, there were around 100 lawyers 
+involved with their assistants. The next instruction of the municipal 
+authorities was to provide another 1,000 flats but these had to contain one or 
+two rooms already. It resulted in moving families together.
+Later on, the Germans and the Gestapo handed in various demands for flats. These 
+demands were placed through the group in contact with the authorities, which 
+comprised Dr. Mandel, Dr. Pető, Dr. János Gábor, and Dr. Gergely. These people 
+put the orders they had received into a written form and passed them to the 
+housing office as instructions. The office carried out these orders as delayed 
+as possible. 
+The next move was to decide which houses were to be transformed into the so-
+called "starred houses". Already before the decree came out we knew about it. 
+Moving together families had been more frequent in houses where the number of 
+Jewish inhabitants was more than 50%, therefore the process of moving together 
+was already advanced when the decree was published. First, it was supposed to be 
+finished in 24 hours. We made great efforts to get it prolonged with 3 days, and 
+having appealed a lot we got 8 days at the end. It was impossible to defer it 
+for longer than that, especially that on the eighth day, which was a Saturday, a 
+separate rule came out prohibiting the Jews to leave their flats. This put an 
+end to the whole process.
+Moving Jews together was finished by the said Saturday, but the only reason it 
+could be completed was that it had already started 2 weeks before the decree 
+appeared. On the sixth day, the Council decided to open all temples of Budapest 
+in order to let those move into who had no place to go to, while in the future 
+we could secure them accommodation. Nevertheless, only a few used this 
+opportunity as 95% of the Jews managed to move together. Moving people into the 
+temples meant another two days for us, tolerated by the municipal authorities, 
+when we could find accommodation also for them.
+Later, the Germans ordered to empty the zone of Pasarét, of the Castle and of 
+certain parts of Buda keeping a distance of 500 meters, later of 1,000 meters of 
+the Arrow Cross and other bandits who could not suffer Jews not even in their 
+neighbourhood.
+As far as we could, we tried to sabotage these rules. The way they resolved this 
+situation was throwing out the inhabitants of the houses in question, or by 
+deciding upon the date by which the houses had to be emptied. As a consequence 
+many came to the housing office to apply for a flat claiming that the German and 
+Arrow Cross bandits chased them out off their places. Arrow Cross men came to me 
+several times to ask me to empty houses for them so that they could use them as 
+clubs or offices of the party, what I naturally refused to do so. Therefore, 
+they constantly threatened me to teach me good manners. I complained in the 
+Ministry but of course no one listened to me. This happened still in September.
+The number of starred houses was initially 1,654, out of which 681 was taken 
+away in the following days: the whole of Buda, Zugló, etc. was emptied, so we 
+ended up with 973 yellow star houses.
+In brief this was the story of the Housing Office.
+
+ 
+Around the middle of 1944, on the order of the Ministry of Defence Colonel 
+Heinrich came to the Council and told us that Jewish men and women belonging to 
+a certain age group had to start working as there was a need for clearing the 
+debris in Budapest. Again I was appointed as the administrative head of this 
+job. We enrolled more than 60,000 people for this objective, but thanks to 
+successful sabotage there were only 1,500 who actually started working.
+We absolutely refused to enrol women and let them work. As a result women did 
+not start working not even later. When authorities saw that we sabotaged the 
+whole process of clearing the debris and there was already need for Jewish 
+workforce to dig the trenches, gendarme Lieutenant Colonel Ferenczy took the 
+lead instead of me. The Council ordered Ferenc Schalk to enrol people in 
+Pozsonyi Road and to perform also a military health control. This was sabotaged, 
+too, and had no results.
+Next, the Ministry of Defence withdrew the commission of Colonel Heinrich and 
+gave it to Captain Gobbi who we managed to convince to have the people enrol 
+again, this time in the presence of military doctors. But we sabotaged this, 
+too. However, as a result of the strong pressure a few hundreds of people were 
+taken away to work on the trenches close to Pest.
+I would like to note that the Labour Group of Gödöllő headed by Captain Bortits 
+and his soldiers sent patrols to Budapest, and in certain houses these people 
+rounded up men and women in order to force them to work. As much as we could, we 
+tried to obstruct them. When at dawn people were forced to gather in the 
+courtyard I was rang up in my flat. Almost every time I asked for the help of 
+the Ministry of Defence, or of the army corps headquarters, what I duly received 
+and soon I was racing by car to the place in question together with an officer. 
+The officer dismissed the patrol and the people standing in the courtyard could 
+return to their flats. At the end, these frequent emergency actions attracted 
+the attention of higher authorities.
+This was followed by the well-known coup of Szálasi of the 15th of October. The 
+next day in the morning, I went to the office in 12 Síp Street, where there was 
+no one except for Miksa Domonkos. No one had the courage to appear. Still in the 
+morning the ill-famed detectives of the Hungarian Gestapo came to the office, 
+they took me away to the police headquarters, where they beat me up and made me 
+suffer all forms of tortures that humans invented because they considered me 
+their chief enemy who sabotaged everything. They left me covered with blood for 
+4 days, starving and not thirsty, then took me to Svábhegy to carry on with 
+their well-known games. The Council and some military personages intervened in 
+vain, yet, they let me free under strong pressure from the Swedish Embassy. 
+Their condition was to make me appear in front of Lieutenant Colonel Ferenczy, 
+who was to instruct me to organise the ghetto. Together with Lajos Stöckler, the 
+current president of the Jewish community we got an appointment from Lieutenant 
+Colonel Ferenczy for the next day. Naturally, I failed to go, since 
+contemporaneously I was made appear at the Swedish Embassy where I received 
+asylum and was instructed to organise the protected ghetto of the Swedish and to 
+lead the charity department what I continued to do till we were liberated.
+Working for the Swedish I organised the ghetto. We selected 32 houses to serve 
+as protected houses (Swedish protected houses), then we established a Swedish 
+hospital in 16 Tátra Street, and various bodies of the Swedish Red Cross in 
+different parts of the city, altogether 10 to 12. Furthermore, there was even a 
+foster home under Swedish protection.
+It was also our job to provide food supplies to the protected houses, and to 
+accommodate the protected people. The Ministry authorised a list for 3,000 
+people protected by the Swedish, but we also hid in the air-raid shelters more 
+than 3,000 people, out of which more than 2,000 were supposed to do labour 
+service, many of whom had been taken off the wagons by Secretary Wallenberg. 
+People protected by the Swedish enjoyed a privileged state mostly because they 
+were remarkably disciplined, and the whole organisation was well-administered, 
+hence it gave no reason for attacks. I also lived in the building of the 
+Embassy, and when they were about to abolish Swedish protection I moved my 
+office to 6 Tátra Street, another building of the Embassy, to be ready to help 
+in all circumstances.
+The 15th of January, 1945, I approached the head of the 50 policemen who served 
+the Embassy, and attained that these policemen did were not thrown into battle. 
+As a result, they violated the command and stayed on their place. I persuaded 
+the person in command to dress labour servicemen doctor Wirth as a policeman - 
+since he spoke good Russian -  and to go to the Russians as negotiators together 
+with him and two other policemen, to show the Russians the way to our place. 
+There were neither Germans nor the Arrow Cross nearby. The mission was a success 
+and the Russians appeared with the policemen early in the morning of the 16th.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

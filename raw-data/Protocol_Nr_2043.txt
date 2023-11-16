@@ -1,0 +1,657 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 2043
+        </h1>
+       </div>
+       <a href="?showjk_img=2043" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         dr. M. Z.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1916
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         wife of an attorney
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Debrecen
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Unterlüss, Bergen - Belsen
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         B. Z.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1925
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Unterlüss, Bergen - Belsen
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         dr. M. L.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1905
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         wife of a physician
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Unterlüss, Bergen - Belsen
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The people in question have given us the following information:
+
+Mrs Meisels husband was a doctor, who had many patients in Munkács.
+Mrs Moskovics husband was an articled clerk, but he had no office yet. 
+
+Mrs Meisels tells:
+
+After the Germans entry German soldiers were ravaging in the city. They shot in the locks of 
+the gates to frighten us, they woke up people who were sleeping peacefully and they 
+committed thefts and burglary. They asked one of the tradesmen in Munkács for money, but 
+he refused them; later they called on him and shot him.
+
+We went into the ghetto on 19th April. Those, who, for some reason, registered at the police 
+in the preceding two years, were taken to the ghetto at the brickyard outside the city. There 
+was some disturbance every day, there were scuffles here and there; sometimes the area of the 
+ghetto was reduced. On those occasions we had to pack up and move within half an hour. This 
+provided a good opportunity for our belongings to disappear, to get lost, slowly. Once my 
+uncle asked us to help them pack and move; the above mentioned Zsuzsa Bernstein gave us a 
+helping hand. During the moving one of the SS henchmen kicked her from behind. Usually 
+they beat every Jew as they could, by hand or with butts for no reason.  
+
+Soon after that, they took us to the brick factory. They gathered about 12,000 Jews on the 
+market place, they queued us up in lines of five and set us off. Old and ill people were put on 
+trucks, then military gendarmes and policemen stood on both sides of the lines and beat us 
+with clubs. Those, who could not march fast enough they gave a sound beating. From the 
+ghetto they took us first to the police for interrogation, where detectives from Pest performed 
+the noble duty of questioning. They were, of course, equipped with lashes. They were most 
+interested in hidden or supposedly hidden valuables. This journey claimed lives: those who 
+could no longer march were shot, other people collapsed as they were unable to proceed 
+further. Towards the end of the three-kilometre-long march people began to throw their 
+baggage and food away, in order to bear the march better. Sometimes a child was left on the 
+way; children unconscious from exhaustion were lying on the edge of the road. Most of those 
+who did these cruel things were probationary policemen. Dr István Engelbert was the mayor 
+at that time, while the police superintendent was called Csetényi. The latter behaved quite 
+correctly. Although there was General Fehér too, who ordered Jews to wear a yellow patch in 
+his own sphere of authority, already before the official decree of the yellow star. He was also 
+the one to designate six streets where Jews were forbidden to go. He organised raids; a lot of 
+people were beaten up at those occasions.   
+
+Men were taken out from the brick factory for physical exercise, during which serious 
+beatings were common. Policemen came almost in every hour to ask whether we still had 
+handbags, suitcases or other valuable belongings. We spent a week in the ghetto of the brick 
+factory, then we were entrained with the last transport.
+
+Mrs Moskovics tells:
+
+I was, by chance, staying in Debrecen in April 1944. I was visiting my relatives there. Some 
+days later, after the Germans had entered, a ghetto was designated in the city, which was 
+reduced several times. All the windows opening to the street had to bee covered completely 
+with planks. We spent about three weeks in the ghetto of the city, then they took us to the 
+brick factory ghetto. The roofs of the buildings had holes in them and we were lying on the 
+ground in the mud in the brick factory. There was, among others, a young SS soldier, who 
+wanted us to jump to attention when he entered. If, by accident, we failed to notice him 
+entering, he beat us all up for our inattention. There were roll calls all the time, the wealthier 
+people were taken to the counter-intelligence, where they were beaten terribly. They often 
+held house and body searches after which only 2-3 pieces of clothing were left. Towards the 
+end of May we were entrained. 75 people were put in one cattle car. Nobody died in our cattle 
+car, nobody escaped either. We were given only a little water when we departed; we suffered 
+a lot from the lack of water. We heard and we were also made believe that we were only 
+going to work on Transdanubia. 
+
+Mrs Meisels: 72 of us were travelling in a cattle car. We got water and buckets to serve as 
+toilets on the way. There was a teacher called Dr Irma Schul among us. I began to talk with 
+her when suddenly two bullets hit her while talking. We do not know how, from where they 
+came. This happened already at the entrainment. We, who were in the cattle car, did not 
+notice the shot, we only noticed that a thin line of blood was running down on Dr Schuls 
+face. When an SS man asked how old she was and we answered 38, he responded 
+indifferently: "Sie hat schon genug gelebt, heraus mit ihr!"
+ 
+
+We arrived in Auschwitz after a three-day-long journey. The train arrived at the station at 
+night but we were let out of the train only at dawn. Our baggage were left in the cattle cars, 
+we were made to stand on the left side, they took us into the disinfecting building, there they 
+stripped us naked, cut our hair, while the officers were walking up and down laughing at us. 
+We had to do everything quickly, while the lashes were working. After having bathed us, they 
+set us stand in the courtyard, where we were standing for hours. Finally they took us to a 
+block in Camp C. One thousand or one thousand and fifty of us stayed in a block, eleven-
+thirteen women slept side by side or on top of each other on a bunk without blankets. Later it 
+happened that 16 of us slept there; our sweat stuck us together. We were not allowed to go to 
+the toilet, we continuously suffered from cystitis. Often we could not wash ourselves for 3-4 
+days. They woke us up at three in the morning, then we had to be lining up for roll call till 
+seven oclock, but beforehand we had brought in the cold and bitter slop, nicknamed coffee 
+from the kitchen. Block curfews were held all the time, then we were only hanging around, 
+we did not know what to do. 
+
+Our feeding deserves a separate chapter. Food was brought in a pot. 12 people were fed from 
+the same pot, we had to go to the pot one by one and eat the food without a spoon. Several 
+times we got painful infections of the mouth from each other, which lasted for days. They 
+were said to have put bromide in the food, which also caused the erosion of the palate. 
+
+There always were selections; those who lost much weight or caught scarlet fever in the days 
+of the epidemic were taken away and we never saw them again. We did not see the 
+crematorium, we only heard that those miserable ones who were taken there were given a 
+soap and a towel, as if they were going to the public baths. We also heard that they threw 
+small children in the fire alive. 
+
+After three months they selected us for a transport. They took us to disinfection, but this 
+happened only the next day. We were standing there on the road, we were so tired that we lay 
+down in the dust. We had no food, no blankets. The disinfection was done at dawn the 
+following day, then they took us to another camp. There they stripped us naked, they took our 
+shoes and clothes away. We thought they were taking us directly to the gas, since we had 
+heard that those, whom they intended to execute in the gas chamber they stripped naked 
+beforehand. Then they gave us a pyjama coat and a skirt, but we had no underwear and no 
+shoes, we were lining up for roll call like that. There was no water in this camp, neither for 
+drinking, nor for bathing purposes. There was no toilet either. They brought water from the 
+street, which was not sufficient for 30,000 people. People killed each other for the water; we 
+had to be queuing up for hours if we did not want to miss the chance to wash ourselves. 
+
+We spent four days in that camp, then they put together a big transport and took us to 
+Unterlüsse. We were given one and a half loaves of bread, 3 portions of sausage and 3 
+portions of margarine for the journey. 50 people were travelling in one dirty cattle cart, we 
+could not even find place for our bread because it was so dirty there. 
+
+In Unterlüss we had a better time. We had separate beds and blankets. Although, there was an 
+SS woman called Susanne Hille, whom we never saw without a rubber lash. She beat us 
+without any reason: it was enough for her if somebody passed by her. If she gave us 
+something and we thanked for it she told us not to thank for anything, because if it depended 
+on her she would not give us anything. She held back the toe rags, she did not distribute them 
+throughout the winter. Even if we managed to get hold of some rag we received 25 strokes 
+from her for it. There were groups of people who worked in a factory. We did building work, 
+then we worked in a forest: we cleaned and levelled the ground after the building operations. 
+We marched five kilomettrd to the workplace and back every day. The work time was eight 
+hours. In the factory they worked in a day-shift and a night-shift. They woke us up to go to 
+work at night, when the stars were still shining, and we got back to the camp and we could go 
+to sleep late in the evening. If we got wet in the rain and our only clothes were soaked through 
+we could not dry them, we had to work in wet clothes on the next day. We had only one piece 
+of underwear, which, if we washed it, we dried on the stove-pipe. Although, if they noticed it, 
+they beat us for it, because we damaged the government property. 
+Before the English entered, the SS men escaped on 12th April, and we were handed over to 
+the chef of the kitchen. He surrendered us to the police. They transport us to Bergen-Belsen. 
+There we were housed at the same place where people suffering from serious typhus fever 
+were lying and lice were climbing on us by the thousand. Dead bodies were lying beside the 
+living people in their own excreta. When we saw this, we said it was the end. We sat on the 
+ground not having enough room to lie down. Brawls, killing, howling were going on all night 
+long for a foot of place. It was hell! Dead bodies were lying there among the living for two or 
+three days after they had died. It was already the third week since there had been any bread 
+there and the water was cut off, there was no possibility to bath at all. People got typhus fever 
+or died of hunger one after the other. One day after our arrival an SS man came and said that 
+we had to work. We were all healthy, so he took us to the place of work: a gigantic heap of 
+cadavers. It consisted of female bodies only; they wanted us to clear it away. But we were 
+reluctant to touch them, since all of them had died of typhus fever. Our Lageralteste asked 
+whether we chose execution by shooting for refusing the work we were assigned to do. We 
+were so desperate that we said we did, then we escaped. We were extremely lucky: on the 
+following day, on 15th, the English liberated us and thus we were saved. It made us very 
+satisfied to see that the SS men cleared away the heaps of cadavers. 
+
+After our liberation we lived in tents, then in SS flats. Meanwhile we fell ill, and they took us 
+to Bergen, where we were lying in typhus fever for nine weeks. After we had recovered, we 
+came home to Budapest with a Czech transport through Prague and Bratislava. 
+Our plans for the future: We are absolutely bewildered as yet; later we may decide to 
+emigrate.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

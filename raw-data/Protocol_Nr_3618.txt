@@ -1,0 +1,995 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3618
+        </h1>
+       </div>
+       <a href="?showjk_img=3618" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         dr. L. L.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szeged
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1889
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szeged
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         merchant
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szeged
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest - Columbus utcai tábor
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+ 
+On the 8th of May, 1944, with respect to their merits in war 6 Jewish 
+officers and I as a reservist captain were called up by the headquarters in 
+Szeged in accordance with the laws of those times. These were Dezső Beck 
+(of Szőreg), Dezső Patzauer (Szeged), Dr Márton Weisz (Szeged) and Lénárt 
+(Szabadka). The goal was to enrol the Jews who had merits in the last war 
+into the troops of the labour service so that these privileged people would 
+make up half of the guards and the commanding bodies. There had been 
+already a company like this put together in Szeged, where the second 
+commander was Reservist Lieutenant Sándor Stein. 
+ 
+Six of us together with a relevant number of non-commissioned officers and 
+an equivalent number of non-Jewish officers with non-commissioned officers 
+were directed to the call-up centre of Szamosújvár by the headquarters in 
+Szeged. The headquarters of Szamosújvár did not yet receive the relevant 
+decree of the Ministry of Defence, therefore we Jews were sent back to 
+Szeged with an official letter of exemption after a few days stay. The 
+headquarters of Szamosújvár had to react this way also because the Jews of 
+the area and also of all of Transylvania had been concentrated in the 
+ghetto of the brick factory already at the beginning of March. 
+ 
+The Hungarian police and gendarmes ignored the call-up published by the 
+Ministry of Defence ###  
+ 
+### it was ... (prohibited) to open the windows of the flats, moreover, 
+devices of gas and electric meters were taken away. Let us remember: in 
+overcrowded flats, where people, as I have said, hardly knew each other! 
+This is of course nothing compared to what followed later, but behind these 
+measures one can imagine the anonymous members of the authorities with 
+intentions to make people suffer. Police Counsellor Kamarás protested 
+against dismantling the gas and electric meters, moreover, he was informed 
+that this would not be ordered. 
+ 
+ 
+By the 15th of June, authorities considered the phase of moving Jewish 
+people into the ghetto finished, and the time was ripe for making the 
+suffering people experience new terrible torments. The sadism of the 
+authorities was exceptional. At 9 pm the infamous commander of the ghetto, 
+chief consultant of the police Keresztes, appeared at the gate with his 
+squad, that is, with his permanent deputy police inspector Kovács and 
+several other non-commissioned officers from the police. We cannot deny 
+that the latter, except for a few, treated the people in a humane manner; 
+in their own way they tried to alleviate the suffering of the victims. The 
+chief consultant called together the leaders of the houses of the ghetto 
+and told them his instructions regarding the day after: by 6 am the whole 
+ghetto should be ready to leave. This order revealed great malevolence as 
+well, since even children knew it was impossible to search and carry away 
+so many people with the available vehicles. But its goal was accomplished. 
+There was panic among the tormented people of the ghetto. A great number of 
+them committed suicide. It was horrible to listen to the noise of the 
+ambulances which were called into the ghetto all night. 
+ 
+All these unprepared, rushed instructions given during this fatal night 
+were irresponsibly shallow. The chief consultant mercifully gave his 
+consent to the propositions we made, with a false benevolence and 
+misleadingly on purpose. If anyone was informed he was surely one of the 
+best informed. He knew why the building at the corner of Margit Street No. 
+20. was designated to be the place where the deportation and the transports 
+should start. It was because they wanted to use the ground floor and the 
+storey of the house as places where they could rob the tortured people, and 
+this robbing was officially called by the euphemism: police search. 
+Naturally, they did not tell us the objective of the transport, or its 
+destination. Why to tell in advance, when being silent can only increase 
+panic in the frightened people? 
+ 
+Searching people was carried out the following way: The victims were let in 
+through the gate of the religious house facing Margit Street, and were 
+tortured as if on a conveyer belt in the flat on the ground floor and in 
+the offices on the first floor. The robbed people could leave through the 
+gate looking at Josika Street. Between the two gates no mortal, that is, no 
+one who was meant to be searched or was already searched could communicate, 
+so that the inhabitants of the ghetto would not learn how much they were 
+going to be robbed, including those, with regard to whom the chief 
+consultant ### 
+ 
+ 
+### Immánuel Lőw, who was still mentally a bright person at the age of 91 
+() it is the shame of Szeged that no one among the free citizens did 
+intervene in the slightest way for him, for a person who passed a century 
+in Szeged. As a result of the gratitude of his home town, he died three 
+weeks later, on the 19th of June from the disease he was infected with on 
+the top floor of the oven of the brick factory. His deportation suited the 
+reputation of Szeged. It meant the deportation of a member of the foreign 
+academies, of an honorary doctor of universities, of an ex-member of the 
+Upper Chamber of the Hungarian parliament. 
+ 
+On the 20th of June, a Wednesday, the last members of the Jewish population 
+of Szeged were driven into the brick factory. A great number of old and 
+sick people were taken from the Jewish hospital which had been hastily 
+set up in the place of the orphanage and the local charity. 5o clock in 
+the afternoon, the head of the whole kidnapping action, the SS captain 
+Angermayer appeared by car at the gate of the brick factory having already 
+inquired from Dr. Imre Deutsch  whom he had known from the Supportive 
+Office  whether me and Dr. Jenő Frenkel, Ernő Kertész, Dr. Adolf 
+Silberstein, and Dr. József Radó were in the camp. He called us to his car. 
+The fact that he had primarily made an inquiry regarding us reveals that 
+our names were given to him some way, and it was not us who had approached 
+him. 
+ 
+Of course, we had no clue why he gathered us. Neither did we know why he 
+picked us and not others. The captain gave me a long German letter (as I 
+knew German the best among us) that came from Budapest and I had to read 
+it. The author of the letter, to the surprise of all of us, was the manager 
+of the Keren Hajeszod, Ernő Szilágyi, an old Zionist friend of us. Our 
+names were listed at the bottom of the letter. This explains why only 
+Zionists got together here. I recognised his signature as original and also 
+the people next to me. It necessarily crossed our mind that the German 
+commander wanted to use us for a kind of trick, since it was a German who 
+passed us the letter. In this letter Szilágyi approached us as his old 
+friends, telling us that he was going to ease the condition of the Jews of 
+the country. Since his letter was passed through German hands of high 
+officers, he could not communicate it openly. We were also worried not to 
+be used as spies against our Jewish brothers. 
+ 
+Szilágyis mission was to select 3,000 Jews from the camp according to the 
+following criteria: 
+1. families with many children 
+2. families of labour servicemen 
+3. members of the families of those who prominently participated in the 
+religious bodies of the Jews. 
+ 
+The captain demanded this list be prepared in two days, by Thursday 5 pm. 
+He expected us to keep everything in absolute secret, this is why he did 
+not allow me to translate Szilágyis letter into Hungarian so that no 
+bystander could understand it. Next to the three criteria listed in 
+Szilágyis letter there was an inventory attached which was prepared in 
+Budapest. The captain meant to give us this inventory only Wednesday 
+evening, because he wanted to control also this way whether we did not put 
+on the list people who did not merit it. In case we did not include someone 
+from the inventory of Budapest into the final list we were expected to 
+explain our reasoning, and also to prepare a separate list of these people. 
+Among these were Dr. Róbert Pap, Pál Hoffmann and Imre Weisz. 
+ 
+To finish our job faster the captain gave us a typewriter, pens, carbon 
+paper and manifold paper. 
+ 
+We set up our office in a small room of the factory. It was furnished in 
+the most primitive way. Through the glassless windows hundreds of flies 
+flew in from the neighbouring junk heap. In front of the door there was a 
+mound of slag slippery because of rain so the room was hardly accessible. 
+Our tables and chairs were planks laid on bricks. This is where we toiled 
+from dawn to dusk, often at candlelight till late night. 
+ 
+The day after, Wednesday morning, the inhabitants of the camp had to be 
+counted. Not to be upheld in our work, they started the whole process with 
+us. This revealed for everyone in the camp that we had a special mission. 
+When the counting was finished one of the SS sergeants (the person who was 
+the most compassionate with us among his companions in the next days) gave 
+us the inventory originally attached to Szilágyis letter, the so-called 
+"Prominent List". Analysing the names in this list we could conclude that 
+it had been put together by the National Office, the Orthodox Central 
+Office and the Hungarian Zionist Association (MCSZ) in agreement with each 
+other. But knowing how much German executives bodies were malicious and 
+dishonest, we could not get rid of the idea that this selected group of 
+people were to be used as hostages. 
+ 
+We have divided the work between five of us the following way. We who came 
+from Szeged dealt with people of Szeged, the gentlemen of Hódmezővásárhely 
+prepared the list of the people coming from the countryside communities and 
+were aided in their work by the religious heads of the communities. There 
+were 8,400 people in the camp, half of them from Szeged, hence we had 1,500 
+places on the list. 
+ 
+In order to sustain our work the captain gave us the register of the city 
+of Szeged which he had had prepared still during springtime through the 
+office of the religious community. It turned out during the process of our 
+work that this list was completely unreliable, therefore it was the source 
+of a great number of just complaints. Since time was short and we were 
+unorganised we could not solve this problem. It was common knowledge that 
+the Bureau of the Food Administration did not register people according to 
+their religion but according to their race. As a consequence those who had 
+converted long ago were registered as Christians and were not included on 
+the list we had to use. As a result we had no idea how many converts there 
+were in reality in the brick factory. 
+ 
+We prepared the list for the train. There was a list of 3,000 that was not 
+made public although this was the original goal of our commission. The 
+captain came to our office Wednesday afternoon and to our shock invalidated 
+the instructions he had given us the day before. 
+ 
+According to the new order the number of people who could be included on 
+the list was not 3,000 but only 2,400. Except for the prominent people 
+children could be accepted only under the age of 12, adults only older than 
+50. We right away countered that 50-year-old parents do not have children 
+younger than 12, therefore this instruction separated members of families 
+from each other. Und wenn schon, dass ist kein Standpunkt! Dass 
+interressiert uns ganz und gar nicht" the SS captain responded shortly, and 
+no pleading could change this heartless attitude. "Morgen 5 Uhr alles 
+durchgeführt! Verstanden? Sie haften mit dem Kopf!" He also assured us that 
+he was going to count the selected people and those who were not included 
+into the throng of 2,400 would be shot in the presence of the others. 
+ 
+I cannot detail how much the five of us were disheartened. We knew that the 
+German captain, who showed no mercy towards the old, the mortally sick, and 
+the pregnant would not let anyone make a joke of it. The five of us agreed 
+that we would at least protect the young (as it happened in the case of the 
+Youth Aliyah meant for Palestine), if this list gave any kind of protection 
+at all to anyone. 
+ 
+The list was ready on time, by Thursday 5 pm. The five of us, who were 
+safe, unanimously thought it was awful. If it were to have any role, it 
+would lead to the separation of members of families. Late afternoon, the 
+inhabitants of the camp were ordered to appear in the courtyard of the 
+brick factory and the captain had this terrible list read out to them. Each 
+person listed had to pass in front of him so that he could personally 
+control whether we complied with the rule regarding the age limits of 12 
+and 50. A tremendous panic came to the people after the list was read out. 
+As we did not even knw what significance this list had, the rest of the 
+camp was even less informed. However, everyone felt that it could mean only 
+something terrible if parents and their small children could not be 
+included in the same group. 
+ 
+If we look at it today, perhaps we would reckon that this instruction 
+expressed the greatest benevolence of the Germans towards us. Now, we would 
+be glad about this selection. But no one among us could understand or 
+appreciate a command that let the young and the old go to Austria instead 
+of Auschwitz only to survive it. In Auschwitz middle-aged men and women 
+were not touched. Only the captain knew how the selections in Auschwitz 
+functioned, that members of families would be separated anyway, it was only 
+a matter of time when they had to go through a selection like this, either 
+in Szeged or elsewhere, but this way the major part of the members of the 
+Szeged camp may survive. 
+ 
+Seeing this terrible panic the captain retreated. The anxious Jews could 
+not calm down any more. But no one can blame the five members of our 
+committee that we did not react in a more thoughtful and foreseeing manner 
+among the throng of panicking people. 
+ 
+This confusion was only purposefully strengthened through the games of the 
+German officers and their deputies. This was still new to us, but since 
+then we have heard from many camps how masterfully the Germans played these 
+nerve-racking games. There was not much necessity to it, only to give 
+contradicting orders day after day. And when mothers were lying 
+unconsciously on the ground all over, the captain made the off-handed 
+remark: "Na ja, das hat die bekannte jüdishe Herzlosigkeit getan! Dieser 
+Unsinn, die Familienmitglieder von ainander zu trennen." 
+ 
+It is an important detail regarding the list for the trains that whereas 
+the captain had annulled it Saturday morning, the 24th, he kept to his order 
+given on Thursday that 3,000 of those who had not been enlisted by the 
+nullified list of 2,400 had to entrain Saturday as the first transport. In 
+those days we were outraged by contradictory orders like that. Now, we know 
+very well that these confusing measures were a disguised means of torturing 
+the Jews, something that the Germans commanded so well. Innumerable fathers 
+and mothers left with this first entrained transport not to be separated 
+from their children. Many converts joined this group, too. Great numbers of 
+relatives of labour servicemen kept with this group as well since they 
+hoped to meet their relatives in labour service because the Germans spread 
+the information that this transport would travel only a few hours and would 
+remain in the country. Germans also said that the transport would go 
+directly to Topolya. There were some who left because his or her relative 
+had been interned there in the spring. No wonder that the people who were 
+able to bring Auschwitz into existence delighted in provoking so fraudulent 
+situations. We cannot be made responsible for the spread of these rumours 
+in the camp, as we were as much the victims of the Germans in this question 
+as the other 8,395 prisoners of the brick factory. 
+ 
+As I have said the final list of 2,400 people meant for a transport was 
+ordered to be prepared on Saturday. We attempted again to get permission 
+for the original number of 3,000 but unfortunately in vain. The criteria of 
+the selection were already the original: families with lot of children, 
+relatives of labour servicemen and prominent figures of Jewish public life. 
+ 
+The question may be raised why the men who made the selection in the brick 
+factory of Szeged did not include on the list each relative of the labour 
+servicemen from Szeged. First, the limit of 1,200 was not enough if we were 
+to consider all three criteria of the selection; second, we could not 
+consult any register of all relatives of labour servicemen, and the captain 
+did not allow us to make any of our work public, so we could not prepare a 
+list of the relatives of labour servicemen, and did not have the time to do 
+so anyway. We made up for this deficiency using Frenkels enormous 
+knowledge of the families of labour servicemen, since he had given 
+ministerial consolation to these people in an exceptional way since 1940 
+and personally knew each family. The reason why there were people wrongly 
+left off of this list despite this fact should be looked at in the panic 
+and chaos that pervaded the camp thanks to the demonic machinations of 
+German officers. The three people from Szeged who were responsible for this 
+list, especially the popular rabbi Frenkel, were besieged by such a number 
+of people that we were hardly able to work and think. 
+ 
+Naturally, as members of the committee we had no idea that the selection 
+was a decision between life and death. We did not know either about the 
+death camp in Auschwitz, or that our brothers in Szeged were going to be 
+transported there, or that the people on the list would be sent to Austria, 
+to chiefly benevolent people. There were only some hints of the Germans 
+that indicated that the majority of the people in the brick factory would 
+either get into a more unpleasant place close to us or into a more pleasant 
+place far from us. Concerning the list the Germans gave us the following 
+order: "Keine gebrechliche, Kranke, Alte"... and let the people believe 
+that the transport would pursue at least a two-week-long trip, which would 
+be prolonged also by long walks on foot. This created the false impression 
+that those on the list would be indeed directed to Palestine. 
+ 
+As I have said Jewish public figures sent us an inventory of around 160 
+names to influence the selection of the prominent ones. Several of these 
+came from our area. Now, we already know that more than one of these lists 
+was being prepared in Budapest. One of them was prepared with the help of 
+Dr Kálmán Balkányi, the former secretary of the National Cultural 
+Association of the Hungarian Israelites István Horváth, and Miksa Vértes, 
+and it also included some from Szeged, also converts. These contained the 
+names of some from Szeged and from the neighbouring countryside, and the 
+National Office and the Orthodox Office also suggested a few families. But 
+in the attachment to the letter by Ernő Szilágyi, which came to us through 
+the headquarters of the Gestapo on Svábhegy, only those names were included 
+that passed through the filter of the Hungarian Zionist Association, and by 
+the nature of the issue naturally no converts could be enlisted. 
+ 
+To give a full account of this affair I also need to mention the following. 
+It was still in May, 1944 that the agile journalist of Kolozsvár, Rezső 
+Kasztner managed to liberate 396 people from the claws of the Hungarian 
+local administration, more precisely from the brick factory close to 
+Kolozsvár and to bring them to Budapest, releasing them from the main 
+transport heading for Auschwitz or to other similar places. In their 
+interest he also contacted the headquarters of the Gestapo on Svábhegy. He 
+managed to find a place for this little group from Kolozsvár in the garden 
+of Sir Wechselmans institute for blind people. This camp came to be called 
+the camp of Columbus Street. They built more and more huts for the people 
+living there. The guards were made up of a few SS soldiers. Kasztner could 
+not lead more transports from Transylvanian localities to Budapest, 
+therefore he set his mind to save as many Jews as possible of the Alföld 
+from deportation. Originally they thought that everyone from the brick 
+factory who was on the list would get soon to Erec and this was what they 
+agreed with the Germans. This was one of the reasons why the Hungarian 
+Zionist Association could not put converts on these kind of lists. Dr 
+Kasztner acted everywhere as the representative of the MCSZ, usually 
+together with Ottó Komoly, the president of the MCSZ, hence the whole 
+issue, the instructions for the preparations belonged to the competence of 
+the MCSZ. 
+ 
+At this point I should like to deal with the attitude of the selecting 
+committee in the brick factory towards the converts. 
+ 
+As I have said the committee could not discern who were the old converts of 
+Szeged in the brick factory. The list prepared by the Jewish religious 
+community of Szeged was of no use as the old converts were not members of 
+the community, hence, they were not on the list. On the other hand, we knew 
+the attitude of Ernő Szilágyi, and of the Hungarian Zionist Association 
+that he represented, towards those who did not think and feel themselves 
+part of the Jewish community any longer. We knew they could not be offered 
+a place in the rescue mission meant for Palestine. Among the converts of 
+the brick factory the information was spread that the clergy or the Holy 
+Cross Association would effectively represent their interests. As a result 
+of this belief all converts moved together in a separate building of the 
+brick factory to be easily detectible for a future rescue team. It was 
+unthinkable that also non-converts could be involved in such a rescue 
+mission. It is then on the most simple basis of reciprocity that even today 
+the principles of the committee in charge of the selection cannot be 
+contested. Only revengeful busybodies can think the selecting committee 
+committed a crime against the people when they did not include people who 
+had long ago converted onto the list to the disadvantage of religiously 
+active Jews.
+ 
+In spite of all this, as members of the committee we did not have an 
+absolutely rigid attitude. Before the times of the brick factory the gossip 
+spread among the Jews of Szeged in a psychotic way that young women in 
+Slovakia escaped the fate of being victims of the inhumane instincts of 
+German soldiers through conversion. As a consequence several families with 
+daughters converted in Szeged. This was ignored by the Szeged members of 
+the committee. 
+ 
+Meanwhile, Kasztner went on agitating and fighting for the goal to save at 
+least minor groups from the hell in Hungary, recognising that trainloads of 
+masses could not be transported to Palestine. In theory, Germans gave their 
+consent also to this. As a result, minor groups were gathered later in the 
+synagogue of Aréna Street (further to the camp in Columbus Street), where 
+also a freight car of people from Szeged landed. 
+  
+This happened in the following way: On that Saturday when the German 
+captain gave the order to prepare the final list for the trains, the SS 
+captain dictated to me the following 12 names and made us prepare a new 
+list: 
+From Szeged: Dr Samuel Biedl 13, Rabbi Eugen Frenkel 5, Ábrahám Jungreis 6, 
+Dr Leopold Löw 10, Salamon Rosenstock 1, Dr med Lajos Schwartz 2, Michael 
+Varga 13, Imre Weisz 4; further from the country, from Hódmezővásárhely: 
+Rabbi Dr Adolf Silberstein 3; from Szentes: Rabbi Dr Josef Berend 4; from 
+Battonya: Rabbi Pinchas Durchslag; from Csongrád: Rabbi Dr Georg Kalmár. 
+These people and their closest relatives were to be put on a separate list. 
+ 
+We noticed that when the captain had given us the order to prepare the list 
+for the entrainment he let us see the original instruction; also the fact 
+that he failed to give us the official dispatch and did not let us consult 
+it either. We were sure that the dispatch listed even more names. A few 
+days later, in the camp of Aréna Street the names of those from Szeged were 
+read out again and we saw that we had been rightly suspicious. The captain 
+had changed the instruction that came from Budapest and deleted some names 
+from the list. The two last rabbis on the list had not even got into the 
+brick factory of Szeged. The captain did not listen to our request to put 
+other worthy rabbis in their place. In Pest it was not possible to know who 
+exactly was here. It is interesting how unpredictably masses can react to 
+certain happenings. Many of Szeged resented that their Frenkel did not 
+accompany them till Strasshof, while those of Makó resented that their 
+popular rabbi Ármin Kecskeméti did stay with them and as a result did not 
+get to Budapest. 
+ 
+It gave us another headache and a reason to dispute who to include in the 
+list as relatives, and where the people on this freight car-list would end 
+up. Were they going to be saved or would they become hostages? However, 
+knowing how much it mattered to people to stay together with members of the 
+family we decided to take the German instruction in its possible broadest 
+sense, thereby the 10 original names grew to 61 at the end. 
+ 
+On Monday evening, the captain took a woman to the window of our office 
+instructing us to put her and her family on the car-list. Dr Ignác Vas and 
+his family got on the list this way. The selection could not include all 
+relatives and friends of the given persons because it could have generated 
+resentment among those who were not included in the list. Since time was 
+short, the number of people in the camp was high, and the committee was 
+busy at work we did not have the opportunity to make public the criteria of 
+the selection given us by the Germans. This constrained silence gave then 
+the reason for the blind hatred towards the selecting committee from the 
+part of those uninformed, overly critical ones. 
+ 
+ 
+The 24th of June, the sad march of the first transport started towards the 
+railway station of Rókus. 
+ 
+It is the third day that the gloomy groups of the deported densely one 
+after the other are trudging towards the station of Rókus all day long. It 
+is one of the hottest June afternoons. Incitors of gendarmes! What has 
+happened? A good woman threw cherries to some children she knew on the side 
+of the road. This gesture of philanthropy calls for the coarseness of the 
+gendarmes. Have they perhaps never seen the placard "Do not curse!"? 
+ 
+Alongside the crawling people a wagon was pulled by a horse loaded up till 
+the sky with the last belongings of the deported. Around the belongings the 
+sick and the old were sitting. 
+ 
+But what? These rascals have made an exception to someone, who sits on a 
+chair on the wagon. And suffers everything in silence. He cannot see the 
+people next to him. God blessed him and took away his sight. This is indeed 
+a blessing of God that he cannot see what his sheep have to go through, 
+what happened to his temple, how they shoved the decorated pews out of the 
+temple and piled them up in the open exposing them to sunshine and rain, 
+how they tread on and extirpated the trees and bushes of his park. 
+ 
+And now 66 of them are marching towards the freight car, as many as the 
+number of years he had spread the word of God explaining the Scripture, 
+always in the same place, opposite the house where his cradle once had 
+rocked. In this eventful life of rich experiences, he never travelled in a 
+railcar of cows. Thanks to the city where he was born, and which he made 
+world famous, now he could experience also that. And there is the killer, 
+the bacterium in his lung that he gathered in the Dantesque hell of the 
+drying oven of the brick factory and that would take his life three weeks 
+later. Not even the news of his death was reported in a national journal. 
+The free press of the times did not report that he was tortured, made to 
+suffer, because they wanted to humiliate one of the greatest sons of the 
+city. He is now on the slopes of the Jewish cemetery of Buda in eternal 
+sleep. Air-raid alarms made up for the cries of his followers spread around 
+in the distance. The sounds of the clods of dirt thrown upon his coffin 
+were echoed by the explosion of the bombs. 
+
+ 
+A bug-eaten foil of paper with one of his orations: this is what fortune 
+has saved from the horrible devastation in which most of his writings got 
+destroyed, which is an irreparable damage to Hungarian science and 
+literature too. Here he addressed his followers with the following words in 
+the last years of his life: 
+"Solace has escaped my eyes", this is how we read today the word of the 
+prophets. There is no consolation for the sad state of our country. 
+ 
+The rescue work of our despair exhausts in squeezing newer and newer tax 
+sacrifices. As if one could expect the dry marc without its grape juice put 
+back under the press to bring a ripe harvest the second time, or as if the 
+mean toftman could squeeze honey from the empty honeycomb. Our public state 
+is a miserable common fasting. The only hope that remained for this common 
+fasting is that we cry to God as at dawn of all fasts: "Listen to our 
+crying words so that once our grateful heart can say Blessed is the mercy 
+of God who took pity on the country. 
+ 
+The first two transports left on the 24th and the 27th; each had 3,000 
+people. The unfortunate victims had to carry their belongings themselves to 
+the station. Only the sick could put their baggage on wagons and get on the 
+car themselves. At the station the guarding gendarmes basically stole 
+everything, claiming they needed to cram as many people as possible on the 
+freight cars. The chief officers of the railway station counted the hunted 
+people at the gate. When people got on they locked both doors of the car. 
+Naturally, they forgot to give water or food. For example, the second 
+transport of people stayed locked without food or drink for six days when 
+countrywide it was terribly hot. I do not know how many died out of the 15-
+20 seriously sick unfortunates. 
+ 
+The gendarmes carried back the belongings robbed from the entrained people 
+to the brick factory. On the road, they generously gave from these things 
+to the scum of the street. The following detail is revealing on what was 
+collected in the brick factory: experts estimated only the value of feather 
+from the pillows and bedclothes at 150,000 pengős, which was taken away 
+from the 6,000 men and women of the first two transports.  
+ 
+Apart from the Jews of Szeged primarily the Jews scattered around in the 
+neighbouring towns and villages were gathered in the brick factory: from 
+Makó, Hódmezővásárhely, Mindszent, Kistelek, Dunapataj, Kiszombor, 
+Csanádpalota, Pitvaros, Magyarcsanád, Földeák, and Újkécske. But what was 
+left in the brick factory! Who is responsible for the ruthlessness of the 
+entrainment and for the brutality of the travel? Why did no officer or 
+employee of the Hungarian State Railways (MÁV) apply the rule that concerns 
+the transport of animals regarding the provision of food and drink to the 
+case of these unfortunate pariahs? They think they cant be held 
+responsible. 
+ 
+The 28th of June, the gendarme lieutenant who directed the entrainment let 
+the entrained people suffer from thirst from the morning till 3 pm when 
+finally the German sergeant of the Gestapo (on the warning of others) 
+benevolently intervened. 
+ 
+According to the current view, Jews were not part of the nation, but their 
+property was a national possession. This was claimed in the decree of the 
+authorities, which took its roots in the propaganda against the Jews. 
+Despite this fact, the superficial, light-headed authorities of Szeged, 
+concentrating only on torturing the Jews did not worry about protecting the 
+ownerless Jewish possessions, especially the contents of the houses. Most 
+of them went to ruin on the courtyards of the Jewish temples. Authorities 
+did not provide for their protection but tolerated that the mob robbed what 
+the army passing through had left for them. This way it was indeed national 
+possession that perished with the knowledge and consent of the authorities. 
+Who is responsible for this? 
+ 
+Monday afternoon, the final list of the 2,400 had to be read on order of 
+the Germans to the inhabitants of the camp who were forced again to queue 
+up. Thereafter, still in the evening the Germans instructed the listed 
+people to occupy the left wing of the factory and the rest to occupy the 
+right wing. This latter group was entrained the day after, on Tuesday, and 
+was directed first towards Szajol, and finally to Strasshof, where also the 
+train of the enlisted arrived. Almost all the sick people of the hospital 
+of the brick factory, ca. 250, joined this Tuesday transport. Amongst them 
+were the most unfortunate of the camp, whom the madness of the Germans 
+drove into the brick factory from psychiatric institutes. As was promised 
+the people on the list of 2,400 were counted. The selection was successful, 
+we did not exceed the narrow limit. Still Monday evening, after the list 
+was made public the upset mess invaded our office. The captain took out his 
+pistol to command order. It was in vain. We wanted to use his presence to 
+convince him to increase the narrow limit and accept another 100 people on 
+the list. The captain remained adamant. 
+ 
+Naturally, in the brick factory we had no idea about the existence of 
+Auschwitz, even less about the fact that the first transport was directed 
+there. To accuse the members of our committee that we knew about the horror 
+that was going on and that we used our influence to consciously send there 
+people we disliked is an accusation as harsh as the one in the case of 
+Tiszaeszlár. 
+ 
+It is similarly false to accuse us of putting certain people on the list 
+for money. If they proved only one case any member of the committee would 
+offer himself for the well-deserved gallows. 
+ 
+Preparing the list we ran against German instructions twice only to help 
+the sick and the frail to get on the train. In the case of poor Dr Rex. 
+Saturday evening the news started to spread about the death of Dr Rex. 
+Later, he regained his consciousness but his medical colleagues did not 
+think he could stay alive longer than 1-2 days. We did not want this 
+outstanding person and good friend not to be buried in Szeged but left 
+somewhere dead along the railway lines. His wife and son were anyway on the 
+list so he was put on the car as an extra. We added the president of our 
+chevra Lajos Faragó, and his severely sick elder sister, too. The secret 
+plan was to join them to the numbers of the special freight car. The 
+aforementioned benevolent German sergeant, who accompanied the special 
+freight car to Budapest, seemed liable to allow us to do so but on Rókus 
+station he did not let them get on. On the railway station of Ferencváros, 
+where he had the special freight car emptied we started to plead and beg 
+him to let us snatch these deadly sick people and transport them to a 
+hospital of Budapest but he changed his mind and rigidly refrained. This is 
+how these unfortunate people ended up in Strasshof. 
+ 
+I mention here that university professors Béla Purjes and István Rusznyák  
+the latter had converted together with his family years before  were 
+entrained the 27th of June and taken away with the second transport in spite 
+of their privileged status. At daybreak the chief captain of the Gestapo of 
+Szeged appeared in their flat, allowed them 10 minutes to pack and drove 
+them by car to the brick factory, let them stay in line with the rest of 
+the queued up people and made them march with the others to the station of 
+Rókus. When this transport arrived at Strasshof (initially it was heading 
+towards Auschwitz but was redirected) the instruction was waiting for them 
+on the station ordering the five of them to turn back to Budapest, where 
+for a few days they were kept in the camp of Columbus Street. I wanted to 
+point out here that there were cases when people were taken home even from 
+so far away. 
+ 
+Lets theoretically suppose that we did not obey an order given to us, what 
+else could we do? Did we not select 1,200 Jews out of the 4,200 Jews of 
+Szeged? Either this or that. Either we obeyed a supposed order or we did 
+not. The only difference is that now not "A" but "B" would be among those 
+who are crying guilty!. 
+ 
+To tell precisely how many people we selected because of one criterion and 
+how many because of another one may be possible only if we still had the 
+list and we could reconstruct why each of the 1,200 of Szeged was enlisted. 
+But where would it lead to? It is anyway obvious that in those 
+circumstances and having the possible greatest compassion the results were 
+still far from satisfying. And did we not face the same death during the 
+whole year? There was the horror of Gössling! What difference was there 
+between brothers dying all there? Did it matter that there were among them 
+people from the prominent group, Israelites from the list and old 
+converts who were not on the list? How much time we would give of our own 
+life if these poor brothers could still be with us! 
+ 
+Further to the group of Szeged, people arrived in Aréna Road and Columbus 
+Street from Debrecen, Pápa, Szombathely, Sopron, Kaposvár, Sárvár, 
+Félegyháza, Csaba, Bácsalmás, and some families from the communities of the 
+brick factory of Budakalász. Except for the large group coming from 
+Kolozsvár there was no town from where so many people came to the camp as 
+from Szeged. Out of the 66 from Szeged, 12 went to Switzerland through 
+Bergen-Belsen, out of the 54 that remained there 13 died or disappeared, 
+that is, 24 percent. 
+ 
+The camp on Columbus Street was originally an SS-guarded internment camp. 
+In September 1944, the SS-guards left the camp in half an hour. We stayed 
+on our own for three weeks and lived like other inhabitants of starred 
+houses. Between 11 am and 3 pm we walked freely in the streets. 
+ 
+The era of Szálasi started October the 16th, when families of Pest and 
+labour servicemen came flooding into the camp and attracted the attention 
+of the Arrow Cross. 
+ 
+The 3rd of December, my family and I were taken to the ghetto of Pest where 
+the 5th of December I was made head of the district. We stayed only a few 
+days there, then we moved to the Swedish protected house on Pannonia 
+Street. We stayed there till the 24th of January, 1945. After the capture of 
+Budapest I returned to Szeged with my family. 
+ 
+My plan for the future is to move to Palestine with my wife and two sons as 
+soon as possible.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

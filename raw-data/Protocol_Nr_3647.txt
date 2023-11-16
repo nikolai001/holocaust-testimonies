@@ -1,0 +1,739 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3647
+        </h1>
+       </div>
+       <a href="?showjk_img=3647" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         E. E.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         librarian
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+Since the 1st of October, 1942, I was employed as a librarian by the Israelite 
+Community of Pest, in the community library no. I. This job was only in the 
+afternoons, in the morning I worked in the National Széchényi Library of the 
+National Museum. 
+
+The 19th of March, 1944, I got the instruction to go in my office in the museum 
+the next day, on the 20th. Here they told me that I had to take days off for an 
+unknown period of time. The same day Dr. Jenő Munkácsi instructed me to appear 
+in the central office of the religious community, as there may be a future need 
+for a German correspondent. 
+
+The 21st of March, 8 am, I went to see Dr. Munkácsi who told me the following:
+
+The first time the Germans came to the central office in Síp Street was on the 
+19th of March, 5 pm, when they were looking for Samu Stern, the president of the 
+religious community. As these were not office hours they only found the troupe 
+of National Cultural Association of Hungarian Israelites art club in the 
+building, and its director, Dr. László Bánóczi. He told them he had no idea 
+where Samu Stern was. From the religious communitys board Dr. Károly Wilhelm, 
+Dr. Ernő Pető, and the secretary Dr. Munkácsi met the same day with Samu Stern 
+on the flat of the chief notary, Dr. Hugó Csergő. 
+
+The Germans instructed Dr. Bánóczi to convene 30 Jewish typographers in the 
+printing office Világosság by 9 am, Monday. 
+
+Monday passed without much happening in Síp Street, but the Germans appeared in 
+the building of the orthodox religious community in 35 Dob Street, and chased 
+the students, their teachers, and the officers out of the place of the religious 
+community into the temple in Kazinczy Street, and told them that the building 
+was to be emptied for a German garrison to be accommodated and was to be handed 
+over. Hauptsturmführer Br. von Wisliceny, the person who had been in charge for 
+liquidating the Slovakian Jews,  was appointed to carry out anti-Jewish measures 
+here. He stayed in the headquarters of Vasas in Magdolna Street. He was at the 
+same time the chief commander of the internment camp in Szilárd Rökk Street. 
+
+Monday the 20th, the Gestapo started to gather the so-called plutocratic Jews, 
+amongst them Dr. Károly Wirth and Adolf Wertheimer, the president of the 
+Hungarian Israelites Literature Society.
+
+Monday afternoon, Wisliceny made Samu Stern appear before him, and told him that 
+the day after at 5 pm he and his squad was going to come to the office in Síp 
+Street, where all officers of Jewish institutions should convene. Samu Stern 
+mentioned the arrest of Dr. Wilhelm and Wertheimer, who were let free the same 
+day. 
+
+When Tuesday morning I went to the indicated place, I was given a confidential 
+position right away: I had to join the group in contact with the authorities. 
+The groups was headed by Dr József Vági, the advocate of the religious 
+community, its members were lawyers Dr János Gábor, Dr György Gergely, and Dr 
+László Pető. 
+
+Tuesday 11 am, we had to be in hotel Astoria. The following people were present: 
+school superintendent of the religious community Dr Zoltán Kohn, Dr József Vági, 
+Dr János Gábor and me, although I was later sent back to Síp Street because we 
+had to wait so long that the gentlemen in Síp Street needed to be reassured. 
+When I arrived to the office in Síp Street I entered the room of Samu Stern 
+together with a German officer who cried at Dr. Ernő Pető who was sitting there 
+"If I enter the room, you filthy Jew stand up!", then he demanded in the loudest 
+possible way 100 buckets, 100 brooms, and 100 scrubbing-brushes to clean the 
+building in Dob Street.
+
+In the afternoon, Wisliceny finally arrived. There was also Obersturmbannführer 
+Krumey and some SS soldiers with him. In the hallway Dr Gábor received them. His 
+excellent German knowledge apparently won them, and as a result Dr Gábor later 
+was almost a persona grata in front of them. Samu Stern waited for them also in 
+the hallway, whom Wisliceny greeted the following way: "Ich bringe Ihnen gute 
+Nachrichten Herr Hofrat." He declared to the gathered Jewish leaders that 
+nothing bad would happen to the Jewish community if they obeyed to the commands. 
+
+Since the 19th of March masses of Jews of Budapest had tried to escape into the 
+countryside. Railway stations got closed, also the port and the stations of 
+local trains. Wisliceny raised this issue and stated that running away into the 
+countryside made no sense at all. 
+
+I have to note here that dr János Vázsonyi wanted to travel to the estate of his 
+wife from the port of Eötvös Square but was caught there together with all 
+members of his family. 
+
+Later, Wisliceny also mentioned that masses of Jews had withdrawn their money 
+and valuables from the banks. This made no sense either  he claimed  as they 
+did not want to cause harm to anyone. Upon that point the meeting ended. 
+
+Already in the first days they set up the aforementioned internment camp in Rökk 
+Szilárd Street. Preparations were mainly done by the students and teachers of 
+the rabbi seminary, but the necessary straw mattresses and other objects had to 
+be provided by the Jewish Council.
+
+The Jewish Council was assembled by the Germans. March the 20th, the president 
+of the religious community asked for further information from the Ministry of 
+Culture which was the authority above the community but he was turned down. In 
+the Ministry of Culture it was only State Secretary Miklós Mester on whom we 
+could count anyway.
+
+The Jewish Council had the following members: Samu Stern, Dr Károly Wilhelm, Dr 
+Nisson Kahán, Dr Ernő Pető, Fülöp Freudiger, Samu Kahán Frankl, Dr Samu Csobádi, 
+Dr Ernő Boda. The members of the Jewish Council and lower-ranking officers whose 
+free move had to be secured received a certification. It read: "The owner of the 
+present certificate is the member of the Jewish Council of Budapest, and as such 
+is under protection. Any measure taken against him should be primarily 
+authorised by the authorities signing this document." The certificate was signed 
+by Obersturmbannführer Krumey, later it was also provided with a seal, and when 
+the State Security Surveillance was established it also received the signature 
+and seal of Head of Department Dr László Koltay. The owners of these 
+certificates could not be interned. Dr Ernő Bródy, Dr Kálmán Balkányi and other 
+Jewish personages could be brought out of the interment camp using these 
+documents. 
+
+Since the time the Jewish Council was established it had three main 
+responsibilities:
+
+First, to satisfy the greater and greater, basically continuous demands of the 
+Germans.
+
+Second, to keep rapports between the Jews of the countryside and of Budapest; 
+and to settle the nerves of the Jewish population. 
+
+Third, carrying out clandestine rescue attempts and international correspondence
+
+I.
+
+The main headquarters of the Gestapo was set up by the Germans in apartment 
+houses and some surrounding villas on Svábhegy. We had to keep contact mainly 
+with the commanders in chief, who were Kumey and Eichmann, then with Koltay and 
+Péter Hain, who were all accommodated in Hotel Majestic. Their financial demands 
+ran out of control. As an example I clearly remember the list they gave us when 
+they were furnishing the Majestic:
+
+150 deskS, out of which 15 for diplomats
+150 tables, chairs, out of which 15 first-class
+200 chairs
+300 glasses for beer
+150 radios
+100 smoking sets (tables, chairs), out of which 15 with leather covering
+300 glasses for liquor
+300 glasses for wine
+6 shakers of cocktail
+150 paper chest
+150 desk sets, out of which 15 of marble
+150 desk lamps, out of which 15 beautiful.
+
+And this inventory continued listing office equipments till the smallest 
+details, and everything in a huge quantity. These demands far surpassed the 
+financial capacities of the religious community. Financial Secretary Bertalan 
+Büchler, and Deputy Secretary Artúr Szüsz called together the financial 
+committee, which decided to ask for individual contributions of the Jews of 
+Budapest. 
+
+Besides the headquarters of the Gestapo we had to furnish and restore the 
+building in 35 Dob Street, where the Germans set up workshops. The staff of 
+these workshops was made up of Jews. These people were exempted of everything  
+including internment - except for wearing the star. Since internment was a 
+danger for everyone it was a great advantage to work there. In order to handle 
+orders of a technical kind and to staff the workshops we needed to establish a 
+technical department. Architect Dezső Székely was appointed its head, while its 
+administrative leader was Miksa Domonkos. They were responsible for satisfying 
+all needs, and remaining in close contact with the commander of the SS, who 
+lived in the villa of Jenő Vida, and - among other things - needed a gardener 
+who looked after the garden of the villa. It is needless to list all their 
+demands, suffice it to say that the Germans had a tunnel built between the 
+Majestic and Hotel Golf, and this work was done by Jews whose salary had to paid 
+by the Jewish Council. Whatever needs they had they addressed the Jewish Council 
+either greater construction works were involved or just a simple demand like 
+that of Krumey who asked for a cello which was needed for a concert organised by 
+the Gestapo. In some cases we managed to leave these demands unanswered, 
+however, the heads of the Jewish Council needed to satisfy most demands even 
+more so because they naively believed that this could avert or rescind the 
+deportations that had already started in the country. 
+
+The Germans demanded the Jewish Council to regularly publish a bulletin for the 
+Jewish population. This is how the Journal of the Jewry in Hungary came into 
+being since Germans did not agree with the title Journal of the Hungarian 
+Jews. Germans needed to come here to let Hungarian Jews realise that they were 
+not Hungarian Jews. The Germans have censored the journal, first Krumey, later, 
+his orderly Mr Schwartz. A translating office was set up to translate the 
+journal into German and to compile German petitions. The head of this office was 
+Dr Dezső Kiss, a former employee of Pester Lloyd. Its members were Ernő Bródy, 
+Pál Bacher-Bodrog and Dr József Turóczi-Trostler. 
+
+Function and organisation of the religious community had to be adjusted to the 
+new circumstances. Since new decrees were published day by day, and Jews were 
+caught on trains and were interned, masses of Jews came to have legal advice. 
+Therefore, next to the legal department we had to establish an information 
+service in legal affairs. It was headed in the first two days by Dr László Pető 
+and me, later, it was taken over by lawyer Dr László Vogel, till the point when 
+a separate information office had to be set up on in Room 3 on the ground floor, 
+as the huge mass of people had no space in the corridors any more. The most 
+important task of this information service was to gather leading Zionists. The 
+head of this office was Jenő Kolb, others who worked at his side were Dr Sára 
+Friedlander, Vermes, etc.
+
+After the great bombing raids in April, we had to hand over 500 single room 
+studio flats in the 8th and 9th district within 24 hours. Rezső Müller was 
+commissioned to organise this event, more precisely, it was he who took this 
+responsibility upon himself. I have to note that Rezső Müller left no stone 
+unturned to satisfy the demands of German and Hungarian authorities in the best 
+possible way. To carry out these requisitions he used the teachers of Jewish 
+schools with an open order, regardless of their age and gender. Despite all his 
+efforts he failed to provide 500 flats in 24 hours. What followed was Koltays 
+appearance in Síp Street. He arrested Dr Wilhelm and took Kahán Frankl as 
+hostages. When the former jumped into the car he said the most imprudent words 
+against him. 
+
+Later, there was a need for another 1,000 flats, and at the end of May, news 
+about starred houses started to spread. Rezső Müller went on to lead the Housing 
+Office. Miksa Trobits helped him in administrative matters, while lawyer Dr 
+Ármin Kun controlled legal matters. It needs to be pointed out that a so-called 
+housing office in public interest had already functioned before the Germans 
+entered the country and was led by Dr István Kurzweil and Dezső Bánó. Naturally, 
+these gentlemen joined the group of officers of the housing office of the Jewish 
+Council. German and Hungarian authorities requested newer and newer villas to 
+serve as flats for certain gentlemen. Although these were unjust demands Rezső 
+Müller satisfied them without delays. For example he handed over a beautiful 
+Jewish villa to the ill-famed commander of the camp in Rökk Szilárd Street Dr 
+Pál Ubrizsy. 
+
+Sabotaging official demands was to some extent a practice also in the housing 
+office. In this respect mainly three men did well: one was György Bognár; the 
+other one was Dr István Kurzweil who tried to use his connections to the city 
+government to our advantage; the third one was chief engineer Dr Imre Heller, 
+who participated in the identification of the starred houses in as much as he 
+was entrusted to draw maps. When starred houses were selected, Rezső Müller 
+called together the officers of the housing office and of the group in contact 
+with the authorities, who were supposed to mediate although in the whole housing 
+business no official demand passed through them. (This team was instructed only 
+to empty individual houses.) Müller held a long speech, and told us that the 
+authorities gave 24 hours to the people to move into starred houses, and that we 
+should direct this process in the interest of the Jews. For this objective we 
+would be provided with cars, wagons, movers in brief, the whole city would be 
+dedicated to help our work so that Jews could move into starred houses in 24 
+hours. Naturally, all expenses would be covered by the Jewish Council, but he 
+demanded the greatest dedication, day and night work from the officers of the 
+council, etc. Lawyer Dr Adolf Kertész rose to speak and declared he was an 
+advocate who would always serve the case of his clients with the greatest care. 
+He felt that in this case the Jews of Budapest were his clients, who had to be 
+served honestly, and he would not take part in the execution of such an immoral 
+act. Lawyer Dr Sándor Arje spoke in the same way. Müller talked to him in such a 
+manner that this person, who had a heart disease, got a heart attack and died 
+two days later. Finally, the president of the Zionists, Ottó Komoly spoke and 
+protested against this action in the calmest way. Müller, however, made him so 
+upset that he gave Müller a slap. 
+
+It was thanks to Dr Kurzweils connection the city authorities that the deadline 
+was eventually prolonged to eight days.
+
+Concerning Müller it is still to be noted that he acted in the same way when he 
+wanted to organise Jewish troops to clear the debris or to dig trenches. The 
+fact that he failed was due to the sabotage of the Jewish captain Ferenc Schalk 
+and captain Gobbi (father of Hilda Gobbi). Moreover, Müllers administration 
+consumed as much money as the cost of food supply of the Budapest Jews in the 
+ghetto for three weeks. 
+
+Having interned the so-called plutocratic Jews, they interned those unfortunate 
+people who were denounced either in the Astoria or on Svábhegy, or those who 
+wore no star, or wore it in an improper way, or covered it. The number of these 
+people were great. Rich Jews were collected individually by the Germans and were 
+kept in Rökk Szilárd Street. They were quite well supplied, and staying in the 
+camp they did not face the danger to be interned into the camp of Kistarcsa any 
+more. Since sick and old people were numerous amongst them, it could be attained 
+that these were put into two temporary hospitals that replaced the Jewish 
+hospital, which had been confiscated. One of them was led by Dr Lajos Lévy in 44 
+Wesselényi Street, the other one on Bethlen Square was directed first by Dr 
+Dénes Fuchs, later by Dr János Biedermann. Establishing these hospitals, 
+especially the one on Bethlen Square did not take more than a few hours. I 
+clearly remember the Saturday morning when the administrative head of the 
+Supportive Office, Sándor Timár entered my flat in Bethlen Square and asked me 
+to help furnishing the sports hall in the building collecting 60 berths for 
+hospital usage, since as many people can be taken from Kistarcsa as beds that we  
+can provide. 
+
+Naturally, we started to work right away. Together with Dr György Polgár we 
+opened the stores of Dr Adolf Weiss in Bethlen Square, and took the blankets, 
+towels, soaps from them, which had been anyway meant for poor Jews. This 
+hospital was later transformed into a great hospital with 350 beds where 70% of 
+the patients had been interned. It was not too difficult to get into the 
+hospital from the camps of Rökk Szilárd Street or of Kistarcsa, especially the 
+latter was easy where head physician Dr Tibold declared anyone to be in need of 
+hospital care for 10-20,000 pengős.
+
+There was another form of internment, that followed the so-called lawyer and 
+journalist registers. One day Dr János Gábor, whose nerves got slowly exhausted 
+by the frequent negotiations, having come back from Svábhegy called me into his 
+room and told me that by 8 am the next day ca. 60 people, whose names were on a 
+list should appear in the camp of Rökk Szilárd Street. Summons needed to be 
+distributed by the Jewish Council, what is more, we had to write and multiply 
+them, too. The Jewish Council was responsible that the people indeed turned up. 
+They did not tell us what would happen to them. These people could take a 
+luggage up to 30 kilos, two blankets, etc. but no money. 
+
+As telephones of Jews had been already dismantled we needed to organise a 
+currier service. The staff of this service was made up of Jewish students of the 
+schools of Budapest who delivered the paper and letters sent by the Jewish 
+Council by bike or on foot. It was the school superintendent Dr Zoltán Kohn 
+entrusted to organise the currier service. Next to his duties as a 
+superintendent he became the apparent head of the religious community because 
+Ernő Munkácsi citing his sickness as a reason stayed away from the stream of 
+happenings. When the first lists were to be handed over I warned the people on 
+the list, whom I knew, to go into hiding and in any case not to take the 
+summons. Maybe nothing bad would happen. I have to note here that later we 
+agreed with the heads of the Zionist movement that everyone who was summoned 
+needed to be informed beforehand as much as it was possible. Zoltán Kohn 
+realised I was about to sabotage the whole process and forcefully instructed me 
+to refrain from it as it could endanger the existence of the entire Jewish 
+Council. I responded that it did not seem to me a priority of the Jewish Council 
+to uselessly bring trouble to Jewish brothers and sisters. The Council could 
+take its part in sharing the responsibilities. Our sharp debate ended with 
+Zoltán Kohn banning me out of the room where the distribution of the summons was 
+orchestrated but I could still witness the scene when the nephew of the lawyer 
+Dr Géza Dach took the summons regarding his uncle and collapsed. Anyway, this 
+Géza Dach went into hiding, never reappeared and was never touched. This way 
+Zoltán Kohn became responsible for the business of the interned of Rökk Szilárd 
+Street and kept in touch with Ubrizsy and Ágoston. His unpleasant style turned 
+many into his enemies, although it was not only his style but also his infinite 
+cowardice. 
+
+II.
+
+Concerning our contact with the Jewish population of the countryside it is 
+relevant to note that the heads of Jewish councils in the country received a 
+permission to visit the Central Jewish Council twice despite Jews were not 
+allowed to travel. This way we heard about the dismay that moving together the 
+Jews of the countryside and creating ghettos meant. The Jewish Council could 
+only pose questions to the Germans regarding the deportations: where and why 
+they happened. From the part of the Hungarian authorities it was Lieutenant 
+Colonel Ferenczy in charge of the whole business doing his job with great 
+enthusiasm. We received newer and newer accounts concerning the manners and acts 
+of the gendarmes but could do nothing against deportations. All we could achieve 
+was the mission of Dr Rezső Kasztner to which I will come back later. Some 
+prominent Jews from the ghettos od Debrecen, Szeged, Székesfehérvár, 
+Szombathely, Sopron, Kolozsvár, and Nagyvárad were brought to Budapest and we 
+also made an attempt to recollect the closest relatives of the members of the 
+Jewish Council from these ghettos but succeeded only in the case of the parents 
+of Dr Imre Reiner. Jewish population had naturally little trust in the Jewish 
+Council and had good reasons to do so, although objectively individual members 
+of the Jewish Council during the time I was there showed obvious guts. 
+Interestingly enough, they were precisely Samu Stern, Wilhelm, Pető and 
+Freudiger who acted with courage and were ready to sabotage orders.
+
+The members of the Jewish Council realised that only the Zionist movement was 
+still able to show up results as many of them as Aryans were free to move 
+around. However, in these days the head of the Zionist movement was Ottó Komoly 
+but people like Dr Rezső Kasztner or Joel Brand were there, too. Kasztner 
+managed to find his way to Eichmann, and he remained the only one with whom the 
+Germans were liable to negotiate. He attained that Brand could travel abroad to 
+meet international Jewish leaders, first of all the heads of Joint and of the 
+Jewish Agency. It was also Kasztners achievement that 1,750 was freed from the 
+Vernichtungslager of Strasshof, who were sent to Switzerland through Bergen-
+Belsen. Moreover, it was thanks to him that after the first transport the issue 
+of transports came to be managed in Síp Street.  
+
+Another three members of the Jewish Council - Stern, Pető, and Wilhelm - 
+contributed to another rescue mission that regarded the delivery of the 
+Auschwitz protocols. The Council also suported the work of Vadász Street and the 
+Jewish Council had delegates both in the Swiss and the Swedish Embassy. 
+
+I still need to mention how the Jewish Council was transformed. At the end of 
+May a directive of the Ministry of the Interior was sent to the council 
+nominating new members: Dr József Nagy of Budapest; Dr Béla Berend, the rabbi of 
+Szigetvár; and the writer Sándor Török as the representative of Jews of 
+Christian religion. The name of the Jewish Council was to be changed into 
+Association of Jews of Hungary". The membership of Dr József Nagy was thanks to 
+one of his patients working for the Ministry of the Interior; of Berend Béla was 
+due to his friendship with the head of the Institute for Jewish Studies, Dr 
+Zoltán Bosnyák; Sándor Török got into the council with the support of the 
+converts. Before Béla Berend got into the council Stern, Pető and Wilhelm had 
+all confidential documents destroyed because it was well known that Berend got 
+into the council as a spy. Later, Berend indeed proved to be a traitor. 
+
+In general it must be stated that during the time I was at the Jewish Council 
+(till June the 24th) the members of the council tried to live up to their 
+commitments and their failure was not exclusively the fault of their weakness. 
+It would be an exaggeration to claim that the members of the Council put their 
+personal interests ahead of the interests of the community. What is true is that 
+they still have not realised that their policy was wrong for 25 years. 
+
+I do not have much to say about the later phase of the Jewish Council as I left 
+for the office of the Swiss Embassy in Vadász Street, the 24th of June. I only 
+know that directly before the regime of the Arrow Cross it was transformed again 
+and this was when Dr István Földes and Lajos Stöckler got into the Council, the 
+latter was supported by Béla Berend.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

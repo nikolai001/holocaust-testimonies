@@ -1,0 +1,529 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3562
+        </h1>
+       </div>
+       <a href="?showjk_img=3562" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         D. J.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Enying
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1907
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Székesfehérvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         housewife
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Veszprém
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Studhof, Argenau, Thorn
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+From Enying, 128 people were taken to the ghetto. Most of the Jews were tradesmen but there was 
+a doctor and a lawyer among them too. The Jews lived in sound financial circumstances usually. 
+We lived in comfortable circumstances too. The first arrests happened on 6th April. Almost all the 
+Jews were arrested, with three exceptions. They arrested me as a communist and placed me under 
+police surveillance. It was chief constable Dr. István Buda, who carried out the antisemitic decrees. 
+Later he became prefect of Veszprém and became a close friend of László Endre. He was a very 
+malignant man. Window breakings were an everyday occurrence. If Dr. Buda saw one of us in the 
+street he shouted at us, abused Jews, insulted us. The gendarmerie, on the other hand, behaved 
+correctly. They took such a hard line on our wearing the yellow star that, for example, my husband 
+was arrested for 20 days because two points of his yellow star had not been sewed down. Only one 
+such person lived in Enying who, on account of his military decorations, was exempt from Jewish 
+laws. We were, of course, not allowed to leave the village, we were not allowed even to go out to 
+the street. The Christian inhabitants treated us really nicely, but the intellectuals were very nasty. 
+Everybody was afraid of talking to us or do anything for us, since Dr. Buda took such measures, 
+which made everybody afraid of us. Once a woman approached me in the street, when Buda came 
+to say: You traitor, are you not ashamed of speaking to a Jew?  
+The Germans only marched across the village on 21st March. The behaved in an absolutely passive 
+way towards us. The Gestapo came from Siófok and they took only one Jew with them, because he 
+was said to have a secret radio. Mr. Buda wanted Enying to be free from Jews. At first they said 
+they would gather us in Enying, but later they took us to Veszprém by car.  According to the rule, 
+we could take only three sets of clothes with us, but the gendarmes allowed us to take with us 
+whatever we wanted. What we left behind was given to the people of Pét, who had lost their 
+belongings at a bomb attack. We were taken to the Veszprém ghetto on 2nd June. There were two 
+ghettos in Veszprém, one of them at the synagogue, the other one at the garrison of Komakut. 
+Those from Veszprém were taken to the ghetto at the synagogue, the people from the neighborhood 
+to the garrison of Komakut. There were about 1,080 of us there. A policeman watched over the 
+gates. The garrison was a completely enclosed building. It was very dirty and untidy. We were 
+continuously working and when we finally managed to tidy it up more or less, Mr. Buda, who 
+visited us once, found it too comfortable. We provided the ghetto with food ourselves. They 
+marked two hours every day when we could go to the market, but only five people could go out a 
+day. The young people had to work; we worked in a garden, while others went to do agricultural 
+work. The inhabitants of Veszprém had no opportunity and no possibility to give us food. We had 
+already heard that the Jews were taken away from Székesfehérvár and we thought that they would 
+take us too. Yet, we did not know where they were taking us even at our entrainment. We had to 
+pack up within two hours. We could take to the cattle cars what we were able to carry and what we 
+had managed to pack up within two hours. We took money and the most necessary things with us. 
+We left heaps of food there, which we never got back, although they had said that they would put it 
+into the cattle car. The gendarmerie had collected the wealthier people already before the 
+entrainment and they took them for interrogation to get to know where they had put their jewelry, 
+their money, etc. 
+
+They beat up those from Veszprém very much, but in the ghetto of the garrison nobody was 
+harmed. The entrainment happened around 25th June. It began at 10 oclock in the morning and the 
+train left around 6-7 oclock in the evening. We went to Sárvár, where we arrived at 8 oclock in 
+the following morning. We were staying at the train station for some time and we were taken out of 
+the train around noon. They took us to the silk factory where the internees were staying. The 
+gendarmerie surveillance was more serious there. We could go shopping and supply us with food 
+ourselves. They did not permit us to eat more than one plate of food. The SS took us over on 2nd 
+July. The gendarmes behaved correctly, we could even send mail with their cooperation. On 4th 
+July they searched us. The gendarmes took us to the elementary school and took away everything 
+from us including our wedding rings, our money and clothes. They allowed us to keep food enough 
+for three weeks. There the gendarmes treated us very nicely again. They entrained 2,400 of us on 
+6th July. That was the last transport, because the internees had already left, so they brought mixed 
+couples from Zalaegerszeg to complete the transport with them. 60-70 people were travelling in 
+one cattle car. We were given some bread for the journey and a bucket of water at every fifth or 
+sixth station. At first they told us that we were going to Kassa. Than the Germans took us over 
+again. They called from outside at every station, saying that if we did not collect our money for 
+them, they would shot us dead. They were threatening us continuously. Two people escaped form 
+the cattle car pretending to get off to fetch water, but they got caught and they were shot down 
+before our eyes. We arrived in Auschwitz on the morning of 9th July. They detrained us within two 
+hours. They let us get out of the train in a very polite way and they told us to leave our baggage 
+there, since they would take them after us on trucks. Within a distance of about 200 meters Dr. 
+Mengele and his men were standing at a crossroads. They selected us there. I was taken to Camp 
+C.25. Thirty-two thousand of us stayed in one block, the rain flew in, so we had to be standing in a 
+corner those times. We had to line up for roll call at 2 oclock at night. They kept telling us that we 
+would meet our relatives. We did not work. I stayed in Auschwitz till 15th August. Those who had 
+strong legs and strong muscles were taken to work. That is why they took me to Stutthof too.  We 
+received new uniforms there. About 3,000 people were taken to Stutthof. The way from Auschwitz 
+to there was two days long, but they gave us more or less enough food during the journey. Stutthof 
+was a camp for rest, but there was a Gypsy lager there too. We were numbered there, I received 
+number 67133. They disinfected us and we spent about ten days resting. Than they selected us 
+again and they took 1,700 of us with a transport to Argenau.  We travelled in carriages for about 2 
+days. The camp, which consisted of small Finnish wooden houses, was lying about 8-10 kilometres 
+away from the train station. The Oberscharführer held a speech in which he told us not to feel like 
+prisoners, since we were the labour servicemen of a friendly state. Although, they made us do the 
+hardest types of work: cutting down a forest, digging trenches, driving piles into the ground. 
+We did not get anything to eat for two days and there was no water either, they dug a well only 
+after that. There was a reveille at half past four in the morning.  We got half a litre of black coffee, 
+than two hours of Appell followed, than a 8-10 kilometres long march with spades and equipment 
+on us. Than the work started, which ended at two oclock in the afternoon. Then we started to go 
+back, and around four oclock or half past four we got lunch, which consisted of some bran soup, 
+thickened with flour and sour cream, 25 grams of margarine and 100-150 grams of bread. We 
+worked with Polish foremen who treated us correctly at the first time but later they did not dare to 
+be nice any longer. They brought us news sometimes. The older ones were not the followers of 
+Hitler. On or around 10th October we had to leave the place within two hours, they said because the 
+Russians were close.  We went to Thorn by train and from there we went to work to Rosenberg. We 
+could not live in Rosenberg, since the tents had been left in Thorn. We received Lithuanian SS-
+guards, who were continuously beating us. We did the same work as in Argenau, but here we dug 
+anti-tank ditches too. One person had to dig a two metres long, 80 centimetres wide and 180 
+centimetres deep trench every day. At the same time we had to cut out sods and level the ground. 
+We usually tried to help each other. There we did not even have shoes any more. We marched 10-
+15 kilometres daily. After lining up for roll call we had to go to the forest to bring a whole pine tree 
+from a distance of 8-10 kilometres. We had to cover the trench with it. 3 guards forced to the 
+ground and beat up those who carried only a branch. Everybody had to carry a whole tree each. It 
+happened there that a Polish foreman delivered a letter to a girl in Bromberg and brought a 
+newspaper from there. Once the SS caught a foreman like that, they executed him as a traitor 
+immediately and they took his family to Auschwitz. This ended every kind of help that we had 
+received from outside. In December 16-18 of us died of hunger every day. It was mostly the 
+younger people between 16 and 30 years, who could not suffer it. All of us had typhoid, we did not 
+get medicine and the ill people received only half of the food rations. When Bromberg was being 
+bombed, they did not give us bread as a punishment. They wanted a higher performance from us 
+there. We had to dig two and a half meters long trenches, which had to be five meters wide, 180 
+centimetres deep on one side and 160 centimetres deep on the other. 4-5 people should have dug a 
+trench like that, but 2-3 of these had already been ill, so we had to work instead of them too. The 
+guards beat us, kicked us, pushed us into the trenches. They cut some peoples legs, and they beat 
+others to a pulp. There was no water, we could not wash, so we became infested with lice 
+completely. When ill people felt very sick already, they were given a bowl of vinegar, that was all 
+the medical help they got. Those who did not work received only half of the food rations. We 
+stayed there till 20th January. A large number of people died. I can tell, just to characterize the 
+conditions, that we could not wash from 28th August to Christmas, when we received a 5 minutes 
+long shower, because a disinfecting train of the Red Cross came then. 60 of us lived in a tent, 
+everybody had a place of 30 centimetres, so if one of us turned round, the whole row had to turn 
+also. Many people went to work wearing slippers or barefoot. On 19th January we received an 
+order to go to work at a factory in Bromberg, because the work we had done was cancelled. They 
+said that only those, who were able to march 50 kilometres without stopping should undertake it, 
+because those who would get tired they would shoot down. Children and ill people had to stay 
+there, and some volunteers could also stay, but all the others had to go. The Oberscharführer would 
+not take more than 1,200 people with him. They selected 340 of us, among them healthy people, 
+whose parents or siblings were left there, and we knew that those would be executed. Next morning 
+we left. We had a one-hour long break on the first day. We were given a loaf of bread and nothing 
+else for the march. On the second day they began to shoot people down. They always shot down the 
+last row. There was no break on the second day; we could only rest while the last row was catching 
+up with the first one. On the first day we marched 34 kilometres, on the second only 24. They 
+locked us up in a hut made of canvas on the first night, on the second night in a sheep-fold among 
+the sheep. We always marched until they found a place to lock us up. We reached Bromberg on the 
+third day. At least 150-200 people were executed on the way. On the afternoon of the fourth day the 
+Oberscharführer summoned the female block leaders and announced that the Russians were coming 
+and that he would leave us, but we owed our lives to him, since all of the Lithuanian guards had 
+wanted to execute us. On that afternoon we did not dare to go to the forest, but decided to wait. The 
+German police occupied us that night, they formed rows of five from us and chased us forward. A 
+lot of us decided to lie down and let them shoot us dead, because we were not able to suffer it any 
+longer. Then a German police officer came to say to keep on till the evening, because we would 
+receive hot food then. That was already the third day since we had got something to eat, and we 
+could only bend down for some snow to be able to suffer the march somehow. We arrived in 
+Kronowa in the evening; there they locked us up with the intention to execute us at night. During 
+the night an air raid destroyed that part of the building in which we were staying, and the Russians 
+arrived within an hour. Suddenly the door of the cell opened and there was a machine gun pointing 
+at us. We thought that it was the time of execution but than we saw the red flag. There were another 
+5,500 political prisoners in the building, whom they also wanted to execute. This happened on 26th 
+January. After two days of rest, the Russians accommodated us in the elementary school of 
+Kronowa. On one night somebody, reportedly the Germans, set fire to the school and 36 people 
+died in the fire. On the next day in the other school we wanted to sweep the lice up when a time 
+bomb exploded. I got injured on three places and three or four people died. Then the whole 
+transport, that is, 700 people were taken to Bromberg, where we were accommodated in wooden 
+barracks saying that the transport to home would leave from there. We escaped and rested in an 
+abandoned German flat for 11 days. There was no train, so we set forth to Krakow on foot. We 
+arrived there around 15th February, but the Russians turned us out of the city. We escaped again 
+and set off from Krakow on foot. Going sometimes on foot, sometimes by train we arrived in 
+Sátoraljaújhely in March. On 10th March we arrived in Miskolc, where the local Jewry gave us a 
+beautiful warm reception. I stayed in Miskolc for fourteen weeks, since, being injured, I was not 
+able to go home and I received medical treatment there. Fights were going on Dunántúl 
+(Transdanubia) , so we could not come home. Finally I could leave Miskolc on 22nd June, so I 
+came home.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

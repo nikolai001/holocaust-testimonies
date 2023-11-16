@@ -1,0 +1,604 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 2820
+        </h1>
+       </div>
+       <a href="?showjk_img=2820" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         F. R.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1922
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Glogau
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         F. H.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1924
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Munkács
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Glogau
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The persons in question have given us the following information:
+
+The 17th of May, 1944, on a Wednesday morning at 5:45 am, we were woken up by some 
+great to great noise. It was when policemen had already chased the crowd from the other 
+street to the marketplace, which was the place for collecting them. We went out voluntarily, 
+lined up four in a row and started off towards the brick factory. On the way, they shot some 
+elderly Jewish gentlemen in the temple. At every five-ten steps an SS-man or a Hungarian 
+soldier stood, who kept striking the marching people, disregarding whether they were old or 
+sick, so hard that they collapsed on the road. We saw elderly people lying in puddles of blood. 
+As they could not carry on marching they were left there beaten to death. When we arrived at 
+the brick factory there were c. 15,000 people; it was terribly hot, and not easy to find lodging 
+at all. In exchange for a little womens watch a Hungarian policeman did the favour to tell us 
+that it was not worth looking for a sleeping place because soon we were going to be carried 
+away. He only told us that Hungarian policemen would accompany us till Kassa, where 
+Germans would take charge of us. Two days later, Friday morning, we lined up in groups of 
+70 people in the yard of the brick factory. When everyone was precisely registered they 
+entrained us but before we got on train they searched us. SS-men and Hungarian soldiers were 
+walking between our lines, and each of them demanded the stuff they had seized for 
+themselves. They gave such a hard beating to a teacher because they found a wedding 
+ring in his purse that his blood started pouring. Everything became full of blood and his 
+wife, who wanted to defend him, got such a great blow that her arm broke. In order not 
+to bore the several thousands of people who were standing there they made a young man 
+caper about up and down the hill like a frog encouraged by a few lashes on the back till he 
+collapsed, only because they realised he wore a tie. They entrained us at noon, and Jews of the 
+First Aid brought us bread, beans and water. I was the one who had to distribute things in the 
+car. We departed the following day at dawn. Until Kassa they were Hungarians later Germans 
+who shouted in the cars at every station and demanded gold, jewellery, leather purses, 
+fountain-pens, toilet articles, and told us that they would shoot everyone if they found money 
+in the freight car. It made great panic, and since the train was standing still we could not 
+throw out anything, so there was nothing to do but swallowing the money, putting it in fruit 
+jars but there was also someone who lit a bit of alcohol and burnt his money. This latter one 
+startled us, ### because he made great smoke and we expected them to open the car in any 
+second. Later, we got less scared, people fell into a kind of drowsiness, and the train was 
+running as if it was riding for a fall. Crying was continuous in the car. There were thirty 
+small children lying around on the floor crying and begging: "Mamma, water, water!" 
+The water we kept in reserve was finished and we only had the water we collected from the 
+rain through the grating of the window, and that was what we gave the children.
+
+Monday morning we arrived in Auschwitz and stood there till midnight. We already knew 
+that it was the end. All the contents of the first freight car were thrown out onto a hillock: 
+bedclothes, clothing, and food. We could now be certain that if they seized everything we had 
+it could only mean that we would not need anything any more. Looking out of train on this 
+grey, foggy, rainy day we could only see the blocks of the camp encircled by electric wires 
+and prisoners in striped clothes. At midnight they opened the car and chased us off. We learnt 
+that the men clod in striped clothes were also (Polish) Jews. They only told us that it was not 
+worth carrying the luggage in the disinfecting rooms because they would seize them anyway. 
+As I think of what they said that time I am angry with them because they did not tell us that 
+the people who went to the right side would be burnt. If we had known it we could have saved 
+a couple of young mothers. Meanwhile, we did not even realise that men and women were 
+standing already in distinct groups. My mother was jerked out of my arms, so the three of us 
+sisters remained there without saying good-bye. We crossed a forest five in a row. (It was 
+when five in a row became the rule of the day until the very end of our camp lives.) We saw 
+flames here and there and we were already waiting for the moment when bursts of flame 
+consumed us. It did not happen to our surprise. We arrived in a disinfecting building where a 
+Slovakian (Jewish) girl ordered us aloud to undress completely. Curiously, it woke us up to 
+some degree. We were surrounded by SS-soldiers (they were young), who all smiled 
+ironically, and following a few threats we took off also the last item of clothing. In the next 
+room they cut our hair off, and we walked under the showers bald-headed. We enjoyed the 
+shower after the few days long journey in freight cars. We got grey prisoners clothes. When 
+we went out we met the men, and the fact that we were all bald-headed and men could not be 
+distinguished from women became subjects of gallows humour. We lined up again five in a 
+row and started walking towards the blocks. 
+The female block leader introduced herself, and explained what it meant ###, and when 
+Germans finished counting us they led us into the block and showed us where we were going 
+to live. For the time being 10 of us slept on a berth and it was still ok when compared to what 
+came later when 17-18 of us slept on a berth. We got also covers and saw that it was anyhow 
+better than death because one even lie down. We were very tired and fell asleep. This was 
+how our everyday grey life started, and indeed everything was grey around us. We had grey 
+clothes, grey covers, doors, buildings, and the air of the camp, the smoke of the chimneys 
+was grey, too. These seemingly patterned days were shaken by some nerve-racking hours 
+when the news suddenly spread around that Grete had arrived, or Mengele was coming to do 
+selections or to satisfy an order for the part of the chimneys. At nights, when lying on the 
+bunks and looking out of the opening at the flames of crematoria we imagined that our 
+parents and brothers and sisters were being burnt. Here and there you could also hear the 
+screams of crying children transported by racing cars.
+
+During one of these selections, when everyone had put on a make-up with beetroot to look 
+nice, the block leader rushed in and it got round that they would draw blood for the part of 
+German soldiers.
+
+Now, everyone tried to look pale but with not much success because a German officer entered 
+right away and there was no way out of it. They drew around 4-5 decilitres of blood from one 
+arm of a person and saw that it was a good blood so they took blood also from the other arm. 
+As a result, she fell sick and also died. Also the others recovered only very slowly, and not all 
+of them could fully recover because camp food did not contain the material that was needed 
+for producing blood. For around three months our lives remained unchanged. # around the 
+beginning of September selections became frequent, and these really tested our nerves. I 
+remember well that the 17th of October, coming back from the infirmary where I had 
+accompanied my younger sister, Mengele was already standing in the gate together with the 
+whole selecting committee and they took me without giving me the chance to say hello to my 
+sick younger sister or of my other younger sister who was in the block and did not know 
+where I was taken. We immediately left the camp in a group of 2,000 women. We went into a 
+disinfecting building and newly dressed we departed for Glogau by passenger train having 
+provisions for two days. We walked from Glogau to Schle###be, where the Lagerführer, an 
+SS-man and an SS-woman received us on an out-of-the-way farm. We were standing in the 
+yard because of roll call till the evening, while the SS selected some of the 2,000 women to 
+assign them various positions. The assignment one received depended on how friendly she 
+looked in the face of the SS. In the evening they herded us into a stable, where we sat down 
+on some straw, and the nice illusions we had made still on train dissolved. We thought to have 
+been taken to do some factory work, and that we would sleep under some kind of roof, and 
+even if we might need to work hard they would treat us like humans. Lying on the straw we 
+could not cry over the fact that we had been separated from our relatives because we saw that 
+the misery in Auschwitz was nothing compared to what was waiting for us here. We fell 
+asleep tired and those who came later in the stable had to climb over the bodies and heads of 
+people. Room was very little and we lay pressed to each other. Next morning stars were still 
+shining when we were already standing there lined up with some tools on the shoulders: 
+spades, shovels, and pickaxes. As it started to dawn we walked to the fields, and everyone 
+took her place. We were distributed in companies, and a German guard, a Wachmeister 
+guarded each company. When we arrived to the workplace a foreman was already waiting for 
+us, and showed us the area we had to dig up. This was how the period of busy shovelling 
+started. They kept on threatening us. First, they used Auschwitz as a threat, later they 
+threatened us to write up our numbers so that supervisors in camp would give us 25 blows. 
+First days did not appear so bad as sometimes even the sun shined. The worst part started in 
+November with the rainy period, which seemed impossible to endure because we were poured 
+by rain during the day at work and also when lying in the stable at night. In consequence, we 
+remained wet for days till our bodies finally dried our clothes. At one dawn it was freezing 
+cold. By the time we got out to line up five in a row it started snowing and during roll call the 
+ground became white and we were sure that we would not need to go on working in the open. 
+Like busy visionaries we were already discussing in which factory they might send us when 
+we heard the command that ordered us to start walking and we left the camp for the usual 
+workplace. We watched the bottom of the trench in dismay and started wondering how we 
+would climb down seeing that the wooden sole of our shoes sank in the muddy soil already on 
+ground level. When we grabbed the snowy handles of our tools we looked at each other with 
+tearful eyes. This silent cry was broken off by pleas and curses and this led in seconds to a 
+common decision and we dropped our tools. We were convinced that one could not work in 
+snow. We did not think it was a strike. The Wachmeister tried to warn us no to do it but he 
+realised it was useless. A foreman came, who was a big German person, and went to report in 
+the camp that we refused to work. In a few minutes the Lagermeister and the SS-man 
+appeared on the horizon and we started to whisper whether to start working or not. 
+Meanwhile, it stopped snowing, it became warmer and we could have worked but we believed 
+that our strike could have more success if we did not start at all. The Meister arrived and 
+everybody was in the bottom of the trenches but without the tools. He gave some slaps to the 
+weakest women and pushed them in the mud. He said in a very angry voice: "Du willst nicht 
+arbeiten, kriegst nichts zu fressen" and he left. The Wachmeister explained that we should not 
+go on with the sabotage because we would only infuriate him while the trench had to be 
+finished anyway because it was urgent. This day was followed by many cold, snowy days, 
+when everybody had the hands and feet frozen, and we were not surprised any more that 
+trenches could be dug also in snow. The 23rd of December, reacting to political news that 
+were unfavourable to the SS the SS-men and women decided to vent their frustration against 
+us. When we came back from work in wet clothes and had aches in all parts after a day spent 
+working on the hill in high wind that penetrated our bodies we were already happy with the 
+rotten straw in the stable but it turned out to be too much for us. They alarmed the leaders of 
+the entire camp and started looking for blankets. As we were very badly clod all of us had 
+some garment made of blanket. The people they found got some slaps and had to line up five 
+in a row in front of block no. 1. I was maybe the thirty-fifth of them. Seventy of us stayed 
+there and waited for the inevitable to happen. They promised to give us 25 blows. I was 
+unable to wait for my turn as the blows were very loud and I became weaker and weaker after 
+each person that trudged out so I went ahead and the others were happy to have more time 
+before it was their turn. When I returned to the block I was quite ok and it surprised me that 
+the others who arrived earlier than me needed to be revived. One of the younger girls became 
+a bit confused but she was all right the following day. Work continued although we could 
+neither sit nor stand for three days. Meanwhile, 60 centimetres deep layer of earth got frozen 
+and we could not even use the pickaxe because it bounced as if it were glass. They took 
+Russian and Ukrainian men to help us but they did not want to work because they did not like 
+this job. Earlier they had worked in a factory. The Organisations Todt had the superb idea to 
+detonate the earth with dynamites nevertheless our work remained fruitless, while the Russian 
+front got rapidly closer to us. We got this news from the labourers, and now nobody was keen 
+on working hard. The situation in the camp was pretty tense. The woman doctor in the 
+infirmary spread the news that we would move into another camp because Russians were 
+already very close to us. The 19th of January, when we came back from work the sick told us 
+there had been already a list prepared of those who were unable to walk. We realised 
+something was about to happen, and indeed we heard suddenly great turmoil and shouting 
+coming from each block after dinner, and it was difficult to calm people down. We realised 
+the Lagermeister was standing in front of us. He told us that unfortunately we needed to 
+abandon the camp. We had to get prepared but should have patience. The command to set off 
+did not arrive, yet; we might get it only at midnight but we might leave only in the morning. 
+We were unable to calm down. We lined up five in a row in that freezing night and were 
+waiting for the departure. Everyone was shrivelling and we did know what was going to 
+happen. We knew that liberation was not far but were scared about the path that led to it. We 
+left at midnight, and everyone received a loaf of bread because we were starving and would 
+have fallen asleep during the march. We kept eating the bread. That was how we walked for a 
+week. We did not get anything to eat only a decilitre of cold coffee and once six pieces of 
+cooked unpeeled potatoes. This was a very sad march. At the beginning we pushed two 
+wagons full of sick people but they made it easier for us when they shot these people. They 
+also shot anyone who became weak on the way and could not keep pace with us. When we 
+were at rest everyone sat down at the sides of the road and took a plateful of snow with her 
+lager plate and tried to eat it with a spoon. On the seventh day I heard one of the 
+Wachmeisters telling to an acquaintance of mine how senseless our march was and that it 
+would make much more sense to fall behind. He said we had to keep walking till Berlin but 
+only to die there if we even arrive. That was the moment when I decided to escape. In our row 
+of five people we discussed it with my cousin and friend and ran away still that night. I broke 
+up the door of the stable and still in the evening the three of us went out, climbed the fence 
+and happily hugged each other on the road as if we could have felt that our plot was 
+successful although we developed it only in those minutes: we decided we were Hungarian 
+refugees. We chose new names and memorised them and that was how we arrived in a 
+German village called Tiemansdorf. Here we spent another two weeks under Germans. The 
+village got evacuated, and everyone was obliged to leave it. They left us behind as they 
+believed we would withdraw with the German army but soldiers left their positions still 
+during the night and left the village. They demanded us to keep with them because they felt 
+their duty to protect us as Hungarians refugees and friends of Hitler. We started crying and 
+pleaded them to leave us behind since we had been walking for two months and would not 
+carry on even if they shot us. The reassured us that Russian soldiers would do it for us but of 
+course we were not worried about that. Staying in beds we were happy to listen to the last 
+soldier leaving the place. The village remained neutral for two days. Two days later, the first 
+Russain soldier arrived and told us which parts were encircled and that was how we got 
+liberated.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

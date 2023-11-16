@@ -1,0 +1,573 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3650
+        </h1>
+       </div>
+       <a href="?showjk_img=3650" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. Z.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Zsolna
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1889
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         mechanic
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. Z.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1896
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         housewife
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         K. M.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         cosmetician
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         S. K.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Zsolna
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1889
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         instrument maker
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         S. K.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1896
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         housewife
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         M. K.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         cosmetician
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The persons in question have given us the following information:
+
+Zsigmond Korányi: In 1942 several coreligionists of mine from Zsolna visited me. I tried to help them as much as I could: with money, lodging, clothing and morally as well. Soon they were passing on my address to each other and this is why our poor coreligionists virtually invaded me. They arrived in terrible condition: in ragged clothes without luggage; I had to give them even blankets. I managed to save many people by providing them with fake documents. 
+In 1944 events took a turn and momentarily the situation was better in Slovakia, therefore a large number of those who escaped to Hungary went back. Five of my protégés also wished to go back, but unfortunately they were arrested at the border and they were locked up in the Sárvár internment camp. They desperately wrote me from and asked me to get them out if I could. I decided that I would rescue them no matter how expensive or tiresome that would be. I hired a Christian, named Vendi, who was ready to travel to Sárvár and to get the five men out. He succeeded: they came to Budapest and eventually they survived. 
+M. K.: At around the end of June 1944 my brother sent fake document to her fiancée, who was in the Szombathely ghetto. With the help of the documents she managed to come to Budapest where they soon got married and thus she stayed in Pest. Meanwhile the concentration of the Budapest Jews took place and my sister-in-law and her family were taken to a yellow star house as well. One time she exited the building two minutes before the allowed time (11:00 am); she was arrested and taken to Kistarcsa.  My brother did his best to save his wife. He was told that with a Swedish protective document she could be rescued. He succeeded. 
+On the day of the infamous explosion in the Wesselényi Street school I was looking out of the window and saw a big crowd gathering around the school building. Having a premonition, I ran to my fathers workshop in Jósika Street to see what had happened and if my father was ok. On the way I warned the Jews to avoid the crowd on the street, since Jews were being rounded up. This warning must have been overheard by somebody, because two German soldiers and two Arrow Cross men followed me to my fathers workshop. I was ordered to identify myself. I have to note that the German soldiers spoke Hungarian too; probably they were ethnic Germans from the outskirts of the city. I told them that I had a Swedish safe conduct and I am not obliged to wear a yellow star. They took me to my flat and asked the janitor if that was true. All the while they kept pushing and shouting at me. Meanwhile my mother got home from the workshop with an elderly gentleman. I was made to face the wall together with my mother, but the gentleman was allowed to go free. He ran to call a policeman; the policeman accidentally knew us. The policemen testified that we were not obliged to wear the yellow star and pretended that he would escort us to the Hársfa Street police headquarters, but he released us on the way.  
+After all this we did not dare to return to our flat, therefore we spent the night in Hotel Berlin. 
+Parenthetically I have to note that the immediate neighbour of our weekend house on  Márton Hill was mayor Homonnay, whose son was serving as a secretary at the Hungarian embassy in Sweden and his flat was empty. This flat was offered for us by the Homonnays. We decided to accept the offer. We spent two to three weeks here in September. Our immediate neighbour was a family with Arrow Cross sympathies, who badly wanted to confiscate our weekend house and back then, when we denied them, they threatened us that in this case they would denounce us to the Svábhegy headquarters of the Gestapo. Hearing that, we of course gave them the flat, and we were thoughtless enough not to pay attention to them when we occupied the flat of the Homonnays. 
+On that memorable Sunday on October 15, my brother and my sister-in-law came to our place in Buda. That time there were seven of us with the Slovakian refugees and a little boy. On the afternoon of the 16th we learned that we had to move into one of the Jewish houses. We went to the Homonnays place where we spent the night in a small garage in terrible fear. As we later learned, our fear was not baseless, since the janitor led Arrow Cross men into our flat. By the 17th the Homonnays were not willing to hide us anymore and they let us know that they wanted us to leave and to hide wherever we could. We said goodbye to each other and went to the tram stop in pairs. We agreed that all of us would go to the Üllői Road flat of our old friend, Dr Árpádffy. He behaved very decently: he hid us for a day and a night and also acquired food for us.  Later we concealed ourselves in a destroyed building where the janitor - an old communist - hid us. Before long he found a flat for us on the fourth floor of the New York Palace; we were sheltered there for three weeks. The whole furnishing of the flat consisted of a sofa and a telephone. I called an acquaintance of mine from the Swedish embassy in Jókai Street and asked him to get our Schutzpasses recognised as valid passports. I was informed that the document was valid. Later I went to the embassys building in 1 Jókai Street and requested to be employed there. They fulfilled my request and therefore we left our shelter in the New York Palace. Temporarily we moved to Hotel Berlin. I went to work to the embassy from here, but when a decree was issued that those possessing a safe conduct had to move to protected buildings, my family and me moved to the building of the embassy on Jókai Street. We lived here under relatively normal circumstances from the date of our move (November 15) until January 7: although the Arrow Cross entered the house every so often, we always managed to ward them off. 
+Of course during the siege we spent all the time in the basement.  On January 7 someone started to shout that the Arrow Cross men were there. Soon we heard the Arrow Cross men yelling too: We count to 3 and those who wont be in the court by then will be shot dead. An old, crippled man and his two little girls were shot before our very eyes. The old man died immediately, the two girls were only wounded. We ran up the stairs holding my mothers hands. We wanted to reach the office. Both doors of the basement were blocked by two Arrow Cross men and they were shooting inside; fortunately no harm was done. We were separated from my father. Somehow we managed to get to upper floors and we hid in our room in a built-in cabinet. Of course the Arrow Cross searched through our room too. You can imagine what it was like to hear them say: If you find a  Jew hiding somewhere, kill him right away. The crowd (ca. 280 people) was ridden from the basement into the yard and was taken to the Arrow Cross headquarters in 14 Városház Street.
+The next morning at 5 we dared to climb out of the cabinet. The whole building was quiet. We desperately started to seek for my father. Our room was also on the upper floor. We ran into the room and saw the sofa rising and my father crawling out from underneath. 
+My fiancé, who was also with us at the embassy, was among those who were dragged away. I know the following details from him: as I mentioned, the crowd was taken to the Arrow Cross headquarters in 14 Városház Street. My fiancé spent 11 days there. During this time they got hardly anything to eat and they drank from the cleaning bucket. What they got in large amounts was beating. The whole crowd was squeezed into a room and 20-30 people were taken away every day. This always happened at night; the clothes of the victims were always confiscated of course: they were taken to the Danube embankment in underwear. Eventually only three of them remained: three strong young men. The Arrow Cross told them that they would carry baggage to Buda and - they added - they would be finished off there. This happened on January 17, when almost the whole Pest side was already controlled by the Russians and the Arrow Cross troops fled in panic to the Buda side. When they reached the Pest side of the Erzsébet Bridge, the Arrow Cross man at the end of the column (Lajos Tálos, who played a major role in the Jókai Street attack) encouraged them to drop the baggage and run wherever they could. He even kissed them on the forehead as a goodbye. The boys did not know what had happened: they were completely uninformed about the Red Armys situation in Pest. When they were shouted at: Stop, identify yourselves, they answered: Hang in! Long live Szálasi!. The boys went back to 1 Jókai Street. They were surprised that the door was wide open.  They were so uninformed that they did not even know that the Germans left the area. They were sitting there waiting for the dawn. They heard voices again and of course they thought that the Arrow Cross had come back again. One of them had Czech background and he realised that he was hearing Slavic speech; they understood that Russians occupied the building. 
+As I mentioned above, my whole family managed to escape from the Arrow Cross in the Jókai Street building. The question of where to go to avoid the returning Arrow Cross was still open. We could by no means stay in the building.  We went back to Hotel Berlin again and then to the Üllői Road building of the Swedish embassy.  The next day the Arrow Cross showed up there too. However, thanks to the interference of Secretary Wallenberg, who paid huge amounts to the Arrow Cross, we remained unharmed.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

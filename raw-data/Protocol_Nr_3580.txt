@@ -1,0 +1,418 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3580
+        </h1>
+       </div>
+       <a href="?showjk_img=3580" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         G. I.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Balassagyarmat
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1928
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student at a commercial school
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+I lived in a yellow star house when I received an order to go to dig trenches on 20th October 1944. 
+On 17th November they had me discharged, as one younger than 17 years. Some days later I got 
+into a protected house, then to the childrens home of the Red Cross at 6 Zoltán Street. 
+On 14th December, the warden warned me benevolently of the imminent raid and advised me to 
+leave the childrens home, since it was made for children younger than 14 years.  That time similar 
+childrens homes in Baross Street and Munkácsy Street had gone through such raids and the Arrow 
+Cross men took away those whom they suspected to be older than 14 years. So I did not dare to 
+stay there any longer, thus I went to a house at 14 Váci Street. An officer of the national guard 
+acquired identity papers of the national guard for me. 
+
+At 5 oclock next afternoon, on the 13th, two men dressed in Arrow Cross uniforms with armbands 
+appeared. This happened because my friend, who was also hiding there pretending to be a levente 
+sergeant, had been reported to them. To my bad luck I was also there when they took him away and 
+they also found me suspicious, so they took us together to the "House of the Working Nation 
+Corporation at 1 Sas Street.
+
+The same two Arrow Cross men interrogated us immediately and we underwent a biological 
+examination, while they were beating us cruelly. They had us escorted to the House of Loyalty at 
+60 Andrássy Avenue still in the same evening. Brother in chief Trucka received us there. He had 
+lived in the house since 1938, in the beginning as a doorman, later he became the personal guard of 
+Málnási and Omelka; finally he became the warden of 60 Andrássy Avenue. Trucka interrogated 
+us, while another henchman took the minutes, since Trucka cannot write. They beat us up again and 
+took us down to the cellar. My friend and I stayed in the cellar till the next evening. We did not get 
+anything to eat during that time. In the evening they brought us up again and led us to Trucka. He 
+said to the Arrow Cross men in the room: You can beat them again for the last time. Following 
+his order one of the Arrow Cross hangmen jumped at me and beat me so much that I lost 
+consciousness and regained it again only when they took me out of the house. They put us in a car. 
+They took us through Dózsa György Road, to that part of Révész Street which is on the bank of the 
+Danube, there we stopped.  They told us to get off and move forward, then, from a distance of 2-3 
+meters they shot after us. After that they jumped in the car again and sped away. It was late in the 
+evening and the city was blacked out completely. My friend lost consciousness and he never 
+recovered again.  
+
+With waning strength I began shouting with my last effort. After much shouting a police officer 
+passing by noticed us. He ran to call for the ambulance and they took us to Weiss Alice Hospital. 
+Since my arrival, 14th December, I was lying unconscious for two weeks. I am in possession of the 
+following certificate issued by the ambulance:
+
+The Budapest Voluntary Ambulance Association.  Hereby I certify that in the accident protocol of 
+our Association dated 14th December 1944, the following note can be found under registration 
+number 24: The time of notification of accident is 22:40, place: 13th district, Révész Street. 
+Gunshot. The casualty is István Glasner, 16 years old, student at the school of commerce, born in 
+Budapest, address: 20 Károly Boulevard. As stated, unknown perpetrators displaced him and shot 
+at him. Unconscious. Paleness, enfeeblement. Inlet opening around the 6th vertebra. Therapy: 
+bandage with iodine. Physician in charge: Dr. Lajos Fonódi. Policeman present: Dr. Andor Balla, 
+assistant draftsman of the police. We took the casualty to Weiss Alice Hospital. 21st May 1945. 
+Illegible signature, hospital superintendent. 
+
+Regarding my stay in hospital I also have to tell the following: Around 11 oclock in the evening of 
+2nd January, Arrow Cross militiamen with armbands, whose coming had already been anticipated 
+and feared in the hospital, appeared and said that they wanted to check the identity of the people 
+taking refuge in there. About 300 ill people were staying there including myself. Different rumours 
+had it that Physician General Dr Bíró, who had been taken to hospital after he had attempted 
+suicide, was reported against, that is why the Arrow Cross men appeared. Everybody in the 
+hospital, including the doctors and the nursing staff was called to the basement. After a long 
+explanation they told us that they would not take everybody away, as they had originally intended, 
+only those, who are obviously not seriously ill and do not have to stay in bed. Yet, eventually they 
+did select people at random, altogether 34 men and women, among them four nurses. One or two 
+days later, I cannot remember exactly when, a woman from among those people who had been 
+dragged away came back and said that they had taken the group to the bank of the Danube and she 
+was the only one who had been able to escape. This part of the capital was liberated on 13th 
+January and I left hospital on 15th. I have gone through five operations since then. One bullet had 
+already been removed, at another operation two of my ribs were removed, then another operation 
+followed when another two of my ribs were taken out. My friend Tibor Réti never regained his 
+consciousness and he died of his serious injuries (gunshot in both cerebral hemispheres and bruise 
+of the optic nerve) on the morning following his arrival at the hospital.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

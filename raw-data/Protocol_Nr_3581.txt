@@ -1,0 +1,501 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3581
+        </h1>
+       </div>
+       <a href="?showjk_img=3581" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         dr. H. F.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1907
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         rabbi
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+It was in June 1944 that a member of the Zionist Association, Sándor Somló, drew 
+my attention to the ongoing deportation of the Jews and to the fact that no 
+attempts were made to stop it. I lived in Somlós building, 54 Damjanich Street, 
+and we worded a memorandum together and agreed to hand it in to the leaders of 
+the religious community. As he was the head of the purchasing department he had 
+good connection with the leaders of the community. We presented our memorandum 
+to the newly established Jewish Council and asked them to act as the situation 
+was unbearable. The Council approved my text and gave it to First Secretary Ernő 
+Munkácsi to improve it. He edited the petition which was then sent to various 
+members of the government. Meanwhile Béla Pásztor also wrote a similar 
+memorandum, but ours was more clear-cut. When I received this draft I told him 
+that I had already prepared one and had presented it to the community. I re-
+elaborated his text adding comments to it, such as how impossible it was that 
+the Hungarian nation, which asked for fairness and righteousness from the 
+nations of the world, tolerated and watched the ruthlessness with which the Jews 
+were deported (it was in June, 1944). This memorandum addressed the Christian 
+society and was entitled "A copy of a letter." We made copies of these texts 
+with a copier that Sándor Somló managed to obrain from a merchant called Mayer. 
+Naturally, it all happened in secret. We shut ourselves off in a room of the 
+Rabbinate, Mrs Tibor Faragó, a typist helped us in this work. We made around 
+2,000 copies, and distributed them to different personalities like university 
+professors, people who had a role in politics, naturally to ex politicians, 
+partly using the mail, partly through personal connections. Béla Vihar also 
+helped us in the distribution, and so did some leaders of Zionist youth 
+associations, who also used their personal relations to pass our memorandum to 
+the right people. Dr. Tibor Polgár, the head of the Supportive Office also had 
+promised to distribute around 25-50 copies in the best places before he left for 
+Switzerland with a group ready to move to Palestine. This is how we distributed 
+the memorandum.
+
+Meanwhile the group heading to Palestine left. I took part in the preparations 
+of their travel. This job was organised in 29 Vadász Street. Later, The 
+Department of the Swiss Embassy in the interest of foreigners was set up here. 
+After a while, my part in the distribution of the memorandum ended. But the 
+whole process came to a halt when the author was denounced at the prosecutors 
+office as an agitator. It happened as follows: I gave some copies to Fülöp 
+Grünwald, a teacher, so that he would distribute them. He was very enthusiastic 
+and gave some to his brother, who was also a teacher. To his misfortune, he (the 
+brother) gave some copies also to Rabbi Dr Dénes Látzer, who showed one to a 
+colleague of his, and she made the denunciation. Latzer was immediately 
+arrested. During the interrogation he testified about who had given him the 
+memorandum, as a result the two Grünwalds were also arrested and taken to the 
+Svábhegy. In the name of the religious community we attempted to take steps in 
+their interest at the Ministry of Justice, where they had personal connections, 
+but the advocate of the community was told not to proceed as the case was so 
+delicate that anyone involved may get into trouble.
+
+Meanwhile Grünwald thinking that I already had left for Switzerland (as I had 
+planned to do) testified that it was me who gave him the letters. The same day, 
+the 26th of August he was transported from Svábhegy to the detective office of 
+Csillaghegy, from where two inspectors immediately went to capture me in my 
+flat. Here they were told that I was at the Swiss Embassy. The two detectives 
+came to the Embassy and they made me appear in front of them. I obeyed since I 
+reckoned it was better not to go into hiding because in this case they would 
+take and torture my relatives, as they usually did. Right on the spot they asked 
+about various details then they put me in the car and took me to the detective 
+office of Csillaghegy. On the way they told me I should be happy to end up at 
+the police as the next day the Jews of Budapest would be deported. They assured 
+me that by the time I got freed there would be no Jews in Pest any more. 
+However, they did not know what we had learnt in the Embassy the Wednesday 
+before, i.e. that the deportation scheduled for the 27th would be postponed. 
+There was Ottó Komoly, the president of the Zionist Association in the same car, 
+but they dropped him off at Vígszínház because he was a privileged person 
+through his connections to the government. I was taken to Csillaghegy where a 
+small fat officer received the detectives shouting at them Where have you been 
+so long? Being late for such a filthy Jew! All should be annihilated. 
+
+I have to note that the political tension started to ease in all aspects of life 
+since the Lakatos government came into power. It meant the improvement of the 
+general situation. For example at the detectives headquarters in Csillaghegy it 
+happened the first time on the 27th, a Sunday afternoon, that the prisoners who 
+had been kept in for several months could now take a half an hour walk in the 
+courtyard, and this became a daily practice. These prisoners said their life was 
+a paradise now compared to the previous situation. In reality, however, except 
+for a few gendarmes who had more humane ways prisoners were tortured on the 
+order of the chief gendarmes in the most brutal and inhumane ways here, not to 
+mention those whose case was just being investigated. These people were forced 
+to testify through the most terrible beatings and tortures. (Mostly the leftists 
+were their victims.) The corridors were full of banging when their feet were 
+beaten. Horrible cries could be heard from the other end of the building, so 
+everyone got scared when detectives entered smilingly their cell with sleeves 
+rolled up as butchers do and ordered prisoners with a bow to follow them into 
+the torture chamber.
+
+My case was relatively easy. Detectives gave me some cuffs and smashes to make 
+me remember some details I forgot. Later, when I was confronted with Grünwald I 
+saw what could be said openly. The case was closed with my testimony.
+
+In the meantime Zionists increased their pressure on the Lakatos government. 
+They succeeded in as much as they transformed the initial accusation of 
+agitation into an accusation of violating the rules of press. Since deportations 
+were partially halted, agitation against them was not considered any more an 
+agitation, for it coincided more or less with the intentions of the government.
+
+9 days passed, then we got released and were transported to the main office of 
+the police headquarters. From here we went into the detention house where we 
+were referring to the fact that our case was closed and we were released, but 
+they warned us, that Jews could not be freed at all, at best they could be 
+interned.
+
+
+A few days later, I was selected for a transport to be deported, however, these 
+were times when it was already easier to get into hospital claiming that you 
+were sick. This is how I got into the prisoners hospital, where I was treated 
+correctly. The only surprise was the head nurse who noticed that me and a pair 
+of my companions were not eating the non-kosher food of the hospital but the 
+food we had delivered in detention - having starved for 9 days in Csillaghegy. 
+She angrily said "You cannot eat this kind of food here, I will let the doctors 
+know that you are cured."
+
+Me and Grünwald managed to attain that we were transported to the hospital of 
+Bethlen Square. Here, we could observe how the SS tried to get hold of leading 
+political and economic prisoners. Three weeks passed since we were captured when 
+I was finally freed, and went back to Vadász Street and continued working. As of 
+the liberation I contributed to preparing lists and procuring letters of 
+protection.
+
+Consul Lutz was benevolent. He emphasized several times that he generously 
+provided the Schutzpasses despite the severe instructions of the Anglo-Saxons. 
+Besides valid Schutzpasses, which were so difficult to procure, Zionists and 
+leftists, who worked there, managed to prepare printed documents putting forged 
+seals on them. These papers helped to come back throngs of those who had been 
+taken into labour companies. At the beginning they did not notice it, and these 
+people evaded the deportations to the West.
+
+One evening, young girls who were called up and supposed to leave in a few hours 
+were desperately waiting for the Schutzpasses. We had no more forms with the 
+original seals on. We helped ourselves with forged seals. This work was carried 
+out in various places, on the attic, in the cellar. We collectively gave them 
+the Schutzpasses with the forged seals so that they could evade leaving for 
+service. We had to resolve a great number of difficulties; at the end we 
+distributed around 120,000 Schutzpasses instead of the 7,800 what was legal.
+
+As for protected houses the problem was that these houses were already full 
+before we could let the people move in. Everyone bribed the janitors, so the 
+houses became crammed. Those who got the Schutzpasses had difficulties to enter 
+these protected places. The Embassy instructed us to clarify the identity of the 
+7,800 persons who had the right for having a Schutzpass; the rest were to be put 
+into the ghetto. The Embassy started to sabotage our work but we went on 
+preparing lists, every week newer and newer copies. We could not finish the last 
+list because the Russians arrived. Sabotage meant these people could temporarily 
+stay in the protected houses till the final list got ready, but it never got 
+ready.
+
+The 2,000 people living in the building of the Embassy went through this 
+perilous period without great tragedies, although food supply and accommodation 
+was tragic, and the Arrow Cross caused some losses with their attacks. It is 
+part of the historical truth that several non-Jew leftists enjoyed protection in 
+these places, too.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

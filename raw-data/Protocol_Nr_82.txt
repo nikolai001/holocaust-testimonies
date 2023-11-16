@@ -1,0 +1,679 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 82
+        </h1>
+       </div>
+       <a href="?showjk_img=82" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         S. R.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1930
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Concentration
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Freudenthal
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         S. J.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1925
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Concentration
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Freudenthal
+        </span>
+        <br/>
+       </div>
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         S. H.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1924
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Szerednye
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         seamstress
+        </span>
+        <br/>
+        <span class="jk_label">
+         Concentration
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Ungvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Freudenthal
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+      Around 600 Jews lived in Szerednye. They were mostly craftsmen and 
+tradesmen but there were also doctors and lawyers among them. They generally 
+lived the life of the middle class. There were neither extremely rich nor 
+extremely poor among them. My father was a tailor, we worked and made a decent 
+living.
+      
+      In 1939, they withdrew trade licences, seized shops and houses. These 
+statutes were executed by the notary and the gendarmes on an order coming from 
+Ungvár. There was fierce antisemitism, people broke windows, if they noticed a 
+Jew with a beard they physically insulted him and made the life of all of us 
+difficult. But they were glad to grab our money and valuables.
+      
+      The 24th of April 1944, at 6 am gendarmes went round from house to house 
+and gave us two hours to get packed. My father was supposed to make clothes for 
+two SS soldiers who went to see the notary and asked him to allow him to stay 
+home till he got ready, and to join the others only later. First, they let him 
+stay so my mother gave the food to the neighbours, but then the notary did not 
+allow us to stay home so we suddenly had to pack and go. We left all our 
+belongings home.
+      
+      There were around 20,000 people crammed into the ghetto as they took all 
+Jews of the surrounding area into the ghetto of Ungvár. Insults and plunders 
+were normal habit. The police could enter the ghetto while we were not allowed 
+to leave it. We got very little food. They kept telling us the story that they 
+were going to transport us towards the centre of the country for work. There was 
+no way to escape.
+      
+      The 8th of May, 1944, they entrained us, putting 80 people in a freight 
+car. The whole journey was a torture impossible to describe. Jews gave us two 
+buckets of water in Ungvár. In Kassa Hungarians handed us over to the German SS, 
+and afterwards we got neither water nor food. In Kassa Hungarian gendarmes 
+ordered us to hand in the gold or the money we had, then they searched us and 
+gave slaps to those who hid something. When they found 500 peng?s on a woman 
+they gave her a brutal beating and seized her money.
+      
+      When we arrived in Auschwitz we noticed that the railway station was full 
+
+      Around 600 Jews lived in Szerednye. They were mostly craftsmen and 
+tradesmen but there were also doctors and lawyers among them. They generally 
+lived the life of the middle class. There were neither extremely rich nor 
+extremely poor among them. My father was a tailor, we worked and made a decent 
+living.
+      
+      In 1939, they withdrew trade licences, seized shops and houses. These 
+statutes were executed by the notary and the gendarmes on an order coming from 
+Ungvár. There was fierce antisemitism, people broke windows, if they noticed a 
+Jew with a beard they physically insulted him and made the life of all of us 
+difficult. But they were glad to grab our money and valuables.
+      
+      The 24th of April 1944, at 6 am gendarmes went round from house to house 
+and gave us two hours to get packed. My father was supposed to make clothes for 
+two SS soldiers who went to see the notary and asked him to allow him to stay 
+home till he got ready, and to join the others only later. First, they let him 
+stay so my mother gave the food to the neighbours, but then the notary did not 
+allow us to stay home so we suddenly had to pack and go. We left all our 
+belongings home.
+      
+      There were around 20,000 people crammed into the ghetto as they took all 
+Jews of the surrounding area into the ghetto of Ungvár. Insults and plunders 
+were normal habit. The police could enter the ghetto while we were not allowed 
+to leave it. We got very little food. They kept telling us the story that they 
+were going to transport us towards the centre of the country for work. There was 
+no way to escape.
+      
+      The 8th of May, 1944, they entrained us, putting 80 people in a freight 
+car. The whole journey was a torture impossible to describe. Jews gave us two 
+buckets of water in Ungvár. In Kassa Hungarians handed us over to the German SS, 
+and afterwards we got neither water nor food. In Kassa Hungarian gendarmes 
+ordered us to hand in the gold or the money we had, then they searched us and 
+gave slaps to those who hid something. When they found 500 peng?s on a woman 
+they gave her a brutal beating and seized her money.
+      
+      When we arrived in Auschwitz we noticed that the railway station was full 
+of luggage, hence, everyone rapidly put on his or her spare underwear or clothes 
+to save them. Unfortunately, we could not save anything as they took everything 
+we had in the baths where they disinfected us, shaved us and from where they led 
+us in ragged clothes into the camp. For two days we got nothing to eat. All we 
+had to do was to line up for roll calls. If someone was missing during a roll 
+call we had to stay on knees and hold stones in erect hands till they found the 
+missing person. Often they found him or her lying dead next to the wires. This 
+was the better case, because if they found them alive they would kill them with 
+a blow. I stayed in the same camp with my little sister. Luckily, we kept secret 
+the fact we were sisters. She fell ill, got diarrhoea, which was a common 
+infection in the camp. She could hardly stand on her legs, I had to hold her. I 
+was worried she would go to hospital as I was afraid she would not return from 
+there. I gave her the extra ration I received so she got a little better after a 
+few weeks. 
+      
+      There were continual selections. We had to pass naked with raised arms in 
+front of Dr Mengele. The person he considered thin or weak was immediately taken 
+away. Dr Mengele reappeared every week and singled out people while he was 
+whistling and singing and watched laughingly how much we were terrified of him. 
+Once we saw him giving chocolate and bread to children in a transport before 
+they took them into the crematorium. Another time there was an incoming 
+transport of 7,000 people, out of whom only 200 were selected for life. We know 
+it because these 200 people came to our place and told us.
+      
+      The so-called Czech-Jewish camp was next to our camp. Selections were also 
+going on there. One night crying and screaming woke us up. It was when they 
+entirely emptied this camp and took them to the crematorium. Gypsies were 
+treated better than we were treated; they did not even cut off their hair. 
+      
+      I remember when we arrived at Auschwitz and were going towards the baths, 
+we saw great flames and heard screaming. Naturally, we asked what had happened, 
+what that horrible screaming was. We saw the shadows of people thrown in the 
+flames and we were also in terror. They answered that the handicapped were being 
+burnt; I commented that they surely burnt children also. As a response, they 
+asked why let little children live. We understood everything. By the time we 
+left the baths we heard nothing. We asked German women what had happened 
+beforehand. They answered: "We burnt rubbish."
+      
+      Strong men were selected and carried away in a transport. These people 
+returned three months later but they were only shadows of their former selves. 
+Now, they could already shout the exact date of their death at their children. 
+      
+      At the beginning we were very ill, particularly mentally, since our mother 
+passed away with 4 little brothers and sisters of ours, and this gave us 
+incredible pain.
+      
+      When we left Auschwitz for another camp, we had to line up in pairs and 
+listen to the talk of the Lagerführer, who told us that in case we worked we 
+would also be fed, but if we did not we would return to Auschwitz. Be 
+industrious  he warned us. We naturally promised to work, as we knew that our 
+life depended on it. In a big black car, they had just carried a lot of naked 
+people in front of us and this was a warning meant for us. People were silent in 
+the big car, they did not say a word, and the car entered the yard of the 
+crematorium. I also saw strong men in the car and we did not believe any more 
+that we were sent to work, and we also saw empty cars. But luckily it turned out 
+that these cars carried bread. They distributed a few loaves of bread among us 
+for the journey, so we avoided the crematorium this time.
+      
+      They transported us to Freudenthal in cattle cars. We worked there 12 
+hours a day for a war plant. Food was scarce while we had to work hard. 350 of 
+us worked here.
+      
+      Once, an unfortunate comrade of mine suffered an incident. In the great 
+cold, she was sent into the pit, where icy potatoes fell off and buried her 
+underneath and she immediately died. We could not save her.
+      
+      For two days we stayed in the camp together with men. I met my father and 
+younger brother here. One night my father sneaked over to us and asked me to 
+find my mother, as he did not want to believe such a young woman had been taken 
+away.
+      
+      I knew the rule of the Germans that prescribed the number of cadavers to 
+be taken home in cases when there were too many people in the camp.
+      
+      Once, Dr Mengele came to do a selection also here. The Lagerführer had 
+been asked to provide 1,500 weak people as that was how many the crematorium 
+needed. However, as there had been a selection the week before, there were not 
+enough weak people. When Mengele learnt about it, he appeared the day after and 
+collected 6,000 people, who were taken away immediately.
+      
+      Every week we had to go into disinfecting rooms. At these times they also 
+collected all our clothes and killed the lice on them also. As a result we had 
+lice also on our clean clothes when they were returned. We had to walk around 
+naked during these days. It also happened that we did not get back our clothes 
+for an entire week. We covered our bodies with blankets. Our bad clothes were 
+returned mixed together even more ragged as they had been before.
+      
+      If we went to the kitchen to get food we had to wait for hours standing 
+erect, which was very difficult. If they found you faulty in any degree, they 
+would beat you hard and would slap you. 
+      
+      The Russians liberated us the 7th of May, 1945. We left the camp and went 
+to live in a place for civilians. We could obtain food and clothes and 
+everything we needed.
+      These were my own experiences. 
+      
+      I would like to meet my father and brother as soon as possible and 
+emigrate together with them.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

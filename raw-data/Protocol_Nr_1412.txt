@@ -1,0 +1,364 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 1412
+        </h1>
+       </div>
+       <a href="?showjk_img=1412" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         J. H.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1921
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Huszt
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         housewife
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Bergen - Belsen
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+
+
+When we arrived in Auschwitz, my child was in my arms. When they started to separate people, my child did not want to be apart from me. One of the German soldiers told me I was young and I should stand among those who were able to work. I pretended as if I had not understood and went on. I was almost at the gate of the crematorium when the young Polish man who helped me to get off the freight car took away my child and told me to go immediately to the other side. That was how I stayed alive. One day that man asked why I was crying. I told him that I had been separated from my child. He consoled me, saying I would see my child 10 days later. I started to believe him, because I saw children playing and swinging there. There was even a kindergarten for them. I also noticed girls in ragged clothes waving their hands towards me. They wanted me to throw my headscarf over the fence to them. I did, even though I did not know yet that all of our belongings would be confiscated. We were lined up in rows of five. When we started to walk, I smelled a horribly bad smell and I had no idea what it could be. My friend told me that there was a bakery and that was why so much wood was piled up there. Unfortunately, later we learned that the bakery was really a crematorium and the lot of firewood was necessary for burning people. While marching, we understood that things were getting serious and we began to throw away our valuables made of gold. Labourers were passing our group and asked for food. We secretly threw everything we could into their wheelbarrows. I stayed together with my sister-in-law, my friend and her relatives. We arrived in the bath where they told us to take off all of our clothes and go in with only our shoes in our hands. I put my pocket mirror into one of my shoes because I thought I might be able to exchange it for something. I also hid my photographs in my shoes. In the meantime, I became hysterical because I had already been separated from my mother and I had not heard anything from my husband for two years. Besides, I was deprived of my 18-month-old child. I was in such a state of mind that I did not even want to stay together with my remaining relatives. Everything that I put into my shoes was taken away and my head was shaved. I began to feel dehumanised when I had to stand undressed before the eyes of so many men. Wearing nothing but a dress, we marched out of the bathhouse and the men were shouting Blöde Kühe at us. Meanwhile we saw a block where young girls were lying on silk pillows, having a good time and they laughed at us. Later we were informed they had been there for a long time and they were the members of the so-called Kanadakommando, which dealt with he deportees luggage. We reached the camp and we were counted while passing through the gate. We numbered 500. While they were taking us through the camp, I saw a woman whom I knew from Huszt eating a large slice of bread with margarine and marmalade. I thought probably it would not be so bad there. We were assigned to block 32. There had been already about 500 people, and in the evening another transport arrived, the members of which were housed in the same block. Therefore 1500 of us stayed in that block. Later they locked up the doors and announced a block curfew. Then a well-dressed young lady entered the room and introduced herself. She said her name was Magda and she was the block leader. I had already been very hungry because we had not eaten for days. She told us we would be given food only the next day. We spent the first night lying on the cold and wet floor, crying in each others arms. I had a terrible headache and therefore I took off my pants and wrapped them around my head to warm it up. That was a horrible night. Several people went mad and they were yelling. There was an alert at night too. The following day at around 4 am we had to line up for roll call. We had to stand there until 10 am. I asked for some water, but they said the water was undrinkable and I was not given any. The female block leader told us that no mothers, siblings or husbands mattered any more and everyone should care only for herself. She could hardly keep discipline and as our behaviour turned worse, she started to beat us so severely that we became crazy. We were allowed to go to the toilet only in groups of 20, but my turn never came. Meanwhile a Russian capo came to us and asked if anyone of us spoke Russian or Czech. I was the first to report and with 14 other girls I was assigned to clean toilets. It was not an easy work to do, but I thought I must do it and should forget about what happened to us. We forced ourselves to work hard and we were immediately granted favour, since while the others had to stand in a queue for food we got it out of turn. Moreover we were allowed to eat from separate plates unlike the rest, who had to share a bowl of meal with two or three fellow prisoners. I thought it would be probably a good idea to stay and work there. I hoped to have a chance to meet my child. The capo told me that it would happen sooner or later. Unfortunately it never did. Later the capo explained that I should not have been so naive to believe that my child was alive. He said they had finished off those who had been separated while we were in the bath and the childrens block did not exist. One of the female overseers slapped me in the face because my head was covered with a scarf. Once we were beaten up by the overseers because we went to wash ourselves before the roll call. After that, I was taken away from that murderous camp to a work camp. There I was assigned to work as a night-watchwomen. At home I feared even flies, but in the camp I was standing in the dark night at the toilet and could have the fun of choosing which fellow prisoner would take the chamber pot out with me. I got slightly more food than those who were assigned to other kinds of work. Polish men told me I should not be so stupid not to be their girlfriend, because in that case I would be provided with very good food. They told me that nobody had ever left the camp alive, so sooner or later all of us would be taken into the crematorium. However, I decided that I would rather die than offer myself to men for a ragged dress or a piece of bread. Luckily my best friend was assigned to the kitchen and she could provide me with everything. I took a 14-year-old girl with me and I also managed to improve the food of five other girls. Due to my night job I had the chance to cook too and to satisfy the wills of my ill fellow prisoners. I started to forget about my most serious personal problems and tried to find comfort in the work for my companions. Once I rescued four people from the crematorium. Those who were selected to be gassed were sent into block 25, the so-called gas block. The daughters of two women in block no. 29 were also sent there. The poor mothers were terribly crying in the block and said they wished that they had been taken and killed together with their daughters. I succeeded in smuggling out those two girls from block 25 to block 29. Those kinds of acts made me happy. I was active in such things all the time and tried to help as many people as possible. I could even organise the candle lighting on Friday evenings all along. I always knew when the Jewish holidays were and I kept them as far as it was possible.
+In October I was taken from that camp. Thank God, I was relatively lucky in the other one as well, although I was sent among Russians, who were whipping us all the time. I could make friends with the chief room supervisor by making her believe I was a perfect masseur. She liked that very much and it was good for me too. I could assist my acquaintances in many ways. In November the SS ordered Jewish girls to destroy the crematorium. We were happy to see that the time had come and we willingly did the job. We built a so-called pigsty out of the bricks of the crematorium. The infirmary was hit by a bomb on January 5 and I was assigned to work there. On the first day we found some butter, chocolate and white bread in one of the rooms. We were very happy and ate it on the spot. It was impossible to take it out, anyway. Unfortunately the work ended shortly after and we were assigned to carry bricks out of the ruins. From there we were taken to Bergen-Belsen. Partly we went on foot and partly we were transported in open freight cars. During the march I felt like life had no value at all. We were trampling on dead bodies and we could hardly drag ourselves along. I threw off my blanket and bread to lighten my burden. We covered about 40 kilometres a day. After suffering so much, we arrived in Bergen-Belsen where I met those who had been taken there with the transport that departed before us. There were a plenty of typhoid patients there and everybody was full of lice. I could see clearly there was no escape of death. I was assigned to the bread commando and I was the one who distributed bread. Therefore I once again had the chance to support a lot of people. Meanwhile I fell ill with typhus as well; it lasted six weeks. I was still lying ill when the English liberated us in Bergen-Belsen on April 15.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

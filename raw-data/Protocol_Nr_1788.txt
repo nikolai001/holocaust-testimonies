@@ -1,0 +1,576 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 1788
+        </h1>
+       </div>
+       <a href="?showjk_img=1788" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         B. L.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1911
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Rákoskeresztúr
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         butcher
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Flossenburg, Ohrdruf, Buchenwald
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question tells the following:
+
+I was drafted for labour service on 25th November 1942 in the Tattersaal, than I was taken to Vác, 
+to Pestszentlőrinc, finally to Szentkirályszabadja. From there they took me by train, then by ship to 
+Bor. 
+
+In Bor, they took me to the Berlin-Lager. I was doing well there by chance, because I worked at the 
+meat works. I also worked in the kitchen, but that work was awful because the dining room called 
+Margarine bar was next to the kitchen and they trussed up the prisoners there. I had to hear and 
+see the suffering of our comrades during those inhuman procedures. 
+
+The punishments were horrible. If a German foreman reported the smallest thing against somebody, 
+the person was trussed up twice for two hours. A doctor was always present at those occasions. 
+Once they suspected some people of having planned an attempt to escape. They locked them in a 
+potato pit and they took them from there to be trussed up every night. That was always terrible, but 
+it varied according to which labour service guard did it. Some of them tightened them very 
+strongly. Corporal Horváth pulled them up so high that their feet did not touch the floor, they were 
+turning round in the air. 
+ 
+They often made us carry bricks in the camp. In such a case everybody had to go in single file to 
+fetch bricks. This applied to everyone; even if those, who worked at night had just gone to sleep 
+they had to get up and carry bricks for an hour, than they could go back to rest. If somebody did not 
+march properly or tried to have a little rest meanwhile, a corporal called Juhász beat him brutally.
+
+Some men were caught when they attempted to escape. Most of them were locked in a pit, while 
+Lieutenant Colonel Marányi and his illustrious assistants executed the two principals. There was 
+the SS, the Wermacht, the Todt Organisation and we had to march there too. Marányi gave a 
+speech in which he promised that if we work hard for the great German ally, we may also have a 
+place under the sun. When the two convicts were being taken to the place of execution one fellow 
+waved them goodbye. He was sentenced to be trussed up twice for two hours and 25 strokes. 
+
+After the execution of the two principals they turned their attention to the eleven others locked in 
+the pit. They got half of the food portions, they were completely isolated and they were taken up to 
+be trussed up for some hours every day. Before we left the place, they had been taken away in a 
+car. Later in the meat works I heard a foremans acquaintance telling him that they had dug up their 
+graves, than they had been lined up and executed.  
+
+A man who worked in Lieutenant Colonel Marányis office, he was practically his right-hand man, 
+drew a picture of Marányi and his woman. The former lieutenant colonel had passed this woman to 
+him. He made a complete collection of caricatures of them and he wanted to send it home along 
+with a black letter, in which he had written everything honestly. This letter and the drawings got 
+caught. Marányi sentenced him to 120 hours of trussing up and 25 strokes every other day. Once I 
+saw him receiving those 25 strokes. He was laid on three benches pushed together and Corporal 
+Horváth was beating him. He was hitting him with all his might, the man was wriggling under the 
+blows. His arm was turned totally inside out, like that of a gymnast, but he endured it. He somehow 
+suffered even the truss ups. One day, Corporal Horváth took him away by the command of the 
+lieutenant colonel. We never saw him again. 
+
+50-60 people were trussed up every Sunday in the Margarine bar. They were hanging there like 
+the clothes on a washing line. Sometimes they were beaten while hanging there. They were not, of 
+course, trussed up properly, so that their toes would have reached the ground, but they were pulled 
+up, thus they were turning round in the air. I was lucky because they never trussed me up and I 
+worked in the meat works till the last day. 
+
+The enclosed photo shows the Berlin lager, by the way.
+
+I left with the first wave for Serbia. My friend Lajos Wintergrün was shot dead on the way. He was 
+said to have been shot by a warrant officer. They said he had shot him down because he had gone 
+to the maize field, but my poor friend was going on the edge of the road when he was shot in the 
+stomach. We continued our way. 
+
+An SS sergeant shot down a guy because he was not able to march on and sat down. He told him to 
+get up but he was not able to do that. He shot at least ten bullets over his head to frighten him. Than 
+he grabbed the man, lifted him, pushed the gun to his head, blew his brains out and threw him into 
+the ditch. We had breaks from time to time. In such cases we left the road to rest on the edge of the 
+ditch. At one of the breaks the same sergeant told us not to go off the road. People at the beginning 
+of the row did not hear this and went to the edge of the ditch, as in other times. The sergeant went 
+there and shot down 15-16 of them. 
+
+We arrived in Cservenka. There we lay down in a pigsty. At dawn I heard someone yelling auf, 
+auf. I put on my shoes at once and they chased us up to the attic of the brickyard. We heard 
+terrifying gunshots and grenades exploding. A corporal came shouting that everybody had to hand 
+in their valuables, because there would be a body search and on whom they would find something 
+would get in the biggest trouble. At the same time groups of fifty were being led down from the 
+attic. I was placed in one of these groups. A Hungarian labour service guard asked the man behind 
+me what message he wanted to send to his wife. He said he wanted to send no message because he 
+knew anyway that his family had been dragged away. Than the guard asked if he still had 
+something valuable to give him. The man had a ring, which he gave to the guard. In a minute a 
+German SS man came on a horse and stopped the body search. I thought that the pit into which 
+the victims were shot had already been full and we would be taken elsewhere, but it was not what 
+happened. We had to bow our heads and first they beat us up, than they set us off. Out on the road 
+we had to lie down in the ditch, while the other groups were formed, than we departed for Zombor. 
+
+Four men were given spades on the way, and they were taken to the maize field to bury a cadaver 
+there. When they finished, they were let go. After half an hour the same men were called. Only 
+three of them answered the call. They searched for the fourth one. Those three told them who the 
+fourth man was. They took all the four of them in the maize field and executed them. Than they 
+asked again for four people to bury those, than again, groups of twenty already. Meanwhile we had 
+to keep lying on the ground with heads bowed so that we did not see what was happening. Then a 
+SS man came on a horse. One of the guys, named Bandi Farkas stood up from the row in a self-
+sacrificing way, he went to the SS man and reported to him that murders were going on there, 
+although we were workers, not looting partisans as one of the labour service guards was spreading 
+about us. Having heard this, the SS horseman prohibited the killing, what is more, he promised that 
+we would no longer be chased as we had been so far. Indeed, we marched rather slowly up to Baja. 
+Although, an order was given that whoever fell back should be shot.
+ 
+Before we reached Baja an SS man threw me an ear of maize; I bent down to pick it up. Of course 
+my hungry fellows all wanted to snatch it and a tumult was formed; people fell upon me and I 
+broke my shoulder. The others encouraged me not to fall behind as I knew it meant certain death. 
+One of my comrades, who had taken some water into his cap from the mud, put the cap on my 
+head. Thad felt good, it eased my pain. I dragged myself to Baja. 
+
+They formed companies with Jewish commanders in Baja. The community of Baja treated us very 
+nicely. The mayor had the Jews flats opened and gave us clothes from there. A colonel took us 
+under his wing, since no one wanted to take us over. Other labour servicemen having escaped from 
+Szeged renounced their bread portions of two days in favour of us. We got hold of a live calf too. 
+
+I undertook the job of the cook, although my arm hurt badly, but I was hungry and I thought I 
+might look after myself that way. I slaughtered the calf with my aching arm.
+
+The next day we left Baja on a ferry. On the other side of the river they entrained us and took us to 
+Szentkirályszabadja. There I became a cook again and I could give my fellows 4-5 decilitres of 
+food. They were in very poor shape and the food was rather fat, thus it caused a terrible diarrhoea, 
+so they became very weak. Here Corporal Horváth shot down a man again, because he had jumped 
+over the fence for potatoes. 
+
+The kitchen was outside the camp, the cooks had to go out together in the morning. Once I went out 
+a little later than the others and for this the guard at the gate beat me so cruelly that I was not able 
+to go to the kitchen for two days.
+
+We continued on our way. They selected two cooks from every company to cook on the way.  
+We were taken under German command in Mosonmagyaróvár. From there they took us by 
+passenger train to Flossenburg, where we were kept in quarantine for 14 days. Part of the cracked-
+up companies stayed in that place as they were ill, many of them died there. We were stripped 
+naked, than we got striped trousers, a coat and a shirt, plus shoes with wooden soles or slippers. 
+After 14 days we were put into cattle cars and we went on. When we arrived in Ohrdruf we were 
+taken in a camp. The camp had just been built and it had not been finished completely. We were 
+chased into a barrack. On the next day we were selected from the point of view of working ability. 
+They found me able-bodied. 
+
+We walked 11 kilometres to work every day. We got up at 4 oclock in the morning, then Appell 
+was held, then we were given a black coffee and some bread for the day, but of course we ate it all 
+up at once. We went to the place of work at 7 oclock. We had to push trolleys, blast rocks and 
+things like that. The work, which we did under continuous SS surveillance, was terribly hard. 
+However cold it was, we had to work in a light coat and without gloves. After work we went home 
+in complete darkness, there we got turnip soup, which was prepared at noon. It was all just water 
+and by the time we got it in the evening it had always turned sour. We were disgusted, but of 
+course, we ate it. When I got home in the evening I was so exhausted that I lay down on the floor 
+dressed up, so I became infested with lice.
+
+Once I had to dig a hole. When I finished, but I was still in the hole, a big air raid started. This 
+made the SS man furious and he beat me so hard that I could hardly climb out of the hole. Usually 
+during the air raids the SS men behaved as if we would have sent the bombs on them. At the same 
+time I saw that they let 50 people home from their workplaces. I joined them, but the SS man hit 
+me on the kidney with the barrel of his gun. I suffered that and I went on together with the other 
+fifty, with my teeth clenched. The next day one of my friends went to hospital and I put on his 
+clothes not to let my SS man recognise me. That is how I managed to escape from him.  
+ 
+A week later I got blood poisoning. On Christmas day a Polish surgeon operated on my leg and my 
+shoulder. The operation was very successful and I stayed in hospital until 7th February. On 8th 
+February they discharged me from hospital. I was so week that I could hardly stand up; I was only 
+42 kilos, yet I had to go out to work. 
+
+A week before the liberation, when the Americans were rather close already, they put us on trucks. 
+I could, by pure chance, climb up on one of the trucks. Those who had no place, healthy and sick 
+people just as well, were being chased on foot. We got food for five days. I arrived in Buchenwald 
+the next day, but the others were coming for ten days with food enough for five days only. A great 
+number of them died on the way.
+
+These fellow sufferers, who had been coming on foot, were in such bad condition in Buchenwald 
+that when they were taken to the baths and stood under the shower, several people collapsed under 
+the weight of the water and many of them died. We were placed in wooden barracks where we 
+were squeezed together by the hundred, so we could not even sleep. There I was so week already, I 
+weighed 42 kilos, that I could not go up one stair. 
+
+Before the liberation people were taken away with transports. They announced that the Jews had to 
+register. I did not register then, neither on the second, nor on the third day. After that they forced 
+everybody to go and from those whom they took away we did not hear any more, there was no 
+hope for them.   
+
+On one occasion when they forced us to leave the barrack by beating, I began to go towards the 
+Appellplatz. I saw two dead bodies lying in front of the hospital, I lay down by them. I thought that 
+I would not go back, they might as well shoot me down, but I could not walk anyway. But then the 
+transport was cancelled and I went back to the barrack.
+
+The next day I felt somehow stronger. When they started to chase us, I thought, let it all be over, 
+and I went up to the Appellplatz. There one of the SS men selected me in a group when I caught 
+sight of a Gypsy who belonged to my barrack. So, I told him that I wanted to go together with my 
+acquaintances from the barrack. He said it was all the same, as everybody would be leaving 
+anyway. When we set off after two steps I went to the Gypsy. The others proceeded on. In five 
+minutes time the march was cancelled. We stayed there, and the next day the Americans liberated 
+us.  51,000 people were there originally. 30,000 of these were dragged away, so 21,000 of us were 
+liberated.
+
+I was in such bad condition that the Americans took me to hospital. Luckily, I did not get the 
+diarrhoea, from which almost everybody suffered. Very many people died there. I tended four 
+people, who were not really able to eat, so I ate their rations too. Within a week, I was the one to 
+serve the whole hall.
+
+The hospital was closed down and I was put in a Hungarian barrack where I became room 
+commander within 3 days. Thus I did even a little better. There were 50 freight cars of potatoes on 
+the territory of the camp, which they made available to us. I was cooking from morning till night. I 
+told the commander of the barrack to send those, coming from the hospital to me, to fatten them up. 
+On one occasion I went into the kitchen where Russian prisoners of war were cooking and they 
+were slaughtering a pig. I saw them throwing the innards away, together with the inner fat. I took 
+four people from my room and we gathered the innards. In a short time I had pots full of fat, and of 
+course I cooked everything with much fat to make the food nutritious.  
+ 
+I also got into the storeroom of clothes. I managed to dress up about 25 people completely. 
+
+When I heard that many of them were going home, some of them alone, eight of us joined and we 
+set off. We were not allowed to leave the country, as there was a complete sealing of the frontiers. I 
+did not want to risk my life, so we went in the Wells camp. Soon a transport departed from Wells. 
+Unfortunately that was also stopped and we were taken to Dornach, where the Russians came in 
+and set us off on foot. One morning I left Kilb alone. I arrived after a long walk. 
+
+During that time, through all the suffering the only thought that gave me strength was that I had to 
+come home to be together with my family again. That is why I came home through the hell. But I 
+could not find anybody at home. My wife and my little daughter had been taken from 
+Rákoskeresztúr to Auschwitz and I have not heard anything about them ever since.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

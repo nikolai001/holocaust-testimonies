@@ -1,0 +1,556 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3619
+        </h1>
+       </div>
+       <a href="?showjk_img=3619" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         M. P.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Lazony
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1918
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+The institution of Vadász Street was initiated by the Zionist movements. The 
+secretary of the Palestine Office Miklós Krausz had been in contact with the 
+Swiss Embassy for a long time. It was the Embassy that took the responsibility 
+to represent the countries that were in war with Hungary, including England. The 
+Swiss Embassy conceded to giving protection to an office whose future job was to 
+register those who applied for a certificate for Palestine. There were 7,800 of 
+these certificates, or rather, the Palestine Office was told that 7,800 of these 
+documents could be used as soon as the exit permits were issued.
+
+The objective was then to register these 7,800 names and to start negotiations 
+regarding the exit permits.
+
+As we know, in these days when the office of the Embassy in Vadász Street was 
+opened, the Lakatos government, which had already slackened the presence of 
+fascism in Hungary, was ready to negotiate regarding these permits. The 
+agreement was to issue a collective passport  I think for 1,500 people  what 
+the Hungarian Ministry of the Interior would approve, thereafter also the 
+Germans would give the exit permit if we meet certain conditions. The approval 
+of the Hungarian Ministry of the Interior indeed arrived, but the case was 
+obstructed by the Germans for a long time, and there was no chance to achieve 
+anything.
+
+Meanwhile we intensely worked in Vadász Street. These were times when a ray of 
+hope would soon become certainty. Hundreds, thousands of people were applying 
+for registration and the limit of 7,800 was soon surpassed, even the number of 
+10,000. Masses of little photos were glued on the files and the one who managed 
+to fill in the form was a happy person who felt his or her fate secured.
+
+It was anyway typical of people of that time to sustain hopes and beliefs 
+without difficulties, to catch at a straw, since there was no firm ground to 
+stand on. 
+
+It appeared to us that the first transport could successfully depart soon, 
+however, all attempts failed. Germans did not know how to proceed. It was not 
+only the lack of interest to save a few thousand Jews that mattered but also 
+their great worry that people who knew the story of their misdeeds could get to 
+neutral, or even inimical territories.
+
+At the beginning of October, in the last days of the Lakatos government also the 
+office in Vadász Street got calmer, since we now hoped that the war would finish 
+soon and nothing serious would happen to Jews in the future.
+
+October the 16th is a day to never forget. A few of us went to the office of 
+Vadász Street in the morning and found an empty, deserted place. No one had the 
+courage to come to a place which was Budapest-wide known to be the gathering 
+point of Jews. Everyone was convinced that Vadász Street would be treated the 
+same way as the Jewish houses that had been locked, and the people inside or 
+nearby would be arrested and taken away. The owner of the house Arthur Weisz 
+(later taken away and shot by the Arrow Cross) did not want to let us enter the 
+building as he knew we lived in illegality and was worried he could also get 
+into trouble if they find us there. We had to break in the door and enter by 
+force.
+
+The office in Vadász Street served us, who worked in the rescue team, often as a 
+place where those issues could be resolved or activities be carried out that we 
+could not do in the street or in a private flat. We were prepared (although we 
+knew that to a certain point we took a risk) to provide people with forged 
+documents or to negotiate with smugglers and with members of the resistance 
+movement. Naturally, the heads of the office were not happy about it, and this 
+led to several arguments but at the end it never gave reason for troubles.
+
+Also now, on the 16th of October a few of us came in and decided to carry on 
+working. In the following few days gradually a part of those people joined us 
+who had an exemption from wearing the star (as officers of the Swiss Embassy or 
+for other reasons) and thanks to the extraterritorial status of the building it 
+was here where they stayed during the day. Slowly, people started also to move 
+in since the Embassy let its officers to live there. Naturally, this became soon 
+known to others and no one could stop the avalanche of those who wanted to live 
+in the building. Brothers, parents, friends, acquaintances, Zionists and non-
+Zionists came pleading and crying and the house got full illegally. The Embassy, 
+especially ambassador Lutz later always acknowledged and approved that the 
+number of people grew.
+
+Circumstances became tougher: the space narrower, the supply more difficult, 
+sanitation worse, outdoor activities more dangerous.
+
+Once detectives of the Arrow Cross came but had to leave the premises furiously 
+since they could not offend the right of the Swiss for extraterritoriality.
+
+To a certain point the whole thing was only a bluff at the end, as nothing would 
+have happened if one day they had just taken away all the inhabitants of the 
+building. But somehow they did not have the courage to do so.
+
+The chance that the emigration could happen became in fact really thin by now. 
+As a consequence the Embassy appeared ready to give letters of protection to the 
+7,800 registered people holding a certificate. It was only now that Vadász 
+Street became really besieged. This news spread like fire. Thousands, maybe tens 
+of thousands of people were queuing up in front of 29 Vadász Street - sometimes 
+occupying the whole street and blocking the traffic - in order to receive 
+letters of protection. In fact, a lot of them, or most of them risked their 
+lives because they were there at the gate when Jews could not go out, many 
+without a star. But for some reason the raids of the police and the Arrow Cross 
+avoided this street, and nothing happened. On the other hand the office had 
+connections to the police station in Vadász Street, which sent cordons of police 
+every day. They sent policemen on horses who kept order using the baton because 
+people risked breaking in the walls of the glass house. I got some batters, too, 
+when I was hurrying through the crowd although I had a special card to enter the 
+building.
+
+As I had no moral inhibitions and felt no scruples towards the Nazis it was 
+natural that it right away came to my mind that we could also produce 
+Schutzpasses. We immediately had a seal made and stole forms from the Embassy to 
+start preparing letters of protection. Unfortunately, the letter I was left 
+out of the word "suisse" on our seal because of a mistake, so there was the 
+danger that police would immediately find out that these were fake. Later, they 
+indeed realised it in some cases. However, when distributing the Schutzpasses we 
+did not tell the people that these were forged documents partly because we were 
+afraid of betrayal and partly because it would have decreased their self-
+confidence and they would have lost their composure. Therefore, we carried the 
+fake documents to the Embassy and distributed them there to the people who were 
+not on the list of 7,800 or could not get hold of it in another way. This was 
+later not sufficient and we were forced to play the greatest bluff. We set up a 
+completely fictitious embassy in 4 Perczell Mór Street, where we distributed now 
+good fakes to those who applied for them. Very often there were masses waiting 
+also there, fighting for the Schutzpasses which often meant salvation for them.
+
+Interestingly enough, not only Jews but a great number of non-Jew policemen, 
+soldiers, and clerks applied for Schutzpasses claiming that it would save them 
+in front of the Russians. It happened that we indeed issued it for them, partly 
+because we were convinced that it would not help them, partly because this way 
+we could always extort some form of benefit, or privilege from a high officer.
+
+The number of Schuztpasses increased this way maybe even to 100,000. Naturally, 
+to some extent we let people cherish illusions, but still these letters of 
+protection saved the life of innumerable people. A great number of labour 
+service companies were saved by bringing them a letter of protection that 
+addressed collectively a whole company.
+
+In November-December Jews could hardly appear in the streets. This was the time 
+when they set up the so-called Swiss houses where the Schutzpass-owners lived. 
+This was the so-called foreign ghetto in Pozsonyi road. Conditions in Vadász 
+Street became almost unbearable. There were already more than 2,000 people 
+living in a single building, in the cellar, in the attic, filling all holes, 
+sleeping and lying on tables, on the ground, on shelves, in constant dread that 
+the Germans or the Arrow Cross was going to disrespect extraterritorial rights 
+and take revenge on them when they see that the war is about to finish. Day by 
+day sanitation became worse, food supply more difficult to provide. Also the 
+Arrow Cross became more interested in us. Still people kept trying to get into 
+this "Paradise". Although it was difficult to refute anyone, very often we had 
+to get them to leave because of the interests of the community. The spies of the 
+police also managed to get in so the police was perfectly well-informed about 
+everything. There were weapons hid in the building, especially the young 
+Zionists kept them who lived in the cellar, and who were prone to defend the 
+house with arms in case it was attacked.
+
+In the last weeks I did not go in any more, for almost every day a detective 
+came to fetch me, a person who knew my name and had an exact description of my 
+appearance. Nevertheless, I still occasionally slinked into the building in the 
+evening, or kept in touch with them in another way. The people who lived in were 
+hungry of news about the outside world and were always in need of something.
+
+Once the Arrow Cross came by cars and forced everyone of Vadász Street to move 
+out in front of the house without a coat or a hat. Almost everyone was out when 
+the news arrived to Wekerle Sándor Street where there was another similar 
+building of the Embassy. We were afraid the end came, the catastrophe arrived. 
+The telephone started to work, we called everybody from the city military 
+headquarters to the police headquarters, the Ministry of the Interior, the 
+Ministry of Foreign Affairs, we called everyone, we tried to threaten them 
+saying that we would immediately inform the Swiss government through a short-
+wave broadcasting station and with similar bluffs, which some believed because 
+of benevolence, some because of cowardice, and some because they had been 
+bribed. In few minutes cars of the city military headquarters and of the police 
+headquarters appeared with soldiers and policemen to get the Arrow Cross 
+withdraw. 
+
+By this time there was a bad relationship anyway between the Arrow Cross the 
+soldiers and the police which led now almost to a fight between them. But 
+apparently it was not worth fighting because of Jews, so the men of the Arrow 
+Cross withdrew. The result of this attack was the death of three people and 
+another person seriously wounded. They were shot when the Arrow Cross came in 
+and someone raised his voice saying it was an extraterritorial premise.
+
+Although there were no similar cases later on they could happen any minute and 
+the nerves of the people were infinitely strained.
+
+I want to speak about another tragic case. The Embassy had two cars for 
+resolving problems in the country. One was driven by my friend, one of the heads 
+of our movement Simcha Hunwald. This boy came back only recently from Ukraine 
+after three years of labour service and immediately started working in Vadász 
+Street with great zeal. This was where the half of the immense quantity of work 
+was done. When we were distributing the Schutzpasses there were days when the 
+leadership did not close their eyes as there was so much to do; while the 
+impatient, disquiet, and upset masses had to be controlled and kept in order. I 
+remember that another friend of mine Sándor Grossmann, who is known by many, did 
+not sleep for weeks to manage the work of the officers and to get the greatest 
+possible results.
+
+But I come back to Simcha Hunwald. Once, when he arrived home by car he found 
+one of the couriers of the building, a young Jewish boy dead in front of the 
+gate. The Arrow Cross killed him a few minutes before when he left the house. 
+Simcha Hunwald, although from the inside he was warned to come in straight away 
+he went to the boy and looked at him. He cried up: "Who dared to do it?" In this 
+moment two of the Arrow Cross went to him from the other side and took him away 
+and also the car. We have not seen him since then.
+
+Only a few more words! On the day of the liberation the hiding place in Vadász 
+Street was occupied by a mentally and physically destroyed mass. Not to mention 
+the damages caused by the Arrow Cross, the air raid shelter of the building was 
+not big enough as the cellars were anyway full. It is a miracle that only a 
+grenade hit the building wounding no one despite the severe bombing of the 
+neighbourhood. Nervous-wrecks but saved people left the building and ran away 
+from the dirt, lice and the already burdensome community. The mass, mostly made 
+up of intelligent people fell in such a degraded, debased state that community 
+life became impossible.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

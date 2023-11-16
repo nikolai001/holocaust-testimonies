@@ -1,0 +1,451 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 633
+        </h1>
+       </div>
+       <a href="?showjk_img=633" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         G. S.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Gánya
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1925
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Gánya
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         seamstress
+        </span>
+        <br/>
+        <span class="jk_label">
+         Ghetto
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         T?cs
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Auschwitz, Bergen - Belsen
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+We lived in Gánya. The majority of the local Jewry dealt with agriculture. That part of the country 
+was inhabited mostly by poor people. After that day when we were ordered to wear a yellow 
+star it was not advisable to go out to the street because we were very often assaulted. We were 
+exposed to continuous abuse; if they saw that we were wearing earrings they tore them off 
+our ears. They broke into our homes and looted. One day, gendarmes appeared, they searched 
+the house and they took away our money and jewellery. We were allowed to take with us 
+possessions up to 50 kilos; we set off to the train station with that burden. We went four kilometres 
+on foot and we were really very exhausted when we got there. From there we travelled by train to 
+the ghetto of Tőcs.
+
+20-25 people were crammed in a small room. At night leventes broke into the ghetto and they 
+looted and threatened us. We had to give them whatever they asked for. The gendarmes did not 
+prove to be any better: they also demanded everything and they said we would be killed anyway, so 
+we should give them the rest of our money and clothes. 
+
+Later they took us to the brickyard of Tőcs, where they started a new search; if somebody had a 
+ring or a watch they confiscated it from her. On the next day they entrained us and we set off 
+towards an unknown destination. We still had some food, but they did not give us water, nor did 
+they give us a bucket for toilet. They crammed 75 people in a cattle car; they did not have mercy on 
+the ill or on the children either. 
+
+At Kassa the escort of the train was taken over by SS soldiers. They treated us relatively more 
+humanely: they gave us water to drink. We arrived in Auschwitz in the first days of May. 
+
+There the ill, the mothers with children and the old people were set up in a separate line, while we 
+stood among the labourers on the right side. We cried a lot because they separated us from our 
+families, but the Poles said that we could visit them on Sunday, and that now they were going to 
+their accommodation by car because it was far away, and thus they need not go on foot so much. 
+
+When we were going closer to the bath we caught sight of a huge fire and we saw men 
+dragging corpses on the ground. Their arms were tied together with a cord and they were dragged 
+by that on the ground. We were very much frightened, there were people who screamed and did not 
+want to go any farther, because they thought the same fate was in store for them too. A girl called 
+Fany Fuchs ran away; the SS soldier shot after her and she collapsed dead. That is how Auschwitz 
+introduced itself to us. 
+
+In the bath they shaved and disinfected us, but that took more than one day and we spent the whole 
+time without eating and drinking. We got prisoners clothes and wooden shoes. 1,500 of us lived in 
+a barrack. There was no place to sit or to lie down; we were practically whirling each other and that 
+was the main cause of many fights. A large number of people died while we were lining up for roll 
+call, since we were so weak that we fainted one after the other. They hit us and beat us until we 
+regained our consciousness. 
+
+Later I worked: I carried bricks and broke stones. I got an unpleasant disease: I had mouth thrush. 
+After five months of suffering I was tattooed and I was taken to Bergen-Belsen with a transport. 
+We received clothes and food enough for two days, but the journey was actually four days long. SS 
+soldiers escorted us; we could not even think of escaping, they were so close behind us. 
+
+In Bergen-Belsen we were put up in tents. That was the worst place, because it was still cold, so we 
+were exposed to the unsettled weather. 1,500 people were crammed into a small tent. We had no 
+blankets at that. Our number was 1,500 in the beginning and only 80 women survived. We did not 
+work at all. We suffered the most from the lack of water; they gave us no water to drink or to wash 
+with. The food was also prepared in a way that it was inedible, unsalted; we did not receive any 
+bread on the last four weeks either. The turnip soup was made without fat, there was something 
+floating here and there in the soup, that is why we thought it may be made of turnip. One day it 
+spread like wildfire that there was water there. It was forbidden to step out of the block, but 
+two of my female companions could not control themselves. They ran out, the female SS 
+warden noticed them and shot them dead. They were going around with whips on them anyhow, 
+and the manifestation of joy was practically visible on their faces when they could use them.
+
+After five months in the weaving mill, if I did not weave ten metres a day they took away even that 
+little food as a punishment. It was a dreadful winter with cold, frost and winds; and we were not 
+able to defend ourselves from it, because we did not have warm clothes. We were unimaginably 
+dirty; we could only wash with black coffee and our hair started to grow, but we were full of 
+lice and our hands were filthy. We lived through our sad days hungry and worn like roadside 
+wanderers. The number of deaths grew so high that the crematorium proved to be too small. They 
+could not burn the corpses of people who died every day, so we made gigantic heaps of them and 
+those were burnt on the following day. I was there with my sister till the end. We encouraged each 
+other and the great moment of liberation arrived. The plenty of suffering was replaced by goodwill 
+and philanthropy. 
+  
+On 15th April 1945 the English liberated us. My sister recognized her fiancé among the soldiers, so 
+our happiness was even greater.
+
+I would like to emigrate to Palestine.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

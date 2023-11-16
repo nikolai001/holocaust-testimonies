@@ -1,0 +1,467 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3013
+        </h1>
+       </div>
+       <a href="?showjk_img=3013" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         P. B.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Dombóvár
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1914
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         clerk
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Heiligenkreuz, Poppendorf, Mauthausen, Günskirchen
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+I was drafted for labour service in Vác, in May 1942. We spent two months there doing community 
+work: we swept the streets, then we cut a passage in the mountain at the border of the town. Our 
+labour service guards were nice, they allowed us to secretly keep contact with the inhabitants of the 
+town. Since most of the inhabitants depended economically on the co-existence with Jews, they 
+pretended to be pro-Jewish. After two months we went to Kiev. I was in company No. 109/7. We 
+went to Kiev with the same guards, but the same people behaved quite differently once we crossed 
+the border. Those who were the nicest at home, beat us and abused us physically abroad. I tried to 
+get a job where the work may be harder, but it may secure some advantages to me. So I had myself 
+ordered to company No. 109/8, which cut wood in the forest. There I worked under the control of 
+much better labour service guards and we could keep contact with the inhabitants with the guards 
+knowledge. The inhabitants were very sorry for us and tried to help us in every possible way. After 
+6 weeks, I was ordered back to my original company, but soon I got to another lumbering company 
+in Dormia. Since we had a very good accommodation and our guards were nice, my comrades were 
+usually in high spirits. In August 1943 I got back to my original company again in order to be 
+discharged. Unfortunately, I was not discharged, because the shift did not arrive. The great retreat 
+started as early as then. Our stations were Kiev, Chernigov, Minsk, Brest-Litovsk. At these places 
+our company was assigned to work at industrial military unit No. 103. We did industrial work, so 
+we were very much appreciated. Due to the retreat, industrial military unit 103 was completely 
+destroyed, since the Russians blocked the transport at Lukov and they took into captivity the 60 
+people who had been ordered there. Only 140 of us were alive, from among the original 300, by 
+then. We crossed the Hungarian border on 2nd October 1944 and we were taken to Mezőtúr. 
+Because of the Russian pressure, they took us farther towards west already on the following day. 
+We were thinking about what to do. Nobody fell behind at the first station, in Törökszentmiklós, 25 
+kilometres away from Mezőtúr. Later the comrades started slowly to fall behind at every station on 
+the main road. Our rows kept shrinking. I did not consider it important to fall behind that time 
+because I knew that we would march through Pest and I intended to fall behind then. However, I 
+had no chance to do that in Pest, so I continued going with the company to Kiskunlacháza. There 
+were so few people there already that they had to bring the company to full strength. We received a 
+new number accordingly and our full strength was finally 214 people. Our next stop was Ráckeve; 
+by the time we got there, there were only 90 of us again. Then we crossed the Danube. Only 36 
+people arrived in Székesfehérvár. At that time the Russians were already very close, therefore the 
+prison of the city had been emptied. They put us into that empty building and the group, completed 
+with some criminals, run up to 50 people again. There were also Jews in the prison, whom the 
+Arrow Cross men caught later and added to the criminals. One man lead our company, who slowly 
+noticed that he alone and I were marching on the main road with 16 carts of the convoy, since all 
+the others had escaped. So we arrived in Körmend, where the company was disbanded. The convoy 
+and I were attached to a Jewish company in Kőszeg. It made us easy to escape that the soldiers 
+uniform stock was left in Fehérvár and the labour servicemen dressed in uniforms too. I also 
+marched after the carts as a soldier. They handed us over to the Arrow Cross in Kőszeg, who, after 
+they had beaten us up and robbed us out completely, drove the whole company across the border 
+and left us with the members of the Todt organization. At first we worked in Heilignekreuz, later in 
+Poppendorf. In Poppendorf we lived in a mill. We wove baskets and dug ant-tank ditches. The 
+provisions and the treatment were both very fair, we could contact the inhabitants in secret and we 
+had no reason to lodge a complaint against them either. As a result of the Russian pressure they 
+merged the Jewish companies working in the neighbouring villages and set them off on foot 
+towards Graz. At first we went to Graz and from there to Mauthausen. The march lasted for 3 
+weeks. That was one of the most terrible periods of my deportation and labour service. We were 
+marching without any food, they always wanted to increase our speed with beating and they kept 
+frightening people with shooting in the air. We ate grass and fodder. Sometimes we got a little 
+bread and 2 decilitres of soup. We believed firmly that there was no aim of our marching, it was 
+nothing but a means for them to make us die of hunger and weakness. A great number of us gave 
+up and these did not endure the march to Mauthausen. We arrived there decreased in number and 
+broken down. In Mauthausen we were received in a way that we had not expected. A sergeant was 
+standing at the gate of the camp with a club, which he held in both hands above his head. Some 
+henchmen followed his example and awaited the transport marching before them in the same 
+position. We were forced to go in front of them and, seeing their pugnacious attitude, everybody 
+tried to get in the middle of the row in order to avoid their blows, since those on the sides of the 
+row were closer to them. But, our crowd was stopped with a motion. The group was made to stand 
+in a row of five and we were set going towards the gate. Then they looked after that everybody 
+should receive some of the gift blows. No wonder we were prepared to the worst after such a 
+reception. Sadly, we had no reason to be disappointed, since we arrived in hell on earth. We were 
+living crammed in the courtyard of the camp for 6 days, exposed to the rampage of the sergeant all 
+the time. 6 days later they set us off again, but fate willed that it was our last march to Günskirchen. 
+When we received the order to start, I was struck with terrible fear, since not so long ago, 6 days 
+earlier did we finish a horrible march like that. We had not even recovered from the strains of the 
+journey. Indeed, it was impossible even to imagine some rest in Mauthausen, where one did not 
+have a place to lie down. I was also afraid of that such a weak body would not survive a march like 
+that and I firmly believed that we were marching to death. My fear regarding the march proved to 
+be true unfortunately. We were being chased for 3 days. The weakened people collapsed one after 
+the other, but those who wanted to sit down for a moment to have a little rest were shot down 
+without mercy. The same happened to those who wanted to pick some grass or rape to appease their 
+hunger with it. It was awful. We always heard shooting and we knew that there was one comrade 
+less. Corpses were lying in long lines along the ditch on the edge of the road, those people who had 
+been engaged to a bullet and who had already been probably better, since they had finished their 
+suffering on earth. I often envied those silent comrades and felt a temptation to join them. I felt that 
+I committed a sin against them because I stayed alive. But these feelings slowly died out in me, I 
+became indifferent and apathetic. I kept going along mechanically like a piece of wood and I could 
+hardly wait the moment when I could collapse in a corner where I find quiet and peace. We arrived 
+in Günskirchen after such a march, where the whole company consisted of completely indifferent, 
+thoughtless people. We did not care about anything any more, we lived because they had left us our 
+only treasure, but for how long, even that was a question. Our fellows died next to us and we did 
+not even notice it. Heaps of cadavers were piled in the courtyard and it was quite natural. I talked to 
+a comrade in the evening and he had been dead by the morning, a shrug of the shoulders, nothing 
+else. We were only numbers in the sepulchral urn of death there. It contained the number of all of 
+us, only we did not know, when it was our turn. It is his turn today, maybe mine tomorrow. We saw 
+a little glimmer of hope in the last days of April. Namely, we had an SS guard, who had already 
+been punished in Vienna because of his political behaviour and he was only dressed in SS uniform 
+later. He informed us about the events of the outside world and he told us that the liberation was a 
+matter of days already. He said we could escape if we wanted to, he was willing to help and he 
+would contribute towards it but he did not think it made much sense, because there was nowhere to 
+go outside the camp.
+Suddenly we heard enormous shooting and we saw huge fires on 4th May. The Americans were 
+coming and it was the Germans who set fire to many small towns during their withdrawal. Soon a 
+white flag was flying at the gate of the camp. On the following day I went to Wells. They put us up 
+in the Alpenjäger and later, when the Russians took us over, we set off with a transport. Later we 
+left the group and I came home individually. 
+Sadly, most of my family members had been taken abroad; I could not even find my closest 
+relatives together. I am expecting them to come back and then I will see, how things may work out 
+and what I will have to do.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

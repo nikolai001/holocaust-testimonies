@@ -1,0 +1,425 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3584
+        </h1>
+       </div>
+       <a href="?showjk_img=3584" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         özv. dr. D. S.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         female
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1869
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         housewife
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+Having obtained a Swiss letter of protection I got into the protected house in 
+30 Légrády Károly Street. A few days later, the Arrow Cross took all the 
+inhabitants of the building into Szent István Park. The elderly were later 
+lodged in the cellar of the building No. 22. I passed 14 days in this cellar. 
+Meanwhile my son got hold of a referral for me into a hospital and the 10th of 
+December I got into the orthodox sanatorium in Városmajor Street, which 
+functioned (like other similar health centres) as a so-called Red Cross 
+hospital. We were constantly anxious in the hospital since there was diverse 
+news spreading every day, and according to some the hospital could not function 
+anymore, and the people would be soon moved into the ghetto, etc. The order to 
+move into the ghetto was delayed three times. Every time we calmed down a little 
+but this relative peace lasted only for a short time because the Arrow Cross 
+appeared in the hospital quite frequently. But also Germans visited us 
+frequently. Generally, German and Arrow Cross men were searching for watches. It 
+went on like this till the 14th of January. On that morning, people were very 
+nervous and we felt that something was going to happen. Around noon, three Arrow 
+Cross men appeared. They came into the ward to check the identity of the sick. 
+First, they asked who were Jews and who were Christians and then asked for the 
+documents. Four of us lay in the same room: Baroness Beck, who had been awarded 
+for her merits in the First War and was therefore a privileged Jew. There were 
+also Mrs József Schlesinger and Mrs Vilmos Tauber, and I. Baroness Beck came up 
+with her privileged status but they ignored it. They also refuted the identity 
+claims of my two other neighbours who declared to be South American citizens. 
+Arrow Cross men replied that only Jews could have this kind of documents. I 
+tried to save the situation and prove that the ladies were Christians but 
+unfortunately, it did not help. It was my turn, and when they asked for my 
+documents I responded that I had no documents. I claimed I was a refugee from 
+Cegléd and had been carried to Pest by a German car. At the Nyugati railway 
+station they had handed me over to the Red Cross, and the Red Cross had placed 
+me in this hospital. I told them to check it out with the director. They 
+accepted my tale and I was temporarily saved. Two hours later they returned and 
+rechecked our identities, and the same happened as before. Around 3:30 pm they 
+returned again but now my three unfortunate companions had to stand already 
+against the wall. They also ordered me to stand there but I said I could not 
+stand up and anyway I was not a Jew but a refugee from Cegléd as I had told them 
+twice. For my luck, one of the bandits who remembered the Cegléd story 
+recognised me and very politely offered his help to make me stand up, and to 
+lead me to the corridor, but he said I had to move fast. As soon as I arrived to 
+the corridor I already heard the shots. As far as I know 180 people died this 
+time.
+
+By chance or maybe because the lights were switched off they failed to enter 
+into one of the rooms. The inhabitants here were Baroness Kohner, Mrs Dr Kammer 
+and Mrs Dr Neuman. I spent the night in that room.
+
+The Arrow Cross surrounded the building, and no one could leave or enter. Arrow 
+Cross men were walking up and down in the corridors, guarded the rooms, and 
+entered them one after the other to rob the dead.
+
+In the morning after this terrible night, I met the survivors, who were mostly 
+nurses who had been in hiding with Christian documents and some others who also 
+had Aryan documents and were counted as Christians such as Mrs Frigyes Bán or 
+Mrs Berkovics. On the other hand, they exterminated 1st doctor and director Dr 
+Friedmann and Dr Sulzer together with their families. They returned at noon to 
+check whether everyone had died among the ones they had shot, and if there was a 
+bit of life in someone they killed her.
+
+After this well-performed mission they instructed us to look for another place 
+as they were going to burn down the hospital. The aforementioned attack and 
+massacre happened on Sunday, and we stayed in the building till Wednesday, when 
+we moved into a rest home. I had obtained a document from the commander of the 
+house before, which certified that my documents had been burnt so I managed to 
+get into the rest house. Nevertheless, we could not avoid our destiny not even 
+here, since Friday, the 19th of January, Arrow Cross bandits visited also this 
+place. Three of them appeared and ordered Christians to stand to the right side 
+and Jews to the left side. Naturally, I ranked among Christians also here. The 
+rest of my unfortunate Jewish companions, exactly 80 of them, were led to the 
+corner of Csaba Street, where they killed them. They repeated the plunder and 
+robbed the corpses as it had been done in the sanatorium of Városmajor Street, 
+but also Germans visited the home with similar objectives.
+
+I waited for Budas liberation in this rest home; this is where I was when it 
+happened.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

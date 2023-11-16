@@ -1,0 +1,464 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3617
+        </h1>
+       </div>
+       <a href="?showjk_img=3617" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         dr. N. T.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         head of the Aid Department
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+After the Germans invasion of Hungary some internment camps were established in 
+Budapest and Csepel. I took part in the work of the Supportive Office and the 
+Jewish Council in providing and distributing food and cloth and in giving other 
+kind of technical support to these camps.
+
+These camps were the following:
+
+1. in the centre was the registry office and the administration: 26 Rökk Szilárd 
+Street, the building of the seminary for rabbis. Its head was the assistant 
+draftsman of the police Dr. Pál Ubrizsy (who was one of the greatest hangmen of 
+the world).
+
+Camps belonging to Rökk Szilárd Street:
+2. the camps of Csepel:
+a) Tsuk yard
+b) Mauthner yard, both were internment camps for civilians
+c) Horthyliget, military internment camp
+d) Királyerdő, as auxiliary camp
+e) Herminamajor, as auxiliary camp.
+
+"Their specialities": Tsuk: it was only for those registered by the National 
+Central Authority for Controlling Foreigners; 
+Mauthner: for those who were caught by local authorities (on train, on the 
+border of a locality, in escape, etc.), furthermore, for the prominent persons, 
+that is, for those who had been individually searched for.
+
+Horthy-liget: A place for those who were captured according to the list of 
+registered Jewish journalists and lawyers, ca. 3-500 people.
+
+Királyerdő, and Herminamajor: these had only secondary importance compared to 
+the three aforementioned large camps. Average number of people in Királyerdő was 
+30-40, in Herminamajor was 20-30.
+
+Tsuk camp: This was the site of the fur manufactory Tsuk holding, which was not 
+functioning any more. Authorities closed all usable halls of the factory, and 
+designated the stores and the two cellars as the places for the interned. These 
+rooms were in an indescribable condition lacking the most basic structures, 
+there was not even glass in the windows, etc. The latrine was for instance half 
+metre from the windowless cellar so that its smell was everywhere. There were 
+only two taps to be used for hygienic purposes, for bathing. These conditions 
+become unthinkable if we add that 90% of the interned in this camp were over 60 
+years, but at least 50% was over 70, and that there were rooms occupied by 
+people over 90. The head of the camp was an interned Jewish doctor who did 
+everything that humanely could be done to make the rooms of the camp tolerable 
+and to put up the interned. The Council helped the camp financially as much as 
+it was able to but the initial circumstances were so absurd that it was 
+impossible to keep here a throng of 7-900 people for a longer period of time.
+
+According to the well-known rule during air raids interned people had to stay in 
+the courtyard, later, in the open. There were several flaks nearby, and since 
+the port of the Danube (Szabadkikötő), Nagyvásártelep and the Weiss Manfréd 
+factory were only 1-200 metres from it, the prisoners of the camp had to put up 
+with air attacks basically without pause. The area of the camp went through 25 
+air raids but in the most miraculous way no bomb fell the camp. As a result of 
+long negotiations and begging German authorities allowed us to group the 
+children below the age of 16 in a separate camp. Although this preventive 
+measure was an advantage for the children it meant separation from the parents 
+who lived in the most insecure state. Nevertheless, we hoped this measure would 
+contribute to the chances of survival of the children, and we took away ca. 16-
+20 children from the camp around mid June. Only 2-3 weeks passed and the entire 
+Tsuk yard was evacuated and its prisoners were deported to Auschwitz. Since, as 
+I have said, around 90% of the inhabitants were above the age of 60, there can 
+be no doubt about their fate at the selections in Auschwitz.
+
+This is how 700 people passed away from this life after three months of 
+inhumane, ruthless maltreatment.
+
+Mauthner-yard. During the first air raids the Mauthner works - specialised on 
+grain - situated next to the Weiss Manfréd factory was also a target of the 
+attacks. It was made public that in order to avoid further attacks they would 
+set up an internment camp in the store only 2-3 metres from the oil company that 
+had been already hit. The head of the camp was a frustrated officer of the 
+factory, a member of the Arrow Cross, who  with regards to his past - hoped to 
+have a leading role in the plant after the change of rule. As I have said these 
+hopes were frustrated, so he eagerly cursed the Arrow Cross while he also gave 
+vent to his antisemitism that remained unchanged. Consequently through certain 
+measures it was possible to soften his attitude.
+
+Living conditions were basically better than on Tsuk yard, from a hygienic point 
+of view they were much more satisfying. This is where among others the actor 
+Sándor Radó, the world famous sportsman Alfréd Brüll and many other remarkable 
+people of the Hungarian Jewish society were kept. 
+
+Obersturmbannführer Krumey, who was the assistant to Eichmann, the man in charge 
+of Jewish affairs in Budapest, visited the site a number of times giving the 
+order to prepare groups of certain number of people for deportation. This was 
+however averted by the captain of the camp as we could exploit his above 
+mentioned attitude.
+
+At the beginning of July this camp was also evacuated. First, people were 
+transported to Békásmegyer, later they shared the horrible fate of the other 
+Jews of Hungary.
+
+Horthy-liget. This is the worst chapter in the story of the interned in Hungary. 
+Following the heaviest bombings during the first air raids against the Dunai 
+Aircraft Factory, authorities decided to set up an internment camp for civilians 
+placed under military control. This was first guarded by Hungarian soldiers, 
+later by the controllers of the workers of the Dunai holding, that is, those 
+whose profession was to pester and spy on the labourers. The interned were kept 
+in the stalls, which were half ruined by the air raids and their job was to 
+clear the debris on the site of the aircraft factory in 12 hours a day.
+
+I present only one case to illustrate the conditions of life in this camp: Ernő 
+Kivgel, who worked for the Hungarian News Agency , got into the camp with a 
+personal call-up. In the year before, he had had an apoplexy. Hard work caused 
+him another apoplexy, so he lay down after work. But as it was customary Jews 
+had to present a running contest including jumping over hurdles also that day, 
+to entertain the soldiers. The half paralysed, disabled Ernő Kügel was carried 
+to the site and was ordered to run. As he was unable to do so he was terribly 
+beaten and carried back to his place. The day after the doctor of the camp let 
+him stay in, since he was unable to move anyway. When his companions returned 
+from work Ernő Kügel was carried again to the ground and now was ordered to 
+jump. Ernő Kügel, half dead, was naturally unable to do so; he was beaten up 
+again. The day after, in the morning I managed to take him away (together with 
+another person who had gone mad because of the beatings) with the excuse that it 
+would be unpleasant for the camp if he died there. It was a special miracle that 
+Ernő Kugel got cured. He was caught again by the Gestapo, went through again 
+this inquisitional misery, but survived his second arrest, too.
+
+The commander of all these camps was, as I have said, the assistant draftsman of 
+the police Pál Ubrizsy, who had unlimited power and influence despite his young 
+age and the lack of any rank. He was one of those matchless figures of these 
+times in the style of Endre and Baky. A sadist hangman, who delighted in his 
+power and in the torment of his victims.
+
+It is not needed to speak about Rökk Szilárd Street as the history of the damned 
+institute has been described in numerous books and articles by the writers and 
+journalist who stayed there.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>

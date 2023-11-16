@@ -1,0 +1,404 @@
+<html>
+ <head>
+  <title>
+   degob.org
+  </title>
+  <link href="degob.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   <!-- Hide the script from old browsers --
+
+	var current;
+
+	function toc(toc_id) {
+
+		toc_element = document.getElementById(toc_id);
+
+		if ((toc_element.style.display=='none')||(toc_element.style.display=='')) {
+			toc_element.style.display='block';
+		}
+		else {
+			toc_element.style.display='none';
+		}
+	}
+
+
+    // --end hiding here -->
+  </script>
+ </head>
+ <body>
+  <div id="wrapper">
+   <div id="header">
+   </div>
+   <div id="main_wrapper">
+    <div id="left_menu">
+     <div id="left_menu_content">
+      <a class="menu_main" href="?extsearch">
+       Search
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php">
+       Main page
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=203">
+       On DEGOB
+      </a>
+      <br/>
+      <a class="menu_main" href="index.php?showarticle=2049">
+       The Survivor Witnesses
+      </a>
+      <br/>
+      <a class="menu_main" href="?glossary">
+       Glossary
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Encylopedia of Camps
+      </a>
+      <br/>
+      <a class="menu_main" href="#">
+       Supporters
+      </a>
+      <br/>
+     </div>
+    </div>
+    <div id="content_container">
+     <div id="content">
+      <div>
+       <div style="float:left;display:inline">
+        <h1 style="display:inline">
+         Protocol Nr. 3378
+        </h1>
+       </div>
+       <a href="?showjk_img=3378" style="text-decoration:none; color:#453c2d; ">
+        <span style="vertical-align:middle; cursor:pointer; float:right; font-size:11px; width:126px; height:17px;  background-image:url('http://degob.hu/images/arrow_l.jpg'); background-repeat:no-repeat; color:#453c2d; font-weight:bold;">
+         <span style="padding-left:30px;">
+          scanned image
+         </span>
+        </span>
+       </a>
+      </div>
+      <div style="width:100%;display:block; clear:both; margin-bottom:25px;">
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+       <div style="background-color:#b19d82; border:1px solid #433a2b; width:265px; margin-left:7px; padding:5px; margin-bottom:20px; float:left;">
+        <span class="jk_label">
+         Name
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         E. J.
+        </span>
+        <br/>
+        <span class="jk_label">
+         Gender
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         male
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Date of birth
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         1927
+        </span>
+        <br/>
+        <span class="jk_label">
+         Place of residence
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Budapest
+        </span>
+        <br/>
+        <span class="jk_label">
+         Occupation
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         student
+        </span>
+        <br/>
+        <span class="jk_label">
+         Camps
+        </span>
+        :
+        <span class="jk_fieldvalue">
+         Sachsenhausen, Germendorf, Siemensstadt, Sachsenhausen, Neubrandenburg, Ravensbrück, Wöbbelin
+        </span>
+        <br/>
+       </div>
+      </div>
+      <div style="width:100%;display:block; clear:both;">
+      </div>
+      <br/>
+      <br/>
+      The person in question has given us the following information:
+
+On October 20, 1944 I was taken to Gödöllő to perform fortification work. Later I was taken to Pesterzsébet where I did the same kind of work. Soon I returned home, but I could not stay in our flat due to the constant raids, therefore I joined my fathers labour service company on TutaJ Street. This was a unit protected by the Swiss embassy. We were dispatched to the Hindu chocolate factory from where we were taken to Garrison Albrecht. 
+
+On December 1 we were entrained at the Józsefváros railway station together with my father. The entrainment was executed by the Hungarian guards and the military gendarmerie. They escorted us to Hegyeshalom. There were 75 of us crammed into a closed cattle car. German units took over us at Hegyeshalom. 
+
+We arrived in Sachsenhausen on December 10. We were taken to the bath; there were ca. 2500 of us there, so it was not until the next evening that it was our turn. We had to take off our clothes, we bathed, and in exchange for our own clothes, we got thin clothes and clogs in the middle of winter. Late at night we were chased on a four-kilometre-long road in snow, dark and mud to Germendorf where we were lodged in an empty hall of an aircraft factory.  We were lying on the ground covered with wood shavings. It was terribly cold, we did not get water for a week and we were kept in quarantine for seven days. 
+
+Afterwards we were taken to Siemensstadt where workers were selected for the Siemens-works. Wearing thin striped clothes, we were manufacturing barbed wires. We were working without gloves outdoors in the severe wintertime. 
+
+German Blockältesters were supervising us, and they were constantly beating us with truncheons. It happened that we had to lie in the snow for two hours or we were made run. If somebody was caught with a piece of potato peel on him, he was beaten to a pulp.  
+
+From Siemensstadt I was taken back to Sachsenhausen again. We stayed in wooden barracks and three to four of us was lying on a berth, therefore sleeping was out of the question. 
+
+The roll calls took hours: from 5 to 11 am we were standing motionless until they counted us. We were constantly beaten with truncheons here too.  
+
+In a week we were selected for work and we were taken to Neubrandenburg. We travelled for two days and two nights in mid-January, in ice-cold cattle cars, in thin striped clothes, in clogs. We suffered greatly from the cold. 
+
+In this camp we were performing outdoor work first: we were making barbed wire, worked with pickaxes, carried pieces of iron. In short it was very heavy physical work. 
+We worked in two shifts, 12 hours a day with the weakest rations, which consisted of half a litre of soup and ca. 15 decagrams of bread.  I got into the camp hospital with a fever of 40 degrees Celsius. Lacking the proper medicine, I could not be helped. 
+
+On April 20, 1945 the Jews were loaded onto trucks (there were Aryan prisoners too of various nationalities) and we were taken to Ravensbrück.
+
+Camp rumour had it that we would go to Sweden as a part of a prisoner-exchange. It was also talked about a lot that many Red Cross (Swiss) care packages arrived for us, but most of them were stolen. 
+
+In a couple of days we were entrained and told that we would be taken to Sweden. There were ca. 1100 of us, 100 crammed into each cattle car. 
+
+We arrived at Wöbbelin (near Ludwiglust) on April 26, 1945. 
+
+We were taken into a half-built camp. We lived in brick barracks, without doors, windows or beds. There were 1000 people in a barrack, we got three-quarters of a litre of soup a day and a one-eighth portion of bread. A lot of Russian and French political prisoners were here. 
+Out of the 4000-5000 people 50-60 died daily, most of them due to diarrhoea. There was no medicine, the sick died without any medical treatment. German capos beat the people with sticks and clubs. In the barrack we could not even stretch our legs, so the night was full of crying. In these cases the capos came in and beat people to death. The situation was the same at the distribution of the food if we did not queue up for lunch on a proper line, so we gave up having a lunch instead. 
+On May 1, at noon we were lined up and entrained. We spent 24 hours in the locked cattle car. There were 135 people in the car, so we could hardly stand even on one foot. In the morning we were let out of the cattle car and driven back to the camp with large hounds. During the run many of our fellows were shot dead. That night there were at least six to eight dead in each cattle car: they were thrown to the road.
+
+The American troops arrived on May 2 and liberated us. The Americans were horrified to see the terrible sight there were heaps of corpses everywhere. In the hospital hundreds of dead bodies lied everywhere among the sick. 
+
+Right the next day after our liberation we left on foot. We reached a German village from where I travelled to Belsen, to an army station. I left on October 7 with a transport of 100 joined by another 500 later. I arrived in Budapest via Bohemia after 11 days of travel. 
+
+As far as I know, there are still ca. 1000 Hungarian and Romanian Jews in Belsen. Many of them want to emigrate.
+     </div>
+    </div>
+    <div id="right_menu">
+     <div id="right_menu_content">
+      <div class="hhr">
+       <a class="menu_main_hu" href="index.php?showarticle=2031">
+        The Holocaust in Hungary
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_1')">
+        Perpetrators
+       </a>
+       <ul id="menu_1">
+        <li>
+         <a class="menu" href="index.php?showarticle=2011">
+          The Gendarmerie
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2012">
+          The Police
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2013">
+          The Public Administration
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_2')">
+        The Gentile Population
+       </a>
+       <ul id="menu_2">
+        <li>
+         <a class="menu" href="index.php?showarticle=2014">
+          Indifference, Antipathy, Antisemitism
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2015">
+          Hungarian Rescuers
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_12')">
+        Regions of Destruction
+       </a>
+       <ul id="menu_12">
+        <li>
+         <a class="menu" href="index.php?showarticle=2016">
+          The Capital: Budapest
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2033">
+          A City in the Countryside: Balassagyarmat
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2034">
+          A Village: Rákosszentmihály
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_4')">
+        Women
+       </a>
+       <ul id="menu_4">
+        <li>
+         <a class="menu" href="index.php?showarticle=2017">
+          Hungarian Jewish Women in the Kanadakommando
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2018">
+          SS Female Overseers in Auschwitz
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2019">
+        The First Massacre
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2020">
+        Antisemitism
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2021">
+        The Jewish Council
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2022">
+        Resistance, Zionists
+       </a>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_9')">
+        Death Factory - Auschwitz-Birkenau 1944
+       </a>
+       <ul id="menu_9">
+        <li>
+         <a class="menu" href="index.php?showarticle=2023">
+          Prisoners' Fate in Auschwitz-Birkenau
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2024">
+          SS physicians
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2025">
+          What did the Victims know?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="#" onclick="toc('menu_10')">
+        Rescue
+       </a>
+       <ul id="menu_10">
+        <li>
+         <a class="menu" href="index.php?showarticle=2026">
+          Decent Gendarmes
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2027">
+          Policemen
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2028">
+          Humane Officials
+         </a>
+        </li>
+        <li>
+         <a class="menu" href="index.php?showarticle=2029">
+          The Military
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="hhr">
+       <a class="menu_main" href="index.php?showarticle=2030">
+        Looting
+       </a>
+      </div>
+      <a class="menu_main" href="index.php?showarticle=2032">
+       Labour Service
+      </a>
+      <script>
+       toc('menu_12');toc('menu_12');
+				if (current!=null) toc(current);
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+   </div>
+   <a href="http://degob.hu/index.php" style="text-decoration:none;" title="magyar">
+    <div id="switch_banner" title="switch to Hungarian">
+     váltás magyarra
+    </div>
+   </a>
+   <div id="bphm_banner">
+    <a href="http://bphm.hu" style="text-decoration:none;" target="_blank" title="bphm.hu">
+     <img src="http://degob.hu/images/BPHM_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#1d3c51;font-size:9px;">
+      bphm.hu
+     </span>
+    </a>
+   </div>
+   <div id="holomo_banner">
+    <a href="http://www.holokausztmagyarorszagon.hu" style="text-decoration:none;" target="_blank" title="www.holokausztmagyarorszagon.hu">
+     <img src="http://degob.hu/images/holo_ikon.jpg"/>
+     <br/>
+     <span style="text-align:center; text-decoration:none; color:#5b4b32;font-size:9px;">
+      holokausztmagyarorszagon.hu
+     </span>
+    </a>
+   </div>
+   <a href="index.php">
+    <div id="home">
+    </div>
+   </a>
+   <div id="scroller">
+    <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="18" id="scroller" width="927">
+     <param name="allowScriptAccess" value="sameDomain"/>
+     <param name="movie" value="scroller_en.swf"/>
+     <param name="quality" value="high"/>
+     <param name="wmode" value="transparent"/>
+     <param name="bgcolor" value="#000000"/>
+     <embed align="middle" allowscriptaccess="sameDomain" bgcolor="#000000" height="18" name="scroller" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="scroller_en.swf" type="application/x-shockwave-flash" width="927" wmode="transparent"/>
+    </object>
+   </div>
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-316143-2";
+urchinTracker();
+  </script>
+ </body>
+</html>
