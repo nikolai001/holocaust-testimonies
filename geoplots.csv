@@ -1,677 +1,532 @@
-protocol,name,gender,place_of_birth,date_of_birth,place_of_residence,occupation,concentration,ghetto,camps,place_of_birth1latitude,place_of_birth1longitude,ghetto1latitude,ghetto1longitude,ghetto2latitude,ghetto2longitude,camps1latitude,camps1longitude,camps2latitude,camps2longitude,camps3latitude,camps3longitude,camps4latitude,camps4longitude,camps5latitude,camps5longitude,camps6latitude,camps6longitude,camps7latitude,camps7longitude
-3378,E. J.,male,Budapest,1927,Budapest,student,,,"Sachsenhausen, Germendorf, Siemensstadt, Sachsenhausen, Neubrandenburg, Ravensbrück, Wöbbelin",47.48138955,19.14609412691246,,,,,50.1002618,8.6835988,52.746171849999996,13.167708793066906,52.5398082,13.2568934,50.1002618,8.6835988,53.5574458,13.2602781,53.1944796,13.1478107,53.4000924,11.5017107
-731,F. Ö.,male,Budapest,1923,Budapest,clerk,munkaszolgálatos (Hangony),,"Orianenburg, Ordruf",47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-2099,G. I.,male,Budapest,1900,Budapest,manager of a phone factory,"Csepel, labour service company no. 101/605",,"Türkheim, Kaufering, Allach",47.48138955,19.14609412691246,,,,,48.0878217,7.278011,48.0871324,10.8605317,48.1959936,11.4570128,,,,,,,,
-3608,dr. B. L.,male,Újpest,1906,,director and head physician of the Jewish hospital,,,,47.5586466,19.0797073,,,,,,,,,,,,,,,,,,
-3620,F. T.,male,Püspökladány,1925,Budapest,medical student,,,Rökk Szilárd utca 26. internálótábor,47.3196043,21.1122524,,,,,,,,,,,,,,,,,,
-1023,F. E.,female,K?rösmez?,1910,K?rösmez?,housewife,,Mátészalka,"Auschwitz, Gelsenber",,,47.9539113,22.3208477,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-70,S. A.,male,Mircse,1927,Mircse,student,Ungvár,Ungvár,"Auschwitz, Mauthausen, Melk, Ebensee",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.2272068,15.3369992,47.8122366,13.7741666,,,,,,
-282,dr. E. I.,male,Beregszász,1897,Beregszász,attorney,Zsidó Tanács tagja nem lakott gettóban,,"Auschwitz, Wolfsberg, Tannhausen, Schotterwerk",48.2050985,22.6453246,,,,,50.0336707,19.260079835793633,46.8390583,14.8452061,48.9799525,10.3579584,47.53481345,12.565869864072921,,,,,,
-296,V. G.,female,Nagysurány,1927,Budapest,,,"Budapest, KISOK-pálya","Dachau, Ravensbrück, Spandau, Sachsenhausen",48.0861055,18.1868344,47.48138955,19.14609412691246,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,50.1002618,8.6835988,,,,,,
-296,S. I.,female,Pécs,1921,Budapest,,,"Budapest, KISOK-pálya","Dachau, Ravensbrück, Spandau, Sachsenhausen",46.0765092,18.2280317,47.48138955,19.14609412691246,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,50.1002618,8.6835988,,,,,,
-296,K. A.,female,Budapest,1924,Budapest,,,"Budapest, KISOK-pálya","Dachau, Ravensbrück, Spandau, Sachsenhausen",47.48138955,19.14609412691246,47.48138955,19.14609412691246,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,50.1002618,8.6835988,,,,,,
-296,K. Z.,female,Budapest,1924,Budapest,,,"Budapest, KISOK-pálya","Dachau, Ravensbrück, Spandau, Sachsenhausen",47.48138955,19.14609412691246,47.48138955,19.14609412691246,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,50.1002618,8.6835988,,,,,,
-2476,B. A.,female,Budapest,19#5,Budapest,factory worker,women's labour service,,"Auschwitz, Görlitz",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,51.1563185,14.991018,,,,,,,,,,
-2476,S. H.,female,Voloc,1929,Voloc,high-school student,women's labour service,Munkács,"Auschwitz, Mühldorf",48.7146406,23.1888322,48.4421119,22.7185408,,,50.0336707,19.260079835793633,48.2405007,12.5250991,,,,,,,,,,
-1143,H. S.,male,Paks,1897,Budapest,private clerk,,,"Fertőrákos, Mauthausen, Günskirchen",46.6229468,18.8589364,,,,,47.7161504,16.6527782,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-447,F. H.,male,Toronya,1909,Budapest,student,,,Wienerneustadt,48.6626426,23.5823177,,,,,,,,,,,,,,,,,,
-1194,S. I.,female,Budapest,1926,Sashalom,seamstress,,Budakalász,"Auschwitz, Bergen, Dudenshall, Theresienstedt",47.48138955,19.14609412691246,47.6192785,19.0468565,,,50.0336707,19.260079835793633,60.3943055,5.3259192,,,,,,,,,,
-137,S. E.,female,Munkács,1910,Munkács,housewife,Munkács ghetto,,"Auschwitz, Lipstadt",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-651,K. H.,male,K?rösmez?,19#9,Budapest,student,,,"Auschwitz, Buchenwald, Remmsdorf, Theresienstadt",,,,,,,50.0336707,19.260079835793633,50.7892991,15.2705903,,,50.510716,14.149717,,,,,,
-123,F. T.,female,Munkács,1927,Munkács,student,,Munkács,"Auschwitz, Hertine, Theresienstadt",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.6033667,13.9085426,50.510716,14.149717,,,,,,,,
-3581,dr. H. F.,male,Budapest,1907,,rabbi,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-3580,G. I.,male,Balassagyarmat,1928,,student at a commercial school,,,,48.0768832,19.2926037,,,,,,,,,,,,,,,,,,
-136,K. K.,female,,1917,Budapest,goldsmith,,,"Bergen - Belsen, Ragu, Theresienstadt",,,,,,,52.7580569,9.9117992,44.5980083,25.4010627,50.510716,14.149717,,,,,,,,
-136,F. M.,female,,1917,Budapest,housewife,,,"Bergen - Belsen, Ragu, Theresienstadt",,,,,,,52.7580569,9.9117992,44.5980083,25.4010627,50.510716,14.149717,,,,,,,,
-678,J. R.,female,Középapsa,1928,Középapsa,housewife,,Aknaszlatina,"Auschwitz, Ravensbrück, Retzow",47.982441,23.90316,47.9470202,23.8747013,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.6250923,12.6827945,,,,,,,,
-1195,L. D.,male,Szentes,1904,Szentes,merchant,,munkaszolgálatos volt,"Auschwitz, Trezbinic, Sachsenhausen, Ravensbrück",46.6524049,20.2566408,,,,,50.0336707,19.260079835793633,,,50.1002618,8.6835988,53.1944796,13.1478107,,,,,,
-1142,F. M.,female,Szatmárnémeti,1920,Ungvár,cosmetician,,Ungvár,"Auschwitz, Stutthof, Thorn, Schlossbirg, Olec",47.7891763,22.8725598,48.4078102,21.6517637,,,50.0336707,19.260079835793633,54.330086,19.177209,53.0102721,18.6048094,,,48.6620214,-3.6923803,,,,
-308,S. M.,male,Budapest,1922,Budapest,physician candidate,,,"Birkenau, Mauthausen, Melk, Ebensee",47.48138955,19.14609412691246,,,,,49.5638,8.7264,48.2404063,14.5162667,48.2272068,15.3369992,47.8122366,13.7741666,,,,,,
-1977,B. T.,male,Budapest,1927,Budapest,weaver,,,"Bruck a./L, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,50.9841234,7.5398567,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-254,K. E.,female,,1927,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,W. R.,female,,1926,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,W. F.,female,,1924,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,S. I.,female,,1929,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,R. E.,female,,1917,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,L. R.,female,,1920,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,F. S.,female,,1918,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,S. F.,female,,1915,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,S. M.,female,,1926,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,K. B.,female,,1929,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,H. H.,female,,1926,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,E. G.,female,,1925,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,S. P.,female,,1927,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,M. S.,female,,1909,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,M. G.,female,,1924,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-254,S. V.,female,,1930,Munkács,,,Munkács,"Birkenau, Bergen Belsen",,,48.4421119,22.7185408,,,49.5638,8.7264,52.7580569,9.9117992,,,,,,,,,,
-1744,W. J.,male,Beregrákos,1919,Nagygajdos,timber merchant,,Ungvár,"Auschwitz, Monowitz",48.467831,22.596352,48.4078102,21.6517637,,,50.0336707,19.260079835793633,50.0331874,19.3000429,,,,,,,,,,
-3621,dr. B. J.,male,,1887,,head physician,,,,,,,,,,,,,,,,,,,,,,,
-2517,I. G.,female,,1927,Técs?,student,,Técs?,"Auschwitz, Schlesienses, Helmbrechts, Prachatjice",,,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,,,50.2349797,11.7163126,,,,,,,,
-724,B. S.,female,Berezova,1918,Berezova,smallholder,,Iza,"Auschwitz, Kaufering, Bergen - Belsen",50.27824,33.729395,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,48.0871324,10.8605317,52.7580569,9.9117992,,,,,,,,
-2067,S. G.,female,Munkács,1909,Ilosva,accountant,,Munkács,"Auschwitz, Birnbäumel, Grosrosen, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,52.7580569,9.9117992,,,,,,
-1208,V. T.,female,Budapest,1905,Budapest,factory worker,,,"Dachau, Ravensbrück, Spandau, Saxenhausen",47.48138955,19.14609412691246,,,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,,,,,,,,
-3409,K. A.,male,Bakonyszentkirály,1914,Budapest,owner of a guesthouse,,Munkaszolgálatos volt,"Flossenburg, Hersbruck, Dachau",47.3639276,17.8826006,,,,,49.7329883,12.3498211,49.5085843,11.4285065,48.2592477,11.4354419,,,,,,,,
-1222,B. M.,male,Nagybocskó,1924,Budapest,baker apprentice,,,"Engerau, Mauthausen, Gänskirchen",47.973549,24.0147396,,,,,48.1241126,17.0894674,48.2404063,14.5162667,,,,,,,,,,
-929,M. É.,male,Nádaspatak,1925,Munkács,digger,,Munkács,"Auschwitz, Ellenburst, Flossenburg, Leonberg",48.635288,22.696676,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,49.7329883,12.3498211,48.8012983,9.0150026,,,,,,
-3637,S. J.,male,,,Szatmárnémeti,,,,,,,,,,,,,,,,,,,,,,,,
-1746,K. E.,female,Szerencs,1919,Budapest,clerk,,Sátoraljaujhely,"Auschwitz, Bergenbelsen",48.1633851,21.2010881,48.3960978,21.6561497,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3623,dr. G. F.,male,Zagyvapálfalva,1884,Budapest,head physician of the Bródy hospital,,,,48.0675467,19.7850269,,,,,,,,,,,,,,,,,,
-3192,dr. V. L.,female,Fegyvernek,1904,Bélapátfalva,housewife,Kecskemét,,"Auschwitz, Bergenbelsen, Braunschweig, Wattenstadt, Ravensbrück, Malchov",47.2526516,20.5259428,,,,,50.0336707,19.260079835793633,,,52.2646577,10.5236066,,,53.1944796,13.1478107,,,,
-3019,B. T.,male,Budapest,1899,Budapest,merchant,,(munkaszolgálat),"Sachsenhausen, Oranienburg, Sachsenhausen, Glau, Sachsenhausen",47.48138955,19.14609412691246,,,,,50.1002618,8.6835988,52.7529379,13.2457591,50.1002618,8.6835988,52.240396,13.1672203,50.1002618,8.6835988,,,,
-3025,R. V.,female,Csánig,1913,Budapest,clerk,,,"Auschwitz, Bergen - Belsen, Braunschweig, Wattenstadt, Ravensbrück",47.4325669,17.0234452,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,52.2646577,10.5236066,,,53.1944796,13.1478107,,,,
-3031,L. L.,male,Budapest,1899,Budapest,surgical mechanic,,Munkaszolgálat,Oranienburg,47.48138955,19.14609412691246,,,,,52.7529379,13.2457591,,,,,,,,,,,,
-450,M. S.,male,Técso,1923,Técso,shipper,,,"Wappendorf, Mauthausen",48.01163,23.5783799,,,,,53.7300744,20.9461384,48.2404063,14.5162667,,,,,,,,,,
-1430,L. M.,male,Halmi,1927,Szerednye,student,,Ungvár,"Auschwitz, Buna, Buchenwald",47.9789957,23.0136502,48.4078102,21.6517637,,,50.0336707,19.260079835793633,43.2512561,17.8689728,50.7892991,15.2705903,,,,,,,,
-1342,S. E.,female,Huszt,1921,Huszt,seamstress,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,R. A.,female,Huszt,1929,Técs?,student,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,S. I.,female,Huszt,1920,Huszt,seamstress,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,R. S.,female,Huszt,1926,Bilke,seamstress,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,B. S.,female,Huszt,1929,Bilke,housewife,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,B. M.,female,Huszt,1927,Bilke,housewife,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-1342,B. H.,female,Huszt,1927,Bilke,housewife,,Beregszászi téglagyár,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-875,B. I.,male,Ungvár,1917,Ungvár,photographer,"Munkaszolgálat 108/18, 109/7",,"Neugam, Hamburg, Sankt Posten",48.4078102,21.6517637,,,,,,,53.550341,10.000654,59.728387,10.246849,,,,,,,,
-875,S. H.,male,Hársfalva,1923,Hársfalva,tailor,Munkaszolgálat 110/301,,"Neugam, Hamburg, Sankt Posten",48.557854,23.027519,,,,,,,53.550341,10.000654,59.728387,10.246849,,,,,,,,
-3596,dr. L. L.,female,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1196,G. K.,female,Balmazújváros,1929,Balmazújváros,housewife,,,"Bécs, Strasshof",47.6116279,21.3437378,,,,,48.2083537,16.3725042,48.3189487,16.6429437,,,,,,,,,,
-451,A. R.,female,Nagykapos,1919,Budapest,seamstress,,,"Auschwitz, Ravensbrück",48.5538814,22.0773719,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,,,,,,,,,,
-2448,dr. L. I.,female,Ujpest,1908,Újpest,physician,Budakalász brick factory,Ujpest,"Auschwitz, Bergen - Belsen",47.5761686,19.0955082,47.5761686,19.0955082,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3622,K. I.,male,Gyula,1913,,official of the International Red Cross,,,,46.6438656,21.2747575,,,,,,,,,,,,,,,,,,
-1747,N. J.,female,Budapest,1924,Sashalom,drugstore owner,Budakalász,,"Auschwitz, Frankfurt am Main, Ravensbrück, Zillertbal, Nordbausen, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.1106444,8.6820917,53.1944796,13.1478107,,,,,48.2404063,14.5162667,48.1334587,13.9427447
-99,H. R.,female,Várpalánka,1906,,seamstress,,Munkács,"Auschwitz, Geislingen, Münchenallsch",,,48.4421119,22.7185408,,,50.0336707,19.260079835793633,48.2886289,8.8135495,,,,,,,,,,
-928,H. L.,female,Herincse,1925,Herincse,housewife,,Iza,"Auschwitz, Frankfurt am Main, Ravensbrück, Barth",48.266369,23.42869,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,50.1106444,8.6820917,53.1944796,13.1478107,54.3690547,12.7258585,,,,,,
-914,P. O.,female,Visken,1927,Visk,housewife,,Técs?,"Auschwitz, Ravensbrück, Lippstadt",,,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,53.1944796,13.1478107,51.6747074,8.347194,,,,,,,,
-914,P. I.,female,Visken,1922,Visk,housewife,,Técs?,"Auschwitz, Ravensbrück, Lippstadt",,,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,53.1944796,13.1478107,51.6747074,8.347194,,,,,,,,
-1223,S. W.,female,##szárnya,1897,Szolyva,housewife,,Munkács,Auschwitz,49.5530714,19.7872406,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3434,B. A.,female,Budapest,1908,Budapest,private clerk,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-3395,R. E.,male,Szinérváralj,1918,Budapest,tailor's assistant,,,"Mauthausen, Gunskirchen",,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2921,E. J.,male,Budapest,1906,Budapest,optician,,,Sachsenhausen,47.48138955,19.14609412691246,,,,,50.1002618,8.6835988,,,,,,,,,,,,
-1743,K. M.,female,Nagyberezna,1922,Ungvár,teacher,,Ungvár,"Auschwitz, Weisswasser, Horneburg, Bergen - Belsen",48.88985,22.45812,48.4078102,21.6517637,,,50.0336707,19.260079835793633,50.5014795,14.8041263,53.508793,9.577211,52.7580569,9.9117992,,,,,,
-1743,H. J.,female,Nagyberezna,1913,Ungvár,milliner,,Ungvár,"Auschwitz, Weisswasser, Horneburg, Bergen - Belsen",48.88985,22.45812,48.4078102,21.6517637,,,50.0336707,19.260079835793633,50.5014795,14.8041263,53.508793,9.577211,52.7580569,9.9117992,,,,,,
-3632,N. M.,male,,,,physician /Nagyvárad/,,,,,,,,,,,,,,,,,,,,,,,
-3626,K. M.,female,,,Budapest,Deputy Leader of the Welfare Department of the Swedish Red Cross,,,,,,,,,,,,,,,,,,,,,,,
-3140,G. G.,male,Budapest,1900,,tram conductor at the public transportation company of Budapest,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-1019,G. L.,female,Ungvár,1920,Ungvár,hairdresser,,Ungvár,"Auschwitz, Krasnow",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.0769444,20.1772222,,,,,,,,,,
-509,K. E.,male,Wien,1894,,tinsmith and mechanic,Kistarcsa (1944.03.20.-1944.04.28.),,"Birkenau, Wüstegiessdorf, Hildesheim, Ahlem",48.2083537,16.3725042,,,,,49.5638,8.7264,,,52.1521636,9.9513046,52.3850135,9.6653858,,,,,,
-1970,G. A.,female,Munkács,1923,Munkács,housewife,,Munkács,"Auschwitz, Freudenthal",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,49.9885113,17.4652901,,,,,,,,,,
-3020,H. R.,male,Újpest,1907,Budapest,private clerk,Székesfehérvár,,"Auschwitz, Birkenau, München, Allach",47.5586466,19.0797073,,,,,50.0336707,19.260079835793633,49.5638,8.7264,48.1371079,11.5753822,48.1959936,11.4570128,,,,,,
-3008,S. B.,female,Aknaszlatina,1908,Budapest,housewife,,,"Lanzberg, Türkheim, Kaufering, Mildorf",47.9470202,23.8747013,,,,,47.7223728,13.1630087,48.0878217,7.278011,48.0871324,10.8605317,43.162984,-77.554351,,,,,,
-643,V. H.,male,Kishalmágy,1906,Budapest,mechanic,munkaszolgálatos,,"Mauthausen, Gunskirchen",46.2703654,22.6183853,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-125,K. Z.,female,Beregpapfalva,1931,Beregpapfalva,elementary school student,Munkács gettó,,"Auschwitz, Geislingen, Allach",48.443871,22.86907,,,,,50.0336707,19.260079835793633,48.2886289,8.8135495,48.1959936,11.4570128,,,,,,,,
-2128,N. T.,male,Budapest,1923,Budapest,merchant,munkaszolgálatos,,"Bireknau, Auscwitz, Oranienburg, Flossenburg, Regensburg, Muttering",47.48138955,19.14609412691246,,,,,,,,,52.7529379,13.2457591,49.7329883,12.3498211,49.0195333,12.0974869,47.9674717,12.8495857,,
-131,M. H.,female,Huszt,1913,,housewife,,,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-131,M. M.,female,Huszt,1915,,housewife,,,,48.1764917,23.291166,,,,,,,,,,,,,,,,,,
-131,F. M.,female,Nagybocskó,1924,,housewife,,,,47.973549,24.0147396,,,,,,,,,,,,,,,,,,
-131,F. S.,female,Nagybocskó,1926,,housewife,,,,47.973549,24.0147396,,,,,,,,,,,,,,,,,,
-3550,dr. Z. Gy.,male,Balassagyarmat,1908,Balassagyarmat,attorney,,Balassagyarmat,"Auschwitz, Mauthausen, Melk, Ebensee",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.2272068,15.3369992,47.8122366,13.7741666,,,,,,
-2100,M. A.,male,Budapest,1929,Budapest,apprentice at an electrical mechanic,"Bethlen Square temple, labour service company no. 101/603",,"Sachsenhausen, Oranienburg, Ohrdruf, Karwinkel, Buchenwald, Flossenburg, Dachau",47.48138955,19.14609412691246,,,,,50.1002618,8.6835988,52.7529379,13.2457591,50.8270085,10.7319499,49.7851494,9.8826663,50.7892991,15.2705903,49.7329883,12.3498211,48.2592477,11.4354419
-2114,E. S.,male,Cigánd,1917,Budapest,plumber,,Hatvan,"Auschwitz, Grossrosen, Dachau, Mühldorf",48.2572311,21.8904926,47.6683971,19.6743874,,,50.0336707,19.260079835793633,53.6769526,22.2370548,48.2592477,11.4354419,48.2405007,12.5250991,,,,,,
-2699,R. J.,male,Budapest,1899,Budapest,boxer (upholsterer),,,"Fertőrákos, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.7161504,16.6527782,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3593,G. E.,female,Bögöte,1921,Kispest,angora breeder,"yellow star house, 26 Szigliget Street, Kispest",,"Auschwitz, Stutthof, Argenau, Thorne, Krone",47.0873272,17.0436719,,,,,50.0336707,19.260079835793633,54.330086,19.177209,52.894429,18.4066817,45.7457775,-76.426058501174,46.8756268,10.2319967,,,,
-864,M. B.,male,Badaló,1919,Badaló,tinsmith,,Munkaszolgálatos,"Flossenburg, Dora (Nordhausen), Harzung",48.1091196,22.6422346,47.3877742,16.5548944,,,49.7329883,12.3498211,51.534538749999996,10.75068108791962,53.4379858,12.9370816,,,,,,,,
-1178,S. W.,male,Aknaszlatina,1927,Aknaszlatina,tailor,,Aknaszlatina,"Birkenau, Auschwitz, Buna, Buchenwald, Theresienstadt",47.9470202,23.8747013,47.9470202,23.8747013,,,49.5638,8.7264,50.0336707,19.260079835793633,43.2512561,17.8689728,50.7892991,15.2705903,50.510716,14.149717,,,,
-468,I. M.,female,Oroszvég,1918,,photographer,,Munkácsi téglagyár,"Auschwitz, Ravensbrück, Neustadt, Gléve",48.4493403,22.7201326,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.6565584,23.5719843,6.3420154,1.4920079,,,,,,
-468,I. M.,female,Oroszvég,1919,,housewife,,Munkácsi téglagyár,"Auschwitz, Ravensbrück, Neustadt, Gléve",48.4493403,22.7201326,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.6565584,23.5719843,6.3420154,1.4920079,,,,,,
-3009,K. Á.,male,Budapest,1926,Budapest,radio engineer,,,"Engerau, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-326,C. G.,male,Veszprém,1920,Budapest,technical clerk,,,,47.0933824,17.9080406,,,,,,,,,,,,,,,,,,
-1781,R. N.,female,Kisapsa,1918,Kisapasa,seamstress,,Mátészalka,"Auschwitz, Hochweile, Grossrosen, Mauthausen, Bergen - Belsen",48.074451,23.957411,47.9539113,22.3208477,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,48.2404063,14.5162667,52.7580569,9.9117992,,,,
-520,H. E.,female,Budapest,1919,Munkács,teacher,,Munkács,"Auschwitz, Unterlüss",47.48138955,19.14609412691246,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,,,,,,,,,,
-520,H. I.,female,Budapest,1920,Munkács,teacher,,Munkács,"Auschwitz, Unterlüss",47.48138955,19.14609412691246,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,,,,,,,,,,
-520,H. E.,female,Budapest,1922,Munkács,housewife,,Munkács,"Auschwitz, Unterlüss",47.48138955,19.14609412691246,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,,,,,,,,,,
-252,W. J.,male,Mezokövesd,1927,,furrier,,,Bergen - Belsen,47.8097525,20.5660889,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-905,M. L.,male,Beregszász,1925,Beregszász,merchant,,Beregszász,"Birkenau, Buchenwald, Ohrdruf, Buchenwald",48.2050985,22.6453246,48.2050985,22.6453246,,,49.5638,8.7264,50.7892991,15.2705903,50.8270085,10.7319499,50.7892991,15.2705903,,,,,,
-2920,M. D.,male,Budapest,1896,Budapest,mechanic,,munkaszolgálat,"Buchenwald, Tarthum, Schönebeck",47.48138955,19.14609412691246,,,,,50.7892991,15.2705903,,,52.0205998,11.7383277,,,,,,,,
-1583,J. B.,female,Kövesdliget,1928,Kövesdliget,seamstress,,Szeklence,"Auschwitz, Stutthof, Brannau",,,48.117165,23.382006,,,50.0336707,19.260079835793633,54.330086,19.177209,,,,,,,,,,
-722,L. E.,female,Irhols,1930,Irhols,seamstress,,Munkács,"Auschwitz, Mersen, Leibisch, Friedenwald, Stutthof, Neustadt",,,48.4421119,22.7185408,,,50.0336707,19.260079835793633,48.983824049999996,6.028506381186524,49.0060132,8.4091281,,,54.330086,19.177209,47.6565584,23.5719843,,
-1226,N. M.,female,Munkács,1925,,housewife,,Munkács,"Auschwitz, Hertine, Thereienstadt",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.6033667,13.9085426,,,,,,,,,,
-1226,K. R.,female,Munkács,1925,,seamstress,,Munkács,"Auschwitz, Hertine, Thereienstadt",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.6033667,13.9085426,,,,,,,,,,
-2049,M. J.,male,,1924,Iza,joiner,,,"Auschwitz, Buchenwald, Bochum, Buchenwald, Theresiestadt",,,,,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.4818111,7.2196635,50.7892991,15.2705903,,,,,,
-1230,R. M.,female,Mezökaszony,1894,Beregszász,teacher,,Beregszász,Auschwitz,48.253601,22.45598,48.2050985,22.6453246,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-250,W. Á.,male,Stradna,1923,Stradna,shoemaker,,,"Neugami, Hamburg",56.007295,28.3807536,,,,,,,53.550341,10.000654,,,,,,,,,,
-1768,G. I.,male,Hódmezovásárhely,1907,Budapest,merchant,,,"Kőszeg, Mauthausen, Günskirchen",46.4171344,20.3196068,,,,,47.3894949,16.5406843,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3619,M. P.,male,Lazony,1918,Budapest,,,,,48.6608699,21.8365915,,,,,,,,,,,,,,,,,,
-75,S. F.,male,Drágabátfalva,1917,Drágabátfalva,glazier,,Munkács,"Auschwitz - Birkenau, Mauthasusen, Melk, Ebensee",,,48.4421119,22.7185408,,,50.0346203,19.1807846,,,48.2272068,15.3369992,47.8122366,13.7741666,,,,,,
-1620,P. M.,male,Rozsnyó,1905,Budapest,factory employee,,,"Kőszeg, Rechnitz, Mauthausen, Günskirchen",48.6620675,20.5328607,,,,,47.3894949,16.5406843,47.3049404,16.4408807,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-1620,K. G.,male,Pestszentl?rincz,1914,Pestszentl?rinc,smallholder,,,"Kőszeg, Rechnitz, Mauthausen, Günskirchen",,,,,,,47.3894949,16.5406843,47.3049404,16.4408807,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-1608,S. Z.,female,Kralova u/Tiszo,1927,Kralova u/Tiszo,housewife,,Nagysz?l?s,"Auschwitz, Gunsfeld, Grossrosen, Mauthausen, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,48.2404063,14.5162667,52.7580569,9.9117992,,,,
-318,K. G.,male,,1922,,clerk,,,,,,,,,,,,,,,,,,,,,,,
-318,K. E.,male,,1924,,clerk,,,,,,,,,,,,,,,,,,,,,,,
-1344,S. S.,female,Ungvár,1925,##,seamstress,,Ungvári téglagyár,"Auschwitz, Landsberg",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,48.0514973,10.8737728,,,,,,,,,,
-3553,S. M.,male,Nemesmilitics,1905,Vác,weaver,,,"Buchenwald, Berga am Elster, Dachau, Seefeld",45.8533938,19.2048515,,,,,50.7892991,15.2705903,50.7524427,12.163341109608908,48.2592477,11.4354419,47.3289241,11.1867187,,,,,,
-2895,H. M.,male,Budapest,1910,Budapest,merchant,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-132,S. H.,female,Munkács,1893,Munkács,wife of a merchant,,Munkács,"Auschwitz, Lenzing",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,47.9733296,13.6049039,,,,,,,,,,
-132,S. O.,female,Munkács,1924,Munkács,seamstress,,Munkács,"Auschwitz, Lenzing",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,47.9733296,13.6049039,,,,,,,,,,
-132,J. H.,female,Munkács,1933,Munkács,student,,Munkács,"Auschwitz, Lenzing",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,47.9733296,13.6049039,,,,,,,,,,
-2117,A. B.,male,Nagybocskó,1926,Nagybocskó,commercial employee,,Mátészalka,"Auschwitz, Ravensbrück, Malchow, Taucha",47.973549,24.0147396,47.9539113,22.3208477,,,50.0336707,19.260079835793633,53.1944796,13.1478107,53.4775641,12.4245172,51.39240555,12.512871046584781,,,,,,
-3584,özv. dr. D. S.,female,Budapest,1869,,housewife,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-873,K. L.,female,Budapest,1920,Kalocsa,housewife,Szeged brick factory,,"Auschwitz, Fallerslebel, Slaczwedel",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-696,H. M.,male,Alsószinever,1898,Huszt,waiter,Auschwitz,Huszt,"Auschwitz, Mosowitz, Gleiwitz, Buchenwald, Langerstein, Magdeburg, Sachsenhausen",48.492279,23.621639,48.1764917,23.291166,,,50.0336707,19.260079835793633,,,50.30113145,18.662347227971978,50.7892991,15.2705903,49.9970712,11.1811321,52.1315889,11.6399609,50.1002618,8.6835988
-696,H. L.,male,Alsószinever,1896,Huszt,shipper,Auschwitz,Huszt,"Auschwitz, Mosowitz, Gleiwitz, Buchenwald, Langerstein, Magdeburg, Sachsenhausen",48.492279,23.621639,48.1764917,23.291166,,,50.0336707,19.260079835793633,,,50.30113145,18.662347227971978,50.7892991,15.2705903,49.9970712,11.1811321,52.1315889,11.6399609,50.1002618,8.6835988
-1437,K. F.,female,Komárom,1912,Budapest,assistant,,,"Mauthausen, Gunskirchen, május",47.7417349,18.1218256,,,,,48.2404063,14.5162667,48.1334587,13.9427447,47.5411734,19.1229543,,,,,,,,
-641,K. J.,female,Budapest,1917,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-3552,W. O.,female,Fülek,1905,Balassagyarmat,housewife,,Balassagyarmat,"Auschwitz, Bergen - Belsen, Aschersleben",48.2701641,19.8222938,48.0768832,19.2926037,,,50.0336707,19.260079835793633,52.7580569,9.9117992,51.7559549,11.462134,,,,,,,,
-3552,W. A.,female,Balassagyarmat,1928,Balassagyarmat,student,,Balassagyarmat,"Auschwitz, Bergen - Belsen, Aschersleben",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,52.7580569,9.9117992,51.7559549,11.462134,,,,,,,,
-655,S. J.,male,Kistoronya,1928,Kistoronya,student,,Sátoraljaújhely,"Auschwitz, Varsó, Dachau, Allach",48.4541461,21.6818295,48.3960978,21.6561497,,,50.0336707,19.260079835793633,52.2319581,21.0067249,48.2592477,11.4354419,48.1959936,11.4570128,,,,,,
-133,P. M.,female,Szatmárnémeti (Szaplonca),1923,Szatmárnémeti,housewife,Szatmárnémeti ghetto,,"Auschwitz, Görlitz",,,,,,,50.0336707,19.260079835793633,51.1563185,14.991018,,,,,,,,,,
-1806,T. F.,female,Budapest,1920,Budapest,housewife,,,"Bergen - Belsen, Ragun, Theresin",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,6.6579144,3.9903131,15.5588886,-88.0269352,,,,,,,,
-1190,dr. K. L.,male,Csürgo,1898,Budapest,physician,,,"Bruck a./L, Mauthausen, Günskirchen",46.2642514,17.0950874,,,,,50.9841234,7.5398567,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2466,W. J.,male,Budapest,1910,Budapest,tailor,labour service company no. 101/94,,"Engerau, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2466,A. S.,male,Beregszász,1924,Budapest,baker,labour service company no. 101/32,,"Engerau, Mauthausen, Günskirchen",48.2050985,22.6453246,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-443,A. J.,female,Beregszász,1916,Beregszász,seamstress,,Beregszász,"Auschwitz, Ravensbrück, Malhof",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,53.1944796,13.1478107,50.9746547,2.3178993,,,,,,,,
-443,A. E.,female,Beregszász,1917,Beregszász,clerk,,Beregszász,"Auschwitz, Ravensbrück, Malhof",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,53.1944796,13.1478107,50.9746547,2.3178993,,,,,,,,
-443,A. S.,female,Beregszász,1922,Beregszász,housewife,,Beregszász,"Auschwitz, Ravensbrück, Malhof",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,53.1944796,13.1478107,50.9746547,2.3178993,,,,,,,,
-443,A. L.,female,Beregszász,1928,Beregszász,housewife,,Beregszász,"Auschwitz, Ravensbrück, Malhof",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,53.1944796,13.1478107,50.9746547,2.3178993,,,,,,,,
-325,B. M.,female,Bonyhád,1917,,housewife,,,,46.2984212,18.532191,,,,,,,,,,,,,,,,,,
-286,F. R.,female,Munkács,1892,,housewife,,Munkácsi téglagyár,"Auschwitz, Ravensbrück, Bárd, Schwarzenfost, Warnemende",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,45.5876709,4.012011,,,,,,,,
-286,F. S.,female,Munkács,1915,,housewife,,Munkácsi téglagyár,"Auschwitz, Ravensbrück, Bárd, Schwarzenfost, Warnemende",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,45.5876709,4.012011,,,,,,,,
-286,F. E.,female,Munkács,1919,,housewife,,Munkácsi téglagyár,"Auschwitz, Ravensbrück, Bárd, Schwarzenfost, Warnemende",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,53.1944796,13.1478107,45.5876709,4.012011,,,,,,,,
-279,S. J.,female,Badalo,1917,Beregszász,day worker,labour service,,"Eisenetz, Mauthausen, Günskirchen",48.1091196,22.6422346,,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3618,dr. L. L.,male,Szeged,1889,Szeged,merchant,,Szeged,Budapest - Columbus utcai tábor,46.2546312,20.1486016,46.2546312,20.1486016,,,,,,,,,,,,,,,,
-2248,G. L.,female,Pestszenterzsébet,1924,Pestszenterzsébet,hairdresser,Monor brick factory,Pestszenterzsébet,"Auschwitz, Altenburg",47.42553265,19.116992237470154,47.42553265,19.116992237470154,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-2248,G. L.,female,Pestszenterzsébet,1925,Pestszenterzsébet,housewife,Monor brick factory,Pestszenterzsébet,"Auschwitz, Altenburg",47.42553265,19.116992237470154,47.42553265,19.116992237470154,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-1755,N. E.,female,Szerencs,1905,Budapest,seamstress,,munkaszolgálat,"Dachau, Rawensbrück, Spandau",48.1633851,21.2010881,,,,,48.2592477,11.4354419,,,52.535788,13.1977924,,,,,,,,
-3624,R. E.,female,Budapest,1900,,clerk,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-746,B. E.,female,Gice,1903,Tornalja,housewife,,"Diósgyor, Tapolca","Auschwitz, Allendorf",48.5659974,20.2988974,48.0974664,20.6958121,46.8820972,17.4389619,50.0336707,19.260079835793633,50.2679502,7.9982619,,,,,,,,,,
-746,B. B.,female,Rimaszombat,1925,Tornalja,housewife,,"Diósgyor, Tornalja","Auschwitz, Allendorf",48.3833603,20.0180584,48.0974664,20.6958121,48.4221599,20.3232507,50.0336707,19.260079835793633,50.2679502,7.9982619,,,,,,,,,,
-1530,F. L.,male,Gyula,1903,Budapest,journalist,Békásmegyer,,"Auschwitz, Mettenheim",46.6438656,21.2747575,,,,,50.0336707,19.260079835793633,49.7388606,8.3250304,,,,,,,,,,
-3327,R. L.,male,Budapest,1931,Pestújhely,student,,Budakalász,"Auschwitz, Mauthausen, Melk, Günskirchen",47.48138955,19.14609412691246,47.6192785,19.0468565,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.2272068,15.3369992,48.1334587,13.9427447,,,,,,
-1524,I. L.,male,Nagyvárad,1912,Nagyvárad,furrier,,,"Szentjózsef, Ovrucs, Hidegség, Mauthausen, Günskirchen",47.0549163,21.9285231,,,,,47.3569264,24.7406792,51.3259771,28.8026718,47.6251989,16.7413826,48.2404063,14.5162667,48.1334587,13.9427447,,,,
-2993,R. I.,male,Tab,1906,Tab,tailor,,munkaszolgálatos volt,"Flossenburg, Harzburg, Dachau",46.7356419,18.038393,,,,,49.7329883,12.3498211,51.588694,10.757222,48.2592477,11.4354419,,,,,,,,
-785,G. L.,male,Budapest,1909,,merchant,labour service company no. 109/35,,"Bergen - Belsen, Farsleben",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,52.277292349999996,11.6531149647817,,,,,,,,,,
-785,V. S.,male,Kajászószentpéter,1898,,merchant,labour service company no. 101/347,,"Bergen - Belsen, Farsleben",47.3264844,18.7217551,,,,,52.7580569,9.9117992,52.277292349999996,11.6531149647817,,,,,,,,,,
-785,V. S.,male,Kajászószentpéter,1902,,merchant,labour service company no. 101/347,,"Bergen - Belsen, Farsleben",47.3264844,18.7217551,,,,,52.7580569,9.9117992,52.277292349999996,11.6531149647817,,,,,,,,,,
-785,L. A.,male,Budapest,1897,,clerk,labour service company 101/311,,"Bergen - Belsen, Farsleben",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,52.277292349999996,11.6531149647817,,,,,,,,,,
-3496,L. M.,male,Budapest,1885,Csillaghegy,retired manager,,Csillaghegy,,47.48138955,19.14609412691246,47.5861629,19.0507049,,,,,,,,,,,,,,,,
-949,A. I.,male,Máramarossziget,1898,Rákospalota,merchant,,,"Bergen - Belsen, Theresienstadt",47.9283242,23.8915583,,,,,52.7580569,9.9117992,50.510716,14.149717,,,,,,,,,,
-544,H. V.,female,Budapest,1920,Budapest,housewife,,,"Ravensbrück, Pennig",47.48138955,19.14609412691246,,,,,53.1944796,13.1478107,47.88084015,11.460463502752074,,,,,,,,,,
-1097,J. S.,female,Majdánka,1915,Fels?bisztra,underwear seamstress,,Iza,"Auschwitz, Guben, Bergen - Belsen",51.3997948,22.6869376,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,51.9503235,14.7153567,52.7580569,9.9117992,,,,,,,,
-593,M. M.,male,Alsóapsa,1920,Alsóapsa,baker apprentice,munkaszolgálatos,,"Flossenburg, Herzbruck, Dachau",47.998241,23.835529,,,,,49.7329883,12.3498211,,,48.2592477,11.4354419,,,,,,,,
-418,V. R.,female,Munkács,1922,Kassa,hairdresser,,Kassa,"Auschwitz, Reichenbach, Porta, Salzwedel",48.4421119,22.7185408,48.7172272,21.2496774,,,50.0336707,19.260079835793633,50.6200076,12.298936,42.5260507,1.8256362,52.8528456,11.1539699,,,,,,
-418,T. H.,female,Munkács,1922,Kassa,seamstress,,Kassa,"Auschwitz, Reichenbanch, Porta, Salzwedel",48.4421119,22.7185408,48.7172272,21.2496774,,,50.0336707,19.260079835793633,,,42.5260507,1.8256362,52.8528456,11.1539699,,,,,,
-2367,J. M.,male,Herincse,1916,Iza,shoemaker,,Iza,"Auschwitz, Goleso, Sachsenhausen, Bergen - Belsen",48.266369,23.42869,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,,,50.1002618,8.6835988,52.7580569,9.9117992,,,,,,
-3051,R. M.,female,Budapest,1903,Budapest,underwear seamstress,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-2429,E. I.,male,Nagyatád,1910,Budapest,merchant,,,"Mauthausen, Günskirchen",46.229143,17.3570964,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-3092,M. É.,male,Munkács,1925,Munkács,underwear seamstress,,Munkács,"Auschwitz, Neusalz, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,51.8019595,15.7175608,52.7580569,9.9117992,,,,,,,,
-1691,B. I.,male,Mátészalka,1924,Budapest,clerk,,,Bergen - Belsen,47.9539113,22.3208477,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-140,R. J.,female,,1928,Munkács,housewife,Munkács ghetto,,"Auschwitz, Rawensbrück, Barth, Schwarzenfloss",,,,,,,50.0336707,19.260079835793633,,,54.3690547,12.7258585,,,,,,,,
-140,B. H.,female,,1922,Munkács,seamstress,Munkács ghetto,,"Auschwitz, Rawensbrück, Barth, Schwarzenfloss",,,,,,,50.0336707,19.260079835793633,,,54.3690547,12.7258585,,,,,,,,
-140,B. M.,female,,1925,Munkács,seamstress,Munkács ghetto,,"Auschwitz, Rawensbrück, Barth, Schwarzenfloss",,,,,,,50.0336707,19.260079835793633,,,54.3690547,12.7258585,,,,,,,,
-140,B. F.,female,,1927,Munkács,housewife,Munkács ghetto,,"Auschwitz, Rawensbrück, Barth, Schwarzenfloss",,,,,,,50.0336707,19.260079835793633,,,54.3690547,12.7258585,,,,,,,,
-2830,S. R.,female,Bustyaháza,1922,Somogyvár,dentist's assistant,,Tab,"Auschwitz, Hessischilichtenau, Leipzig",48.0486521,23.4862834,46.7356419,18.038393,,,50.0336707,19.260079835793633,,,51.3406321,12.3747329,,,,,,,,
-183,A. E.,male,Drágabárdfalva,1908,Munkács,electrician,,,"Mauthausen, Gunskirchen",,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2824,V. L.,female,Munkács,1925,Munkács,hairdresser,,Munkács,"Auschwitz, Reichenbach, Trautenau, Pforta, Fallersleben, Salzwedel",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5608851,15.9130498,51.1423277,11.7517859,52.4190578,10.7187346,52.8528456,11.1539699,,
-2824,M. R.,female,Huszt,1929,Munkács,student,,Munkács,"Auschwitz, Reichenbach, Trautenau, Pforta, Fallersleben, Salzwedel",48.1764917,23.291166,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5608851,15.9130498,51.1423277,11.7517859,52.4190578,10.7187346,52.8528456,11.1539699,,
-2824,J. S.,female,Huszt,1926,Huszt,housewife,,Huszt,"Auschwitz, Reichenbach, Trautenau, Pforta, Fallersleben, Salzwedel",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5608851,15.9130498,51.1423277,11.7517859,52.4190578,10.7187346,52.8528456,11.1539699,,
-182,R. B.,female,Aknasugatag,1913,Aknasugatag,electrician and mechanic,,Bártfalva,"Auschwitz, Janina, Birkenau, Monowitz, Landeshut, Grossrosen, Landeshut",47.7813212,23.9394772,,,,,50.0336707,19.260079835793633,50.4996818,20.838032,49.5638,8.7264,50.0331874,19.3000429,50.78468925,16.022363067768467,53.6769526,22.2370548,50.78468925,16.022363067768467
-1492,M. P.,male,Oroszrég,1904,Budapest,tailor,,,"Neungamen, Hamburg, St. Posten",,,,,,,,,53.550341,10.000654,37.1576753,-92.947157,,,,,,,,
-3291,S. L.,male,,1927,Budapest,engraver,,,"Buchenwald, Neubrandenburg, Ravensbrück, #öbbelin",,,,,,,50.7892991,15.2705903,53.5574458,13.2602781,53.1944796,13.1478107,,,,,,,,
-633,G. S.,female,Gánya,1925,Gánya,seamstress,,T?cs,"Auschwitz, Bergen - Belsen",48.12767,23.82729,59.9604218,30.28045,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-169,B. L.,female,Munkács,1908,Munkács,merchant,,"Munkács, téglagyár","Auschwitz, Rawensbrück, Mehlhof, Toucha",48.4421119,22.7185408,48.4421119,22.7185408,47.5234201,21.5818761,50.0336707,19.260079835793633,,,49.0438949,10.0320805,45.0313703,7.0996041,,,,,,
-169,B. R.,female,Munkács,1911,Munkács,housewife,,"Munkács, téglagyár","Auschwitz, Rawensbrück, Mehlhof, Toucha",48.4421119,22.7185408,48.4421119,22.7185408,47.5234201,21.5818761,50.0336707,19.260079835793633,,,49.0438949,10.0320805,45.0313703,7.0996041,,,,,,
-1860,R. B.,female,Huszt,1929,Huszt,housewife,,Huszt,"Auschwitz, Reichenbach, Trautenau, Pforta, Fallensleben, Salzwedel",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5608851,15.9130498,51.1423277,11.7517859,,,52.8528456,11.1539699,,
-1135,M. L.,female,Huszt,1929,Huszt,student,,,"Auschwitz, Nussberg, Holischow",48.1764917,23.291166,,,,,50.0336707,19.260079835793633,53.974488,22.1635477,,,,,,,,,,
-2548,K. K.,female,Kassa,1928,Rákosszentmihály,furrier apprentice,Békásmegyer,Rákosszentmihály,"Auschwitz, Altenburg",48.7172272,21.2496774,47.5272414,19.1703355,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-2548,K. A.,female,Kassa,1923,Rákosszentmihály,seamstress,Békásmegyer,Rákosszentmihály,"Auschwitz, Altenburg",48.7172272,21.2496774,47.5272414,19.1703355,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-2548,K. V.,female,Kassa,1922,Rákosszentmihály,hairdresser,Békásmegyer,Rákosszentmihály,"Auschwitz, Altenburg",48.7172272,21.2496774,47.5272414,19.1703355,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-2206,L. H.,male,Naszód,1914,Naszód,bookbinder,,,"Reinesdorf, Mauthausen, Günskirchen",47.2828598,24.4108077,,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2206,S. D.,male,Alparét,1912,Reteg,day worker,,,"Reinesdorf, Mauthausen, Günskirchen",47.1411646,23.6431096,,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-784,L. J.,male,Makó,1910,Budapest,dental technician,labour service,,"Engerau, Mauthausen, Gunskirchen",46.2150438,20.4751022,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-784,S. T.,male,Csepel,1910,Budapest,headwaiter,labour service,,"Engerau, Mauthausen, Gunskirchen",47.4217019,19.0662891,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2992,F. G.,male,Nagybánya,1925,Budapest,joiner,,,"Dachau, Schörzingen, Allach",47.1129095,21.78154780631269,,,,,48.2592477,11.4354419,48.1793267,8.7462709,48.1959936,11.4570128,,,,,,,,
-1531,L. G.,male,Újpest,1923,Budapest,metal polisher,,,"Bucsu, Mauthausen, Günskirchen",47.5586466,19.0797073,,,,,47.2620973,16.4957437,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2006,G. M.,male,Magyarberét,1898,Vica,locksmith,Szamosújvár ghetto,,"Auschwitz, Schwentlechovitz, Mauthausen, Gusen I.",,,,,,,50.0336707,19.260079835793633,,,48.2404063,14.5162667,48.2581303,14.46266,,,,,,
-2990,S. Á.,male,Felsotold,1895,Budapest,mechanic,,,"Neugame, Hamburg, Deutschwehr, St.Pölten",47.9682201,19.6093229,,,,,,,53.550341,10.000654,,,48.193315,15.619871498286466,,,,,,
-1533,N. J.,female,Oroszvég,1903,Munkács,merchant,,Munkács,"Auschwitz, Stutthof, Branau",48.4493403,22.7201326,48.4421119,22.7185408,,,50.0336707,19.260079835793633,54.330086,19.177209,50.0128746,13.8429121,,,,,,,,
-1296,F. R.,female,Királyháza,1922,Budapest,seamstress,,,"Ravensbrück, Bergen Belsen",47.9869101,18.9700408,,,,,53.1944796,13.1478107,52.7580569,9.9117992,,,,,,,,,,
-1296,F. M.,female,Csarnatö,1925,Budapest,housewife,,,"Ravensbrück, Bergen Belsen",48.135872,23.18663,,,,,53.1944796,13.1478107,52.7580569,9.9117992,,,,,,,,,,
-5,E. B.,female,Nagyvárad,1914,,"wife of a joiner, houswife",,Nagyvárad,"Auschwitz, Riga, Magdeburg",47.0549163,21.9285231,47.0549163,21.9285231,,,50.0336707,19.260079835793633,56.9493977,24.1051846,52.1315889,11.6399609,,,,,,,,
-3132,dr. M. J.,male,Újpest,1908,Újpest,physician,,Békásmegyer,"Auschwitz, Kaufering, Türkheim",47.5586466,19.0797073,47.5994131,19.054996,,,50.0336707,19.260079835793633,48.0871324,10.8605317,48.0878217,7.278011,,,,,,,,
-547,D. M.,male,Budapest,1924,Budapest,clerk,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-221,S. C.,male,Munkács,1910,,barber,,,,48.4421119,22.7185408,,,,,,,,,,,,,,,,,,
-38,S. M.,male,,1921,,house-painter,,Huszt,"Auschwitz, Varsó, Mühldorf, Mittelgarst",,,48.1764917,23.291166,,,50.0336707,19.260079835793633,52.2319581,21.0067249,48.2405007,12.5250991,,,,,,,,
-1094,J. B.,female,,1921,Hidegpatak,housewife,,Iza,"Auschwitz, Salzwedel",,,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-1094,F. C.,female,,1924,Hidegpatak,housewife,,Iza,"Auschwitz, Salzwedel",,,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-1094,F. G.,female,Hidegpatak,1928,Hidegpatak,"dependent, student",,Iza,"Auschwitz, Salzwedel",49.0119291,20.7693581,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-355,S. F.,male,Dunaszerdahely,1915,Budapest,baker's assistant,labour service company no. 101/62,,,47.9893751,17.6202595,,,,,,,,,,,,,,,,,,
-1645,L. R.,male,,1906,Ungvár,merchant,,,"Auschwitz, Dachau",,,,,,,50.0336707,19.260079835793633,48.2592477,11.4354419,,,,,,,,,,
-3091,M. I.,male,Takcsány,1924,Ungvár,electric mechanic,,Ungvár- 6 hét,"Auschwitz, Buchenwald, Magdeburg, Buchenwald, Thereien",49.0039415,22.2336337,,,,,50.0336707,19.260079835793633,50.7892991,15.2705903,52.1315889,11.6399609,50.7892991,15.2705903,,,,,,
-2600,M. L.,male,Barcs,1904,Budapest,clerk,,,"Türkheim, Kaufering, Türkheim, Dachau, Allach",45.9605366,17.4634342,,,,,48.0878217,7.278011,48.0871324,10.8605317,48.0878217,7.278011,48.2592477,11.4354419,48.1959936,11.4570128,,,,
-2166,B. A.,male,Székesfehérvár,1922,Székesfehérvár,tailor,,,"Schattendorf, Mauthausen, Günskirchen",47.1910169,18.410811,,,,,47.7118197,16.5106398,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1335,B. D.,male,Tótkomlós,1908,Vác,joiner,,,"Sopronbánfalva, Mauthausen, Günskirchen",46.4115096,20.7366044,,,,,47.6779116,16.5491606,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1335,K. S.,male,Budapest,1902,Budapest,merchant,,,"Sopronbánfalva, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6779116,16.5491606,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1335,F. Á.,male,Budapest,1908,Budapest,travelling salesman,,,"Sopronbánfalva, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6779116,16.5491606,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-157,Z. J.,female,,1927,Rahó,seamstress,Mátészalkai gettó,,"Auschwitz, Geistlingen, Allach",,,,,,,50.0336707,19.260079835793633,,,48.1959936,11.4570128,,,,,,,,
-157,Z. K.,female,,1911,Rahó,housewife,Mátészalkai gettó,,"Auschwitz, Geistlingen, Allach",,,,,,,50.0336707,19.260079835793633,,,48.1959936,11.4570128,,,,,,,,
-157,Z. S.,female,,1931,Rahó,student,Mátészalkai gettó,,"Auschwitz, Geistlingen, Allach",,,,,,,50.0336707,19.260079835793633,,,48.1959936,11.4570128,,,,,,,,
-157,Á. S.,female,,1924,Rahó,student,Mátészalkai gettó,,"Auschwitz, Geistlingen, Allach",,,,,,,50.0336707,19.260079835793633,,,48.1959936,11.4570128,,,,,,,,
-802,B. É.,female,Budapest,1924,Budapest,seamstress,,,"Bergen - Belsen, Raghun, Theresienstadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,50.510716,14.149717,,,,,,,,
-802,G. Z.,female,Budapest,1925,Budapest,tailor,,,"Bergen - Belsen, Raghun, Theresienstadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,50.510716,14.149717,,,,,,,,
-802,dr. K. I.,female,Szeged,1912,Budapest,physician,,,"Bergen - Belsen, Raghun, Theresienstadt",46.2546312,20.1486016,,,,,52.7580569,9.9117992,,,50.510716,14.149717,,,,,,,,
-802,B. A.,female,Budapest,1928,Budapest,high school student,,,"Bergen - Belsen, Raghun, Theresienstadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,50.510716,14.149717,,,,,,,,
-180,S. E.,female,Beregszász,1923,Beregszász,Red Cross nurse,,,"Auschwitz, Rawensbrück, Neustadt",48.2050985,22.6453246,,,,,50.0336707,19.260079835793633,,,47.6565584,23.5719843,,,,,,,,
-1484,K. R.,female,Poszony,1926,Huszt,seamstress,,Huszt,"Auschwitz, Nürnberg, Hollsichen",47.1960408,16.3735434,48.1764917,23.291166,,,50.0336707,19.260079835793633,49.453872,11.077298,,,,,,,,,,
-194,G. P.,female,Budapest,1913,Budapest,housewife,,,Lichtenwörth,47.48138955,19.14609412691246,,,,,47.8165568,16.3159892987547,,,,,,,,,,,,
-195,K. S.,male,Kökényes,1927,,butcher,,Huszt,"Auschwitz, Mauthausen, Günskirchen",48.071709,23.738371,48.1764917,23.291166,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1491,özv. Á. K.,female,Budapest,1911,Budapest,housewife,,,"Lansberg, Buchberg",47.48138955,19.14609412691246,,,,,58.9064344,11.7620611,47.5726201,8.56076,,,,,,,,,,
-1491,özv. K. E.,female,Budapest,1918,Budapest,seamstress,,,"Lansberg, Buchberg",47.48138955,19.14609412691246,,,,,58.9064344,11.7620611,47.5726201,8.56076,,,,,,,,,,
-1446,W. H.,female,Dolha,1929,Dolha,housewife,,Bereegszász,"Birkenau, Gelsen",48.8360089,21.9807673,,,,,49.5638,8.7264,48.2133425,14.1077845,,,,,,,,,,
-2629,M. I.,female,Nagyvárad,1920,Budapest,factory worker,yellow star house,,"Dachau, Ravensbrück, Spandau, Oranienburg",47.0549163,21.9285231,,,,,48.2592477,11.4354419,53.1944796,13.1478107,52.535788,13.1977924,52.7529379,13.2457591,,,,,,
-2629,W. S.,female,Budapest,1912,Budapest,seamstress,yellow star house,,"Ravensbrück, Spandau, Oranienburg",47.48138955,19.14609412691246,,,,,53.1944796,13.1478107,52.535788,13.1977924,52.7529379,13.2457591,,,,,,,,
-2629,S. M.,female,Budapest,1923,Budapest,gardener,yellow star house,,"Ravensbrück, Spandau, Oranienburg",47.48138955,19.14609412691246,,,,,53.1944796,13.1478107,52.535788,13.1977924,52.7529379,13.2457591,,,,,,,,
-3523,K. S.,female,Sirok,1916,Budapest,housewife,,,"Auschwitz, Bergen - Belsen",47.9308649,20.1957821,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-1452,K. P.,female,Munkács,1917,Munkács,grocer,,Munkácsi téglagyár,"Auschwitz, Oberwüstegiersdorf",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,50.6679766,16.3755892,,,,,,,,,,
-1693,H. L.,male,Budapest,1924,Budapest,commercial employee,Kistarcsa,,"Auschwitz, Wüstegiersdorf, Bergen - Belsen, Hildesheim, Ahlem",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.6862202,16.3730583,52.7580569,9.9117992,52.1521636,9.9513046,52.3850135,9.6653858,,,,
-1693,M. E.,male,Budapest,1923,Budapest,hairdresser,Kistarcsa,,"Auschwitz, Wüstegiersdorf, Bergen - Belsen, Hildesheim, Ahlem",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.6862202,16.3730583,52.7580569,9.9117992,52.1521636,9.9513046,52.3850135,9.6653858,,,,
-1693,M. G.,male,Budapest,1923,Budapest,watchmaker,Kistarcsa,,"Auschwitz, Wüstegiersdorf, Bergen - Belsen, Hildesheim, Ahlem",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.6862202,16.3730583,52.7580569,9.9117992,52.1521636,9.9513046,52.3850135,9.6653858,,,,
-354,K. R.,male,Budapest,1928,Budapest,printer apprentice,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-340,T. B.,female,Kovácsrét,1899,Beregszász,housewife,,Beregszász,"Auschwitz, Bergen - Belsen",48.1428934,19.5978418,48.2050985,22.6453246,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-1917,I. J.,male,Pocsaj,1926,Budapest,hairdresser,labour service company no. 101/322,,"Schattendorf, Mauthausen, Günskirchen",47.2821487,21.8048015,,,,,47.7118197,16.5106398,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-546,W. L.,female,Budapest,1915,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-220,K. S.,female,Szeklence,1924,Ipolyság,,,Ipolyság,"Auschwitz, Plassow, Birkenau, Marktleben",48.117165,23.382006,48.0693466,18.9482971,,,50.0336707,19.260079835793633,54.42729,17.0725198,49.5638,8.7264,52.5704677,13.4100813,,,,,,
-3127,H. F.,male,Nagyvárad,1912,Nagyvárad,merchant,,,"Mauthausen, Gunskirchen",47.0549163,21.9285231,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-4,M. S.,male,Técso,1909,,shipper,,Técso,"Varsó, Dachau",48.01163,23.5783799,48.01163,23.5783799,,,52.2319581,21.0067249,48.2592477,11.4354419,,,,,,,,,,
-787,S. E.,female,Ipolyság,1897,Budapest,housewife,protected house,,"Bergen - Belsen, Tröbitz",48.0693466,18.9482971,,,,,52.7580569,9.9117992,51.5960871,13.430963,,,,,,,,,,
-3494,L. Z.,male,Budapest,1908,Budapest,merchant,,,"Sopron, Siegendorf",47.48138955,19.14609412691246,,,,,47.6803063,16.5983457,47.7803088,16.5414018,,,,,,,,,,
-1532,J. M.,male,Laposna,1908,Budapest,merchant,,,"Bjelopole, Kurszk",,,,,,,,,51.7309249,36.1923123,,,,,,,,,,
-3443,H. I.,male,Budapest,1912,Budapest,merchant,,,Kursk,47.48138955,19.14609412691246,,,,,69.6,37.566667,,,,,,,,,,,,
-1526,K. K.,male,Gesztely,1921,Gesztely,smallholder,,,"Mauthausen, Gunskirchen",48.1027448,20.9648967,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-3309,P. E.,female,Nagysz?ll?s,1908,Nagysz?ll?s,merchant,,Nagysz?ll?s (6 hét),"Auschwitz, Lübberstadt, Plőn",,,,,,,50.0336707,19.260079835793633,,,54.24611515,10.413274327272728,,,,,,,,
-1287,K. R.,female,Técs?,1909,Técs?,hotel and restaurant owner,,Técs?,"Auschwitz, Lieberstadt",-20.9132894,55.49227784559751,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3484,W. G.,male,Ugonya,1928,Budapest,high school student,,,"Neuengamme, Hamburg, San Bosten",,,,,,,53.4379045,10.2260934,53.550341,10.000654,,,,,,,,,,
-3651,H. A.,male,Nagytapolcsány,1911,,teacher,,Munkaszolgálatos volt,Sachsendorf,48.5594345,18.1754394,,,,,51.8766592,11.879669870961866,,,,,,,,,,,,
-1046,G. G.,male,Budapest,1916,Budapest,tailor,,,"Engerau, Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3137,M. S.,female,Munkács,1922,Munkács,seamstress,,Munkács,"Auschwitz, Schlesiensee",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3645,L. Á.,male,Budapest,1920,Budapest,"teacher, painter",,,"Auschwitz, Reichenbach, Frautenau, Posta, Westfalica, Fallersleben, Salzwedel",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.6200076,12.298936,,,42.5235514,13.0960137,58.8364277,57.5555018,52.4190578,10.7187346,52.8528456,11.1539699
-1091,E. H.,female,Beregszász,1914,Beregszász,skilled craftsman,,Beregszász,"Auschwitz, Nürnberg, Mehltauer",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,49.453872,11.077298,50.0938116,11.52353,,,,,,,,
-3043,K. D.,male,Gyetva,1880,Budapest,merchant,,,Dachau,48.5595662,19.4205586,,,,,48.2592477,11.4354419,,,,,,,,,,,,
-3057,K. J.,male,Budapest,1919,Budapest,waiter,,,"Marsanck, Szlavianszk",47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-1898,R. I.,male,,1900,Újpest,private clerk,labour service,,"Fertőrákos, Balf, Mauthausen, Günskirchen",,,,,,,47.7161504,16.6527782,47.6457018,16.6659604,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-1640,dr. H. L. M.,male,Pécs,1915,Budapest,attorney candidate,labour service company no. 104/3,,"Donnerskirchen, Sopron, Győr, Schandorf, Mauthausen, Günskirchen",46.0765092,18.2280317,,,,,47.89791865,16.6378107624949,47.6803063,16.5983457,47.687609,17.6346815,47.2428207,16.4212819,48.2404063,14.5162667,48.1334587,13.9427447,,
-393,J. I.,female,Királyhelmec,1923,Királyhelmec,housewife,,Sátoraljaújhely,"Auschwitz, Marklenberg, Theresienstadt",48.4223618,21.9804775,48.3960978,21.6561497,,,50.0336707,19.260079835793633,,,50.510716,14.149717,,,,,,,,
-393,J. E.,female,Királyhelmec,1927,Királyhelmec,housewife,,Sátoraljaújhely,"Auschwitz, Marklenberg, Theresienstadt",48.4223618,21.9804775,48.3960978,21.6561497,,,50.0336707,19.260079835793633,,,50.510716,14.149717,,,,,,,,
-3241,H. P.,female,Nagyvárad,1911,Kispest,clerk,,,"Auschwitz, Stutthof, Argenau, Torn",47.0549163,21.9285231,,,,,50.0336707,19.260079835793633,54.330086,19.177209,52.894429,18.4066817,53.0145361,18.596583144651557,,,,,,
-1330,R. P.,female,Miskolc,1921,Budapest,merchant,,,"Auschwitz, Birkenau, Breslau, Hundsfeld, Grossrosen, Mauthausen, Bergen - Belsen",48.1030643,20.7900429,,,,,50.0336707,19.260079835793633,49.5638,8.7264,51.1089776,17.0326689,50.0633728,9.8717623,53.6769526,22.2370548,48.2404063,14.5162667,52.7580569,9.9117992
-620,S. L.,female,Kusmina,1922,Munkács,seamstress,,Munkácsi téglagyár,"Auschwitz, Neusalz, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,51.8019595,15.7175608,52.7580569,9.9117992,,,,,,,,
-1324,Á. G.,male,,1921,Budapest,engineer,,,,,,,,,,,,,,,,,,,,,,,
-3255,B. V.,male,Huszt,1909,Budapest,mechanical engineer,labour service company no. 482/K.,,Gleiwitz,48.1764917,23.291166,,,,,50.30113145,18.662347227971978,,,,,,,,,,,,
-2177,W. L.,male,Budapest,1907,Budapest,metal merchant,,,"Siegendorf, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.7803088,16.5414018,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2177,dr. F. L.,male,Budapest,1907,Budapest,"clerk, economist",,,"Siegendorf, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.7803088,16.5414018,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1495,C. E.,female,Szentgál,1917,Budapest,tailor,,,"Deutschkreuz, Harka, Mauthausen, Günskirchen",47.1125816,17.7351064,,,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-2176,K. Z.,male,Budapest,1893,Budapest,bookbinder,,,"Buchenwald, Altenburg",47.48138955,19.14609412691246,,,,,50.7892991,15.2705903,50.9852411,12.4340988,,,,,,,,,,
-2176,R. B.,male,Kiskunfélegyháza,1890,Budapest,printer,,,"Buchenwald, Altenburg",46.7113263,19.8502905,,,,,50.7892991,15.2705903,50.9852411,12.4340988,,,,,,,,,,
-153,H. G.,female,Huszt,1924,Huszt,seamstress,Huszt ghetto,,"Auschwitz, Görlicz",48.1764917,23.291166,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-153,H. N.,female,Huszt,1930,Huszt,student,Huszt ghetto,,"Auschwitz, Görlicz",48.1764917,23.291166,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-153,H. R.,female,Huszt,1925,Huszt,seamstress,Huszt ghetto,,"Auschwitz, Görlicz",48.1764917,23.291166,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1457,A. M.,male,Budapest,1894,Budapest,butcher apprentice,KISOK-pálya,,"Buchenwald, Sonnenfeld, Kolditz, Theresienstadt",47.48138955,19.14609412691246,,,,,50.7892991,15.2705903,48.9563545,9.070101,51.3506883,12.6765695,50.510716,14.149717,,,,,,
-1866,N. P.,male,Vágszered,1903,Budapest,timber merchant,labour service,,"Bergen - Belsen, Zielitz",,,,,,,52.7580569,9.9117992,52.2884504,11.6752462,,,,,,,,,,
-437,G. M.,female,Beregardó,1919,Beregardó,housewife,,,"Auschwitz, Belsen",48.2319917,22.6398955,,,,,50.0336707,19.260079835793633,41.257175,69.5153625,,,,,,,,,,
-28,B. S.,male,Huszt,1929,Huszt,student,,Huszt,"Birkenau, Buchenwald, Dachau",48.1764917,23.291166,48.1764917,23.291166,,,49.5638,8.7264,50.7892991,15.2705903,48.2592477,11.4354419,,,,,,,,
-594,K. E.,female,Ungvár,1908,,housewife,,Ungvár,"Auschwitz, Bergen - Belsen, Slazwedel",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-594,G. F.,female,Ungvár,1911,,housewife,,Ungvár,"Auschwitz, Bergen - Belsen, Slazwedel",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-225,dr. P. S.,male,Budapest,1900,,physician,,,"Auschwitz, Mauthausen, Melk, Ebensee",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.2272068,15.3369992,47.8122366,13.7741666,,,,,,
-3644,S. G.,male,Budapest,1909,Budapest,Lutheran pastor,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-1053,M. B.,male,Akna-Szlatina,1912,,merchant,,,"Engerau, Mauthausen, Gunskirchen",,,,,,,48.1241126,17.0894674,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3650,K. Z.,male,Zsolna,1889,,mechanic,,,,49.2234674,18.7393139,,,,,,,,,,,,,,,,,,
-3650,K. Z.,female,Budapest,1896,,housewife,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-3650,K. M.,female,Budapest,1921,,cosmetician,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-3650,S. K.,male,Zsolna,1889,,instrument maker,,,,49.2234674,18.7393139,,,,,,,,,,,,,,,,,,
-3650,S. K.,female,Budapest,1896,,housewife,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-3650,M. K.,female,Budapest,1921,,cosmetician,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-1286,L. S.,female,Repede,1926,Repede,housewife,,Munkács,"Auschwitz, Ravensbrück, Mahlhof",48.47031,22.829929,48.4421119,22.7185408,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.5209123,12.327934,,,,,,,,
-3308,S. H.,female,Bilke,1910,Bilke,teacher,,Beregszász,"Auschwitz, Rawensbrück, Malchow, Leipzig, Wurzen",47.4741402,9.6529019,48.2050985,22.6453246,,,50.0336707,19.260079835793633,,,53.4775641,12.4245172,51.3406321,12.3747329,51.37138245,12.748182292058097,,,,
-1279,E. I.,male,Tarpa,1889,Tarpa,shoemaker,,Beregszász 4 hét,"Auschwitz, Wolfsberg, Wüstegiersdorf, Hildesheim, Bergen - Belsen",48.1031244,22.5290514,,,,,50.0336707,19.260079835793633,46.8390583,14.8452061,50.6862202,16.3730583,52.1521636,9.9513046,52.7580569,9.9117992,,,,
-999,B. V.,male,Bustyaháza,1930,Bustyaháza,high school student,,Mátészalka,"Birkenau, Braunschweig, Ravensbrück, Webellin",48.0486521,23.4862834,47.9539113,22.3208477,,,49.5638,8.7264,52.2646577,10.5236066,53.1944796,13.1478107,,,,,,,,
-1523,M. L.,female,Munkács,1925,Munkács,printer,,Munkács,"Auschwitz, Pürsko, Grünsberg, Guben, Grossrosen, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,49.3722231,11.3246134,51.9503235,14.7153567,53.6769526,22.2370548,52.7580569,9.9117992,,
-1523,M. S.,female,Munkács,1927,Munkács,student,,Munkács,"Auschwitz, Pürsko, Grünsberg, Guben, Grossrosen, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,49.3722231,11.3246134,51.9503235,14.7153567,53.6769526,22.2370548,52.7580569,9.9117992,,
-2000,H. R.,male,Budapest,1921,Budapest,printer apprentice,,munkaszolgálat,Siegendorf,47.48138955,19.14609412691246,,,,,47.7803088,16.5414018,,,,,,,,,,,,
-1284,G. P.,female,Magyarkomját,1926,Ilosva,housewife,,Munkácsi téglagyár,"Auschwitz, Geistling",48.2395893,22.9819763,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-970,B. L.,female,Iloncán,1922,Ilonca,housewife,,Beregszász,"Auschwitz, Lipstadt, Bergen - Belsen",,,48.2050985,22.6453246,,,50.0336707,19.260079835793633,,,52.7580569,9.9117992,,,,,,,,
-2969,W. S.,female,Beregbród,1928,Beregbród,housewife,,Munkács,"Auschwitz, Birkenau, Weiswasser",,,48.4421119,22.7185408,,,50.0336707,19.260079835793633,49.5638,8.7264,50.5108665,16.6431521,,,,,,,,
-1051,W. Z.,female,Szobránc,1924,Szobránc,student,,Ungvár,"Auschwitz, Rawensbrück, Neustadtglewe",48.7446501,22.1806628,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1051,W. E.,female,Szobránc,1909,Szobránc,housewife,,Ungvár,"Auschwitz, Rawensbrück, Neustadtglewe",48.7446501,22.1806628,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-16,T. S.,female,Tárkány,1918,,seamstress,,Munkács,Auschwitz - Torgau,47.5900913,18.0017805,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-16,T. R.,female,Tárkány,1916,,seamstress,,Munkács,Auschwitz - Torgau,47.5900913,18.0017805,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-16,T. P.,female,Tárkány,1920,,student,,Munkács,Auschwitz - Torgau,47.5900913,18.0017805,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-16,W. P.,female,Munkács,1922,,hairdresser,,Munkács,Auschwitz - Torgau,48.4421119,22.7185408,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-16,S. I.,female,Munkács,1905,,housewife,,Munkács,Auschwitz - Torgau,48.4421119,22.7185408,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-16,T. D.,female,Hársfalva,1919,,shop manager,,Munkács,Auschwitz - Torgau,48.557854,23.027519,48.4421119,22.7185408,,,,,,,,,,,,,,,,
-582,F. B.,male,Budapest,1916,Budapest,goldsmith apprentice,munkaszolgálatos,KISOK-pálya,"Bergen - Belsen, Theresienstadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,50.510716,14.149717,,,,,,,,,,
-596,D. L.,male,Bártfa,1923,Kassa,worker at a woodenware factory,,Kassa,"Auschwitz, Folkenberg, Ebensee",49.2926871,21.2756031,48.7172272,21.2496774,,,50.0336707,19.260079835793633,45.6302387,-122.8716752,47.8122366,13.7741666,,,,,,,,
-3068,H. B.,male,Budapest,1905,Budapest,private clerk,,,"Ordsruf, Buchenwald, Dachau",47.48138955,19.14609412691246,,,,,,,50.7892991,15.2705903,48.2592477,11.4354419,,,,,,,,
-390,G. L.,female,Budapest,1918,,correspondent,,,"Auschwitz, Schatzlar",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.6585674,15.9080271,,,,,,,,,,
-1864,H. M.,male,Botfalva,1929,Botfalva,student,,Ungvár,"Auschwitz, Sachsenhaus, Lieberose, Mauthausen, Günskirchen",48.5816499,22.2009687,48.4078102,21.6517637,,,50.0336707,19.260079835793633,48.51747895,9.04220864246815,51.9865536,14.2996945,48.2404063,14.5162667,48.1334587,13.9427447,,,,
-151,K. I.,female,Miskolc,1928,Miskolc,,,Miskolc,"Auschwitz, Krakkó, Auschwitz, Leipzig",48.1030643,20.7900429,48.1030643,20.7900429,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,51.3406321,12.3747329,,,,,,
-1327,W. M.,female,Alsódomonya,1915,Budapest,housewife,,,"Ravensbrück, Freiburg, Leipzig",48.6354744,22.3257721,,,,,53.1944796,13.1478107,47.9960901,7.8494005,51.3406321,12.3747329,,,,,,,,
-1496,L. G.,male,Budapest,1922,Budapest,draughtsman,,,"Balf, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6457018,16.6659604,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-810,T. Á.,male,Porostov,1920,Ungvár,smallholder,,Ungvár,"Auschwitz, Stutthof, Buchenwald",48.6971571,22.1764655,48.4078102,21.6517637,,,50.0336707,19.260079835793633,54.330086,19.177209,50.7892991,15.2705903,,,,,,,,
-2820,F. R.,female,,1922,Munkács,student,,,"Auschwitz, Glogau",,,,,,,50.0336707,19.260079835793633,51.6636791,16.0935567,,,,,,,,,,
-2820,F. H.,female,,1924,Munkács,student,,,"Auschwitz, Glogau",,,,,,,50.0336707,19.260079835793633,51.6636791,16.0935567,,,,,,,,,,
-3280,S. G.,female,Kassa,1917,Budapest,embroider,,,"Gmünd, Bergen - Belsen",48.7172272,21.2496774,,,,,46.9065611,13.5359844,52.7580569,9.9117992,,,,,,,,,,
-622,S. H.,male,Remetevasgyár,1923,,"butcher, merchant",Ungvár ghetto,,"Birkenau, Monowitz, Nordhausen, Blanckenburg, Neustadt",48.85,22.1833333,,,,,49.5638,8.7264,50.0331874,19.3000429,51.5051574,10.7925317,51.8026268,4.6526304,47.6565584,23.5719843,,,,
-622,S. E.,male,Fels?ripnyice,1926,Fels?ripnyice,student,Ungvár ghetto,,"Birkenau, Monowitz, Nordhausen, Blanckenburg, Neustadt",,,,,,,49.5638,8.7264,50.0331874,19.3000429,51.5051574,10.7925317,51.8026268,4.6526304,47.6565584,23.5719843,,,,
-636,S. P.,male,Budapest,1928,Kispest,apprentice,yellow star house,,"Auschwitz, Buchenwald, Magdeburg, Sonneberg, Karlabad",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.7892991,15.2705903,52.1315889,11.6399609,50.3575412,11.1691714,,,,,,
-1865,R. A.,male,Munkács,1891,Budapest,merchant,protected house,,"Bruck a./L, Mauthausen, Günskirchen",48.4421119,22.7185408,,,,,50.9841234,7.5398567,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1695,A. S.,female,Érsekújvár,1915,Érsekújvár,seamstress,,Érsekújvár,"Auschwitz, Allendorf",47.9861843,18.1631415,47.9861843,18.1631415,,,50.0336707,19.260079835793633,50.2679502,7.9982619,,,,,,,,,,
-1859,W. O.,female,Perecseny,1926,Perecseny,housewife,,Ungvár,"Auschwitz, Oberschlesiensee",48.73707,22.48764,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1859,W. E.,female,Perecseny,1912,Perecseny,housewife,,Ungvár,"Auschwitz, Oberschlesiensee",48.73707,22.48764,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1859,W. R.,female,Perecseny,1910,Perecseny,seamstress,,Ungvár,"Auschwitz, Oberschlesiensee",48.73707,22.48764,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-391,K. M.,male,Tiszadada,1906,,travelling salesman,,,"Buchenwald, Bergaelster",48.030817,21.2366013,,,,,50.7892991,15.2705903,,,,,,,,,,,,
-3055,L. Z.,female,Mezocsát,1930,Mezocsát,student,,Mezocsát,"Auschwitz, Passau, Auschwitz, Augsburg, Mühldorf",47.8175357,20.903168,47.8175357,20.903168,,,50.0336707,19.260079835793633,48.5748229,13.4609744,50.0336707,19.260079835793633,48.3668041,10.8986971,48.2405007,12.5250991,,,,
-1087,K. H.,female,Tiszaújlak,1922,Tiszaújlak,housewife,,Nagysz?ll?s,"Auschwitz, Bergen Belsen, Rochlitz, Grastitz, Theresienstadt",48.111071,22.8378912,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,51.0456789,12.7990531,,,50.510716,14.149717,,,,
-583,R. G.,female,Munkács,1926,Alsóverecke,housewife,,Munkács,"Auschwitz, Bergen - Belsen, Roshlitz, Grasslitz",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-583,K. H.,female,Alsóverecke,1925,Alsóverecke,housewife,,Munkács,"Auschwitz, Bergen - Belsen, Roshlitz, Grasslitz",48.770844,23.096771,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-1093,R. E.,female,Tiszasárvár,1921,Tiszasárvár,housewife,,Nagysz?l?s,"Auschwitz, Bergenbelsen",48.097462,22.951811,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-2,S. N.,male,Munkács,1927,,textile merchant,,Munkács,"Varsó, Landsberg, Kaufering",48.4421119,22.7185408,48.4421119,22.7185408,,,52.2319581,21.0067249,48.0514973,10.8737728,48.0871324,10.8605317,,,,,,,,
-554,F. K.,male,Budapest,1918,Budapest,"locksmith, glazer",munkaszolgálatos,,"Bor, Niederöderwitz, Buchenwald",47.48138955,19.14609412691246,,,,,56.3598289,44.0542641,50.949798,14.7324771,50.7892991,15.2705903,,,,,,,,
-3647,E. E.,female,Budapest,1921,Budapest,librarian,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-2559,S. A.,male,Máramarossziget,1922,Budapest,tailor,munkaszolgálatos,,"Schattendorf, Mauthausen, Günskirchen",47.9283242,23.8915583,,,,,47.7118197,16.5106398,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-540,S. J.,male,Körösmezo,1895,Budapest,deputy notary,,,"Buchenwald, Berga, Buchenwald",48.2722802,24.3611884,,,,,50.7892991,15.2705903,42.1011456,1.8454758,50.7892991,15.2705903,,,,,,,,
-2940,W. K.,female,Kótaj,1928,Kótaj,háztartás,,"Nyíregyháza, Nyirjespuszta (1944.04.25.-1944.05.15.)","Auschwitz, Plastau, Breslau, Bergen - Belsen",48.0478876,21.709878,47.9557802,21.7167982,,,50.0336707,19.260079835793633,52.6602968,10.8530845,51.1089776,17.0326689,52.7580569,9.9117992,,,,,,
-2001,S. F.,male,Budapest,1910,Pesterzsébet,upholsterer,,hadiüzemi munkás,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-2767,J. I.,male,Majdan,1894,Nagysz?ll?s,teacher,,Nagysz?ll?s,"Auschwitz, Monowitz",50.45024305,30.524061141975686,,,,,50.0336707,19.260079835793633,50.0331874,19.3000429,,,,,,,,,,
-3451,N. G.,male,Budapest,1921,Budapest,medical student,,,"Oranienburg, Sachsenhausen",47.48138955,19.14609412691246,,,,,52.7529379,13.2457591,50.1002618,8.6835988,,,,,,,,,,
-1277,S. F.,,Dombó,1924,Dombó,housewife,,Técs?,"Auschwitz, Willischtal, Theresienstadt",48.17917,23.88599,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,,,50.510716,14.149717,,,,,,,,
-1288,G. H.,female,Ilosva,1920,Ilosva,seamstress,,Munkács,"Auschwitz, Stutthof, Bomgarten, Lubics, Friedenswald, Prost, Lamburg",48.31924,23.0417599,48.4421119,22.7185408,,,50.0336707,19.260079835793633,54.330086,19.177209,,,46.6179118,17.7606847,38.0738921,-92.7626273,48.3357906,12.590252,,
-203,S. V.,male,Munkács-Váralja,1925,,joiner,,Munkács,"Auschwitz, Wolfsberg, Ebensee",48.4346327,22.6753352,48.4421119,22.7185408,,,50.0336707,19.260079835793633,46.8390583,14.8452061,47.8122366,13.7741666,,,,,,,,
-3662,D. M.,male,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1115,S. J.,male,Sala,1929,Sala,student,,Nagyszollos,"Auschwitz, Mauthausen, Günskirchen",59.966667,16.6,46.2429112,24.6925936,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1840,E. L.,female,Budapest,1915,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1840,P. J.,female,Budapest,1912,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1840,S. S.,female,Budapest,1907,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1840,O. K.,female,Dunaharaszti,1909,Budapest,seamstress,,,Bergen - Belsen,47.359976,19.0953357,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-2385,H. M.,female,Ignéc,1915,Ungvár,seamstress,,Ungvár,"Auschwitz, Hamburg, Edelstadt, Bergen - Belsen",48.485054,22.514978,48.4078102,21.6517637,,,50.0336707,19.260079835793633,53.550341,10.000654,,,52.7580569,9.9117992,,,,,,
-1459,B. B.,female,Munkács,1921,Munkács,seamstress,,Munkács,"Auschwitz, Bergenbelsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1459,B. J.,female,Munkács,1921,Munkács,seamstress,,Munkács,"Auschwitz, Weisswasser, Horneberg, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.5014795,14.8041263,47.3879698,7.7782972,52.7580569,9.9117992,,,,,,
-1465,F. L.,male,Técso,1922,Budapest,tailor,,Koszeg,"Kőszeg, Mauthausen, Günskirchen",48.01163,23.5783799,47.3894949,16.5406843,,,47.3894949,16.5406843,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-161,J. M.,female,Németporuba,1927,Turjaporosk?,,,Ungvár,,49.0551889,19.6489264,48.4078102,21.6517637,,,,,,,,,,,,,,,,
-161,J. S.,female,Németporuba,1925,Turjaporosk?,,,Ungvár,,49.0551889,19.6489264,48.4078102,21.6517637,,,,,,,,,,,,,,,,
-174,K. R.,female,Ungvár,1923,Ungvár,,,Ungvár,"Auschwitz, Gelsenberg, Sommerda, Mauslovitz",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,48.8120638,14.9626493,51.1618258,11.1174874,,,,,,,,
-2623,Á. J.,male,Nagyvárad,1892,Nagyvárad,box maker,,Nagyvárad,"Auschwitz, Buchenwald, Magdeburg, Rethensee, Buchenwald",47.0549163,21.9285231,47.0549163,21.9285231,,,50.0336707,19.260079835793633,50.7892991,15.2705903,52.1315889,11.6399609,,,50.7892991,15.2705903,,,,
-1128,K. R.,female,Budapest,1925,,seamstress,,,"Bergen - Belsen, Raguhn, Theresiestadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,51.708566950000005,12.29782471426285,,,,,,,,,,
-1128,F. M.,female,Budapest,1925,,seamstress,,,"Bergen - Belsen, Raguhn, Theresiestadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,51.708566950000005,12.29782471426285,,,,,,,,,,
-1128,F. A.,female,Budapest,1915,,housewife,,,"Bergen - Belsen, Raguhn, Theresiestadt",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,51.708566950000005,12.29782471426285,,,,,,,,,,
-3139,G. I.,male,Nagyecsed,1921,Debrecen,tailor,,,"Sachsenhausen, Oranienburg, Ohrdruf, Kravinkel",47.862171,22.3843037,,,,,50.1002618,8.6835988,52.7529379,13.2457591,50.8270085,10.7319499,,,,,,,,
-969,L. T.,female,Csapovce,1930,Csapovce,student,,Munkácsi téglagyár,"Auschwitz, Gelsenkirchen, Essen, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,51.5110321,7.0960124,51.4582235,7.0158171,52.7580569,9.9117992,,,,,,
-3313,G. R.,female,Ungvár,1915,Ungvár,housewife,,Ungvár,"Auschwitz, Rawensbrück, Lippstadt, Lorenzkirche",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,,,51.6747074,8.347194,49.4509469,11.0777299,,,,,,
-1538,B. L.,male,Bártháza,1924,Bártháza,locksmith,,Munkács,"Auschwitz, Gleiwitz, Grossrosen, Buchenwald",43.7877987,-0.6436068,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.30113145,18.662347227971978,53.6769526,22.2370548,50.7892991,15.2705903,,,,,,
-2757,G. G.,male,Budapest,1921,Budapest,student at the Technical University,,,"Hidegség, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6251989,16.7413826,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-228,K. H.,female,Eötvösfalva,1923,,,,Sátoraljaújhely,"Auschwitz, Markkleberg",,,48.3960978,21.6561497,,,50.0336707,19.260079835793633,51.2785751,12.3718819,,,,,,,,,,
-3649,dr. A. J.,female,Gyöngyös,1900,Budapest,dentist,,,,47.7799838,19.9291176,,,,,,,,,,,,,,,,,,
-1076,H. M.,female,Huszt,1929,Huszt,housewife,,Huszt,"Auschwitz, Reichenbach, Parschnitz, Kratzau",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5740424,15.949143,50.8171929,14.9687813,,,,,,
-2594,G. G.,female,Gamás,1898,Budapest,housewife,,,Bergen - Belsen,46.6202379,17.7625713,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-25,R. J.,female,###,1902,Budapest,clerk,,Budapest,Bergen - Belsen,,,47.48138955,19.14609412691246,,,52.7580569,9.9117992,,,,,,,,,,,,
-2423,S. J.,male,Hévmagyarad,1916,Párkány,hat-maker's assistant,,Léva,"Auschwitz, Holleschau, Brünn",,,48.2163194,18.6000869,,,50.0336707,19.260079835793633,49.333718,17.5786751,49.1922443,16.6113382,,,,,,,,
-348,K. M.,female,Ungvár,1920,Ungvár,clerk,,,"Auschwitz, Dundagen, Windau, Stutthof",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,,,47.1353453,24.5737118,54.330086,19.177209,,,,,,
-3259,H. G.,male,Pásztó,1924,Pásztó,watchmaker,,,"Fertőrákos, Deutschschützen, Mauthausen, Günskirchen",47.9210634,19.6997727,,,,,47.7161504,16.6527782,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-604,H. E.,male,Huszt,1898,Budapest,private clerk,,,"Mauthausen, Günskirchen",48.1764917,23.291166,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2812,E. R.,female,,1925,Gánya,háztartás,,Técs?,"Auschwitz, Weisswasser",,,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,50.5014795,14.8041263,,,,,,,,,,
-2608,K. J.,male,Székesfehérvár,1909,Budapest,textile engineer,,,"Windisch, Minihof, Mauthausen, Günskirchen",47.1910169,18.410811,,,,,47.4793472,8.2179918,48.5589779,12.8956136,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-163,M. F.,female,Ungvár,1926,Ungvár,housewife,Ungvár gettó,,"Auschwitz, Altenburg",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,50.9852411,12.4340988,,,,,,,,,,
-1473,dr. V. I.,male,Miskolc,1898,Budapest,physician,Sárvár,,"Auschwitz, Mettenheim",48.1030643,20.7900429,,,,,50.0336707,19.260079835793633,49.7388606,8.3250304,,,,,,,,,,
-1329,F. L.,female,Szászrégen,1915,Budapest,housewife,,,"Aushwitz, Birkenau, Stutthof, Magdeburg",46.7796886,24.7000238,,,,,,,49.5638,8.7264,54.330086,19.177209,52.1315889,11.6399609,,,,,,
-1329,B. C.,female,Marosvásárhely,1921,Budapest,housewife,,,"Aushwitz, Birkenau, Stutthof, Magdeburg",46.5446253,24.561196,,,,,,,49.5638,8.7264,54.330086,19.177209,52.1315889,11.6399609,,,,,,
-1103,R. S.,male,Szatmárnémeti,1901,,merchant,Columbus-úton,,"Bergen - Belsen, Theresienstadt",47.7891763,22.8725598,,,,,52.7580569,9.9117992,50.510716,14.149717,,,,,,,,,,
-407,S. E.,female,Polena,1909,,,,Munkács téglagyár,"Auschwitz, Weisswasser",48.624252,22.967024,,,,,50.0336707,19.260079835793633,50.5014795,14.8041263,,,,,,,,,,
-407,M. H.,female,Polena,1914,,,,Munkács téglagyár,"Auschwitz, Weisswasser",48.624252,22.967024,,,,,50.0336707,19.260079835793633,50.5014795,14.8041263,,,,,,,,,,
-3106,F. M.,male,Román##,1922,Budapest,university student,,,,48.836297599999995,1.047626206618487,,,,,,,,,,,,,,,,,,
-1063,R. I.,female,Kovászó,1926,Kovászó,housewife,,Beregszász,"Ausceitz, Bergen - Belsen",47.8495761,20.3142627,48.2050985,22.6453246,,,,,52.7580569,9.9117992,,,,,,,,,,
-3648,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1513,J. H.,female,Munkács,1923,Munkács,embroider,,Munkács,"Auschwitz, Bergenbelsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1513,J. R.,female,Munkács,1924,Munkács,underwear seamstress,,Munkács,"Auschwitz, Bergenbelsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1513,J. E.,female,Alsószinevér,1898,Munkács,housewife,,Munkács,"Auschwitz, Bergenbelsen",48.492279,23.621639,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3476,M. K.,male,Budapest,1899,Pécsvárad,engineer,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-759,W. B.,female,Petrova,1927,Felsovisó,glove maker apprentice,,Felsovisó,"Auschwitz, Weiswasser, Herneburg, Bergen - Belsen",47.8370327,24.2025295,47.7099597,24.4311547,,,50.0336707,19.260079835793633,50.5108665,16.6431521,,,52.7580569,9.9117992,,,,,,
-759,P. B.,female,Felsovisó,1927,Felsovisó,seamstress,,Felsovisó,"Auschwitz, Weiswasser, Herneburg, Bergen - Belsen",47.7099597,24.4311547,47.7099597,24.4311547,,,50.0336707,19.260079835793633,50.5108665,16.6431521,,,52.7580569,9.9117992,,,,,,
-759,P. R.,female,Felsovisó,1927,Felsovisó,shoemaker,,Felsovisó,"Auschwitz, Weiswasser, Herneburg, Bergen - Belsen",47.7099597,24.4311547,47.7099597,24.4311547,,,50.0336707,19.260079835793633,50.5108665,16.6431521,,,52.7580569,9.9117992,,,,,,
-2740,H. L.,female,Budapest,1901,Újvidék,housewife,,,"Auschwitz, Bergen - Belsen, Braunschweig, Wartenstadt, Ravensbrück",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,52.2646577,10.5236066,,,53.1944796,13.1478107,,,,
-2032,K. M.,male,Fényeslitke,1912,Kisvárda,distiller,,,"Buchenwald, Offenbrug",48.2709162,22.0990803,,,,,50.7892991,15.2705903,,,,,,,,,,,,
-2032,F. E.,male,Budapest,1919,Budapest,unskilled labourer,munkaszolgálatos,,"Buchenwald, Offenburg",47.48138955,19.14609412691246,,,,,50.7892991,15.2705903,48.4716556,7.944378,,,,,,,,,,
-3328,B. E.,female,Budapest,1908,Rákosszentmihály,merchant,,Budakalász,"Auschwitz, Bergen - Belsen",47.48138955,19.14609412691246,47.6192785,19.0468565,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-985,T. A.,female,Eger,1910,Budapest,seamstress,yellow star house,,"Mauthausen, Gunskircen",47.8989887,20.3743665,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-952,R. V.,male,Nagyfalu (Veli#na),1912,Budapest,clerk,,,"Auschwitz, Birkenau, Buchenwald, Magdeburg, Buchenwald, Niederorscbell, Langenstein",,,,,,,50.0336707,19.260079835793633,49.5638,8.7264,50.7892991,15.2705903,52.1315889,11.6399609,50.7892991,15.2705903,,,48.2512861,14.482099
-1073,B. R.,female,Dombó,1927,Galánta,seamstress,,Galánta,"Auschwitz, Allendorf",48.17917,23.88599,48.1910498,17.7270629,,,50.0336707,19.260079835793633,50.2679502,7.9982619,,,,,,,,,,
-2234,M. J.,male,Bilke,1928,Irsava,student,,"Irsava, Munkács","Auschwitz, Fünfteichen, Grossrosen, Buchenwald, Dora",47.4741402,9.6529019,48.31924,23.0417599,48.4421119,22.7185408,50.0336707,19.260079835793633,,,53.6769526,22.2370548,50.7892991,15.2705903,33.7286935,-87.0904188,,,,
-2220,K. B.,male,Hatvan,1911,Budapest,clerk,,,Bergen - Belsen,47.6683971,19.6743874,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-588,G. C.,female,Huszt,1925,Huszt,seamstress,,Huszt,"Auschwitz, Nürnberg, Haleschen",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,49.453872,11.077298,,,,,,,,,,
-588,J. M.,female,Alsószine,1922,Huszt,merchant,,Huszt,"Auschwitz, Nürnberg, Haleschen",,,48.1764917,23.291166,,,50.0336707,19.260079835793633,49.453872,11.077298,,,,,,,,,,
-3062,R. R.,male,Rábabogyoszló,1911,Sárvár,mover,,,"Bor, Flossenburg, Harzburg, Dachau",47.2933431,16.9351401,,,,,56.3598289,44.0542641,49.7329883,12.3498211,51.588694,10.757222,48.2592477,11.4354419,,,,,,
-1852,W. G.,male,Ungvár,1927,Ungvár,barber,,Ungvár,"Auschwitz, Buchenwald, Dora, Nordhausen",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,50.7892991,15.2705903,33.7286935,-87.0904188,51.5051574,10.7925317,,,,,,
-167,K. B.,male,Ilosva,1929,,goldsmith apprentice,,Budapest,Mauthausen,48.31924,23.0417599,47.48138955,19.14609412691246,,,48.2404063,14.5162667,,,,,,,,,,,,
-173,T. H.,female,Ilonca,1927,,seamstress,,Beregszász,"Auschwitz, Gelsehkirchen, Sommerdach, Meisellovitz",44.0316773,7.1007597,48.2050985,22.6453246,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1339,G. B.,female,Keselymezo,1902,Keselymezo,housewife,,Iza,"Auschwitz, Fallesleben, Salzwedel",48.23822,23.33256,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,,,52.8528456,11.1539699,,,,,,,,
-628,F. B.,female,Dévaványa,1923,Dévaványa,sale's clerk,,Dévaványa,"Auschwitz, Bergen - Belsen, Duderstadt, Therisienstadt",47.0313464,20.9620971,47.0313464,20.9620971,,,50.0336707,19.260079835793633,52.7580569,9.9117992,51.5123672,10.2610699,,,,,,,,
-1338,K. G.,male,Budapest,1910,Budapest,tailor,,,"Harka, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1338,L. I.,male,Budapest,1910,Budapest,merchant,,,"Harka, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1338,T. A.,male,Budapest,1909,Budapest,farmer,,,"Harka, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1338,F. K.,male,Budapest,1902,Budapest,electrotechnician,,,"Harka, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1338,N. Á.,male,Budapest,1899,Kispest,emblazoner,,,"Harka, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,47.6342337,16.602306,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2631,K. A.,male,Nagykároly,1907,Budapest,weaver,labour service company 101/304,,"Mauthausen, Günskirhcen",47.6829338,22.4695102,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-2631,F. S.,male,Máramarossziget,1889,Budapest,merchant,yellow star house,,"Mauthausen, Günskirhcen",47.9283242,23.8915583,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-614,dr. S. S.,female,Nagyléta,1913,Munkács,housewife,,Munkácsi téglagyár,"Auschwitz, Stutthof, Praust",47.3809374,21.8889974,,,,,50.0336707,19.260079835793633,54.330086,19.177209,54.2608539,18.6461908,,,,,,,,
-172,K. L.,male,Beregkövesd,1920,,joiner,"Beregkövesd, musz",,"Herzburg, Dachau, Mittenwald",48.280163,22.946646,,,,,,,48.2592477,11.4354419,47.4429543,11.2655684,,,,,,,,
-1476,F. I.,male,Tapolca,1909,Budapest,clerk,,,"Kópháza, Mauthausen, Günskirchen",46.8820972,17.4389619,,,,,47.6384056,16.6431637,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1310,M. S.,female,Érsekujvár,1896,Érsekujvár,quilt maker,,Érsekujvár,"Auschwitz, Horneburg, Pforta, Fallersleben, Salzwedel",47.9861843,18.1631415,47.9861843,18.1631415,,,50.0336707,19.260079835793633,53.508793,9.577211,51.1423277,11.7517859,52.4190578,10.7187346,52.8528456,11.1539699,,,,
-1310,M. M.,female,Érsekujvár,1922,Érsekujvár,clerk,,Érsekujvár,"Auschwitz, Horneburg, Pforta, Fallersleben, Salzwedel",47.9861843,18.1631415,47.9861843,18.1631415,,,50.0336707,19.260079835793633,53.508793,9.577211,51.1423277,11.7517859,52.4190578,10.7187346,52.8528456,11.1539699,,,,
-3507,R. G.,male,Budapest,1921,Budapest,merchant,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-1648,R. M.,male,,1928,Aknaszlatina,merchant,,,"Birkenau, Auschwitz, Javozno, Blechhammer",,,,,,,49.5638,8.7264,50.0336707,19.260079835793633,50.203439,19.2721559,50.6251017,11.1537574,,,,,,
-1112,dr. Gy. Á.,female,Budapest,1893,Budapest,housewife,,svájci védett ház,"Rawensbrück, Pennig",47.48138955,19.14609412691246,,,,,,,47.88084015,11.460463502752074,,,,,,,,,,
-3103,L. E.,male,Békéscsaba,1921,Békéscsaba,shop assistant at a drugstore,,,"Buchenwald, Magdeburg",46.6798003,21.0985425,,,,,50.7892991,15.2705903,52.1315889,11.6399609,,,,,,,,,,
-576,S. G.,female,Kalini,1926,Técs?,seamstress,,Técs?,"Auschwitz, Bergen - Belsen, Magdeburg, Tarchim",51.4819444,20.6308333,-20.9132894,55.49227784559751,,,50.0336707,19.260079835793633,52.7580569,9.9117992,52.1315889,11.6399609,,,,,,,,
-2209,B. L.,female,Ungvár,1924,Ungvár,seamstress,,Ungvár,"Auschwitz, Birkenau, Stuthof, Brahnau - Bormberg, Fünffeichen",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,49.5638,8.7264,54.1663232,12.1724613,,,,,,,,
-2209,B. K.,female,Ungvár,1927,Ungvár,seamstress,,Ungvár,"Auschwitz, Birkenau, Stuthof, Brahnau - Bormberg, Fünffeichen",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,49.5638,8.7264,54.1663232,12.1724613,,,,,,,,
-748,I. Á.,male,Kökényes,1924,Budapest,plumber,labour service,,"Sachsenhausen, Berlin, Siemensstadt",48.071709,23.738371,,,,,50.1002618,8.6835988,52.5170365,13.3888599,52.5398082,13.2568934,,,,,,,,
-1514,D. A.,female,Aknaszlatina,1922,Aknaszlatina,housewife,,Aknaszlatina,"Auschwitz, Friedenthal",47.9470202,23.8747013,47.9470202,23.8747013,,,50.0336707,19.260079835793633,50.8978795,7.4707379,,,,,,,,,,
-762,B. Z.,male,Budapest,1904,Budapest,driver,munkaszolgálatos,Varsó,"Auschwitz, Gusen II.",47.48138955,19.14609412691246,52.2319581,21.0067249,,,50.0336707,19.260079835793633,48.2581303,14.46266,,,,,,,,,,
-1528,G. B.,male,Dombó,1911,Beregszász,merchant,,,,48.17917,23.88599,,,,,,,,,,,,,,,,,,
-789,Z. B.,male,Nyírbátor,1940,Budapest,skilled craftsman,labour service,,Bor,47.839511,22.1322309,,,,,56.3598289,44.0542641,,,,,,,,,,,,
-1299,S. E.,male,Munkács,1907,Munkács,watchmaker,,Munkaszolgálatos volt,"Schlossenburg, Dora, Bergen - Belsen",48.4421119,22.7185408,,,,,,,33.7286935,-87.0904188,52.7580569,9.9117992,,,,,,,,
-548,F. R.,female,Budafok,1927,Budafok,printer,,"Budakalász, téglagyár","Auschwitz, Kürschau",47.4275301,19.0260778,47.6192785,19.0468565,47.5234201,21.5818761,50.0336707,19.260079835793633,,,,,,,,,,,,
-1925,S. G.,male,Dömsöd,1925,Dömsöd,farmer,,,"Buchenwald, Neubrandenburg, Ravensbrück",47.094771,19.0070461,,,,,50.7892991,15.2705903,53.5574458,13.2602781,53.1944796,13.1478107,,,,,,,,
-3075,T. M.,female,Budapest,1918,Budapest,Red Cross nurse,,,Kaufering,47.48138955,19.14609412691246,,,,,48.0871324,10.8605317,,,,,,,,,,,,
-1110,V. M.,male,Gánya,1918,Gánya,tailor,,Kistécso,"Auschwitz, Bunzlau, Dora, Bergen - Belsen",48.12767,23.82729,48.0030497,23.5808046,,,50.0336707,19.260079835793633,51.2630333,15.5651049,33.7286935,-87.0904188,52.7580569,9.9117992,,,,,,
-3505,W. B.,male,Pestújhely,1912,Pesterzsébet,underwear cleaner,,,,47.5367192,19.1266683,,,,,,,,,,,,,,,,,,
-602,N. L.,female,Nagykároly,1923,Kispest,housewife,,,"Auschwitz, Franfurt am Main, Ravensbrück",47.6829338,22.4695102,,,,,50.0336707,19.260079835793633,50.0513035,8.5719211,53.1944796,13.1478107,,,,,,,,
-3263,S. K.,male,Budapesten,1909,Klagenfurt,mechanical engineer,labour service company 101/330,,"Kőszeg, Rechnitz",47.5078278,19.2447165,,,,,47.3894949,16.5406843,47.3049404,16.4408807,,,,,,,,,,
-1448,H. E.,female,Huszt,1927,Huszt,housewife,,Huszt,"Auschwitz, Reichenbach, Parschnitz, Kratzau",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5740424,15.949143,50.8171929,14.9687813,,,,,,
-2800,F. B.,female,Huszt,1920,Huszt,seamstress,,Huszt,"Auschwitz, Salzwedel",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-825,N. Á.,male,Budapest,1913,Budapest,baker apprentice,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-3538,dr. K. A.,male,Budapest,1914,Budapest,physician,,,orosz fogságban volt,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-2626,R. I.,male,Nyíradony,1928,Ercsi,student,,Székesfehérvár,"Auschwitz, Landsberg",47.6913589,21.9053502,47.1910169,18.410811,,,50.0336707,19.260079835793633,48.0514973,10.8737728,,,,,,,,,,
-159,E. S.,male,Irholz,1915,,mechanic,,Budapest,"Buchenwald, Neubrandenburg, Rawensbrück",,,47.48138955,19.14609412691246,,,50.7892991,15.2705903,53.5574458,13.2602781,,,,,,,,,,
-603,W. J.,male,Budapest,1924,Budapest,university student,,,"Bruck a./L, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,50.9841234,7.5398567,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1475,G. T.,male,Munkács,1924,Munkács,,,Munkács téglagyár,"Auschwitz, Fünfteichen, Kietlitzleben",48.4421119,22.7185408,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-165,H. A.,male,Kassa,1924,Nagyida,bailiff's assistant,,"Kassa, téglagyár","Auschwitz, Hirschberg, Bunzlau, Dora, Bergen - Belsen",48.7172272,21.2496774,48.7172272,21.2496774,47.5234201,21.5818761,50.0336707,19.260079835793633,50.8501049,15.653749235408073,51.2630333,15.5651049,33.7286935,-87.0904188,52.7580569,9.9117992,,,,
-2342,M. I.,female,Munkács,1912,Munkács,háztartás,,Munkács,"Auschwitz, Unterlüss, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,52.7580569,9.9117992,,,,,,,,
-2342,M. M.,female,Munkács,1922,Munkács,seamstress,,Munkács,"Auschwitz, Unterlüss, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,52.7580569,9.9117992,,,,,,,,
-1139,D. L.,female,Középapsa,1927,Középapsa,seamstress,,Aknaszlatina,"Auschwitz, Bergenbelsen",47.982441,23.90316,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1139,M. E.,female,Középapsa,1921,Középapsa,seamstress,,Aknaszlatina,"Auschwitz, Bergenbelsen",47.982441,23.90316,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1677,J. L.,male,Majdan,1926,Majdan,student,,Iza,"Auschwitz, Buchenwald, Bochum, Buchenwald, Theresiestadt",50.45024305,30.524061141975686,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.4818111,7.2196635,50.7892991,15.2705903,,,,,,
-3060,R. E.,female,Budapest,1914,Budapest,craftsman,,,"Lanzberg, Allach",47.48138955,19.14609412691246,,,,,47.7223728,13.1630087,48.1959936,11.4570128,,,,,,,,,,
-3074,B. P.,male,Budapest,1913,Budapest,photographer,,,"Sachsenhausen, Bushenwald, Flossenburg",47.48138955,19.14609412691246,,,,,50.1002618,8.6835988,,,49.7329883,12.3498211,,,,,,,,
-373,K. H.,male,Nyírparasznya,1989,Beregszász,tailor,,Beregszász,"Auschwitz, Buchenwald, Dora, Infeld",48.0253196,22.2691388,48.2050985,22.6453246,,,50.0336707,19.260079835793633,50.7892991,15.2705903,33.7286935,-87.0904188,-26.3444409,-60.433744,,,,,,
-373,K. G.,male,Beregszász,1929,Beregszász,student,,Beregszász,"Auschwitz, Buchenwald, Dora, Infeld",48.2050985,22.6453246,48.2050985,22.6453246,,,50.0336707,19.260079835793633,50.7892991,15.2705903,33.7286935,-87.0904188,-26.3444409,-60.433744,,,,,,
-2587,G. F.,female,Ternova,1916,Ternova,housewife,,Mátészalka,"Auschwitz, Hochweile, Grossrosen, Bergen - Belsen",50.184914,36.675739,47.9539113,22.3208477,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,52.7580569,9.9117992,,,,,,
-2587,K. F.,female,Nagybocskó,1911,Nagybocskó,housewife,,Mátészalka,"Auschwitz, Hochweile, Grossrosen, Bergen - Belsen",47.973549,24.0147396,47.9539113,22.3208477,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,52.7580569,9.9117992,,,,,,
-1930,R. A.,female,Budapest,1907,Budapest,clerk,labour service,,"Landsberg, Türkheim, Kaufering, Allach",47.48138955,19.14609412691246,,,,,48.0514973,10.8737728,48.0878217,7.278011,48.0871324,10.8605317,48.1959936,11.4570128,,,,,,
-1059,L. A.,male,Mihályka,1921,Munkács,merchant,,,"Mauthausen, Günskirchen",48.0528961,20.7660346,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2034,F. I.,male,Bánhida,1898,Csákvár,mill clerk,Székesfehérvár-Téglagyár,Mór,"Auschwitz, Allach",46.7772861,21.1382599,47.3720267,18.2090388,,,50.0336707,19.260079835793633,48.1959936,11.4570128,,,,,,,,,,
-1214,I. J.,female,Csörg?,1924,Budapest,kindergarden teacher,,,,,,,,,,,,,,,,,,,,,,,
-704,B. M.,female,Huszt,1923,Beregszász,housewife,,BEregszász,"Birkenau, Bolzenburg",48.1764917,23.291166,48.2050985,22.6453246,,,49.5638,8.7264,52.4191106,8.278663,,,,,,,,,,
-704,B. S.,female,Beregszász,1927,Beregszász,housewife,,Beregszász,"Birkenau, Bolzenburg",48.2050985,22.6453246,48.2050985,22.6453246,,,49.5638,8.7264,52.4191106,8.278663,,,,,,,,,,
-710,A. S.,male,Budapest,1900,Budapest,merchant,munkaszolgálatos,,"Mauthausen, Göttenburg",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,-24.6186111,31.4311111,,,,,,,,,,
-2912,H. M.,female,Chuszt,1929,Chuszt,student,,Chuszt,"Auschwitz, Reichenbach, Trautenau, Porta, Fallersleben, Salzwedel",,,,,,,50.0336707,19.260079835793633,50.6200076,12.298936,50.5608851,15.9130498,42.5260507,1.8256362,52.4190578,10.7187346,52.8528456,11.1539699,,
-2245,R. S.,male,Dunaföldvár,1915,Dunaföldvár,printer and bookbinder,,KISOK-pálya,"Buchenwald, Offenburg, Ansbach, Fürth, Dachau",46.810432,18.9222921,,,,,50.7892991,15.2705903,48.4716556,7.944378,49.3028611,10.5722288,49.4772475,10.9893626,48.2592477,11.4354419,,,,
-1016,M. M.,male,Aknaszlatina,1927,Aknaszlatina,joiner,,Aknaszlatina,"Auschwitz, Dörnau",47.9470202,23.8747013,47.9470202,23.8747013,,,50.0336707,19.260079835793633,46.4353478,15.9548875,,,,,,,,,,
-92,L. G.,female,Szeklence,1926,Szeklence,seamstress,Nagykálló gettó,,"Auschwitz, Krakkó, Neustadt, Bergen - Belsen, Bergen Zelle",48.117165,23.382006,,,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,47.6565584,23.5719843,52.7580569,9.9117992,,,,,,
-2279,K. M.,female,,1920,Huszt,seamstress,,Huszt,"Auschwitz, Ravensbrück, Neustadt, Glewe",,,48.1764917,23.291166,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.6565584,23.5719843,52.7374582,12.3234136,,,,,,
-86,F. P.,male,Berettó,1927,Kassa,student,,Kassa,"Auschwitz, Wolfsberg, Wüstegiersdorf",48.6458964,21.8360285,48.7172272,21.2496774,,,50.0336707,19.260079835793633,46.8390583,14.8452061,50.6862202,16.3730583,,,,,,,,
-3615,E. E.,female,Budapest,1921,Budapest,teacher,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-1002,H. H.,male,,1926,Ilosva,student,,,"Auschwitz, Wolfsberg, Dernchau",,,,,,,50.0336707,19.260079835793633,46.8390583,14.8452061,,,,,,,,,,
-45,W. I.,male,Turz,1927,,locksmith student,,Nagysz?ll?s,,48.9458547,18.8467198,,,,,,,,,,,,,,,,,,
-3013,P. B.,male,Dombóvár,1914,Budapest,clerk,,,"Heiligenkreuz, Poppendorf, Mauthausen, Günskirchen",46.3778989,18.1332865,,,,,48.0560466,16.1292957,54.1315304,12.2875185,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,
-1176,S. H.,female,Vadászfalva,1900,Ketergény,housewife,,Ungvár,"Birkenau, Auschwitz, Hamburg, Wedell, Edelstadt, Bergen - Belsen",48.8091398,22.3254283,48.4078102,21.6517637,,,49.5638,8.7264,50.0336707,19.260079835793633,53.550341,10.000654,52.9484,14.49651,,,52.7580569,9.9117992,,
-1176,S. L.,female,Ketergény,1928,Ketergény,housewife,,Ungvár,"Birkenau, Auschwitz, Hamburg, Wedell, Edelstadt, Bergen - Belsen",48.579811,22.275244,48.4078102,21.6517637,,,49.5638,8.7264,50.0336707,19.260079835793633,53.550341,10.000654,52.9484,14.49651,,,52.7580569,9.9117992,,
-2133,G. P.,male,Ungvár,1927,Ungvár,student,,Ungvár,"Auschwitz, Buchenwald, Magdeburg, Nieder - Orschl, Langenstein, Zwieberge",48.4078102,21.6517637,48.4078102,21.6517637,,,50.0336707,19.260079835793633,50.7892991,15.2705903,52.1315889,11.6399609,,,48.2512861,14.482099,51.8510754,11.1051205,,
-894,G. É.,female,Salgótarján,1925,Salgótarján,dental technician,,Salgótarján,"Auschwitz, Reinchenbach, Parschwitz, Porta, Fallersleben, Salzwedel",48.0960676,19.8005642,48.0960676,19.8005642,,,50.0336707,19.260079835793633,,,,,42.5260507,1.8256362,52.4190578,10.7187346,52.8528456,11.1539699,,
-2641,dr. R. M.,female,Budapest,1909,Budapest,housewife,Békásmegyer,,"Auschwitz, Bergen - Belsen",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-658,F. R.,female,Ungvár,1931,Ungvár,seamstress,,###,"Auschwitz, Stutthof, Bromberg",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,54.330086,19.177209,53.12974625,18.029369658534854,,,,,,,,
-2127,G. T.,male,Budapest,1926,Budapest,draughtsman,musz. 111/301.,,"Buchenwald, Oster, Rode am Harz, Edemissen",47.48138955,19.14609412691246,,,,,50.7892991,15.2705903,43.0487175,-0.0129855,,,52.387466,10.2590575,,,,,,
-670,E. J.,male,Podhering,1921,Munkács,tailor,,,"Hajdúhadháza, Mauthausen, Günskirchen",,,,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-3205,R. P.,female,Budapest,1912,Budapest,housewife,Kistarcsa,,"Auschwitz, Prschkau, Zwodau",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,,,50.192255,12.6250425,,,,,,,,
-1412,J. H.,female,,1921,Huszt,housewife,,,"Auschwitz, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3588,dr. K. I.,male,Fels?szopor,1915,Újpest,rabbi,Budakalász,Újpest,"Auschwitz, Buchenwald, Rehmsdorf, Theresienstedt",,,47.5586466,19.0797073,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.0596768,12.2161979,,,,,,,,
-3562,D. J.,female,Enying,1907,Székesfehérvár,housewife,,Veszprém,"Auschwitz, Studhof, Argenau, Thorn",46.9269341,18.2449727,47.0933824,17.9080406,,,50.0336707,19.260079835793633,47.5918847,8.31823308946117,52.894429,18.4066817,53.0102721,18.6048094,,,,,,
-117,S. F.,female,Szászovka,1929,Szászovka,student,Munkács,,"Birkenau, Krako - Placow, Birkenau, Neustadt, Bergen - Belsen",,,,,,,49.5638,8.7264,,,49.5638,8.7264,47.6565584,23.5719843,52.7580569,9.9117992,,,,
-671,K. L.,female,Budapest,1905,Budapest,housewife,,,"Kópháza, Lichtenwörth",47.48138955,19.14609412691246,,,,,47.6384056,16.6431637,47.8165568,16.3159892987547,,,,,,,,,,
-895,G. S.,female,Beregszász,1930,Beregszász,student,,,"Auschwitz, Bergen - Belsen",48.2050985,22.6453246,,,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-1188,P. J.,male,Budapest,1915,Budapest,mechanic,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2495,W. L.,male,Budapest,1908,Budapest,boxing champion,,,"Dachau, Mühldorf Waldlager",47.48138955,19.14609412691246,,,,,48.2592477,11.4354419,48.2373807,12.4304318,,,,,,,,,,
-3006,N. G.,male,Miskolc,1896,Miskolc,timber merchant,,,"Sachsenhausen, Briesen, Buchenwald, Bisingen, Dachau",48.1030643,20.7900429,,,,,50.1002618,8.6835988,48.8053349,19.6409612,50.7892991,15.2705903,48.3120203,8.9163672,48.2592477,11.4354419,,,,
-467,H. H.,female,Jánosháza,1923,Budapest,tailor,védett házban volt,,"Bergen - Belsen, Tröbicz",47.1198765,17.1642699,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-467,H. I.,female,Jánosháza,1925,Budapest,tailor,védett házban volt,,"Bergen - Belsen, Tröbicz",47.1198765,17.1642699,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-467,A. S.,female,Budapest,1905,Budapest,pianist,védett házban volt,,"Bergen - Belsen, Tröbicz",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1177,L. S.,male,Kis Kirva,1927,,stonecutter,,Kis Kirva majd Mátészalka,"Auschwitz, Buchenwald, Regensdorf, Zeitz",47.606785,18.705413,,,,,50.0336707,19.260079835793633,50.7892991,15.2705903,47.4317645,8.4680435,51.0491637,12.1349991,,,,,,
-473,dr. S. M.,female,Raho,1905,,housewife,,Fels?visó,"Auschwitz, Hochwailer",26.8606816,95.5157141,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-473,S. D.,female,Borsa,1932,,housewife,,Fels?visó,"Auschwitz, Hochwailer",47.6554079,24.6639308,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-3199,S. P.,male,Bécs,1904,Budapest,merchant,701/23 század,,"Sachsenhausen, Oranienburg, Ravensbrück, Barth, Ravensbrück, Wöbbelin",48.2083537,16.3725042,,,,,50.1002618,8.6835988,52.7529379,13.2457591,53.1944796,13.1478107,54.3690547,12.7258585,53.1944796,13.1478107,53.4000924,11.5017107,,
-1765,K. M.,male,Budapest,1898,Budapest,technician,,,"Bruck, Mauthausen, Günskirchen",47.48138955,19.14609412691246,,,,,49.2498509,12.3084509,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-2244,R. F.,female,Szatmárnémeti,1920,Szatmárnémeti,seamstress,,Szatmárnémeti,"Auschwitz, Ravensbrück, Neustadt, Glewe",47.7891763,22.8725598,47.7891763,22.8725598,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.6565584,23.5719843,52.7374582,12.3234136,,,,,,
-2244,G. I.,female,Nagyvárad,1915,Szatmárnémeti,clerk,,Szatmárnémeti,"Auschwitz, Ravensbrück, Neustadt, Glewe",47.0549163,21.9285231,47.7891763,22.8725598,,,50.0336707,19.260079835793633,53.1944796,13.1478107,47.6565584,23.5719843,52.7374582,12.3234136,,,,,,
-922,P. R.,female,Csap,192#,Ungvár,housewife,,Ungvár- téglagyár,"Auschwitz, Freudenthal",48.4313665,22.2063694,,,,,50.0336707,19.260079835793633,49.9885113,17.4652901,,,,,,,,,,
-1201,T. I.,female,Alsóverecke,1927,Alsóverecke,seamstress,,Munkács - téglagyár,"Auschwitz, Geistlingen, München, Allach",48.770844,23.096771,,,,,50.0336707,19.260079835793633,,,48.1371079,11.5753822,48.1959936,11.4570128,,,,,,
-739,D. B.,male,Técso,1920,Gánya,Talmud scholar,,Nagyvárad,"Auschwitz, Buchenwald, Magdeburg, Buchenwald, Dachau",48.01163,23.5783799,47.0549163,21.9285231,,,50.0336707,19.260079835793633,50.7892991,15.2705903,52.1315889,11.6399609,50.7892991,15.2705903,48.2592477,11.4354419,,,,
-2736,L. J.,male,Nagykálló,1889,Budapest,bank clerk,,,Bergen - Belsen,47.874296,21.8434965,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1217,M. J.,male,Szenteske,1925,Szenteske,merchant,,Ungvár,"Auschwitz, Wolfsberg, Tannhausen, Dörnau",48.6838757,22.1408289,48.4078102,21.6517637,,,50.0336707,19.260079835793633,46.8390583,14.8452061,48.9799525,10.3579584,46.4353478,15.9548875,,,,,,
-2534,H. E.,female,,1929,Ungvár,photographer,,Ungvár,"Auschwitz, Hamburg, Vedel, Edelstadt, Bergen - Belsen",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,53.550341,10.000654,43.9556019,0.8998927,,,52.7580569,9.9117992,,,,
-2534,H. I.,female,,1925,Ungvár,housewife,,Ungvár,"Auschwitz, Hamburg, Vedel, Edelstadt, Bergen - Belsen",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,53.550341,10.000654,43.9556019,0.8998927,,,52.7580569,9.9117992,,,,
-511,K. L.,male,Rábaszentandrás,1911,Újpest,tailor,,,Tallós,47.4596934,17.3281155,,,,,42.7158769,-8.7030569,,,,,,,,,,,,
-1001,L. F.,female,,1924,Alsóapsa,student,,,"Auschwitz, Merklenberg, Dresden",,,,,,,50.0336707,19.260079835793633,,,51.0493286,13.7381437,,,,,,,,
-277,S. D.,male,Beregszász,1918,Beregszász,textile merchant,munkaszolgálatos,,"Donnerskirchen, Mauthausen, Günskirchen",48.2050985,22.6453246,,,,,47.89791865,16.6378107624949,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1015,F. A.,female,Munkács,1920,Munkács,teacher,,Munkács,"Auschwitz, Studhof",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,47.5918847,8.31823308946117,,,,,,,,,,
-91,K. A.,male,Felsovisó,1915,Máramarossziget,merchant,,,"Auschwitz, Wolfsberg, Ebensee",47.7099597,24.4311547,,,,,50.0336707,19.260079835793633,46.8390583,14.8452061,47.8122366,13.7741666,,,,,,,,
-1607,I. B.,female,Tiszafélegyháza,1926,Tiszafélegyháza,housewife,,Aknaszlatina,"Auschwitz, Neusalz, Schlossenburg, Bergen - Belsen",,,47.9470202,23.8747013,,,50.0336707,19.260079835793633,51.8019595,15.7175608,,,52.7580569,9.9117992,,,,,,
-1607,I. R.,female,Tiszafélegyháza,1927,Tiszafélegyháza,housewife,,Aknaszlatina,"Auschwitz, Neusalz, Schlossenburg, Bergen - Belsen",,,47.9470202,23.8747013,,,50.0336707,19.260079835793633,51.8019595,15.7175608,,,52.7580569,9.9117992,,,,,,
-129,S. R.,female,Alsóapsa,1928,Alsóapsa,seamstress,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,L. S.,female,Alsóapsa,1918,Alsóapsa,housewife,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,L. M.,female,Alsóapsa,1928,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,L. M.,female,Alsóapsa,1924,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,A. L.,female,Alsóapsa,1928,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,A. T.,female,Alsóapsa,1928,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,A. S.,female,Alsóapsa,1927,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-129,A. R.,female,Alsóapsa,1926,Alsóapsa,student,,Aknaszlatina,"Auschwitz, Rawensbrück, Barthe",47.998241,23.835529,47.9470202,23.8747013,,,50.0336707,19.260079835793633,,,43.2833116,0.4695406,,,,,,,,
-3206,S. A.,female,Beregszász,1923,Beregszász,seamstress,Kistarcsa,,"Birkenau, Bergenbelsen, Braunschweig, Wattenstadt, Ravensbrück, Malchov",48.2050985,22.6453246,,,,,49.5638,8.7264,,,52.2646577,10.5236066,,,53.1944796,13.1478107,,,,
-3560,dr. P. R.,male,Szelevény,1874,Szeged,attorney,,Szeged,,46.8034945,20.1973333,46.2546312,20.1486016,,,,,,,,,,,,,,,,
-841,S. M.,male,Büd-Szt.Mihály,1899,Budapest,garment merchant,,,"Bor, Oranienburg, Buchenwald",,,,,,,56.3598289,44.0542641,52.7529379,13.2457591,50.7892991,15.2705903,,,,,,,,
-699,W. R.,female,Ulicskriva,1924,Ulicskriva,housewife,,Ungvár,"Auschwitz, Salzwedel",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-699,W. L.,female,Ulicskriva,1914,Ulicskriva,housewife,,Ungvár,"Auschwitz, Salzwedel",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-699,J. H.,female,Ulicskriva,1928,Kolbaszova,student,,Ungvár,"Auschwitz, Salzwedel",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-699,J. S.,female,Hosztovize,1924,Kolbaszova,student,,Ungvár,"Auschwitz, Salzwedel",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-699,J. E.,female,Hosztovize,1922,Kolbaszova,housewife,,Ungvár,"Auschwitz, Salzwedel",,,48.4078102,21.6517637,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-1362,L. S.,male,Budapest,1922,Budapest,trunk maker,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-672,D. M.,male,Budapest,1917,Budapest,fancy leather goods maker,,,"Kőszeg, Gusen II.",47.48138955,19.14609412691246,,,,,47.3894949,16.5406843,48.2581303,14.46266,,,,,,,,,,
-114,S. L.,male,Dombó,1909,Técs?,merchant,,Técs?,"Birkenau, Auschwitz, Dachau, Mildorf",48.17917,23.88599,-20.9132894,55.49227784559751,,,49.5638,8.7264,50.0336707,19.260079835793633,48.2592477,11.4354419,43.162984,-77.554351,,,,,,
-1404,G. É.,female,Huszt,1914,Huszt,housewife,,Huszt,"Auschwitz, Ravensbrück",48.1764917,23.291166,48.1764917,23.291166,,,50.0336707,19.260079835793633,53.1944796,13.1478107,,,,,,,,,,
-3561,dr. L. R.,male,Pusztakvass#,1896,Székesfehérvár,physician,,Székesfehérvár,"Auschwitz, Neugamen, Brauschweig, Wattenstadt, Ravensbrück, Ludwigslust",,,47.1910169,18.410811,,,50.0336707,19.260079835793633,,,,,,,53.1944796,13.1478107,53.3300229,11.4993644,,
-3549,B. M.,female,Balassagyarmat,1909,Balassagyarmat,merchant,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,K. L.,female,Balassagyarmat,1928,Balassagyarmat,seamstress,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,K. I.,female,Balassagyarmat,1924,Balassagyarmat,hairdresser,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,W. L.,female,Balassagyarmat,1921,Balassagyarmat,seamstress,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,H. V.,female,Balassagyarmat,1922,Balassagyarmat,underwear seamstress,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,H. K.,female,Balassagyarmat,1925,Balassagyarmat,hairdresser,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",48.0768832,19.2926037,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-3549,W. E.,female,Érsekkéty,1926,Balassagyarmat,hairdresser,,Balassagyarmat,"Auschwitz, Ravensbrück, Berlin, Schönholz, Oranienburg",47.9666638,18.5667902,48.0768832,19.2926037,,,50.0336707,19.260079835793633,53.1944796,13.1478107,52.5170365,13.3888599,52.5715004,13.3809904,52.7529379,13.2457591,,,,
-1160,K. E.,male,Fels?veresmart,1926,Budapest,baker,labour service,,"St.Martin, Mauthausen, Günskirchen",,,,,,,18.0814066,-63.0467131,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-262,Z. M.,male,Felsoverecke,1924,Felsoverecke és Ungvár,smallholder,,Munkács,"Auschwitz, Fürsteinstein, Flossenburg, Leonburg, Landsberg",48.745312,23.1451,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,49.7329883,12.3498211,46.58460135,11.163285401353441,48.0514973,10.8737728,,,,
-262,E. E.,male,Felsoremete,1925,Felsoremete,locksmith,,Munkács,"Auschwitz, Fürsteinstein, Flossenburg, Leonburg, Landsberg",48.266132,22.8584,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,49.7329883,12.3498211,46.58460135,11.163285401353441,48.0514973,10.8737728,,,,
-90,G. E.,male,Nagyszöllös,1924,Nagyszöllos,chef,Nagyszöllos,,"Auschwitz, Varsó, Dachau, Buchenwald, Lublin, Grossrosen, Mühldorf",46.2429112,24.6925936,,,,,50.0336707,19.260079835793633,52.2319581,21.0067249,48.2592477,11.4354419,50.7892991,15.2705903,51.250559,22.5701022,53.6769526,22.2370548,48.2405007,12.5250991
-3617,dr. N. T.,male,,,,head of the Aid Department,,,,,,,,,,,,,,,,,,,,,,,
-84,F. B.,female,Ruszkavoda,1918,Kassa,seamstress,,Kassa-téglagyár.,"Auschwitz, Krakkó, Auschwitz, Neustadt, Grossrosen, Mathausen, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,47.6565584,23.5719843,53.6769526,22.2370548,41.54598435,2.2172218248241204,52.7580569,9.9117992
-84,F. M.,female,Ruszkavoda,1920,Kassa,milliner,,Kassa-téglagyár.,"Auschwitz, Krakkó, Auschwitz, Neustadt, Grossrosen, Mathausen, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,47.6565584,23.5719843,53.6769526,22.2370548,41.54598435,2.2172218248241204,52.7580569,9.9117992
-2092,K. L.,male,Budapest,1906,Budapest,insurance clerk,"musz 109/35, 701/28",,"Bergen - Belsen, Farsleben",47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,52.277292349999996,11.6531149647817,,,,,,,,,,
-935,R. M.,female,Csornok,1919,Csornok,housewife,,Nagysurány,"Auschwitz, Krakkó, Auschwitz, Kratzau",48.1534962,18.2251815,48.0861055,18.1868344,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,50.8171929,14.9687813,,,,,,
-935,S. R.,female,Csornok,1925,Csornok,housewife,,Nagysurány,"Auschwitz, Krakkó, Auschwitz, Kratzau",48.1534962,18.2251815,48.0861055,18.1868344,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,50.8171929,14.9687813,,,,,,
-935,S. O.,female,Csornok,1927,Csornok,housewife,,Nagysurány,"Auschwitz, Krakkó, Auschwitz, Kratzau",48.1534962,18.2251815,48.0861055,18.1868344,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,50.8171929,14.9687813,,,,,,
-935,D. R.,female,Komjáti,1924,Komjáti,seamstress,,Nagysurány,"Auschwitz, Krakkó, Auschwitz, Kratzau",48.5457027,20.7607737,48.0861055,18.1868344,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,50.8171929,14.9687813,,,,,,
-935,D. I.,female,Komjáti,1926,Komjáti,seamstress,,Nagysurány,"Auschwitz, Krakkó, Auschwitz, Kratzau",48.5457027,20.7607737,48.0861055,18.1868344,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,50.0336707,19.260079835793633,50.8171929,14.9687813,,,,,,
-1216,B. L.,female,Huszt,1914,Budapest,"housewife, wife of a joiner",,Huszt,Wienerneustadt,48.1764917,23.291166,48.1764917,23.291166,,,,,,,,,,,,,,,,
-716,I. I.,male,Budapst,1887,Budapest,"mechanic, driver",yellow star house,,"Buchenwald, Altenburg, Waldenburg",,,,,,,50.7892991,15.2705903,50.9852411,12.4340988,48.7503918,7.1965445,,,,,,,,
-1206,dr. H. Ö.,female,Gyor,1917,Budapest,housewife,KISOK-pálya,,"Ravensbrück, Gelenau, Mauthausen",47.687609,17.6346815,,,,,53.1944796,13.1478107,51.2548986,14.0713547,48.2404063,14.5162667,,,,,,,,
-1206,R. K.,female,Alsódomboru,1911,Budapest,housewife,KISOK-pálya,,"Ravensbrück, Gelenau, Mauthausen",46.3155014,16.8112732,,,,,53.1944796,13.1478107,51.2548986,14.0713547,48.2404063,14.5162667,,,,,,,,
-3175,H. M.,female,Szajkofalva,1926,Huszt,seamstress,,Huszt (4 hét),"Auschwitz, Salzwedell Belsenberg, Salzwedell",48.354259,23.110769,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1004,G. L.,female,,1921,Keselymez?,housewife,,Iza,"Auschwitz, Görlitz",,,42.8854464,-1.7752123026239124,,,50.0336707,19.260079835793633,51.1563185,14.991018,,,,,,,,,,
-3607,W. L.,female,Pécs,1918,Budapest,clerk,,,,46.0765092,18.2280317,,,,,,,,,,,,,,,,,,
-2243,P. J.,female,Budapest,1913,Budapest,seamstress,,Pestvidéki Törvényszék,Ravensbrück,47.48138955,19.14609412691246,,,,,53.1944796,13.1478107,,,,,,,,,,,,
-43,K. T.,male,Felsoveresmarton,1925,Budapest,baker,,,,,,,,,,,,,,,,,,,,,,,
-1945,S. P.,female,Marosjánosi,1921,Marosjánosi,clerk,,Beregszász,"Auschwitz, Gelsenkirchen, Essen, Bergen - Belsen",,,48.2050985,22.6453246,,,50.0336707,19.260079835793633,51.5110321,7.0960124,51.4582235,7.0158171,52.7580569,9.9117992,,,,,,
-3015,G. I.,male,Budapest,1898,Budapest,clerk,,,Dachau,47.48138955,19.14609412691246,,,,,48.2592477,11.4354419,,,,,,,,,,,,
-3029,K. I.,male,Budapest,1914,Budapest,electrician,Sárvár,,"Auschwitz, Monowitz, Gleiwitz, Buchenwald, Flossenburg, Dachau",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.0331874,19.3000429,50.30113145,18.662347227971978,50.7892991,15.2705903,49.7329883,12.3498211,48.2592477,11.4354419,,
-2486,W. T.,male,Budapest,1922,Budapest,electrotechnician,,munkaszolgálat,Mauthausen,47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-662,dr. S. D.,male,Zsolna,1888,Budapest,attorney,,,Bergen - Belsen,49.2234674,18.7393139,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-3565,K. F.,male,Szillsárkány,1915,Budapest,tailor,orosz fogságban volt,,,,,,,,,,,,,,,,,,,,,,
-1414,F. P.,female,,1927,Beregszász,student,,,"Auschwitz, Neusalz",,,,,,,50.0336707,19.260079835793633,51.8019595,15.7175608,,,,,,,,,,
-110,L. E.,female,Alsóapsó,1926,Alsóapsó,,,Aknaszlatina,"Auschwitz - Marklinberg, Theresienstadt",,,47.9470202,23.8747013,,,,,50.510716,14.149717,,,,,,,,,,
-110,L. M.,female,Alsóapsó,1922,Alsóapsó,,,Aknaszlatina,"Auschwitz - Marklinberg, Theresienstadt",,,47.9470202,23.8747013,,,,,50.510716,14.149717,,,,,,,,,,
-110,L. R.,female,Alsóapsó,1925,Alsóapsó,,,Aknaszlatina,"Auschwitz - Marklinberg, Theresienstadt",,,47.9470202,23.8747013,,,,,50.510716,14.149717,,,,,,,,,,
-2647,D. H.,male,Nagyvárad,1923,Nagyvárad,locksmith,labour service,,Mauthausen,47.0549163,21.9285231,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-2647,S. J.,male,Arad,1923,Nagyvárad,tailor,labour service,,Mauthausen,46.1753793,21.3196342,,,,,48.2404063,14.5162667,,,,,,,,,,,,
-844,M. L.,male,Uglya,1925,Uglya,mechanic,,,"Auschwitz, Grossrosen, Flossenburg, Regensburg",48.15136,23.625759,,,,,50.0336707,19.260079835793633,53.6769526,22.2370548,49.7329883,12.3498211,49.0195333,12.0974869,,,,,,
-139,S. Á.,male,Perecsény,1919,Perecsény,dental technician,,Ungvár,"Auschwitz, Mauthausen, Melk, Amstätten, Ebensee",48.73707,22.48764,48.4078102,21.6517637,,,50.0336707,19.260079835793633,48.2404063,14.5162667,48.2272068,15.3369992,,,47.8122366,13.7741666,,,,
-3216,E. K.,female,Óbecse,1919,Békéscsaba,physical education teacher,,"Békéscsaba, Dohánygyár","Auschwitz, Bergen - Belsen, Markleberg, Radebeul",45.6153745,20.0490085,46.6798003,21.0985425,45.929070100000004,20.05497294171996,50.0336707,19.260079835793633,52.7580569,9.9117992,51.2785751,12.3718819,51.0999765,13.6767995,,,,,,
-111,B. T.,male,Beregszász,1926,,shoemaker,,Beregszász,"Fürstenstein, Flossenburg, Kravinki, Stampfsfred",48.2050985,22.6453246,48.2050985,22.6453246,,,48.7190844,13.3309687,49.7329883,12.3498211,,,,,,,,,,
-1367,dr. P. J.,female,Budapest,1902,Budapest,housewife,,,Bergen - Belsen,47.48138955,19.14609412691246,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-3028,S. J.,male,Budapest,1906,Budapest,junk-dealer,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-2336,K. S.,female,Budapest,1917,Kispest,housewife,yellow star house,,"Auschwitz, Peterswaldau, Paslitz, Görlitz",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,50.7124412,16.581609,,,51.1563185,14.991018,,,,,,
-2336,W. E.,female,Békéscsaba,1928,Kispest,fancy leather goods maker,yellow star house,,"Auschwitz, Peterswaldau, Paslitz, Görlitz",46.6798003,21.0985425,,,,,50.0336707,19.260079835793633,50.7124412,16.581609,,,51.1563185,14.991018,,,,,,
-1165,R. S.,male,Kántorjánosi,1923,Nyírbátor,"tailor, hatmaker",munkaszolgálatos,,"Graz, Mauthausen, Günskirchen",47.9359448,22.1489345,,,,,47.0708678,15.4382786,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-1617,S. M.,male,Igló,1885,Kispest,"pharmacist, owner of a drugstore",,Kispest,"Auschwitz, Dachau, Mettenheim",48.9435344,20.562964,47.4484411,19.1465176,,,50.0336707,19.260079835793633,48.2592477,11.4354419,49.7388606,8.3250304,,,,,,,,
-1171,K. J.,male,Szöllösgyörök,1891,Budapest,owner of a machine shop,,,"Mauthausen, Gunskirchen",,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-1788,B. L.,male,Budapest,1911,Rákoskeresztúr,butcher,,,"Flossenburg, Ohrdruf, Buchenwald",47.48138955,19.14609412691246,,,,,49.7329883,12.3498211,50.8270085,10.7319499,50.7892991,15.2705903,,,,,,,,
-1950,B. I.,male,Gödöllo,1904,Budapest,private clerk,,,"Neungamen, Hamburg, Brenner, Vörder",47.601529,19.3476981,,,,,,,53.550341,10.000654,47.0073993,11.5066996,49.9222389,14.1986542,,,,,,
-1950,B. K.,male,Rákospalota,1905,Budapest,textile engineer,,,"Neungamen, Hamburg, Brenner, Vörder",47.5634365,19.1365016,,,,,,,53.550341,10.000654,47.0073993,11.5066996,49.9222389,14.1986542,,,,,,
-2281,B. H.,female,,1927,Huszt,seamstress,,Huszt,"Auschwitz, Weisswasser, Harneburg, Bergen - Belsen",,,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.5014795,14.8041263,,,52.7580569,9.9117992,,,,,,
-2281,R. C.,female,,1928,Huszt,seamstress,,Huszt,"Auschwitz, Weisswasser, Harneburg, Bergen - Belsen",,,48.1764917,23.291166,,,50.0336707,19.260079835793633,50.5014795,14.8041263,,,52.7580569,9.9117992,,,,,,
-3148,H. M.,female,Mez?kövesd,1923,Mez?kövesd,seamstress,,Mez?kövesd,"Birkenau, Berlin, Schönholz, Reinickendorf, Oranienburg, Ravensbrück",,,,,,,49.5638,8.7264,52.5170365,13.3888599,52.5715004,13.3809904,52.6047631,13.2952872,52.7529379,13.2457591,53.1944796,13.1478107,,
-3160,B. I.,female,Gyor,1903,Budapest,seamstress,,,"Bécs, Oberlanzensdorf, Auschwitz, Bergen - Belsen",47.687609,17.6346815,,,,,48.2083537,16.3725042,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,
-3362,K. I.,female,Pátrona,1927,Kispest,student,,Monor,"Auschwitz, Bergen - Belsen",36.4723351,-6.1972433,47.3527433,19.4468404,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3362,K. E.,female,Pátrona,1926,Kispest,fancy leather goods maker,,Monor,"Auschwitz, Bergen - Belsen",36.4723351,-6.1972433,47.3527433,19.4468404,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3362,K. K.,female,Pátrona,1922,Kispest,fancy leather goods maker,,Monor,"Auschwitz, Bergen - Belsen",36.4723351,-6.1972433,47.3527433,19.4468404,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3362,K. M.,female,Pátrona,1921,Kispest,fancy leather goods maker,,Monor,"Auschwitz, Bergen - Belsen",36.4723351,-6.1972433,47.3527433,19.4468404,,,50.0336707,19.260079835793633,52.7580569,9.9117992,,,,,,,,,,
-3406,D. E.,male,Budapest,1901,Budapest,watchmaker,,Munkaszolg. volt,"Dachau, Lautlingen, Augsburg",47.48138955,19.14609412691246,,,,,48.2592477,11.4354419,48.2155175,8.9595871,48.3668041,10.8986971,,,,,,,,
-701,K. D.,female,Budapest,1915,Budapest,housewife,Kistarcsa internment camp,,"Auschwitz, St. Gheorgental",47.48138955,19.14609412691246,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-2730,S. E.,male,Wien,1925,Budapest,upholsterer,,,"Sachsenhausen, Henkel, Siemensstadt, Sachsenhausen",48.2083537,16.3725042,,,,,50.1002618,8.6835988,41.6003104,-89.1736991,52.5398082,13.2568934,50.1002618,8.6835988,,,,,,
-3610,M. R.,male,Devecser,1894,Budapest,banker,,,,47.104052,17.4364185,,,,,,,,,,,,,,,,,,
-1007,A. J.,female,Ungvár,1925,Ungvár,student,,,"Auschwitz, Kaufernig",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1007,A. E.,female,Ungvár,1927,Ungvár,housewife,,,"Auschwitz, Kaufernig",48.4078102,21.6517637,,,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-2532,W. F.,female,,1918,Munkács,seamstress,,Munkács,"Auschwitz, Münldorf, Feldapfing",,,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,,,,,,,,,,
-1173,W. V.,male,Budapest,1902,Budapest,loop maker,,,"Mauthausen, Gunskirchen",47.48138955,19.14609412691246,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,,,
-1615,H. S.,female,Várpalánka,1929,Várpalánka,student,,Munkács,"Auschwitz, Unterlüsst, Bergen - Belsen",,,48.4421119,22.7185408,,,50.0336707,19.260079835793633,,,52.7580569,9.9117992,,,,,,,,
-305,B. L.,male,Budapest,1915,,silk-stockings maker,munkaszolgálatos,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-305,L. Z.,male,Berekövesd,1919,,tailor,munkaszolgálatos,,,,,,,,,,,,,,,,,,,,,,
-1365,H. S.,male,Újpest,1904,Budapest,shoemaker,,,Bergen - Belsen,47.5586466,19.0797073,,,,,52.7580569,9.9117992,,,,,,,,,,,,
-1359,W. R.,female,Csepe,1927,Csepe,housewife,,Nagysz?ll?s,"Auschwitz, Hunsfeld, Grossrosen, Mauthausen",48.071529,23.018248,,,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,48.2404063,14.5162667,,,,,,
-1359,W. M.,female,Csepe,1925,Csepe,corset-maker,,Nagysz?ll?s,"Auschwitz, Hunsfeld, Grossrosen, Mauthausen",48.071529,23.018248,,,,,50.0336707,19.260079835793633,,,53.6769526,22.2370548,48.2404063,14.5162667,,,,,,
-3598,W. A.,female,Budapest,1909,,owner of a weaving mill,,,,47.48138955,19.14609412691246,,,,,,,,,,,,,,,,,,
-2123,K. P.,male,Nyíregyháza,1910,Debrecen,"resident physician, dentist","Debrecen, 106/12 musz.",,"Dachau, Mühldorf",47.9557802,21.7167982,,,,,48.2592477,11.4354419,48.2405007,12.5250991,,,,,,,,,,
-884,dr. B. K.,female,Pécs,1913,Budapest,physician,,,"Auschwitz, Birkenbau, Sachsenhausen, Schönholz (Berlin - Reinickensdorf), Ravensbrück",46.0765092,18.2280317,,,,,50.0336707,19.260079835793633,,,50.1002618,8.6835988,,,53.1944796,13.1478107,,,,
-1358,K. D.,male,Szentmiklós,1890,Szentmiklós,farmer,,Munkács,"Auschwitz, Buchenwald, Zeitz, Bergen - Belsen",48.5005201,22.84435,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.0491637,12.1349991,52.7580569,9.9117992,,,,,,
-1358,K. M.,male,Szentmiklós,1922,Szentmiklós,sale's clerk,,Munkács,"Auschwitz, Buchenwald, Zeitz, Bergen - Belsen",48.5005201,22.84435,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.0491637,12.1349991,52.7580569,9.9117992,,,,,,
-1358,K. S.,male,Munkács,1890,Szentmiklós,merchant,,Munkács,"Auschwitz, Buchenwald, Zeitz, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,50.7892991,15.2705903,51.0491637,12.1349991,52.7580569,9.9117992,,,,,,
-2137,H. S.,male,Borzsova,1901,Beregszász,shoemaker,,Beregszász,"Auschwitz, Erlenbusch, Flossenburg, Krahwinkel, Buchenwald, Flossenburg",48.076031,21.9314374,48.2050985,22.6453246,,,50.0336707,19.260079835793633,51.0485388,7.300562,49.7329883,12.3498211,50.8523257,7.2921146,50.7892991,15.2705903,49.7329883,12.3498211,,
-1416,K. V.,female,,1927,Ungvár,seamstress,,,"Auschwitz, Hamburg, Edelstett, Bergen - Belsen",,,,,,,50.0336707,19.260079835793633,53.550341,10.000654,,,52.7580569,9.9117992,,,,,,
-1402,M. R.,female,Szolyva,1924,Szolyva,seamstress,,Munkács,"Auschwitz, Ravensbrück",48.5460735,22.9895489,48.4421119,22.7185408,,,50.0336707,19.260079835793633,53.1944796,13.1478107,,,,,,,,,,
-1402,S. A.,female,Szolyva,1922,Beregszász,seamstress,,Munkács,"Auschwitz, Ravensbrück",48.5460735,22.9895489,48.4421119,22.7185408,,,50.0336707,19.260079835793633,53.1944796,13.1478107,,,,,,,,,,
-1199,J. L.,male,Magyarkomját,1913,Magyarkomját,merchant,,Munkaszolg.,"Reinitzdorf, Mauthausen, Gunskirchen",48.2395893,22.9819763,,,,,,,48.2404063,14.5162667,48.1334587,13.9427447,,,,,,,,
-69,B. J.,male,Tiszafehéregyháza,1911,Alsóneresznice,textile worker,,Mátészalka,"Birkenau, Varsó, Mihldorf",,,47.9539113,22.3208477,,,49.5638,8.7264,52.2319581,21.0067249,,,,,,,,,,
-2241,K. M.,male,Tiszaújlak,1912,Budapest,resident physician,,,"Oranienburg, Ohrdruf, Espenfeld, Buchenwald, Flossenburg",48.111071,22.8378912,,,,,52.7529379,13.2457591,50.8270085,10.7319499,50.8097114,10.8957361,50.7892991,15.2705903,49.7329883,12.3498211,,,,
-82,S. R.,female,Szerednye,1930,Szerednye,student,Ungvár,,"Auschwitz, Freudenthal",48.5413858,22.5043823,,,,,50.0336707,19.260079835793633,49.9885113,17.4652901,,,,,,,,,,
-82,S. J.,female,Szerednye,1925,Szerednye,student,Ungvár,,"Auschwitz, Freudenthal",48.5413858,22.5043823,,,,,50.0336707,19.260079835793633,49.9885113,17.4652901,,,,,,,,,,
-82,S. H.,female,Szerednye,1924,Szerednye,seamstress,Ungvár,,"Auschwitz, Freudenthal",48.5413858,22.5043823,,,,,50.0336707,19.260079835793633,49.9885113,17.4652901,,,,,,,,,,
-1774,G. S.,female,Bilke,1925,Bilke,seamstress,,Beregszász,"Auschwitz, Krakkó, Bunzlau, Grünberg, Bergen - Belsen",47.4741402,9.6529019,48.2050985,22.6453246,,,50.0336707,19.260079835793633,50.0469432,19.997153435836697,51.2630333,15.5651049,50.5913238,8.9603407,52.7580569,9.9117992,,,,
-502,A. R.,female,Szászrég,1922,Técso,seamstress,Técsoi gettó,,"Auschwitz, Salzwedel",,,,,,,50.0336707,19.260079835793633,52.8528456,11.1539699,,,,,,,,,,
-2902,S. K.,female,Kassa,1923,Munkács,seamstress,,Munkács,"Auschwitz, Lippstadt",48.7172272,21.2496774,48.4421119,22.7185408,,,50.0336707,19.260079835793633,51.6747074,8.347194,,,,,,,,,,
-728,K. Z.,male,Miskolc,1898,Budapest,travelling salesman,labour service company no. 101/357,,"Buchenwald, Dachau",48.1030643,20.7900429,,,,,50.7892991,15.2705903,48.2592477,11.4354419,,,,,,,,,,
-2043,dr. M. Z.,female,Ungvár,1916,Ungvár,wife of an attorney,,Debrecen,"Auschwitz, Unterlüss, Bergen - Belsen",48.4078102,21.6517637,47.531399,21.6259782,,,50.0336707,19.260079835793633,52.834578,10.297171,52.7580569,9.9117992,,,,,,,,
-2043,B. Z.,female,Munkács,1925,Ungvár,student,,Munkács,"Auschwitz, Unterlüss, Bergen - Belsen",48.4421119,22.7185408,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,52.7580569,9.9117992,,,,,,,,
-2043,dr. M. L.,female,Budapest,1905,Munkács,wife of a physician,,Munkács,"Auschwitz, Unterlüss, Bergen - Belsen",47.48138955,19.14609412691246,48.4421119,22.7185408,,,50.0336707,19.260079835793633,52.834578,10.297171,52.7580569,9.9117992,,,,,,,,
-1210,P. Z.,female,Érsekújvár,1916,Budapest,housewife,,,"Auschwitz, Birkenau, Hohenelbe",47.9861843,18.1631415,,,,,50.0336707,19.260079835793633,49.5638,8.7264,50.6271452,15.6095779,,,,,,,,
-2719,G. J.,female,Munkács,1926,Munkács,seamstress,,Munkács,"Birkenau, Reichenbach, Porta, Fallersleben, Salzwedel",48.4421119,22.7185408,48.4421119,22.7185408,,,49.5638,8.7264,50.6200076,12.298936,42.5260507,1.8256362,52.4190578,10.7187346,52.8528456,11.1539699,,,,
-2719,G. R.,female,Munkács,1927,Munkács,student,,Munkács,"Birkenau, Reichenbach, Porta, Fallersleben, Salzwedel",48.4421119,22.7185408,48.4421119,22.7185408,,,49.5638,8.7264,50.6200076,12.298936,42.5260507,1.8256362,52.4190578,10.7187346,52.8528456,11.1539699,,,,
-1576,F. R.,male,Budapest,1898,Budapest,chemical engineer,Swedish protection,,"Bruck a./L, Mauthasuen, Günskirchen",47.48138955,19.14609412691246,,,,,50.9841234,7.5398567,,,48.1334587,13.9427447,,,,,,,,
+Place,Latitude,Longitude
+Budapest,47.48138955,19.14609412691246
+Újpest,47.5586466,19.0797073
+Püspökladány,47.3196043,21.1122524
+Beregszász,48.2050985,22.6453246
+Nagysurány,48.0861055,18.1868344
+Pécs,46.0765092,18.2280317
+Voloc,48.7146406,23.1888322
+Paks,46.6229468,18.8589364
+Toronya,48.6626426,23.5823177
+Munkács,48.4421119,22.7185408
+Balassagyarmat,48.0768832,19.2926037
+Középapsa,47.982441,23.90316
+Szentes,46.6524049,20.2566408
+Szatmárnémeti,47.7891763,22.8725598
+Beregrákos,48.467831,22.596352
+Berezova,50.27824,33.729395
+Bakonyszentkirály,47.3639276,17.8826006
+Nagybocskó,47.973549,24.0147396
+Nádaspatak,48.635288,22.696676
+Szerencs,48.1633851,21.2010881
+Zagyvapálfalva,48.0675467,19.7850269
+Fegyvernek,47.2526516,20.5259428
+Csánig,47.4325669,17.0234452
+Técso,48.01163,23.5783799
+Halmi,47.9789957,23.0136502
+Huszt,48.1764917,23.291166
+Ungvár,48.4078102,21.6517637
+Hársfalva,48.557854,23.027519
+Balmazújváros,47.6116279,21.3437378
+Nagykapos,48.5538814,22.0773719
+Ujpest,47.5761686,19.0955082
+Gyula,46.6438656,21.2747575
+Herincse,48.266369,23.42869
+##szárnya,49.5530714,19.7872406
+Nagyberezna,48.88985,22.45812
+Wien,48.2083537,16.3725042
+Aknaszlatina,47.9470202,23.8747013
+Kishalmágy,46.2703654,22.6183853
+Beregpapfalva,48.443871,22.86907
+Cigánd,48.2572311,21.8904926
+Bögöte,47.0873272,17.0436719
+Badaló,48.1091196,22.6422346
+Oroszvég,48.4493403,22.7201326
+Veszprém,47.0933824,17.9080406
+Kisapsa,48.074451,23.957411
+Mezokövesd,47.8097525,20.5660889
+Mezökaszony,48.253601,22.45598
+Stradna,56.007295,28.3807536
+Hódmezovásárhely,46.4171344,20.3196068
+Lazony,48.6608699,21.8365915
+Rozsnyó,48.6620675,20.5328607
+Nemesmilitics,45.8533938,19.2048515
+Alsószinever,48.492279,23.621639
+Komárom,47.7417349,18.1218256
+Fülek,48.2701641,19.8222938
+Kistoronya,48.4541461,21.6818295
+Csürgo,46.2642514,17.0950874
+Bonyhád,46.2984212,18.532191
+Badalo,48.1091196,22.6422346
+Szeged,46.2546312,20.1486016
+Pestszenterzsébet,47.42553265,19.116992237470154
+Gice,48.5659974,20.2988974
+Rimaszombat,48.3833603,20.0180584
+Nagyvárad,47.0549163,21.9285231
+Tab,46.7356419,18.038393
+Kajászószentpéter,47.3264844,18.7217551
+Máramarossziget,47.9283242,23.8915583
+Majdánka,51.1413048,23.0905262
+Alsóapsa,47.998241,23.835529
+Nagyatád,46.229143,17.3570964
+Mátészalka,47.9539113,22.3208477
+Bustyaháza,48.0486521,23.4862834
+Aknasugatag,47.7813212,23.9394772
+Gánya,48.12767,23.82729
+Kassa,48.7172272,21.2496774
+Naszód,47.2828598,24.4108077
+Alparét,47.1411646,23.6431096
+Makó,46.2150438,20.4751022
+Csepel,47.4217019,19.0662891
+Nagybánya,47.1129095,21.78154780631269
+Felsotold,47.9682201,19.6093229
+Királyháza,47.9869101,18.9700408
+Csarnatö,48.135872,23.18663
+Hidegpatak,49.0119291,20.7693581
+Dunaszerdahely,47.9893751,17.6202595
+Takcsány,49.0039415,22.2336337
+Barcs,45.9605366,17.4634342
+Székesfehérvár,47.1910169,18.410811
+Tótkomlós,46.4115096,20.7366044
+Poszony,47.1960408,16.3735434
+Kökényes,48.071709,23.738371
+Dolha,48.8360089,21.9807673
+Sirok,47.9308649,20.1957821
+Kovácsrét,48.1428934,19.5978418
+Pocsaj,47.2821487,21.8048015
+Szeklence,48.117165,23.382006
+Ipolyság,48.0693466,18.9482971
+Gesztely,48.1027448,20.9648967
+Técs?,-20.9132894,55.49227784559751
+Nagytapolcsány,48.5594345,18.1754394
+Gyetva,48.5595662,19.4205586
+Királyhelmec,48.4223618,21.9804775
+Miskolc,48.1030643,20.7900429
+Szentgál,47.1125816,17.7351064
+Kiskunfélegyháza,46.7113263,19.8502905
+Beregardó,48.2319917,22.6398955
+Zsolna,49.2234674,18.7393139
+Repede,48.47031,22.829929
+Bilke,47.4706993,9.6542439
+Tarpa,48.1031244,22.5290514
+Magyarkomját,48.2395893,22.9819763
+Szobránc,48.7446501,22.1806628
+Tárkány,47.5900913,18.0017805
+Bártfa,49.2926871,21.2756031
+Botfalva,48.5816499,22.2009687
+Alsódomonya,48.6354744,22.3257721
+Porostov,48.6971571,22.1764655
+Remetevasgyár,48.85,22.1833333
+Érsekújvár,47.9861843,18.1631415
+Perecseny,48.73707,22.48764
+Tiszadada,48.030817,21.2366013
+Mezocsát,47.8175357,20.903168
+Tiszaújlak,48.111071,22.8378912
+Alsóverecke,48.770844,23.096771
+Tiszasárvár,48.097462,22.951811
+Körösmezo,48.2722802,24.3611884
+Kótaj,48.0478876,21.709878
+Majdan,50.45024305,30.524061141975686
+Dombó,48.17917,23.88599
+Ilosva,48.31924,23.0417599
+Munkács-Váralja,48.4346327,22.6753352
+Sala,59.966667,16.6
+Dunaharaszti,47.359976,19.0953357
+Ignéc,48.485054,22.514978
+Németporuba,49.0551889,19.6489264
+Nagyecsed,47.862171,22.3843037
+Bártháza,43.7877987,-0.6436068
+Gyöngyös,47.7799838,19.9291176
+Gamás,46.6202379,17.7625713
+Pásztó,47.9210634,19.6997727
+Szászrégen,46.7796886,24.7000238
+Marosvásárhely,46.5446253,24.561196
+Polena,48.624252,22.967024
+Román##,48.836297599999995,1.047626206618487
+Kovászó,47.8495761,20.3142627
+Alsószinevér,48.492279,23.621639
+Petrova,47.8370327,24.2025295
+Felsovisó,47.7099597,24.4311547
+Fényeslitke,48.2709162,22.0990803
+Eger,47.8989887,20.3743665
+Hatvan,47.6683971,19.6743874
+Rábabogyoszló,47.2933431,16.9351401
+Ilonca,44.0316773,7.1007597
+Keselymezo,48.23822,23.33256
+Dévaványa,47.0313464,20.9620971
+Nagykároly,47.6829338,22.4695102
+Nagyléta,47.3809374,21.8889974
+Beregkövesd,48.280163,22.946646
+Tapolca,46.8820972,17.4389619
+Érsekujvár,47.9861843,18.1631415
+Békéscsaba,46.6798003,21.0985425
+Kalini,51.4819444,20.6308333
+Nyírbátor,47.839511,22.1322309
+Budafok,47.4275301,19.0260778
+Dömsöd,47.094771,19.0070461
+Pestújhely,47.5367192,19.1266683
+Budapesten,47.5078278,19.2447165
+Nyíradony,47.6913589,21.9053502
+Nyírparasznya,48.0253196,22.2691388
+Ternova,50.184914,36.675739
+Mihályka,48.0528961,20.7660346
+Bánhida,46.7772861,21.1382599
+Dunaföldvár,46.810432,18.9222921
+Berettó,48.6458964,21.8360285
+Turz,48.9458547,18.8467198
+Dombóvár,46.3778989,18.1332865
+Vadászfalva,48.8091398,22.3254283
+Ketergény,48.579811,22.275244
+Salgótarján,48.0960676,19.8005642
+Enying,46.9269341,18.2449727
+Jánosháza,47.1198765,17.1642699
+Kis Kirva,47.606785,18.705413
+Raho,26.8606816,95.5157141
+Borsa,47.6554079,24.6639308
+Bécs,48.2083537,16.3725042
+Csap,48.4313665,22.2063694
+Nagykálló,47.874296,21.8434965
+Szenteske,48.6838757,22.1408289
+Rábaszentandrás,47.4596934,17.3281155
+Szelevény,46.8034945,20.1973333
+Érsekkéty,47.9666638,18.5667902
+Felsoverecke,48.745312,23.1451
+Felsoremete,48.266132,22.8584
+Nagyszöllös,46.2429112,24.6925936
+Csornok,48.1534962,18.2251815
+Komjáti,48.5457027,20.7607737
+Gyor,47.687609,17.6346815
+Alsódomboru,46.3155014,16.8112732
+Szajkofalva,48.354259,23.110769
+Arad,46.1753793,21.3196342
+Uglya,48.15136,23.625759
+Perecsény,48.73707,22.48764
+Óbecse,45.6153745,20.0490085
+Kántorjánosi,47.9359448,22.1489345
+Igló,48.9435344,20.562964
+Gödöllo,47.601529,19.3476981
+Rákospalota,47.5634365,19.1365016
+Pátrona,36.4723351,-6.1972433
+Devecser,47.104052,17.4364185
+Csepe,48.071529,23.018248
+Nyíregyháza,47.9557802,21.7167982
+Szentmiklós,48.5005201,22.84435
+Borzsova,48.076031,21.9314374
+Szolyva,48.5460735,22.9895489
+Szerednye,48.5413858,22.5043823
+Budakalász,47.6192785,19.0468565
+Iza,42.8854464,-1.7752123026239124
+Sátoraljaujhely,48.3960978,21.6561497
+Munkaszolgálatos,47.3877742,16.5548944
+Sátoraljaújhely,48.3960978,21.6561497
+Diósgyor,48.0974664,20.6958121
+ Tapolca,46.8820972,17.4389619
+ Tornalja,48.4221599,20.3232507
+Csillaghegy,47.5861629,19.0507049
+T?cs,59.9604218,30.28045
+ téglagyár,47.5234201,21.5818761
+Rákosszentmihály,47.5272414,19.1703355
+Békásmegyer,47.5994131,19.054996
+Nagyszollos,46.2429112,24.6925936
+Koszeg,47.3894949,16.5406843
+Léva,48.2163194,18.6000869
+Galánta,48.1910498,17.7270629
+Irsava,48.31924,23.0417599
+ Munkács,48.4421119,22.7185408
+Varsó,52.2319581,21.0067249
+Kistécso,48.0030497,23.5808046
+Mór,47.3720267,18.2090388
+BEregszász,48.2050985,22.6453246
+ Dohánygyár,45.929070100000004,20.05497294171996
+Kispest,47.4484411,19.1465176
+Monor,47.3527433,19.4468404
+Debrecen,47.531399,21.6259782
+Sachsenhausen,50.1002618,8.6835988
+ Germendorf,52.746171849999996,13.167708793066906
+ Siemensstadt,52.5398082,13.2568934
+ Sachsenhausen,50.1002618,8.6835988
+ Neubrandenburg,53.5574458,13.2602781
+ Ravensbrück,53.1944796,13.1478107
+ Wöbbelin,53.4000924,11.5017107
+Türkheim,48.0878217,7.278011
+ Kaufering,48.0871324,10.8605317
+ Allach,48.1959936,11.4570128
+Auschwitz,50.0336707,19.260079835793633
+ Mauthausen,48.2404063,14.5162667
+ Melk,48.2272068,15.3369992
+ Ebensee,47.8122366,13.7741666
+ Wolfsberg,46.8390583,14.8452061
+ Tannhausen,48.9799525,10.3579584
+ Schotterwerk,47.53481345,12.565869864072921
+Dachau,48.2592477,11.4354419
+ Spandau,52.535788,13.1977924
+ Görlitz,51.1563185,14.991018
+ Mühldorf,48.2405007,12.5250991
+Fertőrákos,47.7161504,16.6527782
+ Günskirchen,48.1334587,13.9427447
+ Bergen,60.3943055,5.3259192
+ Buchenwald,50.7892991,15.2705903
+ Theresienstadt,50.510716,14.149717
+ Hertine,50.6033667,13.9085426
+Bergen - Belsen,52.7580569,9.9117992
+ Ragu,44.5980083,25.4010627
+ Retzow,52.6250923,12.6827945
+ Stutthof,54.330086,19.177209
+ Thorn,53.0102721,18.6048094
+ Olec,48.6620214,-3.6923803
+Birkenau,49.5638,8.7264
+Bruck a./L,50.9841234,7.5398567
+ Bergen Belsen,52.7580569,9.9117992
+ Monowitz,50.0331874,19.3000429
+ Helmbrechts,50.2349797,11.7163126
+ Bergen - Belsen,52.7580569,9.9117992
+Flossenburg,49.7329883,12.3498211
+ Hersbruck,49.5085843,11.4285065
+ Dachau,48.2592477,11.4354419
+Engerau,48.1241126,17.0894674
+ Flossenburg,49.7329883,12.3498211
+ Leonberg,48.8012983,9.0150026
+ Braunschweig,52.2646577,10.5236066
+ Oranienburg,52.7529379,13.2457591
+ Glau,52.240396,13.1672203
+Oranienburg,52.7529379,13.2457591
+Wappendorf,53.7300744,20.9461384
+ Buna,43.2512561,17.8689728
+ Hamburg,53.550341,10.000654
+ Sankt Posten,59.728387,10.246849
+ Strasshof,48.3189487,16.6429437
+ Frankfurt am Main,50.1106444,8.6820917
+ Geislingen,48.2886289,8.8135495
+ Barth,54.3690547,12.7258585
+ Lippstadt,51.6747074,8.347194
+Mauthausen,48.2404063,14.5162667
+ Gunskirchen,48.1334587,13.9427447
+ Weisswasser,50.5014795,14.8041263
+ Horneburg,53.508793,9.577211
+ Krasnow,52.0769444,20.1772222
+ Hildesheim,52.1521636,9.9513046
+ Ahlem,52.3850135,9.6653858
+ Freudenthal,49.9885113,17.4652901
+ Birkenau,49.5638,8.7264
+ München,48.1371079,11.5753822
+Lanzberg,47.7223728,13.1630087
+ Türkheim,48.0878217,7.278011
+ Mildorf,43.162984,-77.554351
+ Regensburg,49.0195333,12.0974869
+ Muttering,47.9674717,12.8495857
+ Ohrdruf,50.8270085,10.7319499
+ Karwinkel,49.7851494,9.8826663
+ Grossrosen,53.6769526,22.2370548
+ Argenau,52.894429,18.4066817
+ Thorne,45.7457775,-76.426058501174
+ Krone,46.8756268,10.2319967
+ Dora (Nordhausen),51.534538749999996,10.75068108791962
+ Harzung,53.4379858,12.9370816
+ Auschwitz,50.0336707,19.260079835793633
+ Neustadt,47.6565584,23.5719843
+ Gléve,6.3420154,1.4920079
+ Unterlüss,52.834578,10.297171
+Buchenwald,50.7892991,15.2705903
+ Schönebeck,52.0205998,11.7383277
+ Mersen,48.983824049999996,6.028506381186524
+ Leibisch,49.0060132,8.4091281
+ Bochum,51.4818111,7.2196635
+Kőszeg,47.3894949,16.5406843
+Auschwitz - Birkenau,50.0346203,19.1807846
+ Rechnitz,47.3049404,16.4408807
+ Landsberg,48.0514973,10.8737728
+ Berga am Elster,50.7524427,12.163341109608908
+ Seefeld,47.3289241,11.1867187
+ Lenzing,47.9733296,13.6049039
+ Malchow,53.4775641,12.4245172
+ Taucha,51.39240555,12.512871046584781
+ Gleiwitz,50.30113145,18.662347227971978
+ Langerstein,49.9970712,11.1811321
+ Magdeburg,52.1315889,11.6399609
+ május,47.5411734,19.1229543
+ Aschersleben,51.7559549,11.462134
+ Varsó,52.2319581,21.0067249
+ Ragun,6.6579144,3.9903131
+ Theresin,15.5588886,-88.0269352
+ Malhof,50.9746547,2.3178993
+ Bárd,45.5876709,4.012011
+ Altenburg,50.9852411,12.4340988
+ Allendorf,50.2679502,7.9982619
+ Mettenheim,49.7388606,8.3250304
+Szentjózsef,47.3569264,24.7406792
+ Ovrucs,51.3259771,28.8026718
+ Hidegség,47.6251989,16.7413826
+ Harzburg,51.588694,10.757222
+ Farsleben,52.277292349999996,11.6531149647817
+Ravensbrück,53.1944796,13.1478107
+ Pennig,47.88084015,11.460463502752074
+ Guben,51.9503235,14.7153567
+ Reichenbach,50.6200076,12.298936
+ Porta,42.5260507,1.8256362
+ Salzwedel,52.8528456,11.1539699
+ Neusalz,51.8019595,15.7175608
+ Leipzig,51.3406321,12.3747329
+ Trautenau,50.5608851,15.9130498
+ Pforta,51.1423277,11.7517859
+ Fallersleben,52.4190578,10.7187346
+ Janina,50.4996818,20.838032
+ Landeshut,50.78468925,16.022363067768467
+ St. Posten,37.1576753,-92.947157
+ Mehlhof,49.0438949,10.0320805
+ Toucha,45.0313703,7.0996041
+ Nussberg,53.974488,22.1635477
+ Schörzingen,48.1793267,8.7462709
+Bucsu,47.2620973,16.4957437
+ Gusen I.,48.2581303,14.46266
+ St.Pölten,48.193315,15.619871498286466
+ Branau,50.0128746,13.8429121
+ Riga,56.9493977,24.1051846
+Schattendorf,47.7118197,16.5106398
+Sopronbánfalva,47.6779116,16.5491606
+ Nürnberg,49.453872,11.077298
+Lichtenwörth,47.8165568,16.3159892987547
+Lansberg,58.9064344,11.7620611
+ Buchberg,47.5726201,8.56076
+ Gelsen,48.2133425,14.1077845
+ Oberwüstegiersdorf,50.6679766,16.3755892
+ Wüstegiersdorf,50.6862202,16.3730583
+ Plassow,54.42729,17.0725198
+ Marktleben,52.5704677,13.4100813
+ Tröbitz,51.5960871,13.430963
+Sopron,47.6803063,16.5983457
+ Siegendorf,47.7803088,16.5414018
+ Kurszk,51.7309249,36.1923123
+Kursk,69.6,37.566667
+ Plőn,54.24611515,10.413274327272728
+Neuengamme,53.4379045,10.2260934
+Sachsendorf,51.8766592,11.879669870961866
+ Posta,42.5235514,13.0960137
+ Westfalica,58.8364277,57.5555018
+ Mehltauer,50.0938116,11.52353
+ Balf,47.6457018,16.6659604
+Donnerskirchen,47.89791865,16.6378107624949
+ Sopron,47.6803063,16.5983457
+ Győr,47.687609,17.6346815
+ Schandorf,47.2428207,16.4212819
+ Torn,53.0145361,18.596583144651557
+ Breslau,51.1089776,17.0326689
+ Hundsfeld,50.0633728,9.8717623
+Gleiwitz,50.30113145,18.662347227971978
+Siegendorf,47.7803088,16.5414018
+ Harka,47.6342337,16.602306
+ Sonnenfeld,48.9563545,9.070101
+ Kolditz,51.3506883,12.6765695
+ Zielitz,52.2884504,11.6752462
+ Belsen,41.257175,69.5153625
+ Mahlhof,47.5209123,12.327934
+ Wurzen,51.37138245,12.748182292058097
+ Grünsberg,49.3722231,11.3246134
+ Weiswasser,50.5108665,16.6431521
+ Folkenberg,45.6302387,-122.8716752
+ Schatzlar,50.6585674,15.9080271
+ Sachsenhaus,48.51747895,9.04220864246815
+ Lieberose,51.9865536,14.2996945
+ Krakkó,50.0469432,19.997153435836697
+ Freiburg,47.9960901,7.8494005
+Balf,47.6457018,16.6659604
+ Glogau,51.6636791,16.0935567
+Gmünd,46.9065611,13.5359844
+ Nordhausen,51.5051574,10.7925317
+ Blanckenburg,51.8026268,4.6526304
+ Sonneberg,50.3575412,11.1691714
+ Passau,48.5748229,13.4609744
+ Augsburg,48.3668041,10.8986971
+ Rochlitz,51.0456789,12.7990531
+Bor,56.3598289,44.0542641
+ Niederöderwitz,50.949798,14.7324771
+ Berga,42.1011456,1.8454758
+ Plastau,52.6602968,10.8530845
+ Lubics,46.6179118,17.7606847
+ Friedenswald,38.0738921,-92.7626273
+ Prost,48.3357906,12.590252
+ Horneberg,47.3879698,7.7782972
+ Gelsenberg,48.8120638,14.9626493
+ Sommerda,51.1618258,11.1174874
+ Raguhn,51.708566950000005,12.29782471426285
+ Gelsenkirchen,51.5110321,7.0960124
+ Essen,51.4582235,7.0158171
+ Lorenzkirche,49.4509469,11.0777299
+Hidegség,47.6251989,16.7413826
+ Markkleberg,51.2785751,12.3718819
+ Parschnitz,50.5740424,15.949143
+ Kratzau,50.8171929,14.9687813
+ Holleschau,49.333718,17.5786751
+ Brünn,49.1922443,16.6113382
+ Windau,47.1353453,24.5737118
+Windisch,47.4793472,8.2179918
+ Minihof,48.5589779,12.8956136
+ Offenburg,48.4716556,7.944378
+ Langenstein,48.2512861,14.482099
+ Dora,33.7286935,-87.0904188
+ Duderstadt,51.5123672,10.2610699
+Harka,47.6342337,16.602306
+ Praust,54.2608539,18.6461908
+ Mittenwald,47.4429543,11.2655684
+Kópháza,47.6384056,16.6431637
+ Javozno,50.203439,19.2721559
+ Blechhammer,50.6251017,11.1537574
+ Stuthof,54.1663232,12.1724613
+ Berlin,52.5170365,13.3888599
+ Friedenthal,50.8978795,7.4707379
+ Gusen II.,48.2581303,14.46266
+Kaufering,48.0871324,10.8605317
+ Bunzlau,51.2630333,15.5651049
+ Franfurt am Main,50.0513035,8.5719211
+ Hirschberg,50.8501049,15.653749235408073
+ Infeld,-26.3444409,-60.433744
+Landsberg,48.0514973,10.8737728
+ Bolzenburg,52.4191106,8.278663
+ Göttenburg,-24.6186111,31.4311111
+ Ansbach,49.3028611,10.5722288
+ Fürth,49.4772475,10.9893626
+ Dörnau,46.4353478,15.9548875
+ Glewe,52.7374582,12.3234136
+Heiligenkreuz,48.0560466,16.1292957
+ Poppendorf,54.1315304,12.2875185
+ Wedell,52.9484,14.49651
+ Zwieberge,51.8510754,11.1051205
+ Bromberg,53.12974625,18.029369658534854
+ Oster,43.0487175,-0.0129855
+ Edemissen,52.387466,10.2590575
+ Zwodau,50.192255,12.6250425
+ Rehmsdorf,51.0596768,12.2161979
+ Studhof,47.5918847,8.31823308946117
+ Lichtenwörth,47.8165568,16.3159892987547
+ Mühldorf Waldlager,48.2373807,12.4304318
+ Briesen,48.8053349,19.6409612
+ Bisingen,48.3120203,8.9163672
+ Regensdorf,47.4317645,8.4680435
+ Zeitz,51.0491637,12.1349991
+Bruck,49.2498509,12.3084509
+ Vedel,43.9556019,0.8998927
+Tallós,42.7158769,-8.7030569
+ Dresden,51.0493286,13.7381437
+ Barthe,43.2833116,0.4695406
+ Ludwigslust,53.3300229,11.4993644
+ Schönholz,52.5715004,13.3809904
+St.Martin,18.0814066,-63.0467131
+ Leonburg,46.58460135,11.163285401353441
+ Lublin,51.250559,22.5701022
+ Mathausen,41.54598435,2.2172218248241204
+ Waldenburg,48.7503918,7.1965445
+ Gelenau,51.2548986,14.0713547
+ Markleberg,51.2785751,12.3718819
+ Radebeul,51.0999765,13.6767995
+Fürstenstein,48.7190844,13.3309687
+ Peterswaldau,50.7124412,16.581609
+Graz,47.0708678,15.4382786
+ Brenner,47.0073993,11.5066996
+ Vörder,49.9222389,14.1986542
+ Reinickendorf,52.6047631,13.2952872
+ Lautlingen,48.2155175,8.9595871
+ Henkel,41.6003104,-89.1736991
+ Erlenbusch,51.0485388,7.300562
+ Krahwinkel,50.8523257,7.2921146
+ Espenfeld,50.8097114,10.8957361
+ Grünberg,50.5913238,8.9603407
+ Hohenelbe,50.6271452,15.6095779
