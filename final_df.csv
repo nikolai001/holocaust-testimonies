@@ -1,0 +1,539 @@
+Place,place_of_birth,ghetto,camps,Latitude,Longitude,total_freq,place_type
+Budapest,133.0,7.0,0.0,47.48138955,19.14609412691246,140.0,place_of_birth
+Munkács,41.0,93.0,0.0,48.4421119,22.7185408,134.0,ghetto
+Huszt,26.0,18.0,0.0,48.1764917,23.291166,44.0,place_of_birth
+Ungvár,17.0,36.0,0.0,48.4078102,21.6517637,53.0,ghetto
+Beregszász,15.0,19.0,0.0,48.2050985,22.6453246,34.0,ghetto
+Balassagyarmat,9.0,10.0,0.0,48.0768832,19.2926037,19.0,ghetto
+Alsóapsa,9.0,0.0,0.0,47.998241,23.835529,9.0,place_of_birth
+Nagyvárad,8.0,3.0,0.0,47.0549163,21.9285231,11.0,place_of_birth
+Kassa,6.0,5.0,0.0,48.7172272,21.2496774,11.0,place_of_birth
+Miskolc,5.0,1.0,0.0,48.1030643,20.7900429,6.0,place_of_birth
+Nagybocskó,5.0,0.0,0.0,47.973549,24.0147396,5.0,place_of_birth
+Újpest,5.0,1.0,0.0,47.5586466,19.0797073,6.0,place_of_birth
+Pátrona,4.0,0.0,0.0,36.4723351,-6.1972433,4.0,place_of_birth
+Pécs,4.0,0.0,0.0,46.0765092,18.2280317,4.0,place_of_birth
+Técso,4.0,1.0,0.0,48.01163,23.5783799,5.0,place_of_birth
+Aknaszlatina,4.0,19.0,0.0,47.9470202,23.8747013,23.0,ghetto
+Dombó,4.0,0.0,0.0,48.17917,23.88599,4.0,place_of_birth
+Máramarossziget,3.0,0.0,0.0,47.9283242,23.8915583,3.0,place_of_birth
+Középapsa,3.0,0.0,0.0,47.982441,23.90316,3.0,place_of_birth
+Zsolna,3.0,0.0,0.0,49.2234674,18.7393139,3.0,place_of_birth
+Perecseny,3.0,0.0,0.0,48.73707,22.48764,3.0,place_of_birth
+Csornok,3.0,0.0,0.0,48.1534962,18.2251815,3.0,place_of_birth
+Oroszvég,3.0,0.0,0.0,48.4493403,22.7201326,3.0,place_of_birth
+Bilke,3.0,0.0,0.0,47.4741402,9.6529019,3.0,place_of_birth
+Szerednye,3.0,0.0,0.0,48.5413858,22.5043823,3.0,place_of_birth
+Szatmárnémeti,3.0,2.0,0.0,47.7891763,22.8725598,5.0,place_of_birth
+Tárkány,3.0,0.0,0.0,47.5900913,18.0017805,3.0,place_of_birth
+Felsovisó,3.0,3.0,0.0,47.7099597,24.4311547,6.0,place_of_birth
+Békéscsaba,2.0,1.0,0.0,46.6798003,21.0985425,3.0,place_of_birth
+Gyula,2.0,0.0,0.0,46.6438656,21.2747575,2.0,place_of_birth
+Érsekujvár,2.0,2.0,0.0,47.9861843,18.1631415,4.0,place_of_birth
+Alsószinever,2.0,0.0,0.0,48.492279,23.621639,2.0,place_of_birth
+Szentmiklós,2.0,0.0,0.0,48.5005201,22.84435,2.0,place_of_birth
+Szolyva,2.0,0.0,0.0,48.5460735,22.9895489,2.0,place_of_birth
+Kajászószentpéter,2.0,0.0,0.0,47.3264844,18.7217551,2.0,place_of_birth
+Körösmező,2.0,0.0,0.0,48.2722802,24.3611884,2.0,place_of_birth
+Nagykároly,2.0,0.0,0.0,47.6829338,22.4695102,2.0,place_of_birth
+Alsóverecke,2.0,0.0,0.0,48.770844,23.096771,2.0,place_of_birth
+Wien,2.0,0.0,0.0,48.2083537,16.3725042,2.0,place_of_birth
+Pestszenterzsébet,2.0,2.0,0.0,47.42553265,19.116992237470157,4.0,place_of_birth
+Szeged,2.0,2.0,0.0,46.2546312,20.1486016,4.0,place_of_birth
+Érsekújvár,2.0,1.0,0.0,47.9861843,18.1631415,3.0,place_of_birth
+Székesfehérvár,2.0,2.0,0.0,47.1910169,18.410811,4.0,place_of_birth
+Herincse,2.0,0.0,0.0,48.266369,23.42869,2.0,place_of_birth
+Komjáti,2.0,0.0,0.0,48.5457027,20.7607737,2.0,place_of_birth
+Gyor,2.0,0.0,0.0,47.687609,17.6346815,2.0,place_of_birth
+Magyarkomját,2.0,0.0,0.0,48.2395893,22.9819763,2.0,place_of_birth
+Bustyaháza,2.0,0.0,0.0,48.0486521,23.4862834,2.0,place_of_birth
+Majdan,2.0,0.0,0.0,50.45024305,30.52406114197569,2.0,place_of_birth
+Nagyberezna,2.0,0.0,0.0,48.88985,22.45812,2.0,place_of_birth
+Jánosháza,2.0,0.0,0.0,47.1198765,17.1642699,2.0,place_of_birth
+Szerencs,2.0,0.0,0.0,48.1633851,21.2010881,2.0,place_of_birth
+Tiszaújlak,2.0,0.0,0.0,48.111071,22.8378912,2.0,place_of_birth
+Szobránc,2.0,0.0,0.0,48.7446501,22.1806628,2.0,place_of_birth
+Gánya,2.0,0.0,0.0,48.12767,23.82729,2.0,place_of_birth
+Csepe,2.0,0.0,0.0,48.071529,23.018248,2.0,place_of_birth
+Polena,2.0,0.0,0.0,48.624252,22.967024,2.0,place_of_birth
+Királyhelmec,2.0,0.0,0.0,48.4223618,21.9804775,2.0,place_of_birth
+Németporuba,2.0,0.0,0.0,49.0551889,19.6489264,2.0,place_of_birth
+Ilosva,2.0,0.0,0.0,48.31924,23.0417599,2.0,place_of_birth
+Szeklence,2.0,1.0,0.0,48.117165,23.382006,3.0,place_of_birth
+Kökényes,2.0,0.0,0.0,48.071709,23.738371,2.0,place_of_birth
+Hársfalva,2.0,0.0,0.0,48.557854,23.027519,2.0,place_of_birth
+Beregrákos,1.0,0.0,0.0,48.467831,22.596352,1.0,place_of_birth
+Dunaharaszti,1.0,0.0,0.0,47.359976,19.0953357,1.0,place_of_birth
+Hódmezovásárhely,1.0,0.0,0.0,46.4171344,20.3196068,1.0,place_of_birth
+Enying,1.0,0.0,0.0,46.9269341,18.2449727,1.0,place_of_birth
+Kisapsa,1.0,0.0,0.0,48.074451,23.957411,1.0,place_of_birth
+Botfalva,1.0,0.0,0.0,48.5816499,22.2009687,1.0,place_of_birth
+Szelevény,1.0,0.0,0.0,46.8034945,20.1973333,1.0,place_of_birth
+Nemesmilitics,1.0,0.0,0.0,45.8533938,19.2048515,1.0,place_of_birth
+Felsőszopor,1.0,0.0,0.0,47.4335685,22.765492,1.0,place_of_birth
+Fülek,1.0,0.0,0.0,48.2701641,19.8222938,1.0,place_of_birth
+Pocsaj,1.0,0.0,0.0,47.2821487,21.8048015,1.0,place_of_birth
+Dömsöd,1.0,0.0,0.0,47.094771,19.0070461,1.0,place_of_birth
+Gödöllo,1.0,0.0,0.0,47.601529,19.3476981,1.0,place_of_birth
+Mátészalka,1.0,7.0,0.0,47.9539113,22.3208477,8.0,ghetto
+Pestszentlőrinc,1.0,0.0,0.0,47.4553681,19.1810669,1.0,place_of_birth
+Rozsnyó,1.0,0.0,0.0,48.6620675,20.5328607,1.0,place_of_birth
+Alsószinevér,1.0,0.0,0.0,48.492279,23.621639,1.0,place_of_birth
+Gyöngyös,1.0,0.0,0.0,47.7799838,19.9291176,1.0,place_of_birth
+Halmi,1.0,0.0,0.0,47.9789957,23.0136502,1.0,place_of_birth
+Komárom,1.0,0.0,0.0,47.7417349,18.1218256,1.0,place_of_birth
+Dolha,1.0,0.0,0.0,48.8360089,21.9807673,1.0,place_of_birth
+Tapolca,1.0,1.0,0.0,46.8820972,17.4389619,2.0,place_of_birth
+Zagyvapálfalva,1.0,0.0,0.0,48.0675467,19.7850269,1.0,place_of_birth
+Poszony,1.0,0.0,0.0,47.1960408,16.3735434,1.0,place_of_birth
+Szentgál,1.0,0.0,0.0,47.1125816,17.7351064,1.0,place_of_birth
+Gesztely,1.0,0.0,0.0,48.1027448,20.9648967,1.0,place_of_birth
+Sirok,1.0,0.0,0.0,47.9308649,20.1957821,1.0,place_of_birth
+Püspökladány,1.0,0.0,0.0,47.3196043,21.1122524,1.0,place_of_birth
+Bártháza,1.0,0.0,0.0,43.7877987,-0.6436068,1.0,place_of_birth
+Lazony,1.0,0.0,0.0,48.6608699,21.8365915,1.0,place_of_birth
+Devecser,1.0,0.0,0.0,47.104052,17.4364185,1.0,place_of_birth
+Bögöte,1.0,0.0,0.0,47.0873272,17.0436719,1.0,place_of_birth
+Igló,1.0,0.0,0.0,48.9435344,20.562964,1.0,place_of_birth
+Érsekkéty,1.0,0.0,0.0,47.9666638,18.5667902,1.0,place_of_birth
+Gyetva,1.0,0.0,0.0,48.5595662,19.4205586,1.0,place_of_birth
+Pestújhely,1.0,0.0,0.0,47.5367192,19.1266683,1.0,place_of_birth
+Mezocsát,1.0,1.0,0.0,47.8175357,20.903168,2.0,place_of_birth
+Mezőkövesd,1.0,1.0,0.0,47.8097525,20.5660889,2.0,place_of_birth
+Ujpest,1.0,1.0,0.0,47.5761686,19.0955082,2.0,place_of_birth
+Nagyecsed,1.0,0.0,0.0,47.862171,22.3843037,1.0,place_of_birth
+Voloc,1.0,0.0,0.0,48.7146406,23.1888322,1.0,place_of_birth
+Román##,1.0,0.0,0.0,48.8362976,1.047626206618487,1.0,place_of_birth
+Ternova,1.0,0.0,0.0,50.184914,36.675739,1.0,place_of_birth
+Gamás,1.0,0.0,0.0,46.6202379,17.7625713,1.0,place_of_birth
+Barcs,1.0,0.0,0.0,45.9605366,17.4634342,1.0,place_of_birth
+Nyíradony,1.0,0.0,0.0,47.6913589,21.9053502,1.0,place_of_birth
+Arad,1.0,0.0,0.0,46.1753793,21.3196342,1.0,place_of_birth
+Takcsány,1.0,0.0,0.0,49.0039415,22.2336337,1.0,place_of_birth
+Nagykálló,1.0,0.0,0.0,47.874296,21.8434965,1.0,place_of_birth
+Kótaj,1.0,0.0,0.0,48.0478876,21.709878,1.0,place_of_birth
+Felsotold,1.0,0.0,0.0,47.9682201,19.6093229,1.0,place_of_birth
+Nagybánya,1.0,0.0,0.0,47.1129095,21.78154780631269,1.0,place_of_birth
+Tab,1.0,1.0,0.0,46.7356419,18.038393,2.0,place_of_birth
+Dombóvár,1.0,0.0,0.0,46.3778989,18.1332865,1.0,place_of_birth
+Csánig,1.0,0.0,0.0,47.4325669,17.0234452,1.0,place_of_birth
+Rábabogyoszló,1.0,0.0,0.0,47.2933431,16.9351401,1.0,place_of_birth
+Nagyatád,1.0,0.0,0.0,46.229143,17.3570964,1.0,place_of_birth
+Szajkofalva,1.0,0.0,0.0,48.354259,23.110769,1.0,place_of_birth
+Fegyvernek,1.0,0.0,0.0,47.2526516,20.5259428,1.0,place_of_birth
+Kiskunfélegyháza,1.0,0.0,0.0,46.7113263,19.8502905,1.0,place_of_birth
+Fényeslitke,1.0,0.0,0.0,48.2709162,22.0990803,1.0,place_of_birth
+Bánhida,1.0,0.0,0.0,46.7772861,21.1382599,1.0,place_of_birth
+Cigánd,1.0,0.0,0.0,48.2572311,21.8904926,1.0,place_of_birth
+Nyíregyháza,1.0,1.0,0.0,47.9557802,21.7167982,2.0,place_of_birth
+Borzsova,1.0,0.0,0.0,48.076031,21.9314374,1.0,place_of_birth
+Bakonyszentkirály,1.0,0.0,0.0,47.3639276,17.8826006,1.0,place_of_birth
+Nagyszőllős,1.0,8.0,0.0,46.2429112,24.6925936,9.0,ghetto
+Bécs,1.0,0.0,2.0,48.2083537,16.3725042,3.0,camps
+Naszód,1.0,0.0,0.0,47.2828598,24.4108077,1.0,place_of_birth
+Alparét,1.0,0.0,0.0,47.1411646,23.6431096,1.0,place_of_birth
+Hatvan,1.0,1.0,0.0,47.6683971,19.6743874,2.0,place_of_birth
+Dunaföldvár,1.0,0.0,0.0,46.810432,18.9222921,1.0,place_of_birth
+Budapesten,1.0,0.0,0.0,47.5078278,19.2447165,1.0,place_of_birth
+Pásztó,1.0,0.0,0.0,47.9210634,19.6997727,1.0,place_of_birth
+Ignéc,1.0,0.0,0.0,48.485054,22.514978,1.0,place_of_birth
+Óbecse,1.0,0.0,0.0,45.6153745,20.0490085,1.0,place_of_birth
+Rákospalota,1.0,0.0,0.0,47.5634365,19.1365016,1.0,place_of_birth
+Keselymezo,1.0,0.0,0.0,48.23822,23.33256,1.0,place_of_birth
+Kistoronya,1.0,0.0,0.0,48.4541461,21.6818295,1.0,place_of_birth
+Bonyhád,1.0,0.0,0.0,46.2984212,18.532191,1.0,place_of_birth
+Veszprém,1.0,1.0,0.0,47.0933824,17.9080406,2.0,place_of_birth
+Kovácsrét,1.0,0.0,0.0,48.1428934,19.5978418,1.0,place_of_birth
+Dunaszerdahely,1.0,0.0,0.0,47.9893751,17.6202595,1.0,place_of_birth
+Nyírparasznya,1.0,0.0,0.0,48.0253196,22.2691388,1.0,place_of_birth
+Tiszadada,1.0,0.0,0.0,48.030817,21.2366013,1.0,place_of_birth
+Beregardó,1.0,0.0,0.0,48.2319917,22.6398955,1.0,place_of_birth
+Toronya,1.0,0.0,0.0,48.6626426,23.5823177,1.0,place_of_birth
+Nagykapos,1.0,0.0,0.0,48.5538814,22.0773719,1.0,place_of_birth
+Borsa,1.0,0.0,0.0,47.6554079,24.6639308,1.0,place_of_birth
+Raho,1.0,0.0,0.0,26.8606816,95.5157141,1.0,place_of_birth
+Rábaszentandrás,1.0,0.0,0.0,47.4596934,17.3281155,1.0,place_of_birth
+Körösmezo,1.0,0.0,0.0,48.2722802,24.3611884,1.0,place_of_birth
+Budafok,1.0,0.0,0.0,47.4275301,19.0260778,1.0,place_of_birth
+Kalini,1.0,0.0,0.0,51.4819444,20.6308333,1.0,place_of_birth
+Bártfa,1.0,0.0,0.0,49.2926871,21.2756031,1.0,place_of_birth
+Nagyléta,1.0,0.0,0.0,47.3809374,21.8889974,1.0,place_of_birth
+Remetevasgyár,1.0,0.0,0.0,48.85,22.1833333,1.0,place_of_birth
+Dévaványa,1.0,1.0,0.0,47.0313464,20.9620971,2.0,place_of_birth
+Nagysurány,1.0,5.0,0.0,48.0861055,18.1868344,6.0,ghetto
+Badalo,1.0,0.0,0.0,48.1091196,22.6422346,1.0,place_of_birth
+Turz,1.0,0.0,0.0,48.9458547,18.8467198,1.0,place_of_birth
+Berettó,1.0,0.0,0.0,48.6458964,21.8360285,1.0,place_of_birth
+Nagyszöllös,1.0,0.0,0.0,46.2429112,24.6925936,1.0,place_of_birth
+Beregpapfalva,1.0,0.0,0.0,48.443871,22.86907,1.0,place_of_birth
+Perecsény,1.0,0.0,0.0,48.73707,22.48764,1.0,place_of_birth
+Felsoremete,1.0,0.0,0.0,48.266132,22.8584,1.0,place_of_birth
+Beregkövesd,1.0,0.0,0.0,48.280163,22.946646,1.0,place_of_birth
+Ilonca,1.0,0.0,0.0,44.0316773,7.1007597,1.0,place_of_birth
+Aknasugatag,1.0,0.0,0.0,47.7813212,23.9394772,1.0,place_of_birth
+Munkács-Váralja,1.0,0.0,0.0,48.4346327,22.6753352,1.0,place_of_birth
+Stradna,1.0,0.0,0.0,56.007295,28.3807536,1.0,place_of_birth
+Mezokövesd,1.0,0.0,0.0,47.8097525,20.5660889,1.0,place_of_birth
+Felsoverecke,1.0,0.0,0.0,48.745312,23.1451,1.0,place_of_birth
+Kishalmágy,1.0,0.0,0.0,46.2703654,22.6183853,1.0,place_of_birth
+Tótkomlós,1.0,0.0,0.0,46.4115096,20.7366044,1.0,place_of_birth
+Sala,1.0,0.0,0.0,59.966667,16.6,1.0,place_of_birth
+Paks,1.0,0.0,0.0,46.6229468,18.8589364,1.0,place_of_birth
+felsőveresmart,1.0,0.0,0.0,48.192505,23.121567,1.0,place_of_birth
+Kántorjánosi,1.0,0.0,0.0,47.9359448,22.1489345,1.0,place_of_birth
+Ketergény,1.0,0.0,0.0,48.579811,22.275244,1.0,place_of_birth
+Vadászfalva,1.0,0.0,0.0,48.8091398,22.3254283,1.0,place_of_birth
+Kis Kirva,1.0,0.0,0.0,47.606785,18.705413,1.0,place_of_birth
+Csürgo,1.0,0.0,0.0,46.2642514,17.0950874,1.0,place_of_birth
+Szentes,1.0,0.0,0.0,46.6524049,20.2566408,1.0,place_of_birth
+Balmazújváros,1.0,0.0,0.0,47.6116279,21.3437378,1.0,place_of_birth
+Alsódomboru,1.0,0.0,0.0,46.3155014,16.8112732,1.0,place_of_birth
+Csörgő,1.0,0.0,0.0,46.5097638,17.9192607,1.0,place_of_birth
+Szenteske,1.0,0.0,0.0,48.6838757,22.1408289,1.0,place_of_birth
+##szárnya,1.0,0.0,0.0,49.5530714,19.7872406,1.0,place_of_birth
+Mezökaszony,1.0,0.0,0.0,48.253601,22.45598,1.0,place_of_birth
+Tarpa,1.0,0.0,0.0,48.1031244,22.5290514,1.0,place_of_birth
+Repede,1.0,0.0,0.0,48.47031,22.829929,1.0,place_of_birth
+Técső,1.0,8.0,0.0,48.01163,23.5783799,9.0,ghetto
+Királyháza,1.0,0.0,0.0,47.9869101,18.9700408,1.0,place_of_birth
+Csarnatö,1.0,0.0,0.0,48.135872,23.18663,1.0,place_of_birth
+Alsódomonya,1.0,0.0,0.0,48.6354744,22.3257721,1.0,place_of_birth
+Marosvásárhely,1.0,0.0,0.0,46.5446253,24.561196,1.0,place_of_birth
+Szászrégen,1.0,0.0,0.0,46.7796886,24.7000238,1.0,place_of_birth
+Majdánka,1.0,0.0,0.0,51.3997948,22.6869376,1.0,place_of_birth
+Hidegpatak,1.0,0.0,0.0,49.0119291,20.7693581,1.0,place_of_birth
+Tiszasárvár,1.0,0.0,0.0,48.097462,22.951811,1.0,place_of_birth
+Berezova,1.0,0.0,0.0,50.27824,33.729395,1.0,place_of_birth
+Rimaszombat,1.0,0.0,0.0,48.3833603,20.0180584,1.0,place_of_birth
+Gice,1.0,0.0,0.0,48.5659974,20.2988974,1.0,place_of_birth
+Petrova,1.0,0.0,0.0,47.8370327,24.2025295,1.0,place_of_birth
+Csepel,1.0,0.0,0.0,47.4217019,19.0662891,1.0,place_of_birth
+Makó,1.0,0.0,0.0,46.2150438,20.4751022,1.0,place_of_birth
+Ipolyság,1.0,1.0,0.0,48.0693466,18.9482971,2.0,place_of_birth
+Nyírbátor,1.0,0.0,0.0,47.839511,22.1322309,1.0,place_of_birth
+Porostov,1.0,0.0,0.0,48.6971571,22.1764655,1.0,place_of_birth
+Uglya,1.0,0.0,0.0,48.15136,23.625759,1.0,place_of_birth
+Kovászó,1.0,0.0,0.0,47.8495761,20.3142627,1.0,place_of_birth
+Badaló,1.0,0.0,0.0,48.1091196,22.6422346,1.0,place_of_birth
+Salgótarján,1.0,1.0,0.0,48.0960676,19.8005642,2.0,place_of_birth
+Csap,1.0,0.0,0.0,48.4313665,22.2063694,1.0,place_of_birth
+Nádaspatak,1.0,0.0,0.0,48.635288,22.696676,1.0,place_of_birth
+Eger,1.0,0.0,0.0,47.8989887,20.3743665,1.0,place_of_birth
+Mihályka,1.0,0.0,0.0,48.0528961,20.7660346,1.0,place_of_birth
+Nagytapolcsány,1.0,0.0,0.0,48.5594345,18.1754394,1.0,place_of_birth
+Iza,0.0,10.0,0.0,42.8854464,-1.7752123026239124,10.0,ghetto
+Monor,0.0,4.0,0.0,47.3527433,19.4468404,4.0,ghetto
+Sátoraljaújhely,0.0,4.0,0.0,48.3960978,21.6561497,4.0,ghetto
+Budakalász,0.0,4.0,0.0,47.6192785,19.0468565,4.0,ghetto
+Rákosszentmihály,0.0,3.0,0.0,47.5272414,19.1703355,3.0,ghetto
+Diósgyor,0.0,2.0,0.0,48.0974664,20.6958121,2.0,ghetto
+Felsővisó,0.0,2.0,0.0,47.7099597,24.4311547,2.0,ghetto
+Tőcs,0.0,1.0,0.0,48.9170178,6.8478996,1.0,ghetto
+Léva,0.0,1.0,0.0,48.2163194,18.6000869,1.0,ghetto
+Békásmegyer,0.0,1.0,0.0,47.5994131,19.054996,1.0,ghetto
+Csillaghegy,0.0,1.0,0.0,47.5861629,19.0507049,1.0,ghetto
+Irsava,0.0,1.0,0.0,48.31924,23.0417599,1.0,ghetto
+Debrecen,0.0,1.0,0.0,47.531399,21.6259782,1.0,ghetto
+Nagyszollos,0.0,1.0,0.0,46.2429112,24.6925936,1.0,ghetto
+BEregszász,0.0,1.0,0.0,48.2050985,22.6453246,1.0,ghetto
+Varsó,0.0,1.0,6.0,52.2319581,21.0067249,7.0,camps
+Munkaszolgálatos,0.0,1.0,0.0,47.3877742,16.5548944,1.0,ghetto
+Galánta,0.0,1.0,0.0,48.1910498,17.7270629,1.0,ghetto
+Kistécso,0.0,1.0,0.0,48.0030497,23.5808046,1.0,ghetto
+Mór,0.0,1.0,0.0,47.3720267,18.2090388,1.0,ghetto
+Koszeg,0.0,1.0,0.0,47.3894949,16.5406843,1.0,ghetto
+Kispest,0.0,1.0,0.0,47.4484411,19.1465176,1.0,ghetto
+Sátoraljaujhely,0.0,1.0,0.0,48.3960978,21.6561497,1.0,ghetto
+Auschwitz,0.0,0.0,362.0,50.0336707,19.260079835793636,362.0,camps
+Bergen - Belsen,0.0,0.0,122.0,52.7580569,9.9117992,122.0,camps
+Mauthausen,0.0,0.0,94.0,48.2404063,14.5162667,94.0,camps
+Buchenwald,0.0,0.0,61.0,50.7892991,15.2705903,61.0,camps
+Ravensbrück,0.0,0.0,60.0,53.1944796,13.1478107,60.0,camps
+Birkenau,0.0,0.0,49.0,49.5638,8.7264,49.0,camps
+Dachau,0.0,0.0,35.0,48.2592477,11.4354419,35.0,camps
+Sachsenhausen,0.0,0.0,24.0,50.1002618,8.6835988,24.0,camps
+Oranienburg,0.0,0.0,20.0,52.7529379,13.2457591,20.0,camps
+Flossenburg,0.0,0.0,18.0,49.7329883,12.3498211,18.0,camps
+Engerau,0.0,0.0,8.0,48.1241126,17.0894674,8.0,camps
+Kaufering,0.0,0.0,8.0,48.0871324,10.8605317,8.0,camps
+Türkheim,0.0,0.0,6.0,48.0878217,7.278011,6.0,camps
+Harka,0.0,0.0,6.0,47.6342337,16.602306,6.0,camps
+Landsberg,0.0,0.0,6.0,48.0514973,10.8737728,6.0,camps
+Kőszeg,0.0,0.0,6.0,47.3894949,16.5406843,6.0,camps
+Gleiwitz,0.0,0.0,5.0,50.30113145,18.662347227971978,5.0,camps
+Bruck a./L,0.0,0.0,5.0,50.9841234,7.5398567,5.0,camps
+Bor,0.0,0.0,4.0,56.3598289,44.0542641,4.0,camps
+Siegendorf,0.0,0.0,4.0,47.7803088,16.5414018,4.0,camps
+Fertőrákos,0.0,0.0,4.0,47.7161504,16.6527782,4.0,camps
+Sopronbánfalva,0.0,0.0,3.0,47.6779116,16.5491606,3.0,camps
+Schattendorf,0.0,0.0,3.0,47.7118197,16.5106398,3.0,camps
+Lanzberg,0.0,0.0,2.0,47.7223728,13.1630087,2.0,camps
+Donnerskirchen,0.0,0.0,2.0,47.89791865,16.6378107624949,2.0,camps
+Sopron,0.0,0.0,2.0,47.6803063,16.5983457,2.0,camps
+Hidegség,0.0,0.0,2.0,47.6251989,16.7413826,2.0,camps
+Balf,0.0,0.0,2.0,47.6457018,16.6659604,2.0,camps
+Lansberg,0.0,0.0,2.0,58.9064344,11.7620611,2.0,camps
+Lichtenwörth,0.0,0.0,2.0,47.8165568,16.3159892987547,2.0,camps
+Kópháza,0.0,0.0,2.0,47.6384056,16.6431637,2.0,camps
+Kursk,0.0,0.0,1.0,69.6,37.566667,1.0,camps
+Neuengamme,0.0,0.0,1.0,53.4379045,10.2260934,1.0,camps
+Bruck,0.0,0.0,1.0,49.2498509,12.3084509,1.0,camps
+Heiligenkreuz,0.0,0.0,1.0,48.0560466,16.1292957,1.0,camps
+Gmünd,0.0,0.0,1.0,46.9065611,13.5359844,1.0,camps
+Windisch,0.0,0.0,1.0,47.4793472,8.2179918,1.0,camps
+Wappendorf,0.0,0.0,1.0,53.7300744,20.9461384,1.0,camps
+Tallós,0.0,0.0,1.0,42.7158769,-8.7030569,1.0,camps
+Szentjózsef,0.0,0.0,1.0,47.3569264,24.7406792,1.0,camps
+Bucsu,0.0,0.0,1.0,47.2620973,16.4957437,1.0,camps
+St.Martin,0.0,0.0,1.0,18.0814066,-63.0467131,1.0,camps
+Graz,0.0,0.0,1.0,47.0708678,15.4382786,1.0,camps
+Fürstenstein,0.0,0.0,1.0,48.7190844,13.3309687,1.0,camps
+Sachsendorf,0.0,0.0,1.0,51.8766592,11.879669870961866,1.0,camps
+ téglagyár,0.0,0.0,0.0,47.5234201,21.5818761,0.0,place_of_birth
+ Tornalja,0.0,0.0,0.0,48.4221599,20.3232507,0.0,place_of_birth
+ Tapolca,0.0,0.0,0.0,46.8820972,17.4389619,0.0,place_of_birth
+ Munkács,0.0,0.0,0.0,48.4421119,22.7185408,0.0,place_of_birth
+ Dohánygyár,0.0,0.0,0.0,45.9290701,20.05497294171996,0.0,place_of_birth
+ Landsberg,0.0,0.0,0.0,48.0514973,10.8737728,0.0,place_of_birth
+ Kaufering,0.0,0.0,0.0,48.0871324,10.8605317,0.0,place_of_birth
+ Dachau,0.0,0.0,0.0,48.2592477,11.4354419,0.0,place_of_birth
+ Riga,0.0,0.0,0.0,56.9493977,24.1051846,0.0,place_of_birth
+ Magdeburg,0.0,0.0,0.0,52.1315889,11.6399609,0.0,place_of_birth
+ Buchenwald,0.0,0.0,0.0,50.7892991,15.2705903,0.0,place_of_birth
+ Varsó,0.0,0.0,0.0,52.2319581,21.0067249,0.0,place_of_birth
+ Mühldorf,0.0,0.0,0.0,48.2405007,12.5250991,0.0,place_of_birth
+ Mauthausen,0.0,0.0,0.0,48.2404063,14.5162667,0.0,place_of_birth
+ Melk,0.0,0.0,0.0,48.2272068,15.3369992,0.0,place_of_birth
+ Ebensee,0.0,0.0,0.0,47.8122366,13.7741666,0.0,place_of_birth
+ Freudenthal,0.0,0.0,0.0,49.9885113,17.4652901,0.0,place_of_birth
+ Krakkó,0.0,0.0,0.0,50.0469432,19.997153435836697,0.0,place_of_birth
+ Auschwitz,0.0,0.0,0.0,50.0336707,19.260079835793636,0.0,place_of_birth
+ Neustadt,0.0,0.0,0.0,47.6565584,23.5719843,0.0,place_of_birth
+ Grossrosen,0.0,0.0,0.0,53.6769526,22.2370548,0.0,place_of_birth
+ Mathausen,0.0,0.0,0.0,41.54598435,2.2172218248241204,0.0,place_of_birth
+ Bergen - Belsen,0.0,0.0,0.0,52.7580569,9.9117992,0.0,place_of_birth
+ Wolfsberg,0.0,0.0,0.0,46.8390583,14.8452061,0.0,place_of_birth
+ Wüstegiersdorf,0.0,0.0,0.0,50.6862202,16.3730583,0.0,place_of_birth
+ Lublin,0.0,0.0,0.0,51.250559,22.5701022,0.0,place_of_birth
+ Geislingen,0.0,0.0,0.0,48.2886289,8.8135495,0.0,place_of_birth
+ Flossenburg,0.0,0.0,0.0,49.7329883,12.3498211,0.0,place_of_birth
+ Mildorf,0.0,0.0,0.0,43.162984,-77.554351,0.0,place_of_birth
+ Birkenau,0.0,0.0,0.0,49.5638,8.7264,0.0,place_of_birth
+ Hertine,0.0,0.0,0.0,50.6033667,13.9085426,0.0,place_of_birth
+ Theresienstadt,0.0,0.0,0.0,50.510716,14.149717,0.0,place_of_birth
+ Allach,0.0,0.0,0.0,48.1959936,11.4570128,0.0,place_of_birth
+ Barthe,0.0,0.0,0.0,43.2833116,0.4695406,0.0,place_of_birth
+ Lenzing,0.0,0.0,0.0,47.9733296,13.6049039,0.0,place_of_birth
+ Görlitz,0.0,0.0,0.0,51.1563185,14.991018,0.0,place_of_birth
+ Ragu,0.0,0.0,0.0,44.5980083,25.4010627,0.0,place_of_birth
+ Barth,0.0,0.0,0.0,54.3690547,12.7258585,0.0,place_of_birth
+ Leipzig,0.0,0.0,0.0,51.3406321,12.3747329,0.0,place_of_birth
+ Neubrandenburg,0.0,0.0,0.0,53.5574458,13.2602781,0.0,place_of_birth
+ Altenburg,0.0,0.0,0.0,50.9852411,12.4340988,0.0,place_of_birth
+ Hirschberg,0.0,0.0,0.0,50.8501049,15.653749235408071,0.0,place_of_birth
+ Bunzlau,0.0,0.0,0.0,51.2630333,15.5651049,0.0,place_of_birth
+ Dora,0.0,0.0,0.0,33.7286935,-87.0904188,0.0,place_of_birth
+ Mehlhof,0.0,0.0,0.0,49.0438949,10.0320805,0.0,place_of_birth
+ Toucha,0.0,0.0,0.0,45.0313703,7.0996041,0.0,place_of_birth
+ Mittenwald,0.0,0.0,0.0,47.4429543,11.2655684,0.0,place_of_birth
+ Gelsenberg,0.0,0.0,0.0,48.8120638,14.9626493,0.0,place_of_birth
+ Sommerda,0.0,0.0,0.0,51.1618258,11.1174874,0.0,place_of_birth
+ Janina,0.0,0.0,0.0,50.4996818,20.838032,0.0,place_of_birth
+ Monowitz,0.0,0.0,0.0,50.0331874,19.3000429,0.0,place_of_birth
+ Landeshut,0.0,0.0,0.0,50.78468925,16.022363067768467,0.0,place_of_birth
+ Gunskirchen,0.0,0.0,0.0,48.1334587,13.9427447,0.0,place_of_birth
+ Günskirchen,0.0,0.0,0.0,48.1334587,13.9427447,0.0,place_of_birth
+ Plassow,0.0,0.0,0.0,54.42729,17.0725198,0.0,place_of_birth
+ Marktleben,0.0,0.0,0.0,52.5704677,13.4100813,0.0,place_of_birth
+ Markkleberg,0.0,0.0,0.0,51.2785751,12.3718819,0.0,place_of_birth
+ Hamburg,0.0,0.0,0.0,53.550341,10.000654,0.0,place_of_birth
+ Bergen Belsen,0.0,0.0,0.0,52.7580569,9.9117992,0.0,place_of_birth
+ Leonburg,0.0,0.0,0.0,46.58460135,11.16328540135344,0.0,place_of_birth
+ Tannhausen,0.0,0.0,0.0,48.9799525,10.3579584,0.0,place_of_birth
+ Schotterwerk,0.0,0.0,0.0,47.53481345,12.56586986407292,0.0,place_of_birth
+ Ravensbrück,0.0,0.0,0.0,53.1944796,13.1478107,0.0,place_of_birth
+ Bárd,0.0,0.0,0.0,45.5876709,4.012011,0.0,place_of_birth
+ Spandau,0.0,0.0,0.0,52.535788,13.1977924,0.0,place_of_birth
+ Sachsenhausen,0.0,0.0,0.0,50.1002618,8.6835988,0.0,place_of_birth
+ Windau,0.0,0.0,0.0,47.1353453,24.5737118,0.0,place_of_birth
+ Stutthof,0.0,0.0,0.0,54.330086,19.177209,0.0,place_of_birth
+ Infeld,0.0,0.0,0.0,-26.3444409,-60.433744,0.0,place_of_birth
+ Schatzlar,0.0,0.0,0.0,50.6585674,15.9080271,0.0,place_of_birth
+ Weisswasser,0.0,0.0,0.0,50.5014795,14.8041263,0.0,place_of_birth
+ Reichenbach,0.0,0.0,0.0,50.6200076,12.298936,0.0,place_of_birth
+ Porta,0.0,0.0,0.0,42.5260507,1.8256362,0.0,place_of_birth
+ Salzwedel,0.0,0.0,0.0,52.8528456,11.1539699,0.0,place_of_birth
+ Belsen,0.0,0.0,0.0,41.257175,69.5153625,0.0,place_of_birth
+ Malhof,0.0,0.0,0.0,50.9746547,2.3178993,0.0,place_of_birth
+ Gléve,0.0,0.0,0.0,6.3420154,1.4920079,0.0,place_of_birth
+ Hildesheim,0.0,0.0,0.0,52.1521636,9.9513046,0.0,place_of_birth
+ Ahlem,0.0,0.0,0.0,52.3850135,9.6653858,0.0,place_of_birth
+ Unterlüss,0.0,0.0,0.0,52.834578,10.297171,0.0,place_of_birth
+ Berga,0.0,0.0,0.0,42.1011456,1.8454758,0.0,place_of_birth
+ Pennig,0.0,0.0,0.0,47.88084015,11.460463502752074,0.0,place_of_birth
+ Niederöderwitz,0.0,0.0,0.0,50.949798,14.7324771,0.0,place_of_birth
+ Nürnberg,0.0,0.0,0.0,49.453872,11.077298,0.0,place_of_birth
+ Folkenberg,0.0,0.0,0.0,45.6302387,-122.8716752,0.0,place_of_birth
+ Franfurt am Main,0.0,0.0,0.0,50.0513035,8.5719211,0.0,place_of_birth
+ Praust,0.0,0.0,0.0,54.2608539,18.6461908,0.0,place_of_birth
+ Neusalz,0.0,0.0,0.0,51.8019595,15.7175608,0.0,place_of_birth
+ Nordhausen,0.0,0.0,0.0,51.5051574,10.7925317,0.0,place_of_birth
+ Blanckenburg,0.0,0.0,0.0,51.8026268,4.6526304,0.0,place_of_birth
+ Duderstadt,0.0,0.0,0.0,51.5123672,10.2610699,0.0,place_of_birth
+ Sonneberg,0.0,0.0,0.0,50.3575412,11.1691714,0.0,place_of_birth
+ Bromberg,0.0,0.0,0.0,53.12974625,18.02936965853485,0.0,place_of_birth
+ Lichtenwörth,0.0,0.0,0.0,47.8165568,16.3159892987547,0.0,place_of_birth
+ Gusen II.,0.0,0.0,0.0,48.2581303,14.46266,0.0,place_of_birth
+ Retzow,0.0,0.0,0.0,52.6250923,12.6827945,0.0,place_of_birth
+ Gleiwitz,0.0,0.0,0.0,50.30113145,18.662347227971978,0.0,place_of_birth
+ Langerstein,0.0,0.0,0.0,49.9970712,11.1811321,0.0,place_of_birth
+ Bolzenburg,0.0,0.0,0.0,52.4191106,8.278663,0.0,place_of_birth
+ Göttenburg,0.0,0.0,0.0,-24.6186111,31.4311111,0.0,place_of_birth
+ Waldenburg,0.0,0.0,0.0,48.7503918,7.1965445,0.0,place_of_birth
+ Mersen,0.0,0.0,0.0,48.98382405,6.028506381186524,0.0,place_of_birth
+ Leibisch,0.0,0.0,0.0,49.0060132,8.4091281,0.0,place_of_birth
+ Allendorf,0.0,0.0,0.0,50.2679502,7.9982619,0.0,place_of_birth
+ Berlin,0.0,0.0,0.0,52.5170365,13.3888599,0.0,place_of_birth
+ Siemensstadt,0.0,0.0,0.0,52.5398082,13.2568934,0.0,place_of_birth
+ Weiswasser,0.0,0.0,0.0,50.5108665,16.6431521,0.0,place_of_birth
+ Farsleben,0.0,0.0,0.0,52.27729235,11.6531149647817,0.0,place_of_birth
+ Tröbitz,0.0,0.0,0.0,51.5960871,13.430963,0.0,place_of_birth
+ Oranienburg,0.0,0.0,0.0,52.7529379,13.2457591,0.0,place_of_birth
+ Regensburg,0.0,0.0,0.0,49.0195333,12.0974869,0.0,place_of_birth
+ Dora (Nordhausen),0.0,0.0,0.0,51.53453875,10.75068108791962,0.0,place_of_birth
+ Harzung,0.0,0.0,0.0,53.4379858,12.9370816,0.0,place_of_birth
+ Sankt Posten,0.0,0.0,0.0,59.728387,10.246849,0.0,place_of_birth
+ Fallersleben,0.0,0.0,0.0,52.4190578,10.7187346,0.0,place_of_birth
+ Ohrdruf,0.0,0.0,0.0,50.8270085,10.7319499,0.0,place_of_birth
+ Lippstadt,0.0,0.0,0.0,51.6747074,8.347194,0.0,place_of_birth
+ Frankfurt am Main,0.0,0.0,0.0,50.1106444,8.6820917,0.0,place_of_birth
+ Leonberg,0.0,0.0,0.0,48.8012983,9.0150026,0.0,place_of_birth
+ Kratzau,0.0,0.0,0.0,50.8171929,14.9687813,0.0,place_of_birth
+ Langenstein,0.0,0.0,0.0,48.2512861,14.482099,0.0,place_of_birth
+ Gelsenkirchen,0.0,0.0,0.0,51.5110321,7.0960124,0.0,place_of_birth
+ Essen,0.0,0.0,0.0,51.4582235,7.0158171,0.0,place_of_birth
+ Braunschweig,0.0,0.0,0.0,52.2646577,10.5236066,0.0,place_of_birth
+ Dresden,0.0,0.0,0.0,51.0493286,13.7381437,0.0,place_of_birth
+ Studhof,0.0,0.0,0.0,47.5918847,8.31823308946117,0.0,place_of_birth
+ Dörnau,0.0,0.0,0.0,46.4353478,15.9548875,0.0,place_of_birth
+ Krasnow,0.0,0.0,0.0,52.0769444,20.1772222,0.0,place_of_birth
+ Parschnitz,0.0,0.0,0.0,50.5740424,15.949143,0.0,place_of_birth
+ Rochlitz,0.0,0.0,0.0,51.0456789,12.7990531,0.0,place_of_birth
+ Mehltauer,0.0,0.0,0.0,50.0938116,11.52353,0.0,place_of_birth
+ Guben,0.0,0.0,0.0,51.9503235,14.7153567,0.0,place_of_birth
+ Raguhn,0.0,0.0,0.0,51.708566950000005,12.29782471426285,0.0,place_of_birth
+ Nussberg,0.0,0.0,0.0,53.974488,22.1635477,0.0,place_of_birth
+ Thorn,0.0,0.0,0.0,53.0102721,18.6048094,0.0,place_of_birth
+ Olec,0.0,0.0,0.0,48.6620214,-3.6923803,0.0,place_of_birth
+ Wedell,0.0,0.0,0.0,52.9484,14.49651,0.0,place_of_birth
+ Regensdorf,0.0,0.0,0.0,47.4317645,8.4680435,0.0,place_of_birth
+ Zeitz,0.0,0.0,0.0,51.0491637,12.1349991,0.0,place_of_birth
+ Buna,0.0,0.0,0.0,43.2512561,17.8689728,0.0,place_of_birth
+ Bergen,0.0,0.0,0.0,60.3943055,5.3259192,0.0,place_of_birth
+ Strasshof,0.0,0.0,0.0,48.3189487,16.6429437,0.0,place_of_birth
+ München,0.0,0.0,0.0,48.1371079,11.5753822,0.0,place_of_birth
+ Gelenau,0.0,0.0,0.0,51.2548986,14.0713547,0.0,place_of_birth
+ Hohenelbe,0.0,0.0,0.0,50.6271452,15.6095779,0.0,place_of_birth
+ Mahlhof,0.0,0.0,0.0,47.5209123,12.327934,0.0,place_of_birth
+ Lubics,0.0,0.0,0.0,46.6179118,17.7606847,0.0,place_of_birth
+ Friedenswald,0.0,0.0,0.0,38.0738921,-92.7626273,0.0,place_of_birth
+ Prost,0.0,0.0,0.0,48.3357906,12.590252,0.0,place_of_birth
+ Horneburg,0.0,0.0,0.0,53.508793,9.577211,0.0,place_of_birth
+ Pforta,0.0,0.0,0.0,51.1423277,11.7517859,0.0,place_of_birth
+ Freiburg,0.0,0.0,0.0,47.9960901,7.8494005,0.0,place_of_birth
+ Breslau,0.0,0.0,0.0,51.1089776,17.0326689,0.0,place_of_birth
+ Hundsfeld,0.0,0.0,0.0,50.0633728,9.8717623,0.0,place_of_birth
+ május,0.0,0.0,0.0,47.5411734,19.1229543,0.0,place_of_birth
+ Gelsen,0.0,0.0,0.0,48.2133425,14.1077845,0.0,place_of_birth
+ Oberwüstegiersdorf,0.0,0.0,0.0,50.6679766,16.3755892,0.0,place_of_birth
+ Sonnenfeld,0.0,0.0,0.0,48.9563545,9.070101,0.0,place_of_birth
+ Kolditz,0.0,0.0,0.0,51.3506883,12.6765695,0.0,place_of_birth
+ Horneberg,0.0,0.0,0.0,47.3879698,7.7782972,0.0,place_of_birth
+ Mettenheim,0.0,0.0,0.0,49.7388606,8.3250304,0.0,place_of_birth
+ Buchberg,0.0,0.0,0.0,47.5726201,8.56076,0.0,place_of_birth
+ St. Posten,0.0,0.0,0.0,37.1576753,-92.947157,0.0,place_of_birth
+ Harka,0.0,0.0,0.0,47.6342337,16.602306,0.0,place_of_birth
+ Friedenthal,0.0,0.0,0.0,50.8978795,7.4707379,0.0,place_of_birth
+ Grünsberg,0.0,0.0,0.0,49.3722231,11.3246134,0.0,place_of_birth
+ Ovrucs,0.0,0.0,0.0,51.3259771,28.8026718,0.0,place_of_birth
+ Hidegség,0.0,0.0,0.0,47.6251989,16.7413826,0.0,place_of_birth
+ Kurszk,0.0,0.0,0.0,51.7309249,36.1923123,0.0,place_of_birth
+ Branau,0.0,0.0,0.0,50.0128746,13.8429121,0.0,place_of_birth
+ Rechnitz,0.0,0.0,0.0,47.3049404,16.4408807,0.0,place_of_birth
+ Sopron,0.0,0.0,0.0,47.6803063,16.5983457,0.0,place_of_birth
+ Győr,0.0,0.0,0.0,47.687609,17.6346815,0.0,place_of_birth
+ Schandorf,0.0,0.0,0.0,47.2428207,16.4212819,0.0,place_of_birth
+ Javozno,0.0,0.0,0.0,50.203439,19.2721559,0.0,place_of_birth
+ Blechhammer,0.0,0.0,0.0,50.6251017,11.1537574,0.0,place_of_birth
+ Bochum,0.0,0.0,0.0,51.4818111,7.2196635,0.0,place_of_birth
+ Grünberg,0.0,0.0,0.0,50.5913238,8.9603407,0.0,place_of_birth
+ Ragun,0.0,0.0,0.0,6.6579144,3.9903131,0.0,place_of_birth
+ Theresin,0.0,0.0,0.0,15.5588886,-88.0269352,0.0,place_of_birth
+ Trautenau,0.0,0.0,0.0,50.5608851,15.9130498,0.0,place_of_birth
+ Sachsenhaus,0.0,0.0,0.0,48.51747895,9.04220864246815,0.0,place_of_birth
+ Lieberose,0.0,0.0,0.0,51.9865536,14.2996945,0.0,place_of_birth
+ Zielitz,0.0,0.0,0.0,52.2884504,11.6752462,0.0,place_of_birth
+ Balf,0.0,0.0,0.0,47.6457018,16.6659604,0.0,place_of_birth
+ Türkheim,0.0,0.0,0.0,48.0878217,7.278011,0.0,place_of_birth
+ Brenner,0.0,0.0,0.0,47.0073993,11.5066996,0.0,place_of_birth
+ Vörder,0.0,0.0,0.0,49.9222389,14.1986542,0.0,place_of_birth
+ Gusen I.,0.0,0.0,0.0,48.2581303,14.46266,0.0,place_of_birth
+ Offenburg,0.0,0.0,0.0,48.4716556,7.944378,0.0,place_of_birth
+ Karwinkel,0.0,0.0,0.0,49.7851494,9.8826663,0.0,place_of_birth
+ Malchow,0.0,0.0,0.0,53.4775641,12.4245172,0.0,place_of_birth
+ Taucha,0.0,0.0,0.0,51.39240555,12.51287104658478,0.0,place_of_birth
+ Oster,0.0,0.0,0.0,43.0487175,-0.0129855,0.0,place_of_birth
+ Edemissen,0.0,0.0,0.0,52.387466,10.2590575,0.0,place_of_birth
+ Muttering,0.0,0.0,0.0,47.9674717,12.8495857,0.0,place_of_birth
+ Zwieberge,0.0,0.0,0.0,51.8510754,11.1051205,0.0,place_of_birth
+ Erlenbusch,0.0,0.0,0.0,51.0485388,7.300562,0.0,place_of_birth
+ Krahwinkel,0.0,0.0,0.0,50.8523257,7.2921146,0.0,place_of_birth
+ Stuthof,0.0,0.0,0.0,54.1663232,12.1724613,0.0,place_of_birth
+ Espenfeld,0.0,0.0,0.0,50.8097114,10.8957361,0.0,place_of_birth
+ Glewe,0.0,0.0,0.0,52.7374582,12.3234136,0.0,place_of_birth
+ Ansbach,0.0,0.0,0.0,49.3028611,10.5722288,0.0,place_of_birth
+ Fürth,0.0,0.0,0.0,49.4772475,10.9893626,0.0,place_of_birth
+ Peterswaldau,0.0,0.0,0.0,50.7124412,16.581609,0.0,place_of_birth
+ Holleschau,0.0,0.0,0.0,49.333718,17.5786751,0.0,place_of_birth
+ Brünn,0.0,0.0,0.0,49.1922443,16.6113382,0.0,place_of_birth
+ Mühldorf Waldlager,0.0,0.0,0.0,48.2373807,12.4304318,0.0,place_of_birth
+ Helmbrechts,0.0,0.0,0.0,50.2349797,11.7163126,0.0,place_of_birth
+ Vedel,0.0,0.0,0.0,43.9556019,0.8998927,0.0,place_of_birth
+ Minihof,0.0,0.0,0.0,48.5589779,12.8956136,0.0,place_of_birth
+ Henkel,0.0,0.0,0.0,41.6003104,-89.1736991,0.0,place_of_birth
+ Glogau,0.0,0.0,0.0,51.6636791,16.0935567,0.0,place_of_birth
+ Schönebeck,0.0,0.0,0.0,52.0205998,11.7383277,0.0,place_of_birth
+ Plastau,0.0,0.0,0.0,52.6602968,10.8530845,0.0,place_of_birth
+ St.Pölten,0.0,0.0,0.0,48.193315,15.619871498286466,0.0,place_of_birth
+ Schörzingen,0.0,0.0,0.0,48.1793267,8.7462709,0.0,place_of_birth
+ Harzburg,0.0,0.0,0.0,51.588694,10.757222,0.0,place_of_birth
+ Briesen,0.0,0.0,0.0,48.8053349,19.6409612,0.0,place_of_birth
+ Bisingen,0.0,0.0,0.0,48.3120203,8.9163672,0.0,place_of_birth
+ Poppendorf,0.0,0.0,0.0,54.1315304,12.2875185,0.0,place_of_birth
+ Glau,0.0,0.0,0.0,52.240396,13.1672203,0.0,place_of_birth
+ Passau,0.0,0.0,0.0,48.5748229,13.4609744,0.0,place_of_birth
+ Augsburg,0.0,0.0,0.0,48.3668041,10.8986971,0.0,place_of_birth
+ Schönholz,0.0,0.0,0.0,52.5715004,13.3809904,0.0,place_of_birth
+ Reinickendorf,0.0,0.0,0.0,52.6047631,13.2952872,0.0,place_of_birth
+ Wöbbelin,0.0,0.0,0.0,53.4000924,11.5017107,0.0,place_of_birth
+ Zwodau,0.0,0.0,0.0,50.192255,12.6250425,0.0,place_of_birth
+ Markleberg,0.0,0.0,0.0,51.2785751,12.3718819,0.0,place_of_birth
+ Radebeul,0.0,0.0,0.0,51.0999765,13.6767995,0.0,place_of_birth
+ Argenau,0.0,0.0,0.0,52.894429,18.4066817,0.0,place_of_birth
+ Torn,0.0,0.0,0.0,53.0145361,18.59658314465156,0.0,place_of_birth
+ Wurzen,0.0,0.0,0.0,51.37138245,12.748182292058097,0.0,place_of_birth
+ Plőn,0.0,0.0,0.0,54.24611515,10.413274327272728,0.0,place_of_birth
+ Lorenzkirche,0.0,0.0,0.0,49.4509469,11.0777299,0.0,place_of_birth
+ Germendorf,0.0,0.0,0.0,52.74617185,13.167708793066906,0.0,place_of_birth
+ Lautlingen,0.0,0.0,0.0,48.2155175,8.9595871,0.0,place_of_birth
+ Hersbruck,0.0,0.0,0.0,49.5085843,11.4285065,0.0,place_of_birth
+ Siegendorf,0.0,0.0,0.0,47.7803088,16.5414018,0.0,place_of_birth
+ Aschersleben,0.0,0.0,0.0,51.7559549,11.462134,0.0,place_of_birth
+ Berga am Elster,0.0,0.0,0.0,50.7524427,12.163341109608908,0.0,place_of_birth
+ Seefeld,0.0,0.0,0.0,47.3289241,11.1867187,0.0,place_of_birth
+ Ludwigslust,0.0,0.0,0.0,53.3300229,11.4993644,0.0,place_of_birth
+ Rehmsdorf,0.0,0.0,0.0,51.0596768,12.2161979,0.0,place_of_birth
+ Thorne,0.0,0.0,0.0,45.7457775,-76.426058501174,0.0,place_of_birth
+ Krone,0.0,0.0,0.0,46.8756268,10.2319967,0.0,place_of_birth
+ Posta,0.0,0.0,0.0,42.5235514,13.0960137,0.0,place_of_birth
+ Westfalica,0.0,0.0,0.0,58.8364277,57.5555018,0.0,place_of_birth
